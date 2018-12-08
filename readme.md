@@ -11,24 +11,24 @@ Samples: n= 3 aposymbiotic and n= 3 symbiotic Anthopleura elegantissima hosting 
 
 Step 1: Sequence DNA using Oxford Nanopore Ligation Sequencing Kit and 3 MinION flow cells (2 sea anemones multiplexed per flow cell, expected data output ~8 gb per flow cell, approx. 10x genome coverage per anemone).
 
-Step 2: Sequence RNA using Oxford Nanopore cDNA-PCR Sequencing Kit and 2 MinION flow cells (3 sea anemones multiplexed per flow cell, expected data output ~8 gb per flow cell, approx. 6-10 million reads per flow cell).
+Step 2: Sequence RNA using Oxford Nanopore cDNA-PCR Sequencing Kit and 3 MinION flow cells (2 sea anemones multiplexed per flow cell, expected data output ~8 gb per flow cell, approx. 6-10 million reads per flow cell).
 
-Step 3: Generate A. elegantissima draft genome (Canu).
+Step 3: Generate A. elegantissima draft genome.
 
-Step 4: Generate list of target symbiosis-influenced genes (~100-200 genes) identified in previous studies and map to the genome to identify introns and exons and develop gene models. Use these gene models as reference for further mapping.
+Step 4: Generate list of target symbiosis-influenced genes identified in previous studies and map to the genome to identify introns and exons and develop gene models. Use these gene models as reference for further mapping.
 
 Step 5: Map cDNA reads to gene models to identify alt splicing.
 
 Step 6: Map DNA reads to gene models and call methylation using nanopolish.  
 
 
-## Library preparation
+## Library preparation and sequencing
 
-DNA libraries were prepared according to the [Oxford Nanopore Ligation Sequencing with Native Barcoding protocol](./1D-Native-barcoding-genomic-DNA-with-EXP-NBD103-and-SQK-LSK109.pdf). Libraries were sequenced in duplex (two barcoded samples per library) on three FLO-MIN106 MinION flow cells. Additionally, one asymbiotic specimen was also prepared according to the [Oxford Nanopore Rapid Sequencing protocol](./rapid-sequencing-sqk-rad004-RSE_9046_v1_revB_17Nov2017.pdf). Libraries were sequenced on two FLO-MIN106 MinION flow cells.
+DNA libraries were prepared according to the [Oxford Nanopore Ligation Sequencing with Native Barcoding protocol](./1D-Native-barcoding-genomic-DNA-with-EXP-NBD103-and-SQK-LSK109.pdf). Libraries were sequenced in duplex (two barcoded samples per library) on three FLO-MIN106 MinION flow cells. Additionally, one asymbiotic specimen was also prepared according to the [Oxford Nanopore Rapid Sequencing protocol](./rapid-sequencing-sqk-rad004-RSE_9046_v1_revB_17Nov2017.pdf). Libraries were sequenced on two FLO-MIN106 MinION flow cells. The data produced from the Rapid Sequencing libraries were used only for genome assembly and not methylation analysis.
 
-poly-A mRNA libraries were prepared according to the [Oxford Nanopore cDNA PCR Barcoding protocol](./cDNA-PCR-Barcoding-SQK-PCS108-with-SQK-PBK004.pdf). Libraries were sequenced in duplex (two barcoded samples per library) on three FLO-MIN106 MinION flow cells.
+Poly-A mRNA libraries were prepared according to the [Oxford Nanopore cDNA PCR Barcoding protocol](./cDNA-PCR-Barcoding-SQK-PCS108-with-SQK-PBK004.pdf). Libraries were sequenced in duplex (two barcoded samples per library) on three FLO-MIN106 MinION flow cells.
 
-## Assembly 
+## Genome assembly 
 
 
 
