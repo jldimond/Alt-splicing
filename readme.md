@@ -24,7 +24,9 @@ Step 6: Map DNA reads to gene models and call methylation using nanopolish.
 
 ## Library preparation
 
+DNA libraries were prepared according to the [Oxford Nanopore Ligation Sequencing with Native Barcoding protocol](./1D-Native-barcoding-genomic-DNA-with-EXP-NBD103-and-SQK-LSK109.pdf). Libraries were sequenced in duplex (two barcoded samples per library) on three FLO-MIN106 MinION flow cells. Additionally, one asymbiotic specimen was also prepared according to the [Oxford Nanopore Rapid Sequencing protocol](./rapid-sequencing-sqk-rad004-RSE_9046_v1_revB_17Nov2017.pdf). Libraries were sequenced on two FLO-MIN106 MinION flow cells.
 
+poly-A mRNA libraries were prepared according to the [Oxford Nanopore cDNA PCR Barcoding protocol](./cDNA-PCR-Barcoding-SQK-PCS108-with-SQK-PBK004.pdf). Libraries were sequenced in duplex (two barcoded samples per library) on three FLO-MIN106 MinION flow cells.
 
 ## Assembly 
 
