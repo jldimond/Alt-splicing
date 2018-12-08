@@ -3,7 +3,7 @@
 
 Symbiosis with dinoflagellates and other algae is widespread among cnidarians such as corals and sea anemones. Symbiosis in these organisms is associated with physiological changes that are in turn driven by changes in gene expression. Recent studies have also identified changes in DNA methylation patterns that may be driven by symbiosis. While it is still unclear exactly how methylation may influence gene expression, there is support for a role of DNA methylation in alternative mRNA splicing shown in other systems. This project will test the hypothesis that the symbiotic phenotype is associated with differential DNA methylation and alternative splicing. The project will leverage the full length mRNA reads and sensitivity to base modifications possible using nanopore sequencing.
 
-Samples: n= 3 aposymbiotic and n= 3 symbiotic Anthopleura elegantissima hosting the chlorophyte Elliptochloris marina. Specimens were collected within ~10 cm of each other on the underside of a boulder, and likely represent a single clone. Specimens were flash frozen within one hour of collection. This choice of samples should minimize environmental and genetic effects.
+Samples: n= 3 aposymbiotic and n= 3 symbiotic _Anthopleura elegantissima_ hosting the chlorophyte _Elliptochloris marina_. Specimens were collected within ~10 cm of each other on the underside of a boulder, and likely represent a single clone. Specimens were flash frozen within one hour of collection. This choice of samples should minimize environmental and genetic effects.
 
 ![_Anthopleura_](./images/titleimage.png)
 
@@ -28,9 +28,10 @@ DNA libraries were prepared according to the [Oxford Nanopore Ligation Sequencin
 
 Poly-A mRNA libraries were prepared according to the [Oxford Nanopore cDNA PCR Barcoding protocol](./cDNA-PCR-Barcoding-SQK-PCS108-with-SQK-PBK004.pdf). Libraries were sequenced in duplex (two barcoded samples per library) on three FLO-MIN106 MinION flow cells.
 
+
 ## Genome assembly 
 
-
+A draft _A. elegantissima_ genome was generated using [wtdbg2](https://github.com/ruanjue/wtdbg2). The draft genome comprises 243 Mb, including 5359 contigs with an N50 of 87 kb and N90 of 19.2 kb. 
 
 ## Analysis 
 
