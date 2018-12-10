@@ -6,3 +6,11 @@ data/Aele_transcriptome_v1.fasta.nog
 data/Aele_transcriptome_v1.fasta.nsd
 data/Aele_transcriptome_v1.fasta.nsi
 data/Aele_transcriptome_v1.fasta.nsq
+data/wtdbg2_genome/Ae.ctg.lay.fa
+data/wtdbg2_genome/Ae.ctg.lay.fa.amb
+data/wtdbg2_genome/Ae.ctg.lay.fa.ann
+data/wtdbg2_genome/Ae.ctg.lay.fa.bwt
+data/wtdbg2_genome/Ae.ctg.lay.fa.fai
+data/wtdbg2_genome/Ae.ctg.lay.fa.pac
+data/wtdbg2_genome/Ae.ctg.lay.fa.sa
+analyses/sym_seqs_map.sam
