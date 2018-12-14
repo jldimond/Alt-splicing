@@ -14,3 +14,9 @@ data/wtdbg2_genome/Ae.ctg.lay.fa.fai
 data/wtdbg2_genome/Ae.ctg.lay.fa.pac
 data/wtdbg2_genome/Ae.ctg.lay.fa.sa
 analyses/sym_seqs_map.sam
+data/aiptasia_genome.gff3
+data/aiptasia_genome.mRNA.fa
+data/aiptasia_genome.scaffolds.fa
+data/aiptasia_genome.annot.tsv
+data/aiptasia.embl
+data/embl/aiptasia.embl

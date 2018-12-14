@@ -1,0 +1,600 @@
+AIPGENE17046_gene	-0.510	0.000	K05656	ABC transporter	Swiss-Prot	sp	Q54BU4	ABCB1_DICDI			
+AIPGENE21283_gene	-0.289	-0.005	K01990	ABC transporter	Swiss-Prot	sp	Q8T6J1	ABCA6_DICDI			
+AIPGENE7390_gene	-0.595	0.020	K05681	ABC transporter	Swiss-Prot	sp	Q9FT51	AB27G_ARATH			
+AIPGENE11378_gene	#N/A	0.000	K05692	actin	Swiss-Prot	sp	P41112	ACT1_PODCA			
+AIPGENE12775_gene	-0.098	0.016	K05692	actin	Swiss-Prot	sp	P12716	ACTC_PISOC			
+AIPGENE12816_gene	0.118	#N/A	K05692	actin	Swiss-Prot	sp	P15475	ACTB_XENBO			
+AIPGENE21682_gene	0.012	-0.237	K05692	actin	Swiss-Prot	sp	P02576	ACTA_PHYPO			
+AIPGENE7998_gene	-0.607	0.000	K05692	actin	Swiss-Prot	sp	P12716	ACTC_PISOC			
+AIPGENE8252_gene	-0.218	#N/A	K05692	actin	Swiss-Prot	sp	Q964E3	ACTC_BIOAL			
+AIPGENE9142_gene	-0.277	#N/A	K05692	actin	Swiss-Prot	sp	P12716	ACTC_PISOC			
+AIPGENE9147_gene	-0.142	#N/A	K05692	actin	Swiss-Prot	sp	P12716	ACTC_PISOC			
+AIPGENE26699_gene	#N/A	0.000	K04456	AKT	Swiss-Prot	sp	Q9WUA6	AKT3_MOUSE			
+AIPGENE26713_gene	-0.060	0.000	K04456	AKT	Swiss-Prot	sp	Q9WUA6	AKT3_MOUSE			
+AIPGENE27094_gene	#N/A	-0.161	K04456	AKT	Swiss-Prot	sp	P54644	KRAC_DICDI			
+AIPGENE27095_gene	0.039	#N/A	K04456	AKT	Swiss-Prot	sp	P54644	KRAC_DICDI			
+AIPGENE17161_gene	#N/A	0.000	K00002	Alcohol dehydrogenase	Swiss-Prot	sp	Q6AZW2	A1A1A_DANRE			
+AIPGENE7325_gene	#N/A	0.000	K00121	Alcohol dehydrogenase	Swiss-Prot	sp	P81431	ADHX_OCTVU			
+AIPGENE7330_gene	0.497	0.000	K00121	Alcohol dehydrogenase	Swiss-Prot	sp	P79896	ADHX_SPAAU			
+AIPGENE12727_gene	0.401	0.000	K00128	Aldehyde dehydrogenase	Swiss-Prot	sp	P47739	AL3A1_MOUSE			
+AIPGENE19640_gene	0.737	#N/A	K00128	Aldehyde dehydrogenase	Swiss-Prot	sp	P43353	AL3B1_HUMAN			
+AIPGENE20178_gene	-0.010	0.000	K00149	aldehyde dehydrogenase	Swiss-Prot	sp	P56533	BADH_GADMC			
+AIPGENE21328_gene	#N/A	#N/A	K00128	Aldehyde dehydrogenase	Swiss-Prot	sp	A6QR56	A16A1_BOVIN			
+AIPGENE21594_gene	0.321	0.000	K00128	Aldehyde dehydrogenase	Swiss-Prot	sp	P43353	AL3B1_HUMAN			
+AIPGENE21619_gene	1.252	#N/A	K00128	Aldehyde dehydrogenase	Swiss-Prot	sp	P43353	AL3B1_HUMAN			
+AIPGENE4046_gene	-0.068	0.000	K00128	Aldehyde dehydrogenase	Swiss-Prot	sp	P11884	ALDH2_RAT			
+AIPGENE4852_gene	0.226	#N/A	K00128	Aldehyde dehydrogenase	Swiss-Prot	sp	P47738	ALDH2_MOUSE			
+AIPGENE6251_gene	-1.675	0.000	K14085	aldehyde dehydrogenase	Swiss-Prot	sp	Q2KJC9	AL7A1_BOVIN			
+AIPGENE9559_gene	0.227	#N/A	K00128	aldehyde dehydrogenase	Swiss-Prot	sp	Q60HH8	AL3A2_MACFA			
+AIPGENE11622_gene	0.212	#N/A	K14209	amino acid transporter	Swiss-Prot	sp	Q4KL91	S36A4_XENLA			
+AIPGENE12073_gene	-0.868	#N/A	K13871	amino acid transporter	Swiss-Prot	sp	Q8TBB6	S7A14_HUMAN			
+AIPGENE1217_gene	#N/A	#N/A	K13868	amino acid transporter	Swiss-Prot	sp	P82251	BAT1_HUMAN			
+AIPGENE12599_gene	0.222	#N/A	"K03294,K13865,K13866"	amino acid transporter	Swiss-Prot	sp	O08812	CTR3_RAT			
+AIPGENE12721_gene	0.468	#N/A	K14994	amino acid transporter	Swiss-Prot	sp	Q6JWR2	S38A7_RAT			
+AIPGENE12811_gene	-0.778	#N/A	"K13864,K13866"	amino acid transporter	Swiss-Prot	sp	P52569	CTR2_HUMAN			
+AIPGENE1289_gene	-0.108	#N/A	K13868	amino acid transporter	Swiss-Prot	sp	Q9QXA6	BAT1_MOUSE			
+AIPGENE13806_gene	0.757	#N/A	K13868	amino acid transporter	Swiss-Prot	sp	Q9QXA6	BAT1_MOUSE			
+AIPGENE14604_gene	0.086	0.000	"K05048,K05334"	amino acid transporter	Swiss-Prot	sp	Q2A865	S6A19_RAT			
+AIPGENE15008_gene	1.062	0.000	K13868	amino acid transporter	Swiss-Prot	sp	Q9QXA6	BAT1_MOUSE			
+AIPGENE15974_gene	0.233	#N/A	K13868	amino acid transporter	Swiss-Prot	sp	Q9QXA6	BAT1_MOUSE			
+AIPGENE15984_gene	0.245	0.000	"K03294,K13868"	amino acid transporter	Swiss-Prot	sp	Q9QXA6	BAT1_MOUSE			
+AIPGENE15992_gene	0.194	#N/A	K13868	amino acid transporter	Swiss-Prot	sp	P82251	BAT1_HUMAN			
+AIPGENE1606_gene	-0.673	0.148	K14994	amino acid transporter	Swiss-Prot	sp	Q6DEL1	S38A7_DANRE			
+AIPGENE16434_gene	0.197	-0.025	K13868	amino acid transporter	Swiss-Prot	sp	P82251	BAT1_HUMAN			
+AIPGENE16442_gene	0.469	-0.043	K05048	amino acid transporter	Swiss-Prot	sp	O88576	S6A18_MOUSE			
+AIPGENE16473_gene	-0.016	#N/A	K13868	amino acid transporter	Swiss-Prot	sp	Q9QXA6	BAT1_MOUSE			
+AIPGENE16474_gene	0.602	#N/A	K13868	amino acid transporter	Swiss-Prot	sp	Q9N1R6	BAT1_RABIT			
+AIPGENE16478_gene	-0.205	#N/A	K13868	amino acid transporter	Swiss-Prot	sp	Q9QXA6	BAT1_MOUSE			
+AIPGENE1716_gene	0.223	0.000	K13868	amino acid transporter	Swiss-Prot	sp	Q9QXA6	BAT1_MOUSE			
+AIPGENE18280_gene	-0.809	#N/A	K14995	amino acid transporter	Swiss-Prot	sp	Q3B8Q3	S38A9_RAT			
+AIPGENE20556_gene	-1.472	0.000	K14996	amino acid transporter	Swiss-Prot	sp	Q5I012	S38AA_MOUSE			
+AIPGENE21587_gene	0.411	#N/A	K14994	amino acid transporter	Swiss-Prot	sp	Q6DEL1	S38A7_DANRE			
+AIPGENE22324_gene	0.048	-0.321	K13864	amino acid transporter	Swiss-Prot	sp	P52569	CTR2_HUMAN			
+AIPGENE22385_gene	-0.565	#N/A	"K13863,K13865"	amino acid transporter	Swiss-Prot	sp	Q09143	CTR1_MOUSE			
+AIPGENE230_gene	-0.119	0.039	K14209	amino acid transporter	Swiss-Prot	sp	Q4KL91	S36A4_XENLA			
+AIPGENE23310_gene	0.063	0.000	K14209	amino acid transporter	Swiss-Prot	sp	Q7Z2H8	S36A1_HUMAN			
+AIPGENE26436_gene	-0.050	0.000	"K05048,K05334"	amino acid transporter	Swiss-Prot	sp	P31662	S6A17_RAT			
+AIPGENE26438_gene	1.521	0.000	K05048	amino acid transporter	Swiss-Prot	sp	O88576	S6A18_MOUSE			
+AIPGENE26678_gene	0.375	#N/A	"K13867,K13869"	amino acid transporter	Swiss-Prot	sp	Q9UM01	YLAT1_HUMAN			
+AIPGENE26706_gene	0.469	#N/A	K13868	amino acid transporter	Swiss-Prot	sp	Q9QXA6	BAT1_MOUSE			
+AIPGENE27350_gene	0.864	0.010	K14209	amino acid transporter	Swiss-Prot	sp	Q7Z2H8	S36A1_HUMAN			
+AIPGENE27557_gene	0.482	-0.138	K05048	amino acid transporter	Swiss-Prot	sp	Q9XS59	S6A15_BOVIN			
+AIPGENE27564_gene	-0.043	#N/A	K05048	amino acid transporter	Swiss-Prot	sp	Q8BJI1	S6A17_MOUSE			
+AIPGENE28401_gene	0.032	0.000	"K14207,K14992,K14993"	amino acid transporter	Swiss-Prot	sp	Q8IZM9	S38A6_HUMAN			
+AIPGENE28459_gene	-0.489	#N/A	K14995	amino acid transporter	Swiss-Prot	sp	Q6DFK0	S38A9_XENLA			
+AIPGENE9151_gene	-0.750	#N/A	"K13863,K13866"	amino acid transporter	Swiss-Prot	sp	P30825	CTR1_HUMAN			
+AIPGENE9290_gene	-3.283	#N/A	K13866	amino acid transporter	Swiss-Prot	sp	B3TP03	CTR2_CHICK			
+AIPGENE13241_gene	0.458	#N/A	K06580	Ammonium transporter	Swiss-Prot	sp	Q8JI14	RHCL2_DANRE			
+AIPGENE13242_gene	0.300	#N/A	K06580	Ammonium transporter	Swiss-Prot	sp	Q19KI0	RHCG_PIG			
+AIPGENE15200_gene	0.511	#N/A	K03320	ammonium transporter	Swiss-Prot	sp	Q21565	AMT3_CAEEL			
+AIPGENE16631_gene	-0.212	#N/A	K03320	ammonium transporter	Swiss-Prot	sp	Q21565	AMT3_CAEEL			
+AIPGENE16683_gene	-0.663	#N/A	K03320	ammonium transporter	Swiss-Prot	sp	Q21565	AMT3_CAEEL			
+AIPGENE17420_gene	2.110	#N/A	K03320	ammonium transporter	Swiss-Prot	sp	P54145	AMT1_CAEEL			
+AIPGENE17421_gene	2.154	#N/A	K03320	ammonium transporter	Swiss-Prot	sp	P54145	AMT1_CAEEL			
+AIPGENE18105_gene	4.336	#N/A	K06580	Ammonium transporter	Swiss-Prot	sp	Q7T070	RHBG_DANRE			
+AIPGENE18106_gene	#N/A	#N/A	K06580	Ammonium transporter	Swiss-Prot	sp	Q19KI0	RHCG_PIG			
+AIPGENE18108_gene	2.508	#N/A	K06580	Ammonium transporter	Swiss-Prot	sp	Q19KH7	RHCG_GASAC			
+AIPGENE7282_gene	-0.382	0.000	K06580	Ammonium transporter	Swiss-Prot	sp	Q7T070	RHBG_DANRE			
+AIPGENE8321_gene	-0.572	0.095	K03320	Ammonium transporter	Swiss-Prot	sp	Q9BLG4	AMT1_DICDI			
+AIPGENE7917_gene	0.567	#N/A	K09876	Aquaporin 3 (glycerol)	Swiss-Prot	sp	A9Y006	AQP3_PIG			
+AIPGENE7920_gene	-0.066	#N/A	"K03441,K09876"	Aquaporin 3 (glycerol)	Swiss-Prot	sp	A9Y006	AQP3_PIG			
+AIPGENE11890_gene	-1.728	0.000	K01476	Arginase	Swiss-Prot	sp	Q61176	ARGI1_MOUSE			
+AIPGENE18086_gene	#N/A	0.012	K17888	ATG10	Swiss-Prot	sp	Q9H0Y0	ATG10_HUMAN			
+AIPGENE18087_gene	0.829	#N/A	K17888	ATG10	Swiss-Prot	sp	Q9H0Y0	ATG10_HUMAN			
+AIPGENE27187_gene	-0.272	#N/A	K17890	ATG16	Swiss-Prot	sp	Q8C0J2	A16L1_MOUSE			
+AIPGENE626_gene	0.191	#N/A	K17890	ATG16	Swiss-Prot	sp	Q8C0J2	A16L1_MOUSE			
+AIPGENE12432_gene	0.099	-0.053	K08339	ATG5	Swiss-Prot	sp	Q99J83	ATG5_MOUSE			
+AIPGENE12921_gene	0.179	#N/A	K02161	BCL2	Swiss-Prot	sp	P70345	B2CL2_MOUSE			
+AIPGENE12986_gene	0.796	#N/A	"K02161,K04570"	BCL2	Swiss-Prot	sp	Q07817	B2CL1_HUMAN			
+AIPGENE13043_gene	-1.029	0.000	K04570	BCL2	Swiss-Prot	sp	P53563	B2CL1_RAT			
+AIPGENE17601_gene	2.533	0.000	K04570	BCL2	Swiss-Prot	sp	Q91827	AR1_XENLA			
+AIPGENE27763_gene	-0.081	-0.157	K02161	BCL2	Swiss-Prot	sp	P49950	BCL2_RAT			
+AIPGENE4512_gene	#N/A	0.000	K02161	BCL2	Swiss-Prot	sp	Q92843	B2CL2_HUMAN			
+AIPGENE6604_gene	-0.123	#N/A	K04570	BCL2	Swiss-Prot	sp	Q9I8I2	BOK_CHICK			
+AIPGENE10264_gene	0.285	#N/A	K06560	C-type lectin	Swiss-Prot	sp	Q9UBG0	MRC2_HUMAN			
+AIPGENE11521_gene	#N/A	#N/A	K06563	C-type lectin	Swiss-Prot	sp	Q8MIS5	209L2_MACMU			
+AIPGENE13682_gene	-1.235	#N/A	K06560	C-type lectin	Swiss-Prot	sp	Q28062	PGCB_BOVIN			
+AIPGENE14671_gene	-0.711	#N/A	K06563	C-type lectin	Swiss-Prot	sp	P13611	CSPG2_HUMAN			
+AIPGENE17153_gene	-1.010	#N/A	K06560	C-type lectin	Swiss-Prot	sp	Q61830	MRC1_MOUSE			
+AIPGENE17171_gene	#N/A	#N/A	K06563	C-type lectin	Swiss-Prot	sp	Q90953	CSPG2_CHICK			
+AIPGENE17207_gene	#N/A	#N/A	K06563	C-type lectin	Swiss-Prot	sp	Q91ZW8	C209D_MOUSE			
+AIPGENE17873_gene	-0.286	#N/A	K06560	C-type lectin	Swiss-Prot	sp	D2YVH7	LECM_OXYSU			
+AIPGENE1799_gene	1.204	#N/A	"K06560,K06563"	C-type lectin	Swiss-Prot	sp	Q61830	MRC1_MOUSE			
+AIPGENE18024_gene	1.783	#N/A	K06560	C-type lectin	Swiss-Prot	sp	Q13018	PLA2R_HUMAN			
+AIPGENE21362_gene	#N/A	#N/A	K06560	C-type lectin	Swiss-Prot	sp	Q4TU93	MRC2_RAT			
+AIPGENE2158_gene	0.516	#N/A	K06560	C-type lectin	Swiss-Prot	sp	Q64449	MRC2_MOUSE			
+AIPGENE23599_gene	0.093	#N/A	K06560	C-type lectin	Swiss-Prot	sp	Q9PVW8	SAL_SILAS			
+AIPGENE23635_gene	0.790	#N/A	K06560	C-type lectin	Swiss-Prot	sp	Q4TU93	MRC2_RAT			
+AIPGENE23656_gene	2.183	#N/A	K06560	C-type lectin	Swiss-Prot	sp	Q4TU93	MRC2_RAT			
+AIPGENE23657_gene	1.499	#N/A	K06560	C-type lectin	Swiss-Prot	sp	Q9UBG0	MRC2_HUMAN			
+AIPGENE24234_gene	-0.110	#N/A	K06560	C-type lectin	Swiss-Prot	sp	Q9NZT2	OGFR_HUMAN			
+AIPGENE2489_gene	#N/A	#N/A	K06560	C-type lectin	Swiss-Prot	sp	O00339	MATN2_HUMAN			
+AIPGENE321_gene	-0.224	#N/A	K06560	C-type lectin	TrEMBL	tr	A7RGE1	A7RGE1_NEMVE			
+AIPGENE331_gene	0.512	#N/A	K06560	C-type lectin	Swiss-Prot	sp	P22897	MRC1_HUMAN			
+AIPGENE339_gene	0.344	#N/A	K06560	C-type lectin	Swiss-Prot	sp	Q61361	PGCB_MOUSE			
+AIPGENE355_gene	0.345	#N/A	K06560	C-type lectin	Swiss-Prot	sp	Q61830	MRC1_MOUSE			
+AIPGENE365_gene	0.008	-0.103	K06560	C-type lectin	Swiss-Prot	sp	Q9UBG0	MRC2_HUMAN			
+AIPGENE6211_gene	0.073	#N/A	K06560	C-type lectin	Swiss-Prot	sp	Q64449	MRC2_MOUSE			
+AIPGENE6835_gene	-0.713	#N/A	K06560	C-type lectin	TrEMBL	tr	W5KIJ5	W5KIJ5_ASTMX			
+AIPGENE8526_gene	-0.345	#N/A	K06560	C-type lectin	Swiss-Prot	sp	Q90WI7	LECM2_BUNFA			
+AIPGENE8527_gene	#N/A	#N/A	K06560	C-type lectin	Swiss-Prot	sp	Q90WI7	LECM2_BUNFA			
+AIPGENE8541_gene	0.026	#N/A	K06560	C-type lectin	Swiss-Prot	sp	A7X3X8	LECM5_PSEPL			
+AIPGENE8649_gene	1.321	0.000	K06563	C-type lectin	Swiss-Prot	sp	Q91ZW7	C209E_MOUSE			
+AIPGENE8793_gene	#N/A	#N/A	K06560	C-type lectin	Swiss-Prot	sp	P06734	FCER2_HUMAN			
+AIPGENE9109_gene	#N/A	0.441	K06560	C-type lectin	Swiss-Prot	sp	Q4PRC8	SL5_DABSI			
+AIPGENE9848_gene	0.110	#N/A	K06560	C-type lectin	Swiss-Prot	sp	Q13018	PLA2R_HUMAN			
+AIPGENE17838_gene	0.560	0.000	K11540	CAD	Swiss-Prot	sp	Q91437	PYR1_SQUAC			
+AIPGENE7636_gene	0.229	0.000	K11540	CAD	Swiss-Prot	sp	P05990	PYR1_DROME			
+AIPGENE7706_gene	0.967	#N/A	K11540	CAD	Swiss-Prot	sp	Q91437	PYR1_SQUAC			
+AIPGENE10420_gene	0.061	0.000	K01672	Carbonic anhydrase	Swiss-Prot	sp	Q9ERQ8	CAH7_MOUSE			
+AIPGENE15469_gene	0.294	#N/A	K01672	Carbonic anhydrase	Swiss-Prot	sp	P43166	CAH7_HUMAN			
+AIPGENE19694_gene	-0.415	#N/A	K18245	Carbonic anhydrase	Swiss-Prot	sp	Q8UWA5	CAH2_TRIHK			
+AIPGENE19710_gene	-0.493	#N/A	K18245	Carbonic anhydrase	Swiss-Prot	sp	P61215	CAH10_MOUSE			
+AIPGENE19720_gene	0.044	#N/A	K18245	Carbonic anhydrase	Swiss-Prot	sp	Q8UWA5	CAH2_TRIHK			
+AIPGENE19737_gene	-0.782	#N/A	K01672	Carbonic anhydrase	Swiss-Prot	sp	Q8UWA5	CAH2_TRIHK			
+AIPGENE25795_gene	#N/A	0.000	K01673	Carbonic anhydrase	Swiss-Prot	sp	Q22460	BCA1_CAEEL			
+AIPGENE2901_gene	-0.494	0.312	"K18245,K18246"	Carbonic anhydrase	Swiss-Prot	sp	Q8UWA5	CAH2_TRIHK			
+AIPGENE2960_gene	0.597	#N/A	"K01672,K18245"	Carbonic anhydrase	Swiss-Prot	sp	P27139	CAH2_RAT			
+AIPGENE5302_gene	-1.704	#N/A	K18245	Carbonic anhydrase	Swiss-Prot	sp	Q8UWA5	CAH2_TRIHK			
+AIPGENE10739_gene	0.247	0.041	K04397	CASP7	Swiss-Prot	sp	P97864	CASP7_MOUSE			
+AIPGENE14128_gene	0.242	0.000	K04397	CASP7	Swiss-Prot	sp	P55214	CASP7_MESAU			
+AIPGENE23622_gene	0.046	#N/A	K04397	CASP7	Swiss-Prot	sp	Q8MJC3	CASP3_RABIT			
+AIPGENE23681_gene	0.540	#N/A	K04397	CASP7	Swiss-Prot	sp	P97864	CASP7_MOUSE			
+AIPGENE3163_gene	-1.928	#N/A	K04397	CASP7	Swiss-Prot	sp	P55210	CASP7_HUMAN			
+AIPGENE14799_gene	#N/A	#N/A	K04398	CASP8	Swiss-Prot	sp	O89110	CASP8_MOUSE			
+AIPGENE14801_gene	#N/A	#N/A	K04398	CASP8	Swiss-Prot	sp	O89110	CASP8_MOUSE			
+AIPGENE23198_gene	-0.100	0.037	K04398	CASP8	Swiss-Prot	sp	O89110	CASP8_MOUSE			
+AIPGENE23427_gene	0.083	#N/A	K04398	CASP8	Swiss-Prot	sp	O89110	CASP8_MOUSE			
+AIPGENE23674_gene	0.003	#N/A	K04398	CASP8	Swiss-Prot	sp	O89110	CASP8_MOUSE			
+AIPGENE23680_gene	0.824	0.517	K04398	CASP8	Swiss-Prot	sp	P55215	CASP2_RAT			
+AIPGENE25743_gene	#N/A	0.000	K04398	CASP8	Swiss-Prot	sp	O89110	CASP8_MOUSE			
+AIPGENE25744_gene	#N/A	#N/A	K04398	CASP8	Swiss-Prot	sp	O89110	CASP8_MOUSE			
+AIPGENE6873_gene	#N/A	#N/A	K04398	CASP8	Swiss-Prot	sp	Q8MJC3	CASP3_RABIT			
+AIPGENE26155_gene	#N/A	0.154	K01365	Cathepsin	Swiss-Prot	sp	Q26636	CATL_SARPE			
+AIPGENE26156_gene	0.115	#N/A	K01365	Cathepsin	Swiss-Prot	sp	Q26636	CATL_SARPE			
+AIPGENE26157_gene	#N/A	#N/A	K01365	Cathepsin	Swiss-Prot	sp	Q26636	CATL_SARPE			
+AIPGENE6003_gene	0.035	0.000	K01365	Cathepsin	Swiss-Prot	sp	Q95029	CATL_DROME			
+AIPGENE1298_gene	1.058	#N/A	K06497	CD63	Swiss-Prot	sp	Q76B49	CD63_FELCA			
+AIPGENE13897_gene	-0.202	0.000	K06497	CD63	Swiss-Prot	sp	P08962	CD63_HUMAN			
+AIPGENE26486_gene	#N/A	#N/A	K06497	CD63	TrEMBL	tr	A7RXD6	A7RXD6_NEMVE			
+AIPGENE3832_gene	-0.125	0.000	K06497	CD63	Swiss-Prot	sp	P41731	CD63_MOUSE			
+AIPGENE3839_gene	-0.132	#N/A	K06497	CD63	Swiss-Prot	sp	P28648	CD63_RAT			
+AIPGENE3866_gene	0.279	0.000	K06497	CD63	Swiss-Prot	sp	Q28709	CD63_RABIT			
+AIPGENE3868_gene	-0.300	#N/A	K06497	CD63	Swiss-Prot	sp	Q76B49	CD63_FELCA			
+AIPGENE3869_gene	-0.007	#N/A	K06497	CD63	Swiss-Prot	sp	P28648	CD63_RAT			
+AIPGENE3899_gene	#N/A	0.000	K06497	CD63	Swiss-Prot	sp	P28648	CD63_RAT			
+AIPGENE10250_gene	0.142	#N/A	K06238	collagen	Swiss-Prot	sp	A6NMZ7	CO6A6_HUMAN			
+AIPGENE10284_gene	#N/A	#N/A	K06238	collagen	Swiss-Prot	sp	P15989	CO6A3_CHICK			
+AIPGENE10288_gene	#N/A	0.378	K08133	collagen	Swiss-Prot	sp	P15989	CO6A3_CHICK			
+AIPGENE10292_gene	0.125	0.000	K06238	collagen	Swiss-Prot	sp	A6NMZ7	CO6A6_HUMAN			
+AIPGENE10422_gene	0.092	0.084	"K06236,K06237"	collagen	Swiss-Prot	sp	P08120	CO4A1_DROME			
+AIPGENE10546_gene	0.467	0.009	K06237	collagen	Swiss-Prot	sp	P27393	CO4A2_ASCSU			
+AIPGENE11113_gene	-1.578	#N/A	"K06236,K06237"	collagen	Swiss-Prot	sp	Q17RW2	COOA1_HUMAN			
+AIPGENE11118_gene	0.637	#N/A	"K06237,K08132"	collagen	Swiss-Prot	sp	P02462	CO4A1_HUMAN			
+AIPGENE11184_gene	-0.916	#N/A	K16628	collagen	Swiss-Prot	sp	Q63870	CO7A1_MOUSE			
+AIPGENE11223_gene	-0.382	#N/A	K06236	collagen	Swiss-Prot	sp	P13941	CO3A1_RAT			
+AIPGENE11224_gene	-0.286	#N/A	K06236	collagen	Swiss-Prot	sp	P13941	CO3A1_RAT			
+AIPGENE11587_gene	-0.614	#N/A	K16630	collagen	Swiss-Prot	sp	Q8NFW1	COMA1_HUMAN			
+AIPGENE11778_gene	0.128	#N/A	K08132	collagen	Swiss-Prot	sp	Q99715	COCA1_HUMAN			
+AIPGENE12122_gene	-0.289	#N/A	K06236	collagen	Swiss-Prot	sp	P02459	CO2A1_BOVIN			
+AIPGENE12342_gene	#N/A	#N/A	K06238	collagen	Swiss-Prot	sp	P12111	CO6A3_HUMAN			
+AIPGENE12346_gene	-0.101	#N/A	K06238	collagen	Swiss-Prot	sp	A6NMZ7	CO6A6_HUMAN			
+AIPGENE12347_gene	0.372	#N/A	K06238	collagen	Swiss-Prot	sp	A6NMZ7	CO6A6_HUMAN			
+AIPGENE12357_gene	0.077	#N/A	K08132	collagen	Swiss-Prot	sp	P13944	COCA1_CHICK			
+AIPGENE12361_gene	2.535	#N/A	K06238	collagen	Swiss-Prot	sp	A6NMZ7	CO6A6_HUMAN			
+AIPGENE12362_gene	#N/A	#N/A	K06238	collagen	Swiss-Prot	sp	A6NMZ7	CO6A6_HUMAN			
+AIPGENE13930_gene	-0.308	#N/A	K06238	collagen	Swiss-Prot	sp	Q02788	CO6A2_MOUSE			
+AIPGENE14130_gene	0.146	#N/A	"K06236,K16629"	collagen	Swiss-Prot	sp	Q96P44	COLA1_HUMAN			
+AIPGENE14208_gene	0.363	#N/A	K08133	collagen	Swiss-Prot	sp	Q80X19	COEA1_MOUSE			
+AIPGENE14299_gene	-1.293	#N/A	K08132	collagen	Swiss-Prot	sp	Q99715	COCA1_HUMAN			
+AIPGENE14423_gene	0.408	#N/A	K16628	collagen	Swiss-Prot	sp	Q63870	CO7A1_MOUSE			
+AIPGENE1487_gene	#N/A	#N/A	K19479	collagen	Swiss-Prot	sp	Q05306	COAA1_MOUSE			
+AIPGENE15079_gene	#N/A	#N/A	K16630	collagen	Swiss-Prot	sp	Q8NFW1	COMA1_HUMAN			
+AIPGENE15085_gene	-0.945	#N/A	K06238	collagen	Swiss-Prot	sp	A2AX52	CO6A4_MOUSE			
+AIPGENE15090_gene	-0.744	#N/A	K06238	collagen	Swiss-Prot	sp	A2AX52	CO6A4_MOUSE			
+AIPGENE15103_gene	#N/A	#N/A	K16628	collagen	Swiss-Prot	sp	Q02388	CO7A1_HUMAN			
+AIPGENE15109_gene	-1.525	#N/A	K06238	collagen	Swiss-Prot	sp	A6H584	CO6A5_MOUSE			
+AIPGENE15110_gene	#N/A	#N/A	K06237	collagen	Swiss-Prot	sp	P08120	CO4A1_DROME			
+AIPGENE15131_gene	0.459	#N/A	"K06238,K16628"	collagen	Swiss-Prot	sp	Q5UNS9	COLL7_MIMIV			
+AIPGENE15733_gene	-1.143	0.000	K08132	collagen	Swiss-Prot	sp	Q99715	COCA1_HUMAN			
+AIPGENE15821_gene	0.122	#N/A	"K08132,K08133"	collagen	Swiss-Prot	sp	Q99715	COCA1_HUMAN			
+AIPGENE16099_gene	0.683	#N/A	K06238	collagen	Swiss-Prot	sp	P15989	CO6A3_CHICK			
+AIPGENE16998_gene	#N/A	#N/A	K08131	collagen	Swiss-Prot	sp	P18503	CAS4_EPHMU			
+AIPGENE17079_gene	#N/A	#N/A	K06237	collagen	Swiss-Prot	sp	P18503	CAS4_EPHMU			
+AIPGENE17391_gene	0.182	#N/A	"K06236,K16629"	collagen	Swiss-Prot	sp	Q96P44	COLA1_HUMAN			
+AIPGENE17766_gene	#N/A	#N/A	K06238	collagen	Swiss-Prot	sp	A6NMZ7	CO6A6_HUMAN			
+AIPGENE17767_gene	-0.519	#N/A	K06238	collagen	Swiss-Prot	sp	O43854	EDIL3_HUMAN			
+AIPGENE18534_gene	-0.115	0.478	K06236	collagen	Swiss-Prot	sp	P02466	CO1A2_RAT			
+AIPGENE18867_gene	0.023	#N/A	K06236	collagen	Swiss-Prot	sp	P0C862	C1T9A_HUMAN			
+AIPGENE19050_gene	-0.887	#N/A	"K06236,K16629"	collagen	Swiss-Prot	sp	Q641F3	COLA1_XENLA			
+AIPGENE19358_gene	-0.264	#N/A	K08132	collagen	Swiss-Prot	sp	P13944	COCA1_CHICK			
+AIPGENE20335_gene	-0.411	#N/A	K06236	collagen	Swiss-Prot	sp	Q5QNQ9	CORA1_MOUSE			
+AIPGENE20425_gene	-0.449	#N/A	K08132	collagen	Swiss-Prot	sp	Q60847	COCA1_MOUSE			
+AIPGENE20438_gene	-0.145	#N/A	K16628	collagen	Swiss-Prot	sp	Q02388	CO7A1_HUMAN			
+AIPGENE20542_gene	-1.714	#N/A	K06237	collagen	Swiss-Prot	sp	P18503	CAS4_EPHMU			
+AIPGENE20627_gene	#N/A	#N/A	K06238	collagen	Swiss-Prot	sp	P12111	CO6A3_HUMAN			
+AIPGENE20628_gene	0.560	0.029	K06238	collagen	Swiss-Prot	sp	A2AX52	CO6A4_MOUSE			
+AIPGENE20690_gene	0.113	#N/A	K06238	collagen	Swiss-Prot	sp	A6H584	CO6A5_MOUSE			
+AIPGENE20721_gene	#N/A	#N/A	K08132	collagen	Swiss-Prot	sp	Q99715	COCA1_HUMAN			
+AIPGENE20984_gene	-1.279	0.219	"K06236,K06238"	collagen	Swiss-Prot	sp	Q801S8	CO6A1_XENLA			
+AIPGENE21103_gene	-2.185	#N/A	"K06238,K08131"	collagen	Swiss-Prot	sp	Q04857	CO6A1_MOUSE			
+AIPGENE22178_gene	-0.799	#N/A	K06238	collagen	Swiss-Prot	sp	A6NMZ7	CO6A6_HUMAN			
+AIPGENE22179_gene	#N/A	#N/A	K06238	collagen	Swiss-Prot	sp	A6NMZ7	CO6A6_HUMAN			
+AIPGENE22180_gene	0.767	#N/A	K06238	collagen	Swiss-Prot	sp	A6NMZ7	CO6A6_HUMAN			
+AIPGENE22181_gene	#N/A	#N/A	K06238	collagen	Swiss-Prot	sp	A6NMZ7	CO6A6_HUMAN			
+AIPGENE22258_gene	-0.583	#N/A	K06238	collagen	Swiss-Prot	sp	P12111	CO6A3_HUMAN			
+AIPGENE22531_gene	0.326	0.069	K06238	collagen	Swiss-Prot	sp	A2AX52	CO6A4_MOUSE			
+AIPGENE22671_gene	-0.321	0.000	K08132	collagen	Swiss-Prot	sp	Q60847	COCA1_MOUSE			
+AIPGENE22688_gene	0.164	#N/A	K06238	collagen	Swiss-Prot	sp	P12111	CO6A3_HUMAN			
+AIPGENE23222_gene	0.101	#N/A	K06238	collagen	Swiss-Prot	sp	A6NMZ7	CO6A6_HUMAN			
+AIPGENE23625_gene	#N/A	#N/A	"K06238,K16628"	collagen	Swiss-Prot	sp	Q02388	CO7A1_HUMAN			
+AIPGENE23626_gene	-0.433	#N/A	"K06238,K16628"	collagen	Swiss-Prot	sp	Q02388	CO7A1_HUMAN			
+AIPGENE23663_gene	0.107	#N/A	K07603	collagen	Swiss-Prot	sp	Q9UMD9	COHA1_HUMAN			
+AIPGENE23814_gene	#N/A	#N/A	K06236	collagen	Swiss-Prot	sp	A0MSJ1	CRA1B_DANRE			
+AIPGENE23815_gene	-0.652	#N/A	K06236	collagen	Swiss-Prot	sp	A0MSJ1	CRA1B_DANRE			
+AIPGENE23822_gene	-0.624	#N/A	K19479	collagen	Swiss-Prot	sp	P23206	COAA1_BOVIN			
+AIPGENE2433_gene	#N/A	#N/A	K06238	collagen	Swiss-Prot	sp	O42401	MATN3_CHICK			
+AIPGENE24337_gene	0.264	#N/A	K08132	collagen	Swiss-Prot	sp	P13944	COCA1_CHICK			
+AIPGENE25153_gene	#N/A	#N/A	"K06238,K08133"	collagen	Swiss-Prot	sp	A6H584	CO6A5_MOUSE			
+AIPGENE25170_gene	0.203	#N/A	K06236	collagen	Swiss-Prot	sp	O42350	CO1A2_LITCT			
+AIPGENE25182_gene	#N/A	#N/A	K06236	collagen	Swiss-Prot	sp	A0MSJ1	CRA1B_DANRE			
+AIPGENE25188_gene	0.263	#N/A	K08132	collagen	Swiss-Prot	sp	Q60847	COCA1_MOUSE			
+AIPGENE25189_gene	0.316	0.384	K06236	collagen	Swiss-Prot	sp	O42350	CO1A2_LITCT			
+AIPGENE25192_gene	0.553	0.406	K06236	collagen	Swiss-Prot	sp	Q17RW2	COOA1_HUMAN			
+AIPGENE25193_gene	#N/A	#N/A	K06236	collagen	Swiss-Prot	sp	P02466	CO1A2_RAT			
+AIPGENE25206_gene	-0.077	-0.355	K06237	collagen	Swiss-Prot	sp	Q23628	LON3_CAEEL			
+AIPGENE25209_gene	0.313	#N/A	K08132	collagen	Swiss-Prot	sp	Q60847	COCA1_MOUSE			
+AIPGENE25210_gene	#N/A	#N/A	K08132	collagen	Swiss-Prot	sp	Q60847	COCA1_MOUSE			
+AIPGENE25624_gene	-0.929	#N/A	K16630	collagen	Swiss-Prot	sp	Q8NFW1	COMA1_HUMAN			
+AIPGENE25863_gene	0.324	#N/A	K06236	collagen	Swiss-Prot	sp	A0MSJ1	CRA1B_DANRE			
+AIPGENE25893_gene	0.066	#N/A	K06236	collagen	Swiss-Prot	sp	A0MSJ1	CRA1B_DANRE			
+AIPGENE26098_gene	-0.690	0.000	K19479	collagen	Swiss-Prot	sp	Q03692	COAA1_HUMAN			
+AIPGENE26654_gene	0.988	#N/A	"K06238,K16628"	collagen	Swiss-Prot	sp	Q5UNS9	COLL7_MIMIV			
+AIPGENE27343_gene	0.283	#N/A	K06238	collagen	Swiss-Prot	sp	A2AX52	CO6A4_MOUSE			
+AIPGENE27577_gene	-0.684	#N/A	K08133	collagen	Swiss-Prot	sp	P32018	COEA1_CHICK			
+AIPGENE27781_gene	-0.480	#N/A	K06238	collagen	Swiss-Prot	sp	O42163	COCH_CHICK			
+AIPGENE28039_gene	-0.263	-0.029	K08283	collagen	Swiss-Prot	sp	Q6VVX2	C43BP_CRIGR			
+AIPGENE28392_gene	0.668	#N/A	"K06236,K06823"	collagen	Swiss-Prot	sp	Q5UQ13	COLL2_MIMIV			
+AIPGENE28393_gene	#N/A	#N/A	"K06237,K06823"	collagen	Swiss-Prot	sp	Q5UQ13	COLL2_MIMIV			
+AIPGENE3186_gene	#N/A	#N/A	K06238	collagen	Swiss-Prot	sp	A8TX70	CO6A5_HUMAN			
+AIPGENE3187_gene	-0.014	#N/A	K06238	collagen	Swiss-Prot	sp	A8TX70	CO6A5_HUMAN			
+AIPGENE3546_gene	-0.208	#N/A	K07603	collagen	Swiss-Prot	sp	Q9UMD9	COHA1_HUMAN			
+AIPGENE4259_gene	#N/A	#N/A	K06238	collagen	Swiss-Prot	sp	A2AX52	CO6A4_MOUSE			
+AIPGENE4457_gene	0.170	#N/A	K06238	collagen	Swiss-Prot	sp	O42401	MATN3_CHICK			
+AIPGENE4458_gene	#N/A	#N/A	K16628	collagen	Swiss-Prot	sp	Q63870	CO7A1_MOUSE			
+AIPGENE4459_gene	#N/A	#N/A	K16628	collagen	Swiss-Prot	sp	Q63870	CO7A1_MOUSE			
+AIPGENE4528_gene	0.363	#N/A	"K06238,K08132"	collagen	Swiss-Prot	sp	Q60847	COCA1_MOUSE			
+AIPGENE4549_gene	1.236	#N/A	K06238	collagen	Swiss-Prot	sp	A6H584	CO6A5_MOUSE			
+AIPGENE4804_gene	-0.833	#N/A	K06236	collagen	Swiss-Prot	sp	Q3U962	CO5A2_MOUSE			
+AIPGENE5458_gene	0.156	#N/A	K16630	collagen	Swiss-Prot	sp	Q8NFW1	COMA1_HUMAN			
+AIPGENE5466_gene	#N/A	#N/A	"K08132,K16630"	collagen	Swiss-Prot	sp	Q99715	COCA1_HUMAN			
+AIPGENE5467_gene	#N/A	#N/A	"K08132,K16630"	collagen	Swiss-Prot	sp	Q99715	COCA1_HUMAN			
+AIPGENE5608_gene	0.935	0.332	K06236	collagen	Swiss-Prot	sp	Q5UQ13	COLL2_MIMIV			
+AIPGENE6101_gene	-0.014	#N/A	K07603	collagen	Swiss-Prot	sp	A6QPB3	COHA1_BOVIN			
+AIPGENE6806_gene	0.810	0.000	K06238	collagen	Swiss-Prot	sp	A8TX70	CO6A5_HUMAN			
+AIPGENE6812_gene	-0.708	#N/A	K06238	collagen	Swiss-Prot	sp	Q28833	VWF_PIG			
+AIPGENE6825_gene	0.640	#N/A	K06238	collagen	Swiss-Prot	sp	Q8C6K9	CO6A6_MOUSE			
+AIPGENE7543_gene	0.136	0.000	K06236	collagen	Swiss-Prot	sp	Q30D77	COOA1_MOUSE			
+AIPGENE7716_gene	-0.015	#N/A	"K06238,K16628"	collagen	Swiss-Prot	sp	P12111	CO6A3_HUMAN			
+AIPGENE8036_gene	-0.104	#N/A	K08132	collagen	Swiss-Prot	sp	P15989	CO6A3_CHICK			
+AIPGENE8273_gene	0.291	-0.066	K16628	collagen	Swiss-Prot	sp	Q5UNS9	COLL7_MIMIV			
+AIPGENE8376_gene	0.540	0.486	K06236	collagen	Swiss-Prot	sp	P02466	CO1A2_RAT			
+AIPGENE861_gene	#N/A	#N/A	K06238	collagen	Swiss-Prot	sp	A6H584	CO6A5_MOUSE			
+AIPGENE9036_gene	-0.500	0.044	K06238	collagen	Swiss-Prot	sp	A2AX52	CO6A4_MOUSE			
+AIPGENE9144_gene	#N/A	#N/A	K08132	collagen	Swiss-Prot	sp	Q80X19	COEA1_MOUSE			
+AIPGENE9155_gene	-0.115	0.000	"K06238,K08132"	collagen	Swiss-Prot	sp	Q99715	COCA1_HUMAN			
+AIPGENE9156_gene	-0.166	#N/A	"K06238,K08132"	collagen	Swiss-Prot	sp	Q99715	COCA1_HUMAN			
+AIPGENE9157_gene	#N/A	#N/A	"K06238,K08132"	collagen	Swiss-Prot	sp	Q99715	COCA1_HUMAN			
+AIPGENE9367_gene	-1.095	#N/A	K06236	collagen	TrEMBL	tr	C3ZKC1	C3ZKC1_BRAFL			
+AIPGENE25697_gene	-0.744	#N/A	K10068	Complement receptor	Swiss-Prot	sp	A2AX52	CO6A4_MOUSE			
+AIPGENE28157_gene	-0.931	#N/A	K10062	Complement receptor	Swiss-Prot	sp	Q2LK54	COL12_CHICK			
+AIPGENE11186_gene	-1.035	#N/A	K01948	CPS1	Swiss-Prot	sp	P31327	CPSM_HUMAN			
+AIPGENE1161_gene	0.119	0.000	K10416	dynein	Swiss-Prot	sp	Q4R5P6	DC1L2_MACFA			
+AIPGENE12546_gene	0.016	0.000	K10415	dynein	Swiss-Prot	sp	Q0III3	DC1I2_BOVIN			
+AIPGENE16201_gene	0.317	0.013	K10413	dynein	Swiss-Prot	sp	P37276	DYHC_DROME			
+AIPGENE23302_gene	#N/A	#N/A	K10413	dynein	Swiss-Prot	sp	Q9P2D7	DYH1_HUMAN			
+AIPGENE23309_gene	0.477	#N/A	K10414	dynein	Swiss-Prot	sp	Q8NCM8	DYHC2_HUMAN			
+AIPGENE23360_gene	#N/A	#N/A	K10414	dynein	Swiss-Prot	sp	Q27802	DYHC2_TRIGR			
+AIPGENE23378_gene	0.467	0.108	K10414	dynein	Swiss-Prot	sp	Q27802	DYHC2_TRIGR			
+AIPGENE23386_gene	#N/A	#N/A	K10414	dynein	Swiss-Prot	sp	Q27802	DYHC2_TRIGR			
+AIPGENE25424_gene	0.360	#N/A	K10414	dynein	Swiss-Prot	sp	Q27802	DYHC2_TRIGR			
+AIPGENE27451_gene	1.893	0.000	K10413	dynein	Swiss-Prot	sp	Q9JHU4	DYHC1_MOUSE			
+AIPGENE4969_gene	0.326	#N/A	K10414	dynein	Swiss-Prot	sp	Q27802	DYHC2_TRIGR			
+AIPGENE7005_gene	0.216	#N/A	K10414	dynein	Swiss-Prot	sp	Q8NCM8	DYHC2_HUMAN			
+AIPGENE9207_gene	0.344	#N/A	K10414	dynein	Swiss-Prot	sp	Q27802	DYHC2_TRIGR			
+AIPGENE10124_gene	#N/A	0.000	K10415	dynein	Swiss-Prot	sp	Q0III3	DC1I2_BOVIN			
+AIPGENE12054_gene	0.066	#N/A	K07299	Glucose transporter	Swiss-Prot	sp	P13355	GTR1_RABIT			
+AIPGENE12082_gene	-0.228	0.000	"K07299,K08142"	Glucose transporter	Swiss-Prot	sp	Q8IRI6	GTR1_DROME			
+AIPGENE12097_gene	0.313	0.071	K07299	Glucose transporter	Swiss-Prot	sp	P27674	GTR1_BOVIN			
+AIPGENE24026_gene	-0.592	0.063	K07299	Glucose transporter	Swiss-Prot	sp	P79365	GTR1_SHEEP			
+AIPGENE27618_gene	2.392	0.000	K00262	Glutamate dehydrogenase	Swiss-Prot	sp	P94598	DHE3_BACTN			
+AIPGENE3776_gene	-2.019	-0.150	K00262	Glutamate dehydrogenase	Swiss-Prot	sp	P94598	DHE3_BACTN			
+AIPGENE26077_gene	-1.523	0.000	K00261	Glutamate dehydrogenase	Swiss-Prot	sp	P82264	DHE3_CHAAC			
+AIPGENE26078_gene	#N/A	#N/A	K00264	glutamate synthase	Swiss-Prot	sp	Q9C102	GLT1_SCHPO			
+AIPGENE26763_gene	#N/A	#N/A	K00264	glutamate synthase	Swiss-Prot	sp	Q9C102	GLT1_SCHPO			
+AIPGENE11175_gene	1.005	-0.200	K01915	Glutamine synthetase	Swiss-Prot	sp	P15105	GLNA_MOUSE			
+AIPGENE14484_gene	-0.377	#N/A	K06585	integrin	Swiss-Prot	sp	Q13797	ITA9_HUMAN			
+AIPGENE15997_gene	0.470	#N/A	K05719	integrin	Swiss-Prot	sp	Q61292	LAMB2_MOUSE			
+AIPGENE17012_gene	#N/A	0.937	K05719	integrin	Swiss-Prot	sp	Q61292	LAMB2_MOUSE			
+AIPGENE19159_gene	-2.015	0.096	K05719	integrin	Swiss-Prot	sp	Q16363	LAMA4_HUMAN			
+AIPGENE21255_gene	#N/A	#N/A	K06584	integrin	Swiss-Prot	sp	A2ARA8	ITA8_MOUSE			
+AIPGENE21256_gene	#N/A	0.000	"K06483,K06756"	integrin	Swiss-Prot	sp	Q00651	ITA4_MOUSE			
+AIPGENE2368_gene	#N/A	#N/A	"K06483,K06756"	integrin	Swiss-Prot	sp	Q00651	ITA4_MOUSE			
+AIPGENE23790_gene	-0.130	#N/A	K05719	integrin	Swiss-Prot	sp	A0JP86	LAMC1_XENTR			
+AIPGENE2380_gene	0.398	0.062	"K05719,K06589"	integrin	Swiss-Prot	sp	Q1RPR6	ITB6_PIG			
+AIPGENE2381_gene	-2.380	0.045	K05719	integrin	Swiss-Prot	sp	A0JP86	LAMC1_XENTR			
+AIPGENE24439_gene	#N/A	#N/A	K05719	integrin	Swiss-Prot	sp	A0JP86	LAMC1_XENTR			
+AIPGENE5806_gene	0.399	#N/A	K05719	integrin	Swiss-Prot	sp	A0JP86	LAMC1_XENTR			
+AIPGENE5861_gene	0.421	0.000	K05719	integrin	Swiss-Prot	sp	P11584	ITBX_DROME			
+AIPGENE6165_gene	0.501	0.000	"K06464,K06486,K06490,K06514,K06523,K06567,K06769"	integrin	Swiss-Prot	sp	Q3UV74	ITB2L_MOUSE			
+AIPGENE8440_gene	0.433	0.000	"K02151,K06487,K06584"	integrin	Swiss-Prot	sp	A2ARA8	ITA8_MOUSE			
+AIPGENE8470_gene	0.143	0.000	"K06482,K06485"	integrin	Swiss-Prot	sp	P26007	ITA6_CHICK			
+AIPGENE12715_gene	0.557	#N/A	K05719	integrin	Swiss-Prot	sp	Q61292	LAMB2_MOUSE			
+AIPGENE21711_gene	0.152	#N/A	K10396	Kinesin	Swiss-Prot	sp	P28738	KIF5C_MOUSE			
+AIPGENE21712_gene	#N/A	0.000	K10396	Kinesin	Swiss-Prot	sp	P21613	KINH_DORPE			
+AIPGENE27861_gene	-0.111	#N/A	K10396	Kinesin	Swiss-Prot	sp	P21613	KINH_DORPE			
+AIPGENE7166_gene	-0.053	0.056	K10396	Kinesin	Swiss-Prot	sp	O60282	KIF5C_HUMAN			
+AIPGENE7167_gene	#N/A	0.047	K10396	Kinesin	Swiss-Prot	sp	Q02224	CENPE_HUMAN			
+AIPGENE7170_gene	0.147	#N/A	K10396	Kinesin	Swiss-Prot	sp	Q02224	CENPE_HUMAN			
+AIPGENE7171_gene	#N/A	#N/A	K10396	Kinesin	Swiss-Prot	sp	Q9FZ06	ARK3_ARATH			
+AIPGENE27192_gene	#N/A	#N/A	K10396	Kinesin	Swiss-Prot	sp	Q9FZ06	ARK3_ARATH			
+AIPGENE27242_gene	#N/A	-0.025	K06528	LAMP	Swiss-Prot	sp	P05300	LAMP1_CHICK			
+AIPGENE11861_gene	0.054	0.010	K06528	LAMP	Swiss-Prot	sp	Q05204	LAMP1_BOVIN			
+AIPGENE11862_gene	#N/A	0.177	K16491	lipid transfer protein	Swiss-Prot	sp	Q9P2P6	STAR9_HUMAN			
+AIPGENE18788_gene	1.297	#N/A	K16491	lipid transfer protein	Swiss-Prot	sp	Q9P2P6	STAR9_HUMAN			
+AIPGENE19794_gene	-0.304	0.000	K08051	lipid transfer protein	Swiss-Prot	sp	B0YN54	GLTP_PANTR			
+AIPGENE23053_gene	-0.284	0.000	K08764	lipid transfer protein	Swiss-Prot	sp	O62742	NLTP_RABIT			
+AIPGENE17108_gene	0.289	0.000	K08764	lipid transfer protein	Swiss-Prot	sp	P11915	NLTP_RAT			
+AIPGENE13622_gene	0.045	-0.028	K12387	Lysosomal-associated transmembrane protein	Swiss-Prot	sp	Q5U1W4	LAP4B_RAT			
+AIPGENE19847_gene	-1.075	#N/A	K09624	Macrophage scavenger	Swiss-Prot	sp	P21758	MSRE_BOVIN			
+AIPGENE1016_gene	0.696	0.040	K09624	Macrophage scavenger	Swiss-Prot	sp	Q05585	MSRE_RABIT			
+AIPGENE10845_gene	0.312	#N/A	K08190	Monocarboxylate transporter	Swiss-Prot	sp	Q7RTX9	MOT14_HUMAN			
+AIPGENE11807_gene	0.294	#N/A	"K08187,K08231"	Monocarboxylate transporter	Swiss-Prot	sp	A1L1W9	MOT10_DANRE			
+AIPGENE11808_gene	#N/A	#N/A	K08187	Monocarboxylate transporter	Swiss-Prot	sp	Q91Y77	MOT10_RAT			
+AIPGENE11823_gene	-0.023	#N/A	K08187	Monocarboxylate transporter	Swiss-Prot	sp	Q91Y77	MOT10_RAT			
+AIPGENE1249_gene	#N/A	0.000	K08231	Monocarboxylate transporter	Swiss-Prot	sp	P36021	MOT8_HUMAN			
+AIPGENE1268_gene	#N/A	#N/A	"K08180,K08186"	Monocarboxylate transporter	Swiss-Prot	sp	Q5ZJU0	MOT9_CHICK			
+AIPGENE1375_gene	-0.425	#N/A	K08181	Monocarboxylate transporter	Swiss-Prot	sp	Q8R0M8	MOT5_MOUSE			
+AIPGENE13778_gene	#N/A	#N/A	K08180	Monocarboxylate transporter	Swiss-Prot	sp	Q503M4	MT12B_DANRE			
+AIPGENE14188_gene	-0.661	#N/A	"K08182,K08189"	Monocarboxylate transporter	Swiss-Prot	sp	Q7RTY0	MOT13_HUMAN			
+AIPGENE14417_gene	0.857	#N/A	"K08186,K08190"	Monocarboxylate transporter	Swiss-Prot	sp	Q7RTX9	MOT14_HUMAN			
+AIPGENE15449_gene	0.560	#N/A	"K08187,K11810"	Monocarboxylate transporter	Swiss-Prot	sp	Q6P2X9	MOT12_XENTR			
+AIPGENE15492_gene	0.375	#N/A	K08181	Monocarboxylate transporter	Swiss-Prot	sp	O15374	MOT5_HUMAN			
+AIPGENE1625_gene	-0.521	#N/A	"K08183,K08187"	Monocarboxylate transporter	Swiss-Prot	sp	A1L1W9	MOT10_DANRE			
+AIPGENE17220_gene	#N/A	#N/A	K08187	Monocarboxylate transporter	Swiss-Prot	sp	A1L1W9	MOT10_DANRE			
+AIPGENE17221_gene	-2.290	#N/A	K08187	Monocarboxylate transporter	Swiss-Prot	sp	A1L1W9	MOT10_DANRE			
+AIPGENE17352_gene	#N/A	#N/A	K08187	Monocarboxylate transporter	Swiss-Prot	sp	A1L1W9	MOT10_DANRE			
+AIPGENE17430_gene	-0.589	#N/A	"K08182,K08190"	Monocarboxylate transporter	Swiss-Prot	sp	Q7RTX9	MOT14_HUMAN			
+AIPGENE18211_gene	#N/A	#N/A	K08187	Monocarboxylate transporter	Swiss-Prot	sp	Q91Y77	MOT10_RAT			
+AIPGENE18875_gene	0.007	0.569	K08187	Monocarboxylate transporter	Swiss-Prot	sp	A1L1W9	MOT10_DANRE			
+AIPGENE18876_gene	0.751	0.038	"K08180,K08185"	Monocarboxylate transporter	Swiss-Prot	sp	Q90632	MOT3_CHICK			
+AIPGENE1928_gene	#N/A	#N/A	"K08180,K08185"	Monocarboxylate transporter	Swiss-Prot	sp	Q90632	MOT3_CHICK			
+AIPGENE20345_gene	1.784	#N/A	K08187	Monocarboxylate transporter	Swiss-Prot	sp	Q3U9N9	MOT10_MOUSE			
+AIPGENE20346_gene	-0.265	#N/A	K08187	Monocarboxylate transporter	Swiss-Prot	sp	A1L1W9	MOT10_DANRE			
+AIPGENE20347_gene	#N/A	#N/A	K08187	Monocarboxylate transporter	Swiss-Prot	sp	A1L1W9	MOT10_DANRE			
+AIPGENE2143_gene	#N/A	#N/A	K08187	Monocarboxylate transporter	Swiss-Prot	sp	A1L1W9	MOT10_DANRE			
+AIPGENE22079_gene	-0.621	0.084	K08187	Monocarboxylate transporter	Swiss-Prot	sp	A1L1W9	MOT10_DANRE			
+AIPGENE22080_gene	-0.501	-0.048	"K08187,K08231"	Monocarboxylate transporter	Swiss-Prot	sp	A1L1W9	MOT10_DANRE			
+AIPGENE22081_gene	#N/A	#N/A	K08187	Monocarboxylate transporter	Swiss-Prot	sp	A1L1W9	MOT10_DANRE			
+AIPGENE23367_gene	#N/A	#N/A	"K08187,K08231"	Monocarboxylate transporter	Swiss-Prot	sp	A1L1W9	MOT10_DANRE			
+AIPGENE25402_gene	#N/A	0.000	K11810	Monocarboxylate transporter	Swiss-Prot	sp	Q8BGC3	MOT12_MOUSE			
+AIPGENE26075_gene	-0.311	#N/A	"K08187,K11810"	Monocarboxylate transporter	Swiss-Prot	sp	Q6GM59	MOT12_XENLA			
+AIPGENE27319_gene	#N/A	0.028	K08187	Monocarboxylate transporter	Swiss-Prot	sp	A1L1W9	MOT10_DANRE			
+AIPGENE27388_gene	-0.488	#N/A	"K08187,K11810"	Monocarboxylate transporter	Swiss-Prot	sp	Q6P2X9	MOT12_XENTR			
+AIPGENE28001_gene	-0.395	-0.101	"K08180,K08187"	Monocarboxylate transporter	Swiss-Prot	sp	A1L1W9	MOT10_DANRE			
+AIPGENE28297_gene	-1.084	#N/A	K08187	Monocarboxylate transporter	Swiss-Prot	sp	O70461	MOT3_RAT			
+AIPGENE2903_gene	0.607	0.053	K08187	Monocarboxylate transporter	Swiss-Prot	sp	Q3U9N9	MOT10_MOUSE			
+AIPGENE2911_gene	#N/A	#N/A	K08187	Monocarboxylate transporter	Swiss-Prot	sp	Q91Y77	MOT10_RAT			
+AIPGENE2965_gene	0.604	#N/A	"K08187,K08189"	Monocarboxylate transporter	Swiss-Prot	sp	A1L1W9	MOT10_DANRE			
+AIPGENE2999_gene	0.243	0.127	"K08180,K08187"	Monocarboxylate transporter	Swiss-Prot	sp	P57788	MOT4_CHICK			
+AIPGENE3051_gene	0.207	0.000	"K08184,K08187"	Monocarboxylate transporter	Swiss-Prot	sp	Q91Y77	MOT10_RAT			
+AIPGENE3117_gene	-0.611	#N/A	K08231	Monocarboxylate transporter	Swiss-Prot	sp	Q8K1P8	MOT8_RAT			
+AIPGENE3148_gene	-1.117	#N/A	"K08179,K08185"	Monocarboxylate transporter	Swiss-Prot	sp	Q90632	MOT3_CHICK			
+AIPGENE3158_gene	#N/A	#N/A	"K08181,K08231"	Monocarboxylate transporter	Swiss-Prot	sp	Q8R0M8	MOT5_MOUSE			
+AIPGENE3164_gene	-0.784	#N/A	K08231	Monocarboxylate transporter	Swiss-Prot	sp	Q8K1P8	MOT8_RAT			
+AIPGENE3241_gene	#N/A	#N/A	K08190	Monocarboxylate transporter	Swiss-Prot	sp	Q8K1C7	MOT14_MOUSE			
+AIPGENE3385_gene	-0.432	#N/A	"K08180,K08185"	Monocarboxylate transporter	Swiss-Prot	sp	Q90632	MOT3_CHICK			
+AIPGENE3410_gene	0.870	0.000	K08187	Monocarboxylate transporter	Swiss-Prot	sp	A1L1W9	MOT10_DANRE			
+AIPGENE3427_gene	-0.180	#N/A	K08187	Monocarboxylate transporter	Swiss-Prot	sp	A1L1W9	MOT10_DANRE			
+AIPGENE6363_gene	-0.215	#N/A	K08187	Monocarboxylate transporter	Swiss-Prot	sp	A1L1W9	MOT10_DANRE			
+AIPGENE6374_gene	3.475	#N/A	"K08185,K08187"	Monocarboxylate transporter	Swiss-Prot	sp	O35308	MOT3_MOUSE			
+AIPGENE9432_gene	0.389	#N/A	"K08187,K08231"	Monocarboxylate transporter	Swiss-Prot	sp	Q8K1P8	MOT8_RAT			
+AIPGENE8848_gene	#N/A	#N/A	K08187	Monocarboxylate transporter	Swiss-Prot	sp	Q91Y77	MOT10_RAT			
+AIPGENE12129_gene	-0.238	0.000	K02580	NFKB	Swiss-Prot	sp	P19838	NFKB1_HUMAN			
+AIPGENE12171_gene	#N/A	-0.448	K13240	NOS - Nitric oxide synthase	Swiss-Prot	sp	Q9Z0J4	NOS1_MOUSE			
+AIPGENE12185_gene	0.814	#N/A	K13240	NOS - Nitric oxide synthase	Swiss-Prot	sp	P29476	NOS1_RAT			
+AIPGENE8142_gene	1.744	#N/A	K13240	NOS - Nitric oxide synthase	Swiss-Prot	sp	O19132	NOS1_RABIT			
+AIPGENE10795_gene	0.263	#N/A	K13240	NOS - Nitric oxide synthase	Swiss-Prot	sp	Q9TUX8	NOS3_CANFA			
+AIPGENE17411_gene	-1.064	#N/A	K08008	NOX	Swiss-Prot	sp	P52649	CY24B_PIG			
+AIPGENE22656_gene	0.414	#N/A	K08008	NOX	Swiss-Prot	sp	Q95L74	CY24B_BISBI			
+AIPGENE28914_gene	0.325	0.084	K08008	NOX	Swiss-Prot	sp	Q61093	CY24B_MOUSE			
+AIPGENE5546_gene	0.948	#N/A	K08008	NOX	Swiss-Prot	sp	P52649	CY24B_PIG			
+AIPGENE10597_gene	0.238	#N/A	K08008	NOX	Swiss-Prot	sp	Q61093	CY24B_MOUSE			
+AIPGENE10605_gene	#N/A	#N/A	K14640	phosphate transporter	Swiss-Prot	sp	Q6PFM1	S20AB_DANRE			
+AIPGENE14903_gene	0.785	0.000	K14640	phosphate transporter	Swiss-Prot	sp	Q5BL44	S20A1_XENTR			
+AIPGENE14942_gene	1.681	0.083	K00922	PI3K	Swiss-Prot	sp	O00329	PK3CD_HUMAN			
+AIPGENE27914_gene	0.054	0.022	K00922	PI3K	Swiss-Prot	sp	Q9Z1L0	PK3CB_RAT			
+AIPGENE27915_gene	0.057	0.000	K00921	PI3P5K	Swiss-Prot	sp	Q9Y2I7	FYV1_HUMAN			
+AIPGENE11397_gene	#N/A	#N/A	K00921	PI3P5K	Swiss-Prot	sp	Q9Y2I7	FYV1_HUMAN			
+AIPGENE11398_gene	#N/A	#N/A	K00889	PI4P5K	Swiss-Prot	sp	O70161	PI51C_MOUSE			
+AIPGENE11399_gene	0.146	0.000	K00889	PI4P5K	Swiss-Prot	sp	O70161	PI51C_MOUSE			
+AIPGENE20356_gene	#N/A	#N/A	K00889	PI4P5K	Swiss-Prot	sp	O70161	PI51C_MOUSE			
+AIPGENE20357_gene	0.774	0.000	K00889	PI4P5K	Swiss-Prot	sp	O70172	PI42A_MOUSE			
+AIPGENE22563_gene	#N/A	#N/A	K00889	PI4P5K	Swiss-Prot	sp	Q5F356	PI42A_CHICK			
+AIPGENE4824_gene	#N/A	0.000	K00889	PI4P5K	Swiss-Prot	sp	Q56YP2	PI5K1_ARATH			
+AIPGENE13888_gene	0.533	0.041	K00889	PI4P5K	Swiss-Prot	sp	Q9SLG9	PI5K5_ARATH			
+AIPGENE15785_gene	0.774	0.000	K00920	PI5P4K	Swiss-Prot	sp	O70172	PI42A_MOUSE			
+AIPGENE25117_gene	#N/A	#N/A	K00920	PI5P4K	Swiss-Prot	sp	Q5F356	PI42A_CHICK			
+AIPGENE18140_gene	0.833	0.000	K05759	Profilin	Swiss-Prot	sp	P19984	PROF2_ACACA			
+AIPGENE393_gene	#N/A	0.109	K05759	Profilin	Swiss-Prot	sp	Q2NKT1	PROF4_BOVIN			
+AIPGENE395_gene	-0.258	#N/A	K05759	Profilin	Swiss-Prot	sp	P68696	PRO1A_ACACA			
+AIPGENE416_gene	-0.198	0.090	K12200	Programmed cell death 6-interacting protein	Swiss-Prot	sp	Q9W6C5	PDC6I_XENLA			
+AIPGENE10564_gene	-0.705	0.256	K12200	Programmed cell death 6-interacting protein	Swiss-Prot	sp	Q9WU78	PDC6I_MOUSE			
+AIPGENE10740_gene	-0.081	harry	K12200	Programmed cell death 6-interacting protein	Swiss-Prot	sp	Q9W6C5	PDC6I_XENLA			
+AIPGENE12601_gene	#N/A	0.000	K12200	Programmed cell death 6-interacting protein	Swiss-Prot	sp	Q9W6C5	PDC6I_XENLA			
+AIPGENE5165_gene	-1.652	-0.023	K07889	Rab5	Swiss-Prot	sp	Q5ZHW4	RAB5B_CHICK			
+AIPGENE20564_gene	-1.423	0.000	K07916	Rab7	Swiss-Prot	sp	Q63481	RAB7L_RAT			
+AIPGENE29038_gene	-0.099	#N/A	K07916	Rab7	Swiss-Prot	sp	Q91YQ1	RAB7L_MOUSE			
+AIPGENE8319_gene	-0.254	0.000	K07897	Rab7	Swiss-Prot	sp	P18067	RAB7A_CANFA			
+AIPGENE9786_gene	1.006	-0.047	K04392	RAC1	Swiss-Prot	sp	Q6RUV5	RAC1_RAT			
+AIPGENE9803_gene	-0.210	#N/A	K04392	RAC1	Swiss-Prot	sp	Q6RUV5	RAC1_RAT			
+AIPGENE2900_gene	-0.129	-0.044	K04392	RAC1	Swiss-Prot	sp	Q03206	RAC1_CAEEL			
+AIPGENE3914_gene	0.361	#N/A	K08007	Radixin	Swiss-Prot	sp	P31976	EZRI_BOVIN			
+AIPGENE4001_gene	0.570	#N/A	"K05762,K08007"	Radixin	Swiss-Prot	sp	Q32LP2	RADI_BOVIN			
+AIPGENE15827_gene	-0.635	-0.071	K00128	Retinal dehydrogenase	Swiss-Prot	sp	P27463	AL1A1_CHICK			
+AIPGENE21674_gene	1.535	0.064	K00128	Retinal dehydrogenase	Swiss-Prot	sp	P27463	AL1A1_CHICK			
+AIPGENE25395_gene	#N/A	0.122	K00128	Retinal dehydrogenase	Swiss-Prot	sp	P27463	AL1A1_CHICK			
+AIPGENE26414_gene	#N/A	#N/A	K04513	Rho	Swiss-Prot	sp	Q22038	RHO1_CAEEL			
+AIPGENE6257_gene	-0.865	-0.065	K04513	Rho	Swiss-Prot	sp	Q5R9F4	RND3_PONAB			
+AIPGENE6260_gene	-0.201	0.000	K04513	Rho	Swiss-Prot	sp	P48148	RHO1_DROME			
+AIPGENE1798_gene	0.387	0.000	K04513	Rho	Swiss-Prot	sp	P61589	RHOA_RAT			
+AIPGENE2919_gene	#N/A	#N/A	K04513	Rho	Swiss-Prot	sp	Q09914	RHO1_SCHPO			
+AIPGENE2920_gene	#N/A	#N/A	K04513	Rho	Swiss-Prot	sp	P97348	RHOD_MOUSE			
+AIPGENE682_gene	0.426	0.000	K04514	ROCK1	nr	gi	156371352	ref	XP_001628728.1		
+AIPGENE10914_gene	0.212	-0.042	"K04514,K17388"	ROCK2	Swiss-Prot	sp	P70336	ROCK2_MOUSE			
+AIPGENE10969_gene	#N/A	#N/A	"K04514,K17388"	ROCK2	Swiss-Prot	sp	P70336	ROCK2_MOUSE			
+AIPGENE13405_gene	-0.099	0.000	K17388	ROCK2	nr	gi	156351468	ref	XP_001622525.1		
+AIPGENE13495_gene	-0.297	#N/A	K09624	Scavenger receptor	Swiss-Prot	sp	Q2VLH6	C163A_MOUSE			
+AIPGENE13496_gene	-0.413	0.000	K06545	Scavenger receptor	Swiss-Prot	sp	P85521	C163A_BOVIN			
+AIPGENE13497_gene	0.106	0.078	K06545	Scavenger receptor	Swiss-Prot	sp	P85521	C163A_BOVIN			
+AIPGENE13499_gene	-0.387	#N/A	K06545	Scavenger receptor	Swiss-Prot	sp	Q2VLH6	C163A_MOUSE			
+AIPGENE13500_gene	-0.657	#N/A	"K06545,K09624"	Scavenger receptor	Swiss-Prot	sp	P85521	C163A_BOVIN			
+AIPGENE13619_gene	-1.062	#N/A	K06545	Scavenger receptor	Swiss-Prot	sp	Q2VLG6	C163A_CANFA			
+AIPGENE13978_gene	0.152	#N/A	K06545	Scavenger receptor	Swiss-Prot	sp	Q86VB7	C163A_HUMAN			
+AIPGENE19088_gene	0.769	#N/A	K06545	Scavenger receptor	Swiss-Prot	sp	Q2VLG6	C163A_CANFA			
+AIPGENE19488_gene	1.134	#N/A	K09624	Scavenger receptor	Swiss-Prot	sp	A1L4H1	SRCRL_HUMAN			
+AIPGENE20913_gene	1.586	#N/A	K06545	Scavenger receptor	Swiss-Prot	sp	Q24JV9	L3BPA_DANRE			
+AIPGENE2434_gene	-0.072	#N/A	K06545	Scavenger receptor	Swiss-Prot	sp	Q2VLG4	C163A_CHLAE			
+AIPGENE25060_gene	#N/A	#N/A	"K06545,K09624"	Scavenger receptor	Swiss-Prot	sp	P85521	C163A_BOVIN			
+AIPGENE25120_gene	0.875	#N/A	K06545	Scavenger receptor	Swiss-Prot	sp	Q2VLH6	C163A_MOUSE			
+AIPGENE25617_gene	-0.287	-0.242	K06545	Scavenger receptor	Swiss-Prot	sp	Q2VLH6	C163A_MOUSE			
+AIPGENE5740_gene	-0.384	#N/A	K00280	Scavenger receptor	Swiss-Prot	sp	A1L4H1	SRCRL_HUMAN			
+AIPGENE607_gene	1.131	#N/A	K06545	Scavenger receptor	Swiss-Prot	sp	Q86VB7	C163A_HUMAN			
+AIPGENE645_gene	#N/A	-0.048	K13885	Scavenger receptor	Swiss-Prot	sp	Q8WTV0	SCRB1_HUMAN			
+AIPGENE653_gene	#N/A	#N/A	K06545	Scavenger receptor	Swiss-Prot	sp	Q96JK4	HIPL1_HUMAN			
+AIPGENE7405_gene	1.275	#N/A	K00280	Scavenger receptor	Swiss-Prot	sp	Q07797	LG3BP_MOUSE			
+AIPGENE7927_gene	0.966	#N/A	K00280	Scavenger receptor	Swiss-Prot	sp	A1L4H1	SRCRL_HUMAN			
+AIPGENE8078_gene	#N/A	#N/A	K06545	Scavenger receptor	Swiss-Prot	sp	Q86VB7	C163A_HUMAN			
+AIPGENE9495_gene	0.272	#N/A	K06545	Scavenger receptor	Swiss-Prot	sp	Q9NR16	C163B_HUMAN			
+AIPGENE25614_gene	0.249	#N/A	K09624	Scavenger receptor	Swiss-Prot	sp	Q9QYZ9	PRS30_MOUSE			
+AIPGENE10337_gene	0.292	#N/A	K00280	Scavenger receptor	Swiss-Prot	sp	Q2VLH6	C163A_MOUSE			
+AIPGENE11347_gene	-0.503	#N/A	K13885	Scavenger receptor	Swiss-Prot	sp	Q60417	SCRB1_CRIGR			
+AIPGENE11348_gene	1.282	0.000	K13885	Scavenger receptor/Lysosome membrane protein	Swiss-Prot	sp	P27615	SCRB2_RAT			
+AIPGENE11520_gene	#N/A	-0.013	K17930	SNX	Swiss-Prot	sp	Q92543	SNX19_HUMAN			
+AIPGENE11828_gene	-0.675	-0.086	K17921	SNX	Swiss-Prot	sp	Q28E02	SNX30_XENTR			
+AIPGENE13657_gene	#N/A	#N/A	K17921	SNX	Swiss-Prot	sp	Q28E02	SNX30_XENTR			
+AIPGENE13827_gene	-0.440	#N/A	"K17925,K17928"	SNX	Swiss-Prot	sp	P57769	SNX16_RAT			
+AIPGENE15527_gene	0.318	-0.094	K17920	SNX	Swiss-Prot	sp	Q6P8X1	SNX6_MOUSE			
+AIPGENE16234_gene	-0.314	0.071	K17922	SNX	Swiss-Prot	sp	Q9Y5X2	SNX8_HUMAN			
+AIPGENE17128_gene	#N/A	0.100	K17941	SNX	Swiss-Prot	sp	Q9Y343	SNX24_HUMAN			
+AIPGENE18357_gene	0.207	0.000	K17887	SNX	Swiss-Prot	sp	Q9H3E2	SNX25_HUMAN			
+AIPGENE19257_gene	-0.840	0.058	K17929	SNX	Swiss-Prot	sp	Q5RID7	SNX17_DANRE			
+AIPGENE21142_gene	#N/A	0.000	K17921	SNX	Swiss-Prot	sp	Q5VWJ9	SNX30_HUMAN			
+AIPGENE21147_gene	-0.533	-0.074	K17924	SNX	Swiss-Prot	sp	Q9Y5W9	SNX11_HUMAN			
+AIPGENE22714_gene	0.309	#N/A	K17924	SNX	Swiss-Prot	sp	Q91WL6	SNX11_MOUSE			
+AIPGENE23758_gene	0.736	#N/A	K17924	SNX	Swiss-Prot	sp	Q91WL6	SNX11_MOUSE			
+AIPGENE23759_gene	0.142	#N/A	K17924	SNX	Swiss-Prot	sp	Q91WL6	SNX11_MOUSE			
+AIPGENE23760_gene	0.238	#N/A	K17918	SNX	Swiss-Prot	sp	Q9UMY4	SNX12_HUMAN			
+AIPGENE25803_gene	1.033	0.000	K17919	SNX	Swiss-Prot	sp	Q91YJ2	SNX4_MOUSE			
+AIPGENE25804_gene	#N/A	#N/A	K17919	SNX	Swiss-Prot	sp	Q91YJ2	SNX4_MOUSE			
+AIPGENE26146_gene	#N/A	#N/A	K17919	SNX	Swiss-Prot	sp	Q91YJ2	SNX4_MOUSE			
+AIPGENE26163_gene	-1.749	#N/A	"K17918,K17924"	SNX	Swiss-Prot	sp	Q9Y5W9	SNX11_HUMAN			
+AIPGENE27553_gene	1.740	#N/A	"K17918,K17924"	SNX	Swiss-Prot	sp	Q9Y5W9	SNX11_HUMAN			
+AIPGENE28973_gene	0.068	0.000	K17928	SNX	Swiss-Prot	sp	Q5R6Q7	SNX16_PONAB			
+AIPGENE3522_gene	0.658	-0.031	K17928	SNX	Swiss-Prot	sp	P57769	SNX16_RAT			
+AIPGENE4044_gene	-3.070	0.037	K17926	SNX	Swiss-Prot	sp	Q8BHY8	SNX14_MOUSE			
+AIPGENE4261_gene	#N/A	#N/A	K17923	SNX	Swiss-Prot	sp	Q9Y5X1	SNX9_HUMAN			
+AIPGENE5117_gene	-0.523	0.000	K17932	SNX	Swiss-Prot	sp	Q969T3	SNX21_HUMAN			
+AIPGENE5121_gene	0.481	#N/A	K17917	SNX	Swiss-Prot	sp	O60749	SNX2_HUMAN			
+AIPGENE5649_gene	0.258	0.000	K17936	SNX	Swiss-Prot	sp	A5PKA5	SNX27_BOVIN			
+AIPGENE7762_gene	-0.190	0.000	K17936	SNX	Swiss-Prot	sp	Q3UHD6	SNX27_MOUSE			
+AIPGENE8297_gene	0.481	0.122	K17936	SNX	Swiss-Prot	sp	Q3UHD6	SNX27_MOUSE			
+AIPGENE8298_gene	#N/A	0.059	K17920	SNX	Swiss-Prot	sp	Q6P8X1	SNX6_MOUSE			
+AIPGENE8377_gene	#N/A	-0.048	K17923	SNX	Swiss-Prot	sp	Q8I4E2	LST4_CAEEL			
+AIPGENE14689_gene	#N/A	0.000	K17935	SNX	Swiss-Prot	sp	Q08DX0	SNX29_BOVIN			
+AIPGENE22887_gene	0.012	#N/A	K17935	SNX	Swiss-Prot	sp	Q08DX0	SNX29_BOVIN			
+AIPGENE22906_gene	-0.089	0.000	K17925	SNX	Swiss-Prot	sp	Q6PHS6	SNX13_MOUSE			
+AIPGENE29129_gene	0.203	0.000	K15382	Sugar transporter	Swiss-Prot	sp	A8XI14	SWET1_CAEBR			
+AIPGENE20982_gene	-0.843	0.000	K15382	Sugar transporter	Swiss-Prot	sp	Q5EAL3	SWET1_XENTR			
+AIPGENE14972_gene	0.275	0.044	K15382	Sugar transporter	Swiss-Prot	sp	Q5EB14	SWET1_DANRE			
+AIPGENE18802_gene	0.442	#N/A	K19519	sym32 - E value 1.40*10^-17	Swiss-Prot	sp	Q15063	POSTN_HUMAN			
+AIPGENE2289_gene	-0.601	#N/A	K19519	sym32 - E value 4.25*10^-101	Swiss-Prot	sp	P82198	BGH3_MOUSE			
+AIPGENE23125_gene	0.279	0.000	K13813	Syntaxin 12	Swiss-Prot	sp	Q86Y82	STX12_HUMAN			
+AIPGENE2314_gene	0.904	#N/A	K13813	Syntaxin 12	Swiss-Prot	sp	Q5RBW6	STX12_PONAB			
+AIPGENE28155_gene	0.131	-0.077	"K18807,K18808"	Toll-like receptor	Swiss-Prot	sp	B3Y615	TLR2_GORGO			
+AIPGENE4114_gene	#N/A	#N/A	"K10159,K18808"	Toll-like receptor	Swiss-Prot	sp	Q9DD78	TLR21_CHICK			
+AIPGENE5281_gene	-0.156	#N/A	K10169	Toll-like receptor	Swiss-Prot	sp	Q704V6	TLR6_BOVIN			
+AIPGENE10132_gene	-1.215	#N/A	K10169	Toll-like receptor	Swiss-Prot	sp	Q96RW7	HMCN1_HUMAN			
+AIPGENE10183_gene	-0.821	#N/A	K05401	Toll-like receptor	Swiss-Prot	sp	Q5TJ59	TLR3_BOVIN			
+AIPGENE19990_gene	-0.391	#N/A	K18808	Toll-like receptor	Swiss-Prot	sp	Q6R5N8	TLR13_MOUSE			
+AIPGENE4636_gene	#N/A	0.000	K03173	TRAF2	Swiss-Prot	sp	Q6IWL4	TRAF6_DANRE			
+AIPGENE5557_gene	0.595	#N/A	K03173	TRAF2	Swiss-Prot	sp	Q13114	TRAF3_HUMAN			
+AIPGENE597_gene	-0.859	#N/A	K03173	TRAF2	Swiss-Prot	sp	Q12933	TRAF2_HUMAN			
+AIPGENE598_gene	-0.248	#N/A	K03173	TRAF2	Swiss-Prot	sp	Q12933	TRAF2_HUMAN			
+AIPGENE10152_gene	-0.040	#N/A	K03173	TRAF2	Swiss-Prot	sp	P39429	TRAF2_MOUSE			
+AIPGENE14882_gene	#N/A	#N/A	K03173	TRAF2	Swiss-Prot	sp	P39429	TRAF2_MOUSE			
+AIPGENE14887_gene	0.127	#N/A	K03173	TRAF2	Swiss-Prot	sp	P39429	TRAF2_MOUSE			
+AIPGENE17270_gene	#N/A	#N/A	K03174	TRAF3	Swiss-Prot	sp	P70191	TRAF5_MOUSE			
+AIPGENE1845_gene	0.595	#N/A	K03174	TRAF3	Swiss-Prot	sp	Q13114	TRAF3_HUMAN			
+AIPGENE18458_gene	-0.226	#N/A	K03174	TRAF3	Swiss-Prot	sp	P70191	TRAF5_MOUSE			
+AIPGENE1893_gene	-0.375	#N/A	K03174	TRAF3	Swiss-Prot	sp	Q60803	TRAF3_MOUSE			
+AIPGENE19975_gene	1.602	#N/A	K03174	TRAF3	Swiss-Prot	sp	Q54C11	Y3202_DICDI			
+AIPGENE20085_gene	-0.737	#N/A	K03174	TRAF3	Swiss-Prot	sp	Q13077	TRAF1_HUMAN			
+AIPGENE20729_gene	-1.112	-0.017	K03174	TRAF3	Swiss-Prot	sp	Q60803	TRAF3_MOUSE			
+AIPGENE20810_gene	#N/A	#N/A	K03174	TRAF3	Swiss-Prot	sp	P39428	TRAF1_MOUSE			
+AIPGENE20811_gene	#N/A	#N/A	K03174	TRAF3	Swiss-Prot	sp	Q13114	TRAF3_HUMAN			
+AIPGENE20835_gene	-2.801	#N/A	K03174	TRAF3	Swiss-Prot	sp	Q13114	TRAF3_HUMAN			
+AIPGENE3440_gene	-0.599	#N/A	K03174	TRAF3	Swiss-Prot	sp	Q60803	TRAF3_MOUSE			
+AIPGENE1359_gene	-0.250	#N/A	K03174	TRAF3	Swiss-Prot	sp	Q60803	TRAF3_MOUSE			
+AIPGENE17951_gene	#N/A	#N/A	K03174	TRAF3	Swiss-Prot	sp	Q60803	TRAF3_MOUSE			
+AIPGENE23845_gene	0.026	0.000	K03174	TRAF3	Swiss-Prot	sp	Q60803	TRAF3_MOUSE			
+AIPGENE23849_gene	-0.464	#N/A	K03174	TRAF3	Swiss-Prot	sp	Q60803	TRAF3_MOUSE			
+AIPGENE24599_gene	#N/A	#N/A	K09849	TRAF5	Swiss-Prot	sp	P70191	TRAF5_MOUSE			
+AIPGENE2846_gene	#N/A	#N/A	K09849	TRAF5	Swiss-Prot	sp	O00463	TRAF5_HUMAN			
+AIPGENE2854_gene	-0.226	#N/A	K09849	TRAF5	Swiss-Prot	sp	P70191	TRAF5_MOUSE			
+AIPGENE2869_gene	-1.112	-0.017	K09849	TRAF5	Swiss-Prot	sp	Q60803	TRAF3_MOUSE			
+AIPGENE28879_gene	0.026	0.000	K09849	TRAF5	Swiss-Prot	sp	Q60803	TRAF3_MOUSE			
+AIPGENE28886_gene	-0.090	#N/A	K07374	Tubulin alpha	Swiss-Prot	sp	P09645	TBA8_CHICK			
+AIPGENE28889_gene	#N/A	#N/A	K07374	Tubulin alpha	Swiss-Prot	sp	P68373	TBA1C_MOUSE			
+AIPGENE28898_gene	0.111	#N/A	K07374	Tubulin alpha	Swiss-Prot	sp	P18288	TBAT_ONCMY			
+AIPGENE28920_gene	0.512	#N/A	K07374	Tubulin alpha	Swiss-Prot	sp	P68373	TBA1C_MOUSE			
+AIPGENE28936_gene	-0.417	0.038	K07374	Tubulin alpha	Swiss-Prot	sp	Q2HJ86	TBA1D_BOVIN			
+AIPGENE9543_gene	-0.081	0.000	K07374	Tubulin alpha	Swiss-Prot	sp	Q32KN8	TBA3_BOVIN			
+AIPGENE9554_gene	#N/A	-0.150	K07374	Tubulin alpha	Swiss-Prot	sp	P18258	TBA1_PARLI			
+AIPGENE10493_gene	-0.661	#N/A	K07374	Tubulin alpha	Swiss-Prot	sp	P41383	TBA2_PATVU			
+AIPGENE17177_gene	-0.753	#N/A	K07374	Tubulin alpha	Swiss-Prot	sp	Q6AYZ1	TBA1C_RAT			
+AIPGENE20512_gene	#N/A	-0.396	K07374	Tubulin alpha	Swiss-Prot	sp	P18258	TBA1_PARLI			
+AIPGENE20514_gene	-0.280	#N/A	K07374	Tubulin alpha	Swiss-Prot	sp	P91910	TBA3_CAEEL			
+AIPGENE23810_gene	-1.295	#N/A	K07374	Tubulin alpha	Swiss-Prot	sp	P41383	TBA2_PATVU			
+AIPGENE27901_gene	-1.982	#N/A	K07374	Tubulin alpha	Swiss-Prot	sp	P08537	TBA_XENLA			
+AIPGENE10504_gene	#N/A	#N/A	K07374	Tubulin alpha	Swiss-Prot	sp	P68373	TBA1C_MOUSE			
+AIPGENE11940_gene	-1.124	#N/A	K07374	Tubulin alpha	Swiss-Prot	sp	P68373	TBA1C_MOUSE			
+AIPGENE14140_gene	-0.018	0.224	K07375	Tubulin beta	Swiss-Prot	sp	P11833	TBB_PARLI			
+AIPGENE15442_gene	0.183	#N/A	K07375	Tubulin beta	Swiss-Prot	sp	Q94571	TBB2_HOMAM			
+AIPGENE16161_gene	-0.235	0.058	K07375	Tubulin beta	Swiss-Prot	sp	P11833	TBB_PARLI			
+AIPGENE19317_gene	0.418	#N/A	K07375	Tubulin beta	Swiss-Prot	sp	P79008	TBB_COPC7			
+AIPGENE2454_gene	-0.059	#N/A	K07375	Tubulin beta	Swiss-Prot	sp	Q27U48	TBB1_GLOMM			
+AIPGENE25636_gene	#N/A	#N/A	K07375	Tubulin beta	Swiss-Prot	sp	P11833	TBB_PARLI			
+AIPGENE26700_gene	0.915	0.000	K02145	V-type proton ATPase	Swiss-Prot	sp	P31400	VATA_MANSE			
+AIPGENE26709_gene	-0.284	0.000	K02152	V-type proton ATPase	Swiss-Prot	sp	Q25532	VATG_MANSE			
+AIPGENE28013_gene	#N/A	#N/A	K02150	V-type proton ATPase	Swiss-Prot	sp	P54611	VATE_DROME			
+AIPGENE7145_gene	0.035	-0.001	K02155	V-type proton ATPase	Swiss-Prot	sp	Q03105	VATL_TORMA			
+AIPGENE840_gene	0.228	-0.060	K03661	V-type proton ATPase	Swiss-Prot	sp	Q99437	VATO_HUMAN			
+AIPGENE148_gene	-0.348	0.000	K02147	V-type proton ATPase	Swiss-Prot	sp	P31401	VATB_MANSE			
+AIPGENE1571_gene	-0.104	0.000	K02149	V-type proton ATPase	Swiss-Prot	sp	Q5RCS8	VATD_PONAB			
+AIPGENE1572_gene	-0.025	0.000	K02153	V-type proton ATPase	Swiss-Prot	sp	Q20591	VA0E_CAEEL			
+AIPGENE1573_gene	-1.979	0.035	K02154	V-type proton ATPase	Swiss-Prot	sp	Q9Z1G4	VPP1_MOUSE			
+AIPGENE22399_gene	0.567	0.019	K02154	V-type proton ATPase	Swiss-Prot	sp	Q9Z1G4	VPP1_MOUSE			
+AIPGENE25897_gene	-0.336	0.039	K02146	V-type proton ATPase	Swiss-Prot	sp	Q6PGV1	VA0D1_DANRE			
+AIPGENE6455_gene	0.073	0.024	K02148	V-type proton ATPase	Swiss-Prot	sp	Q9U5N1	VATC_MANSE			
+AIPGENE6456_gene	0.352	0.000	K02144	V-type proton ATPase	Swiss-Prot	sp	Q9V3J1	VATH_DROME			
+AIPGENE1880_gene	#N/A	-0.060	K08515	VAMP	Swiss-Prot	sp	Q5ZL74	VAMP7_CHICK			
+AIPGENE7971_gene	0.005	-0.040	K06096	VAMP	Swiss-Prot	sp	Q16943	VP33_APLCA			
+AIPGENE15090_gene	#N/A	#N/A	"K06096,K10707"	VAMP	Swiss-Prot	sp	Q16943	VP33_APLCA			
+AIPGENE20356_gene	#N/A	#N/A	"K06096,K10707"	VAMP	Swiss-Prot	sp	Q16943	VP33_APLCA			
+AIPGENE20357_gene	-1.644	0.060	K13505	VAMP	Swiss-Prot	sp	Q15836	VAMP3_HUMAN			
+AIPGENE10183_gene	-0.660	0.072	K08513	VAMP	Swiss-Prot	sp	O75379	VAMP4_HUMAN			
+AIPGENE10152_gene	1.510	0.000	"K08511,K08515"	VAMP	Swiss-Prot	sp	Q9LFP1	VA713_ARATH			
+AIPGENE14882_gene	#N/A	#N/A	K08515	VAMP	Swiss-Prot	sp	Q5ZL74	VAMP7_CHICK			
+AIPGENE18458_gene	-0.326	-0.036	K05700	Vinculin	Swiss-Prot	sp	P12003	VINC_CHICK			
+AIPGENE20835_gene	0.884	0.027	K05700	Vinculin	Swiss-Prot	sp	P12003	VINC_CHICK			

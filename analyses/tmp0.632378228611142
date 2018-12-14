@@ -1,0 +1,13 @@
+Ratt_Curated.Sratti_scf00001_Chr00    RATT	gene	676104	677702	.	+	.	ID=ratti_train3
+Ratt_Curated.Sratti_scf00001_Chr00	RATT	mRNA	676104	677702	.	+	.	ID=ratti_train3;Parent=ratti_train3
+Ratt_Curated.Sratti_scf00001_Chr00	RATT	CDS	676104	676526	.	+	.	ID=ratti_train3:exon:1;Parent=ratti_train3
+Ratt_Curated.Sratti_scf00001_Chr00	RATT	CDS	676766	677515	.	+	.	ID=ratti_train3:exon:2;Parent=ratti_train3
+Ratt_Curated.Sratti_scf00001_Chr00	RATT	CDS	677568	677702	.	+	.	ID=ratti_train3:exon:3;Parent=ratti_train3
+Ratt_Curated.Sratti_scf00001_Chr00	RATT	gene	699685	700943	.	-	.	ID=ratti_train4
+Ratt_Curated.Sratti_scf00001_Chr00	RATT	mRNA	699685	700943	.	-	.	ID=ratti_train4;Parent=ratti_train4
+Ratt_Curated.Sratti_scf00001_Chr00	RATT	CDS	699685	699951	.	-	.	ID=ratti_train4:exon:1;Parent=ratti_train4
+Ratt_Curated.Sratti_scf00001_Chr00	RATT	CDS	700002	700943	.	-	.	ID=ratti_train4:exon:2;Parent=ratti_train4
+Ratt_Curated.Sratti_scf00001_Chr01	RATT	gene	1650617	1651867	.	+	.	ID=ratti_train414
+Ratt_Curated.Sratti_scf00001_Chr01	RATT	mRNA	1650617	1651867	.	+	.	ID=ratti_train414;Parent=ratti_train414
+Ratt_Curated.Sratti_scf00001_Chr01	RATT	CDS	1650617	1650755	.	+	.	ID=ratti_train414:exon:1;Parent=ratti_train414
+Ratt_Curated.Sratti_scf00001_Chr01	RATT	CDS	1650801	1651867	.	+	.	ID=ratti_train414:exon:2;Parent=ratti_train414
