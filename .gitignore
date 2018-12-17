@@ -20,3 +20,7 @@ data/aiptasia_genome.scaffolds.fa
 data/aiptasia_genome.annot.tsv
 data/aiptasia.embl
 data/embl/aiptasia.embl
+analyses/Ae.ctg.lay.part-1.fa
+analyses/Ae.ctg.lay.part-2.fa
+analyses/Ae.ctg.lay.part-3.fa
+analyses/Ae.ctg.lay.part-4.fa
