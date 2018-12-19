@@ -97,25 +97,6 @@ ctg49	exonerate:protein2genome:local	gene	137680	138259	863	+	.	gene_id 1 ; sequ
 ctg49	exonerate:protein2genome:local	cds	137680	138259	.	+	.	
 ctg49	exonerate:protein2genome:local	exon	137680	138259	.	+	.	insertions 0 ; deletions 1 ; identity 94.27 ; similarity 95.83 ; frameshifts 4
 ctg49	exonerate:protein2genome:local	similarity	137680	138259	863	+	.	alignment_id 1 ; Query AIPGENE25395 ; Align 137680 47 219 ; Align 137901 120 201 ; Align 138104 188 156
-ctg301	exonerate:protein2genome:local	gene	40760	43825	1266	+	.	gene_id 1 ; sequence AIPGENE26763 ; gene_orientation + ; identity 77.01 ; similarity 84.49
-ctg301	exonerate:protein2genome:local	cds	40760	41145	.	+	.	
-ctg301	exonerate:protein2genome:local	exon	40760	41145	.	+	.	insertions 0 ; deletions 1 ; identity 75.19 ; similarity 84.50 ; frameshifts 2
-ctg301	exonerate:protein2genome:local	splice5	41146	41147	.	+	.	intron_id 1 ; splice_site "GT"
-ctg301	exonerate:protein2genome:local	intron	41146	42653	.	+	.	intron_id 1
-ctg301	exonerate:protein2genome:local	splice3	42652	42653	.	+	.	intron_id 0 ; splice_site "AG"
-ctg301	exonerate:protein2genome:local	cds	42654	42879	.	+	.	
-ctg301	exonerate:protein2genome:local	exon	42654	42879	.	+	.	insertions 0 ; deletions 1 ; identity 85.53 ; similarity 90.79 ; frameshifts 1
-ctg301	exonerate:protein2genome:local	splice5	42880	42881	.	+	.	intron_id 2 ; splice_site "GT"
-ctg301	exonerate:protein2genome:local	intron	42880	43164	.	+	.	intron_id 2
-ctg301	exonerate:protein2genome:local	splice3	43163	43164	.	+	.	intron_id 1 ; splice_site "AG"
-ctg301	exonerate:protein2genome:local	cds	43165	43331	.	+	.	
-ctg301	exonerate:protein2genome:local	exon	43165	43331	.	+	.	insertions 0 ; deletions 0 ; identity 90.91 ; similarity 96.36
-ctg301	exonerate:protein2genome:local	splice5	43332	43333	.	+	.	intron_id 3 ; splice_site "GT"
-ctg301	exonerate:protein2genome:local	intron	43332	43512	.	+	.	intron_id 3
-ctg301	exonerate:protein2genome:local	splice3	43511	43512	.	+	.	intron_id 2 ; splice_site "AG"
-ctg301	exonerate:protein2genome:local	cds	43513	43825	.	+	.	
-ctg301	exonerate:protein2genome:local	exon	43513	43825	.	+	.	insertions 0 ; deletions 4 ; identity 65.05 ; similarity 72.82 ; frameshifts 3
-ctg301	exonerate:protein2genome:local	similarity	40760	43825	1266	+	.	alignment_id 1 ; Query AIPGENE26763 ; Align 40760 1 135 ; Align 40897 47 249 ; Align 42654 130 78 ; Align 42733 157 147 ; Align 43165 206 165 ; Align 43514 262 51 ; Align 43567 280 39 ; Align 43606 294 66 ; Align 43672 317 114 ; Align 43787 356 39
 ctg145	exonerate:protein2genome:local	gene	107650	111262	676	+	.	gene_id 1 ; sequence AIPGENE20564 ; gene_orientation + ; identity 86.36 ; similarity 90.91
 ctg145	exonerate:protein2genome:local	cds	107650	107672	.	+	.	
 ctg145	exonerate:protein2genome:local	exon	107650	107672	.	+	.	insertions 0 ; deletions 0 ; identity 85.71 ; similarity 100.00
@@ -637,6 +618,25 @@ ctg16	exonerate:protein2genome:local	splice3	49273	49274	.	-	.	intron_id 6 ; spl
 ctg16	exonerate:protein2genome:local	cds	49230	49272	.	-	.	
 ctg16	exonerate:protein2genome:local	exon	49230	49272	.	-	.	insertions 0 ; deletions 1 ; identity 78.57 ; similarity 85.71
 ctg16	exonerate:protein2genome:local	similarity	49230	230959	1449	-	.	alignment_id 1 ; Query AIPGENE28401 ; Align 230960 27 75 ; Align 230879 52 177 ; Align 230700 112 84 ; Align 229446 140 75 ; Align 228776 165 63 ; Align 228712 186 42 ; Align 228668 200 36 ; Align 227438 213 24 ; Align 227412 222 78 ; Align 227332 248 6 ; Align 227326 251 102 ; Align 227222 286 63 ; Align 226760 308 72 ; Align 226687 332 81 ; Align 226468 359 18 ; Align 226450 366 15 ; Align 226435 372 132 ; Align 225860 416 228 ; Align 49272 493 21 ; Align 49251 501 21
+ctg301	exonerate:protein2genome:local	gene	40760	43825	1266	+	.	gene_id 1 ; sequence AIPGENE26763 ; gene_orientation + ; identity 77.01 ; similarity 84.49
+ctg301	exonerate:protein2genome:local	cds	40760	41145	.	+	.	
+ctg301	exonerate:protein2genome:local	exon	40760	41145	.	+	.	insertions 0 ; deletions 1 ; identity 75.19 ; similarity 84.50 ; frameshifts 2
+ctg301	exonerate:protein2genome:local	splice5	41146	41147	.	+	.	intron_id 1 ; splice_site "GT"
+ctg301	exonerate:protein2genome:local	intron	41146	42653	.	+	.	intron_id 1
+ctg301	exonerate:protein2genome:local	splice3	42652	42653	.	+	.	intron_id 0 ; splice_site "AG"
+ctg301	exonerate:protein2genome:local	cds	42654	42879	.	+	.	
+ctg301	exonerate:protein2genome:local	exon	42654	42879	.	+	.	insertions 0 ; deletions 1 ; identity 85.53 ; similarity 90.79 ; frameshifts 1
+ctg301	exonerate:protein2genome:local	splice5	42880	42881	.	+	.	intron_id 2 ; splice_site "GT"
+ctg301	exonerate:protein2genome:local	intron	42880	43164	.	+	.	intron_id 2
+ctg301	exonerate:protein2genome:local	splice3	43163	43164	.	+	.	intron_id 1 ; splice_site "AG"
+ctg301	exonerate:protein2genome:local	cds	43165	43331	.	+	.	
+ctg301	exonerate:protein2genome:local	exon	43165	43331	.	+	.	insertions 0 ; deletions 0 ; identity 90.91 ; similarity 96.36
+ctg301	exonerate:protein2genome:local	splice5	43332	43333	.	+	.	intron_id 3 ; splice_site "GT"
+ctg301	exonerate:protein2genome:local	intron	43332	43512	.	+	.	intron_id 3
+ctg301	exonerate:protein2genome:local	splice3	43511	43512	.	+	.	intron_id 2 ; splice_site "AG"
+ctg301	exonerate:protein2genome:local	cds	43513	43825	.	+	.	
+ctg301	exonerate:protein2genome:local	exon	43513	43825	.	+	.	insertions 0 ; deletions 4 ; identity 65.05 ; similarity 72.82 ; frameshifts 3
+ctg301	exonerate:protein2genome:local	similarity	40760	43825	1266	+	.	alignment_id 1 ; Query AIPGENE26763 ; Align 40760 1 135 ; Align 40897 47 249 ; Align 42654 130 78 ; Align 42733 157 147 ; Align 43165 206 165 ; Align 43514 262 51 ; Align 43567 280 39 ; Align 43606 294 66 ; Align 43672 317 114 ; Align 43787 356 39
 ctg187	exonerate:protein2genome:local	gene	32280	34297	1340	-	.	gene_id 1 ; sequence AIPGENE8252 ; gene_orientation + ; identity 88.61 ; similarity 91.94
 ctg187	exonerate:protein2genome:local	cds	34057	34297	.	-	.	
 ctg187	exonerate:protein2genome:local	exon	34057	34297	.	-	.	insertions 0 ; deletions 1 ; identity 96.30 ; similarity 98.77 ; frameshifts 1
@@ -2572,33 +2572,6 @@ ctg930	exonerate:protein2genome:local	gene	16560	16759	207	+	.	gene_id 1 ; seque
 ctg930	exonerate:protein2genome:local	cds	16560	16759	.	+	.	
 ctg930	exonerate:protein2genome:local	exon	16560	16759	.	+	.	insertions 0 ; deletions 1 ; identity 65.15 ; similarity 87.88 ; frameshifts 2
 ctg930	exonerate:protein2genome:local	similarity	16560	16759	207	+	.	alignment_id 1 ; Query AIPGENE4636 ; Align 16560 1 126 ; Align 16688 44 72
-ctg1355	exonerate:protein2genome:local	gene	72366	75566	1301	-	.	gene_id 1 ; sequence AIPGENE9543 ; gene_orientation + ; identity 72.26 ; similarity 80.89
-ctg1355	exonerate:protein2genome:local	cds	75349	75566	.	-	.	
-ctg1355	exonerate:protein2genome:local	exon	75349	75566	.	-	.	insertions 3 ; deletions 3 ; identity 78.87 ; similarity 88.73 ; frameshifts 1
-ctg1355	exonerate:protein2genome:local	splice5	75347	75348	.	-	.	intron_id 1 ; splice_site "GT"
-ctg1355	exonerate:protein2genome:local	intron	74848	75348	.	-	.	intron_id 1
-ctg1355	exonerate:protein2genome:local	splice3	74848	74849	.	-	.	intron_id 0 ; splice_site "AG"
-ctg1355	exonerate:protein2genome:local	cds	74701	74847	.	-	.	
-ctg1355	exonerate:protein2genome:local	exon	74701	74847	.	-	.	insertions 0 ; deletions 1 ; identity 79.59 ; similarity 89.80 ; frameshifts 1
-ctg1355	exonerate:protein2genome:local	splice5	74699	74700	.	-	.	intron_id 2 ; splice_site "GT"
-ctg1355	exonerate:protein2genome:local	intron	73307	74700	.	-	.	intron_id 2
-ctg1355	exonerate:protein2genome:local	splice3	73307	73308	.	-	.	intron_id 1 ; splice_site "AG"
-ctg1355	exonerate:protein2genome:local	cds	72366	73306	.	-	.	
-ctg1355	exonerate:protein2genome:local	exon	72366	73306	.	-	.	insertions 6 ; deletions 4 ; identity 69.35 ; similarity 77.42 ; frameshifts 5
-ctg1355	exonerate:protein2genome:local	similarity	72366	75566	1301	-	.	alignment_id 1 ; Query AIPGENE9543 ; Align 75567 2 120 ; Align 75447 45 30 ; Align 75414 55 15 ; Align 75398 60 48 ; Align 74846 77 33 ; Align 74812 89 111 ; Align 73307 126 306 ; Align 72999 228 87 ; Align 72912 258 57 ; Align 72855 278 117 ; Align 72736 318 147 ; Align 72589 368 93 ; Align 72493 399 75 ; Align 72417 424 15 ; Align 72399 429 33
-ctg870	exonerate:protein2genome:local	gene	18853	21382	583	-	.	gene_id 1 ; sequence AIPGENE2854 ; gene_orientation + ; identity 92.86 ; similarity 95.24
-ctg870	exonerate:protein2genome:local	cds	21157	21382	.	-	.	
-ctg870	exonerate:protein2genome:local	exon	21157	21382	.	-	.	insertions 0 ; deletions 0 ; identity 97.33 ; similarity 97.33
-ctg870	exonerate:protein2genome:local	splice5	21155	21156	.	-	.	intron_id 1 ; splice_site "GT"
-ctg870	exonerate:protein2genome:local	intron	19010	21156	.	-	.	intron_id 1
-ctg870	exonerate:protein2genome:local	splice3	19010	19011	.	-	.	intron_id 0 ; splice_site "AG"
-ctg870	exonerate:protein2genome:local	cds	18853	19009	.	-	.	
-ctg870	exonerate:protein2genome:local	exon	18853	19009	.	-	.	insertions 0 ; deletions 1 ; identity 86.27 ; similarity 92.16 ; frameshifts 2
-ctg870	exonerate:protein2genome:local	similarity	18853	21382	583	-	.	alignment_id 1 ; Query AIPGENE2854 ; Align 21383 1 225 ; Align 19008 77 15 ; Align 18991 83 138
-ctg870	exonerate:protein2genome:local	gene	15373	15594	397	-	.	gene_id 2 ; sequence AIPGENE2854 ; gene_orientation . ; identity 97.30 ; similarity 98.65
-ctg870	exonerate:protein2genome:local	cds	15373	15594	.	-	.	
-ctg870	exonerate:protein2genome:local	exon	15373	15594	.	-	.	insertions 0 ; deletions 0 ; identity 97.30 ; similarity 98.65
-ctg870	exonerate:protein2genome:local	similarity	15373	15594	397	-	.	alignment_id 2 ; Query AIPGENE2854 ; Align 15595 2 222
 ctg1451	exonerate:protein2genome:local	gene	13251	15796	762	-	.	gene_id 1 ; sequence AIPGENE20514 ; gene_orientation + ; identity 64.02 ; similarity 82.85
 ctg1451	exonerate:protein2genome:local	cds	15740	15796	.	-	.	
 ctg1451	exonerate:protein2genome:local	exon	15740	15796	.	-	.	insertions 0 ; deletions 0 ; identity 70.00 ; similarity 90.00
@@ -2632,10 +2605,6 @@ ctg1365	exonerate:protein2genome:local	splice3	13134	13135	.	-	.	intron_id 1 ; s
 ctg1365	exonerate:protein2genome:local	cds	12385	13133	.	-	.	
 ctg1365	exonerate:protein2genome:local	exon	12385	13133	.	-	.	insertions 0 ; deletions 7 ; identity 84.68 ; similarity 89.92 ; frameshifts 3
 ctg1365	exonerate:protein2genome:local	similarity	12385	15240	1249	-	.	alignment_id 1 ; Query AIPGENE9142 ; Align 15241 1 51 ; Align 15188 19 27 ; Align 15161 29 138 ; Align 15022 76 30 ; Align 14896 86 33 ; Align 14863 98 45 ; Align 14818 114 24 ; Align 13132 123 138 ; Align 12994 170 132 ; Align 12862 216 3 ; Align 12857 217 309 ; Align 12548 321 42 ; Align 12505 336 21 ; Align 12484 344 48 ; Align 12436 361 51
-ctg870	exonerate:protein2genome:local	gene	17662	17851	250	-	.	gene_id 1 ; sequence AIPGENE28898 ; gene_orientation . ; identity 96.72 ; similarity 100.00
-ctg870	exonerate:protein2genome:local	cds	17662	17851	.	-	.	
-ctg870	exonerate:protein2genome:local	exon	17662	17851	.	-	.	insertions 6 ; deletions 0 ; identity 96.72 ; similarity 100.00 ; frameshifts 1
-ctg870	exonerate:protein2genome:local	similarity	17662	17851	250	-	.	alignment_id 1 ; Query AIPGENE28898 ; Align 17852 9 93 ; Align 17758 40 57 ; Align 17698 59 15 ; Align 17680 64 18
 ctg930	exonerate:protein2genome:local	gene	16560	16759	207	+	.	gene_id 1 ; sequence AIPGENE19990 ; gene_orientation . ; identity 65.15 ; similarity 87.88
 ctg930	exonerate:protein2genome:local	cds	16560	16759	.	+	.	
 ctg930	exonerate:protein2genome:local	exon	16560	16759	.	+	.	insertions 0 ; deletions 1 ; identity 65.15 ; similarity 87.88 ; frameshifts 2
@@ -2732,6 +2701,10 @@ ctg875	exonerate:protein2genome:local	splice3	16950	16951	.	+	.	intron_id 4 ; sp
 ctg875	exonerate:protein2genome:local	cds	16952	17232	.	+	.	
 ctg875	exonerate:protein2genome:local	exon	16952	17232	.	+	.	insertions 0 ; deletions 0 ; identity 64.52 ; similarity 82.80
 ctg875	exonerate:protein2genome:local	similarity	14675	17232	1111	+	.	alignment_id 1 ; Query AIPGENE607 ; Align 14675 53 51 ; Align 14785 71 45 ; Align 14830 87 18 ; Align 14894 94 201 ; Align 15812 161 105 ; Align 16578 196 57 ; Align 16636 215 171 ; Align 16954 273 279
+ctg870	exonerate:protein2genome:local	gene	17662	17851	250	-	.	gene_id 1 ; sequence AIPGENE28898 ; gene_orientation . ; identity 96.72 ; similarity 100.00
+ctg870	exonerate:protein2genome:local	cds	17662	17851	.	-	.	
+ctg870	exonerate:protein2genome:local	exon	17662	17851	.	-	.	insertions 6 ; deletions 0 ; identity 96.72 ; similarity 100.00 ; frameshifts 1
+ctg870	exonerate:protein2genome:local	similarity	17662	17851	250	-	.	alignment_id 1 ; Query AIPGENE28898 ; Align 17852 9 93 ; Align 17758 40 57 ; Align 17698 59 15 ; Align 17680 64 18
 ctg870	exonerate:protein2genome:local	gene	17680	18659	993	-	.	gene_id 1 ; sequence AIPGENE17951 ; gene_orientation . ; identity 75.39 ; similarity 84.42
 ctg870	exonerate:protein2genome:local	cds	17680	18659	.	-	.	
 ctg870	exonerate:protein2genome:local	exon	17680	18659	.	-	.	insertions 9 ; deletions 3 ; identity 75.39 ; similarity 84.42 ; frameshifts 8
@@ -3104,6 +3077,19 @@ ctg961	exonerate:protein2genome:local	splice3	60555	60556	.	-	.	intron_id 1 ; sp
 ctg961	exonerate:protein2genome:local	cds	60316	60554	.	-	.	
 ctg961	exonerate:protein2genome:local	exon	60316	60554	.	-	.	insertions 0 ; deletions 2 ; identity 96.20 ; similarity 97.47 ; frameshifts 2
 ctg961	exonerate:protein2genome:local	similarity	60316	75668	918	-	.	alignment_id 1 ; Query AIPGENE2869 ; Align 75669 1 225 ; Align 61487 77 150 ; Align 60555 127 117 ; Align 60436 167 48 ; Align 60388 184 72
+ctg870	exonerate:protein2genome:local	gene	18853	21382	583	-	.	gene_id 1 ; sequence AIPGENE2854 ; gene_orientation + ; identity 92.86 ; similarity 95.24
+ctg870	exonerate:protein2genome:local	cds	21157	21382	.	-	.	
+ctg870	exonerate:protein2genome:local	exon	21157	21382	.	-	.	insertions 0 ; deletions 0 ; identity 97.33 ; similarity 97.33
+ctg870	exonerate:protein2genome:local	splice5	21155	21156	.	-	.	intron_id 1 ; splice_site "GT"
+ctg870	exonerate:protein2genome:local	intron	19010	21156	.	-	.	intron_id 1
+ctg870	exonerate:protein2genome:local	splice3	19010	19011	.	-	.	intron_id 0 ; splice_site "AG"
+ctg870	exonerate:protein2genome:local	cds	18853	19009	.	-	.	
+ctg870	exonerate:protein2genome:local	exon	18853	19009	.	-	.	insertions 0 ; deletions 1 ; identity 86.27 ; similarity 92.16 ; frameshifts 2
+ctg870	exonerate:protein2genome:local	similarity	18853	21382	583	-	.	alignment_id 1 ; Query AIPGENE2854 ; Align 21383 1 225 ; Align 19008 77 15 ; Align 18991 83 138
+ctg870	exonerate:protein2genome:local	gene	15373	15594	397	-	.	gene_id 2 ; sequence AIPGENE2854 ; gene_orientation . ; identity 97.30 ; similarity 98.65
+ctg870	exonerate:protein2genome:local	cds	15373	15594	.	-	.	
+ctg870	exonerate:protein2genome:local	exon	15373	15594	.	-	.	insertions 0 ; deletions 0 ; identity 97.30 ; similarity 98.65
+ctg870	exonerate:protein2genome:local	similarity	15373	15594	397	-	.	alignment_id 2 ; Query AIPGENE2854 ; Align 15595 2 222
 ctg870	exonerate:protein2genome:local	gene	17662	21382	836	-	.	gene_id 1 ; sequence AIPGENE2869 ; gene_orientation + ; identity 90.69 ; similarity 93.63
 ctg870	exonerate:protein2genome:local	cds	21157	21382	.	-	.	
 ctg870	exonerate:protein2genome:local	exon	21157	21382	.	-	.	insertions 0 ; deletions 0 ; identity 98.67 ; similarity 98.67
@@ -3212,6 +3198,20 @@ ctg1438	exonerate:protein2genome:local	splice3	12497	12498	.	+	.	intron_id 3 ; s
 ctg1438	exonerate:protein2genome:local	cds	12499	12724	.	+	.	
 ctg1438	exonerate:protein2genome:local	exon	12499	12724	.	+	.	insertions 0 ; deletions 1 ; identity 81.33 ; similarity 90.67 ; frameshifts 1
 ctg1438	exonerate:protein2genome:local	similarity	8885	12724	1212	+	.	alignment_id 1 ; Query AIPGENE17177 ; Align 8885 3 54 ; Align 10878 21 111 ; Align 11258 59 165 ; Align 11425 115 72 ; Align 11499 140 213 ; Align 11781 211 42 ; Align 11825 226 150 ; Align 11977 277 69 ; Align 12499 300 153 ; Align 12653 352 72
+ctg1355	exonerate:protein2genome:local	gene	72366	75566	1301	-	.	gene_id 1 ; sequence AIPGENE9543 ; gene_orientation + ; identity 72.26 ; similarity 80.89
+ctg1355	exonerate:protein2genome:local	cds	75349	75566	.	-	.	
+ctg1355	exonerate:protein2genome:local	exon	75349	75566	.	-	.	insertions 3 ; deletions 3 ; identity 78.87 ; similarity 88.73 ; frameshifts 1
+ctg1355	exonerate:protein2genome:local	splice5	75347	75348	.	-	.	intron_id 1 ; splice_site "GT"
+ctg1355	exonerate:protein2genome:local	intron	74848	75348	.	-	.	intron_id 1
+ctg1355	exonerate:protein2genome:local	splice3	74848	74849	.	-	.	intron_id 0 ; splice_site "AG"
+ctg1355	exonerate:protein2genome:local	cds	74701	74847	.	-	.	
+ctg1355	exonerate:protein2genome:local	exon	74701	74847	.	-	.	insertions 0 ; deletions 1 ; identity 79.59 ; similarity 89.80 ; frameshifts 1
+ctg1355	exonerate:protein2genome:local	splice5	74699	74700	.	-	.	intron_id 2 ; splice_site "GT"
+ctg1355	exonerate:protein2genome:local	intron	73307	74700	.	-	.	intron_id 2
+ctg1355	exonerate:protein2genome:local	splice3	73307	73308	.	-	.	intron_id 1 ; splice_site "AG"
+ctg1355	exonerate:protein2genome:local	cds	72366	73306	.	-	.	
+ctg1355	exonerate:protein2genome:local	exon	72366	73306	.	-	.	insertions 6 ; deletions 4 ; identity 69.35 ; similarity 77.42 ; frameshifts 5
+ctg1355	exonerate:protein2genome:local	similarity	72366	75566	1301	-	.	alignment_id 1 ; Query AIPGENE9543 ; Align 75567 2 120 ; Align 75447 45 30 ; Align 75414 55 15 ; Align 75398 60 48 ; Align 74846 77 33 ; Align 74812 89 111 ; Align 73307 126 306 ; Align 72999 228 87 ; Align 72912 258 57 ; Align 72855 278 117 ; Align 72736 318 147 ; Align 72589 368 93 ; Align 72493 399 75 ; Align 72417 424 15 ; Align 72399 429 33
 ctg1010	exonerate:protein2genome:local	gene	36596	38497	1182	-	.	gene_id 1 ; sequence AIPGENE17177 ; gene_orientation + ; identity 66.04 ; similarity 81.94
 ctg1010	exonerate:protein2genome:local	cds	38437	38497	.	-	.	
 ctg1010	exonerate:protein2genome:local	exon	38437	38497	.	-	.	insertions 0 ; deletions 0 ; identity 75.00 ; similarity 85.00
@@ -4169,15 +4169,6 @@ ctg2082	exonerate:protein2genome:local	gene	9128	9322	283	-	.	gene_id 1 ; sequen
 ctg2082	exonerate:protein2genome:local	cds	9128	9322	.	-	.	
 ctg2082	exonerate:protein2genome:local	exon	9128	9322	.	-	.	insertions 0 ; deletions 0 ; identity 81.54 ; similarity 90.77
 ctg2082	exonerate:protein2genome:local	similarity	9128	9322	283	-	.	alignment_id 1 ; Query AIPGENE4636 ; Align 9323 1 195
-ctg2896	exonerate:protein2genome:local	gene	15452	16183	522	+	.	gene_id 1 ; sequence AIPGENE2854 ; gene_orientation + ; identity 91.96 ; similarity 95.54
-ctg2896	exonerate:protein2genome:local	cds	15452	15653	.	+	.	
-ctg2896	exonerate:protein2genome:local	exon	15452	15653	.	+	.	insertions 0 ; deletions 0 ; identity 97.01 ; similarity 97.01
-ctg2896	exonerate:protein2genome:local	splice5	15654	15655	.	+	.	intron_id 1 ; splice_site "TT"
-ctg2896	exonerate:protein2genome:local	intron	15654	16046	.	+	.	intron_id 1
-ctg2896	exonerate:protein2genome:local	splice3	16045	16046	.	+	.	intron_id 0 ; splice_site "AG"
-ctg2896	exonerate:protein2genome:local	cds	16047	16183	.	+	.	
-ctg2896	exonerate:protein2genome:local	exon	16047	16183	.	+	.	insertions 0 ; deletions 0 ; identity 84.44 ; similarity 93.33
-ctg2896	exonerate:protein2genome:local	similarity	15452	16183	522	+	.	alignment_id 1 ; Query AIPGENE2854 ; Align 15452 11 201 ; Align 16049 79 135
 ctg2082	exonerate:protein2genome:local	gene	9128	9322	283	-	.	gene_id 1 ; sequence AIPGENE19990 ; gene_orientation . ; identity 81.54 ; similarity 90.77
 ctg2082	exonerate:protein2genome:local	cds	9128	9322	.	-	.	
 ctg2082	exonerate:protein2genome:local	exon	9128	9322	.	-	.	insertions 0 ; deletions 0 ; identity 81.54 ; similarity 90.77
@@ -4186,20 +4177,6 @@ ctg2846	exonerate:protein2genome:local	gene	13710	14957	1416	+	.	gene_id 1 ; seq
 ctg2846	exonerate:protein2genome:local	cds	13710	14957	.	+	.	
 ctg2846	exonerate:protein2genome:local	exon	13710	14957	.	+	.	insertions 0 ; deletions 3 ; identity 70.53 ; similarity 83.33 ; frameshifts 6
 ctg2846	exonerate:protein2genome:local	similarity	13710	14957	1416	+	.	alignment_id 1 ; Query AIPGENE27618 ; Align 13710 40 129 ; Align 13840 83 102 ; Align 13944 118 285 ; Align 14231 214 96 ; Align 14328 246 279 ; Align 14607 340 351
-ctg2896	exonerate:protein2genome:local	gene	15452	17194	544	+	.	gene_id 1 ; sequence AIPGENE2869 ; gene_orientation + ; identity 87.90 ; similarity 91.08
-ctg2896	exonerate:protein2genome:local	cds	15452	15653	.	+	.	
-ctg2896	exonerate:protein2genome:local	exon	15452	15653	.	+	.	insertions 0 ; deletions 0 ; identity 98.51 ; similarity 98.51
-ctg2896	exonerate:protein2genome:local	splice5	15654	15655	.	+	.	intron_id 1 ; splice_site "TT"
-ctg2896	exonerate:protein2genome:local	intron	15654	16046	.	+	.	intron_id 1
-ctg2896	exonerate:protein2genome:local	splice3	16045	16046	.	+	.	intron_id 0 ; splice_site "AG"
-ctg2896	exonerate:protein2genome:local	cds	16047	16188	.	+	.	
-ctg2896	exonerate:protein2genome:local	exon	16047	16188	.	+	.	insertions 0 ; deletions 0 ; identity 80.43 ; similarity 84.78
-ctg2896	exonerate:protein2genome:local	splice5	16189	16190	.	+	.	intron_id 2 ; splice_site "GT"
-ctg2896	exonerate:protein2genome:local	intron	16189	17058	.	+	.	intron_id 2
-ctg2896	exonerate:protein2genome:local	splice3	17057	17058	.	+	.	intron_id 1 ; splice_site "CC"
-ctg2896	exonerate:protein2genome:local	cds	17059	17194	.	+	.	
-ctg2896	exonerate:protein2genome:local	exon	17059	17194	.	+	.	insertions 0 ; deletions 5 ; identity 79.55 ; similarity 86.36 ; frameshifts 3
-ctg2896	exonerate:protein2genome:local	similarity	15452	17194	544	+	.	alignment_id 1 ; Query AIPGENE2869 ; Align 15452 11 201 ; Align 16049 79 138 ; Align 17060 126 51 ; Align 17111 146 18 ; Align 17130 153 33 ; Align 17165 165 30
 ctg2846	exonerate:protein2genome:local	gene	13716	15046	1694	+	.	gene_id 1 ; sequence AIPGENE24026 ; gene_orientation . ; identity 79.59 ; similarity 91.16
 ctg2846	exonerate:protein2genome:local	cds	13716	15046	.	+	.	
 ctg2846	exonerate:protein2genome:local	exon	13716	15046	.	+	.	insertions 0 ; deletions 4 ; identity 79.59 ; similarity 91.16 ; frameshifts 8
@@ -4253,10 +4230,6 @@ ctg2026	exonerate:protein2genome:local	splice3	919	920	.	-	.	intron_id 8 ; splic
 ctg2026	exonerate:protein2genome:local	cds	894	918	.	-	.	
 ctg2026	exonerate:protein2genome:local	exon	894	918	.	-	.	insertions 0 ; deletions 0 ; identity 87.50 ; similarity 100.00
 ctg2026	exonerate:protein2genome:local	similarity	894	6030	1360	-	.	alignment_id 1 ; Query AIPGENE2900 ; Align 6031 17 108 ; Align 5560 53 84 ; Align 5476 82 54 ; Align 5341 100 126 ; Align 4972 142 24 ; Align 4946 150 3 ; Align 4943 152 162 ; Align 4241 206 111 ; Align 3835 244 48 ; Align 3786 260 240 ; Align 3077 340 81 ; Align 2994 367 3 ; Align 2991 369 66 ; Align 2923 391 12 ; Align 2536 395 48 ; Align 2487 411 108 ; Align 1429 448 36 ; Align 1392 460 36 ; Align 918 473 24
-ctg4506	exonerate:protein2genome:local	gene	11956	13129	1210	+	.	gene_id 1 ; sequence AIPGENE12599 ; gene_orientation . ; identity 66.84 ; similarity 81.49
-ctg4506	exonerate:protein2genome:local	cds	11956	13129	.	+	.	
-ctg4506	exonerate:protein2genome:local	exon	11956	13129	.	+	.	insertions 0 ; deletions 3 ; identity 66.84 ; similarity 81.49 ; frameshifts 7
-ctg4506	exonerate:protein2genome:local	similarity	11956	13129	1210	+	.	alignment_id 1 ; Query AIPGENE12599 ; Align 11956 5 126 ; Align 12083 47 54 ; Align 12139 66 627 ; Align 12768 276 204 ; Align 12974 344 3 ; Align 12977 346 153
 ctg1897	exonerate:protein2genome:local	gene	8691	15291	1003	+	.	gene_id 1 ; sequence AIPGENE23386 ; gene_orientation + ; identity 85.26 ; similarity 88.78
 ctg1897	exonerate:protein2genome:local	cds	8691	8854	.	+	.	
 ctg1897	exonerate:protein2genome:local	exon	8691	8854	.	+	.	insertions 0 ; deletions 1 ; identity 90.91 ; similarity 96.36 ; frameshifts 2
@@ -4286,6 +4259,33 @@ ctg1897	exonerate:protein2genome:local	splice3	15061	15062	.	+	.	intron_id 4 ; s
 ctg1897	exonerate:protein2genome:local	cds	15063	15291	.	+	.	
 ctg1897	exonerate:protein2genome:local	exon	15063	15291	.	+	.	insertions 0 ; deletions 0 ; identity 92.11 ; similarity 94.74 ; frameshifts 1
 ctg1897	exonerate:protein2genome:local	similarity	8691	15291	1003	+	.	alignment_id 1 ; Query AIPGENE23386 ; Align 8691 1 69 ; Align 8762 25 93 ; Align 9732 56 39 ; Align 9772 70 78 ; Align 11932 97 45 ; Align 11977 113 6 ; Align 11985 115 57 ; Align 12043 134 12 ; Align 12811 138 45 ; Align 12858 154 171 ; Align 13389 211 93 ; Align 15063 242 57 ; Align 15121 261 171
+ctg2896	exonerate:protein2genome:local	gene	15452	16183	522	+	.	gene_id 1 ; sequence AIPGENE2854 ; gene_orientation + ; identity 91.96 ; similarity 95.54
+ctg2896	exonerate:protein2genome:local	cds	15452	15653	.	+	.	
+ctg2896	exonerate:protein2genome:local	exon	15452	15653	.	+	.	insertions 0 ; deletions 0 ; identity 97.01 ; similarity 97.01
+ctg2896	exonerate:protein2genome:local	splice5	15654	15655	.	+	.	intron_id 1 ; splice_site "TT"
+ctg2896	exonerate:protein2genome:local	intron	15654	16046	.	+	.	intron_id 1
+ctg2896	exonerate:protein2genome:local	splice3	16045	16046	.	+	.	intron_id 0 ; splice_site "AG"
+ctg2896	exonerate:protein2genome:local	cds	16047	16183	.	+	.	
+ctg2896	exonerate:protein2genome:local	exon	16047	16183	.	+	.	insertions 0 ; deletions 0 ; identity 84.44 ; similarity 93.33
+ctg2896	exonerate:protein2genome:local	similarity	15452	16183	522	+	.	alignment_id 1 ; Query AIPGENE2854 ; Align 15452 11 201 ; Align 16049 79 135
+ctg2896	exonerate:protein2genome:local	gene	15452	17194	544	+	.	gene_id 1 ; sequence AIPGENE2869 ; gene_orientation + ; identity 87.90 ; similarity 91.08
+ctg2896	exonerate:protein2genome:local	cds	15452	15653	.	+	.	
+ctg2896	exonerate:protein2genome:local	exon	15452	15653	.	+	.	insertions 0 ; deletions 0 ; identity 98.51 ; similarity 98.51
+ctg2896	exonerate:protein2genome:local	splice5	15654	15655	.	+	.	intron_id 1 ; splice_site "TT"
+ctg2896	exonerate:protein2genome:local	intron	15654	16046	.	+	.	intron_id 1
+ctg2896	exonerate:protein2genome:local	splice3	16045	16046	.	+	.	intron_id 0 ; splice_site "AG"
+ctg2896	exonerate:protein2genome:local	cds	16047	16188	.	+	.	
+ctg2896	exonerate:protein2genome:local	exon	16047	16188	.	+	.	insertions 0 ; deletions 0 ; identity 80.43 ; similarity 84.78
+ctg2896	exonerate:protein2genome:local	splice5	16189	16190	.	+	.	intron_id 2 ; splice_site "GT"
+ctg2896	exonerate:protein2genome:local	intron	16189	17058	.	+	.	intron_id 2
+ctg2896	exonerate:protein2genome:local	splice3	17057	17058	.	+	.	intron_id 1 ; splice_site "CC"
+ctg2896	exonerate:protein2genome:local	cds	17059	17194	.	+	.	
+ctg2896	exonerate:protein2genome:local	exon	17059	17194	.	+	.	insertions 0 ; deletions 5 ; identity 79.55 ; similarity 86.36 ; frameshifts 3
+ctg2896	exonerate:protein2genome:local	similarity	15452	17194	544	+	.	alignment_id 1 ; Query AIPGENE2869 ; Align 15452 11 201 ; Align 16049 79 138 ; Align 17060 126 51 ; Align 17111 146 18 ; Align 17130 153 33 ; Align 17165 165 30
+ctg4506	exonerate:protein2genome:local	gene	11956	13129	1210	+	.	gene_id 1 ; sequence AIPGENE12599 ; gene_orientation . ; identity 66.84 ; similarity 81.49
+ctg4506	exonerate:protein2genome:local	cds	11956	13129	.	+	.	
+ctg4506	exonerate:protein2genome:local	exon	11956	13129	.	+	.	insertions 0 ; deletions 3 ; identity 66.84 ; similarity 81.49 ; frameshifts 7
+ctg4506	exonerate:protein2genome:local	similarity	11956	13129	1210	+	.	alignment_id 1 ; Query AIPGENE12599 ; Align 11956 5 126 ; Align 12083 47 54 ; Align 12139 66 627 ; Align 12768 276 204 ; Align 12974 344 3 ; Align 12977 346 153
 ctg3037	exonerate:protein2genome:local	gene	5310	6860	250	-	.	gene_id 1 ; sequence AIPGENE12122 ; gene_orientation + ; identity 80.00 ; similarity 85.71
 ctg3037	exonerate:protein2genome:local	cds	6803	6860	.	-	.	
 ctg3037	exonerate:protein2genome:local	exon	6803	6860	.	-	.	insertions 0 ; deletions 0 ; identity 80.00 ; similarity 90.00 ; frameshifts 1

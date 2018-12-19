@@ -18,7 +18,7 @@ ctg130	exonerate:protein2genome:local	gene	19000	22086	736	+	.	gene_id 1 ; seque
 ctg135	exonerate:protein2genome:local	gene	139361	147894	1216	-	.	gene_id 1 ; sequence AIPGENE16442 ; gene_orientation + ; identity 71.70 ; similarity 82.48
 ctg1355	exonerate:protein2genome:local	gene	72363	73309	945	-	.	gene_id 1 ; sequence AIPGENE17951 ; gene_orientation . ; identity 70.51 ; similarity 79.17
 ctg1355	exonerate:protein2genome:local	gene	72622	75446	1018	-	.	gene_id 1 ; sequence AIPGENE2846 ; gene_orientation + ; identity 74.51 ; similarity 85.29
-ctg1355	exonerate:protein2genome:local	gene	72366	75566	1301	-	.	gene_id 1 ; sequence AIPGENE9543 ; gene_orientation + ; identity 72.26 ; similarity 80.89
+ctg1355	exonerate:protein2genome:local	gene	72366	75566	1228	-	.	gene_id 1 ; sequence AIPGENE24599 ; gene_orientation + ; identity 68.30 ; similarity 77.86
 ctg1358	exonerate:protein2genome:local	gene	4119	5714	782	+	.	gene_id 1 ; sequence AIPGENE25209 ; gene_orientation + ; identity 71.60 ; similarity 80.93
 ctg1365	exonerate:protein2genome:local	gene	12385	15240	1249	-	.	gene_id 1 ; sequence AIPGENE9142 ; gene_orientation + ; identity 85.16 ; similarity 89.84
 ctg14	exonerate:protein2genome:local	gene	247897	258070	2299	-	.	gene_id 1 ; sequence AIPGENE7971 ; gene_orientation + ; identity 75.18 ; similarity 85.33
@@ -100,7 +100,7 @@ ctg870	exonerate:protein2genome:local	gene	17662	17842	241	-	.	gene_id 1 ; seque
 ctg870	exonerate:protein2genome:local	gene	17662	17851	250	-	.	gene_id 1 ; sequence AIPGENE28898 ; gene_orientation . ; identity 96.72 ; similarity 100.00
 ctg870	exonerate:protein2genome:local	gene	17680	18659	993	-	.	gene_id 1 ; sequence AIPGENE17951 ; gene_orientation . ; identity 75.39 ; similarity 84.42
 ctg870	exonerate:protein2genome:local	gene	17897	21277	1227	-	.	gene_id 1 ; sequence AIPGENE2846 ; gene_orientation + ; identity 87.50 ; similarity 91.07
-ctg870	exonerate:protein2genome:local	gene	18853	21382	583	-	.	gene_id 1 ; sequence AIPGENE2854 ; gene_orientation + ; identity 92.86 ; similarity 95.24
+ctg870	exonerate:protein2genome:local	gene	17662	21382	1634	-	.	gene_id 1 ; sequence AIPGENE24599 ; gene_orientation + ; identity 85.91 ; similarity 89.04
 ctg870	exonerate:protein2genome:local	gene	18235	39127	1093	-	.	gene_id 2 ; sequence AIPGENE23849 ; gene_orientation + ; identity 83.96 ; similarity 90.10
 ctg875	exonerate:protein2genome:local	gene	14675	17232	1111	+	.	gene_id 1 ; sequence AIPGENE607 ; gene_orientation + ; identity 69.58 ; similarity 79.29
 ctg930	exonerate:protein2genome:local	gene	16560	16759	207	+	.	gene_id 1 ; sequence AIPGENE4636 ; gene_orientation . ; identity 65.15 ; similarity 87.88

@@ -1,5 +1,5 @@
-Command line: [exonerate --model protein2genome --percent 50 --showtargetgff yes aiptasia_sym_prot.fasta Ae.ctg.lay.part-1.fa]
-Hostname: [SPMC-Moleculars-iMac.local]
+Command line: [exonerate --model protein2genome --percent 50 --showtargetgff yes sym_prot_all.fasta Ae.ctg.lay.part-1.fa]
+Hostname: [Jamess-MacBook-Pro.local]
 
 C4 Alignment:
 ------------
@@ -81,7 +81,7 @@ vulgar: AIPGENE23599 21 263 . ctg101 58396 59237 + 757 M 18 54 S 0 1 5 0 2 I 0 1
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -199,7 +199,7 @@ vulgar: AIPGENE11223 4 293 . ctg164 281644 284426 + 954 M 19 57 5 0 2 I 0 1837 3
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -322,7 +322,7 @@ vulgar: AIPGENE12816 4 316 . ctg187 34297 32436 - 1185 M 45 135 F 0 1 G 1 0 M 35
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -395,7 +395,7 @@ vulgar: AIPGENE11940 0 117 . ctg217 71601 69168 - 364 M 27 81 S 0 1 5 0 2 I 0 11
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -548,7 +548,7 @@ vulgar: AIPGENE23053 2 367 . ctg61 84016 87877 + 1063 M 13 39 S 0 1 5 0 2 I 0 72
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -671,7 +671,7 @@ vulgar: AIPGENE25395 46 239 . ctg49 137679 138259 + 863 M 73 219 F 0 2 M 67 201 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -681,154 +681,6 @@ ctg49	exonerate:protein2genome:local	gene	137680	138259	863	+	.	gene_id 1 ; sequ
 ctg49	exonerate:protein2genome:local	cds	137680	138259	.	+	.	
 ctg49	exonerate:protein2genome:local	exon	137680	138259	.	+	.	insertions 0 ; deletions 1 ; identity 94.27 ; similarity 95.83 ; frameshifts 4
 ctg49	exonerate:protein2genome:local	similarity	137680	138259	863	+	.	alignment_id 1 ; Query AIPGENE25395 ; Align 137680 47 219 ; Align 137901 120 201 ; Align 138104 188 156
-# --- END OF GFF DUMP ---
-#
-
-C4 Alignment:
-------------
-         Query: AIPGENE26763
-        Target: ctg301 len=160229
-         Model: protein2genome:local
-     Raw score: 1266
-   Query range: 0 -> 368
-  Target range: 40759 -> 43825
-
-     1 : MetSerLeuHisAspLysArgThrValSerAspUnkThrCysValLeuGluArgTyrSer :    20
-         ||||||||||||||||||||||||!.!!!!|||   ..!! !||||||!!:!:!|||!!!
-         MetSerLeuHisAspLysArgThrAlaThrAspLysValSerValLeuAspLysTyrCys
- 40760 : ATGAGTTTACACGACAAGAGAACAGCCACCGACAAGGTATCTGTCTTGGACAAATATTGC : 40817
-
-    21 : LysLeuAspGlnGlyThrSerValGlnAlaLeuTyrIleTrpIleAspGlyThrGlyGlu :    40
-         |||||||||||||||  ! !!:!!||||||||||||||||||||||||||||||||||||
-         LysLeuAspGlnGlyAspArgIleGlnAlaLeuTyrIleTrpIleAspGlyThrGlyGlu
- 40818 : AAGCTCGACCAAGGAGATCGAATTCAAGCTCTGTACATCTGGATAGATGGAACCGGTGAA : 40877
-
-    41 : GlyIleArgCysLys--ThrLysThrLeuGluLysArgProAspSerIleGluAspLeuP :    60
-         |||||||||||||||##   |||||||||!!:|||! !|||!!:||||||||||||||||
-         GlyIleArgCysLys##---LysThrLeuAspLysProProGluSerIleGluAspLeuP
- 40878 : GGAATCCGTTGTAAAAC---AAAACCCTGGATAAGCCTCCAGAGTCTATCGAGGACCTTC : 40936
-
-    61 : roIleTrpAsnPheAspGlySerSerThrAlaGlnUnkGluGlyHisAsnSerAspValT :    80
-         |||||||||||||||||||||||||||||!.!|||...||||||  !|||||||||||||
-         roIleTrpAsnPheAspGlySerSerThrGlyGlnAlaGluGlyPheAsnSerAspValT
- 40937 : CCATCTGGAACTTCGATGGCTCGAGTACAGGTCAAGCCGAGGGATTCAACAGTGATGTAT : 40996
-
-    81 : yrLeuHisProValAlaIlePheLysAspProPheArgGlyGlyGluAsnUnkLeuValL :   100
-         ||||||||||||||:!!! !||||||||||||||||||||||||||||||   |||||||
-         yrLeuHisProValSerThrPheLysAspProPheArgGlyGlyGluAsnIleLeuValL
- 40997 : ACCTTCATCCAGTCTCTACCTTCAAGGATCCTTTCAGAGGTGGAGAAAATATCTTGGTTC : 41056
-
-   101 : euCysGluThrTyrThrHisAspHisLysProThrHisThrAsnAsnArgLysThrCysM :   120
-         ||||||||||||||! !:!!:!!||||||||||||  !|||||||||||||||||||||.
-         euCysGluThrTyrLysTyrAsnHisLysProThrThrThrAsnAsnArgLysThrCysP
- 41057 : TCTGCGAGACGTATAAGTACAACCATAAACCCACCACTACAAACAACAGAAAAACCTGTT : 41116
-
-   121 : etAsnIleMetAsnAspProGluValLys  >>>> Target Intron 1 >>>>  Se :   130
-         !..!.:!!|||:!!  !  !:!!||||||           1508 bp           !.
-         heGluValMetAspCysGluLysValLys++                         ++Ly
- 41117 : TTGAAGTTATGGATTGTGAGAAAGTCAAGgt.........................agAA : 42654
-
-   131 : rSerUnkProTrpPheGlyIleGluGlnGluTyrThrLeuLeuAspIleAspGlyHisPr :   150
-         !|||   |||||||||||||||||||||||||||||||||||||||:!!|||||||||||
-         sSerIleProTrpPheGlyIleGluGlnGluTyrThrLeuLeuAspValAspGlyHisPr
- 42655 : ATCCATACCATGGTTCGGCATTGAACAAGAATACACACTTCTTGATGTAGATGGCCACCC : 42714
-
-   151 : oLeuGlyTrpProLys-GlyGlyPheProGlyProGlnGlyProTyrTyrCysGlyValG :   170
-         ||||! ! ! ||||||#    !!.!!||||||||||||||||||||||||||||||||||
-         oLeuAspGlyProLys#---TrpLeuProGlyProGlnGlyProTyrTyrCysGlyValG
- 42715 : ATTAGATGGCCCAAAGG---TGGCTTCCAGGACCACAGGGACCATACTATTGTGGTGTTG : 42772
-
-   171 : lyThrAsnLysValPheGlyArgGluValValGluAlaHisTyrArgAlaCysLeuTyrA :   190
-         ||||||||!:!|||||||||||||||:!!|||||||||||||||||||||||||||||||
-         lyThrAsnArgValPheGlyArgGluIleValGluAlaHisTyrArgAlaCysLeuTyrA
- 42773 : GAACCAACAGAGTTTTTGGACGAGAGATCGTTGAGGCACATTATCGTGCATGTCTGTATG : 42832
-
-   191 : laGlyValLysIleAlaGlyThrAsnUnkGluValMetProAlaGln  >>>> Target :   206
-         |||||:!!||||||||||||||||||...||||||||||||||||||            2
-         laGlyIleLysIleAlaGlyThrAsnAlaGluValMetProAlaGln++           
- 42833 : CTGGAATCAAGATTGCTGGTACTAACGCTGAAGTAATGCCTGCTCAGgt........... : 42882
-
-   207 :  Intron 2 >>>>  TrpGluTyrGlnValGlyProCysGluGlyIleGluMetGlyAs :   220
-         85 bp           ||||||||||||||||||||||||||||||||||||||||||||
-                       ++TrpGluTyrGlnValGlyProCysGluGlyIleGluMetGlyAs
- 42883 : ..............agTGGGAATACCAAGTGGGCCCATGTGAAGGTATTGAGATGGGAGA : 43207
-
-   221 : pHisLeuTrpIleSerArgTyrIleLeuHisArgValAlaGluAspPheHisValValVa :   240
-         |||||||||||||||||||||||||||||||||||||||||||||||||  !|||:!!||
-         pHisLeuTrpIleSerArgTyrIleLeuHisArgValAlaGluAspPheGlyValMetVa
- 43208 : TCACCTGTGGATATCCAGATACATCCTACACCGTGTGGCTGAAGACTTTGGTGTCATGGT : 43267
-
-   241 : lSerPheAspProLysProMetProGlyAspTrpAsnGlyUnkGlyAlaHisCysAsnTy :   260
-         |!!!||||||||||||||||||||||||!!:|||||||||...|||||||||||||||||
-         lThrPheAspProLysProMetProGlyGluTrpAsnGlyAlaGlyAlaHisCysAsnTy
- 43268 : TACCTTTGATCCCAAACCAATGCCTGGTGAATGGAATGGTGCTGGAGCTCACTGCAACTA : 43327
-
-   261 : r{Se}  >>>> Target Intron 3 >>>>  {r}ThrValGlyMetArgGluGluAs :   269
-         |{||}            181 bp           {|}|||:!!! !||||||.!.|||..
-         r{Se}++                         ++{r}ThrLeuGluMetArgAsnGluGl
- 43328 : C{AG}gt.........................ag{T}ACACTGGAAATGAGAAATGAAGG : 43535
-
-   270 : nGlyMetArgLeuIleTyrGluAlaIle--AspLysLeuGluLysAsnHisAspTyrHis :   288
-         .||||||!:!  !|||||||||||||||##   |||||||||:!!|||||||||||||||
-         yGlyMetLysAspIleTyrGluAlaIle##---LysLeuGluGluAsnHisAspTyrHis
- 43536 : AGGAATGAAAGACATCTATGAAGCTATTAA---AAGCTTGAAGAGAACCATGATTACCAC : 43591
-
-   289 : IleLysLysTyrAspProLysGlnGlyGlnAspAsnAlaArgArgLeuThrGlyArgHis :   308
-         |||||||||:!!     !...|||  !::!   !    !! !  !||||||||||||! !
-         IleLysLysHis---***SerGlnProArgLeuIleMetLeuValLeuThrGlyArgLeu
- 43592 : ATCAAGAAGCAC---TGATCCCAACCAAGGCTGATAATGCTCGTCCTGACTGGCAGACTT : 43648
-
-   309 : GluThrSerSerIleTyrGlnPheSerHisGlyValAlaAsnArgGlyAlaSerValArg :   328
-         |||||||||!!!  !   .!.   ||||||  !|||  !   ! !! !!.!..!|||!:!
-         GluThrSerThrSerMetAsn---SerHisMetValLeuProThrValValGlnValLys
- 43649 : GAAACCTCAACATCAATGAAT---TCTCACATGGTGTTGCCAACCGTGGTGCAAGTGAAG : 43705
-
-   329 : IleProArgGlnCysAlaGluAspGlyLysGlyTyrLeuGluAspArgArgProSerSer :   348
-           ! !!  !|||||||||||||||||||||||||||||||||||||||||||||||||||
-         AspSerSerGlnCysAlaGluAspGlyLysGlyTyrLeuGluAspArgArgProSerSer
- 43706 : GATTCCTCGCAGTGTGCCGAGGATGGTAAAGGATACCTTGAGGATAGAAGACCATCATCC : 43765
-
-   349 : AsnCysAspProTyrSer-ValThrGluAlaIleUnkArgThrThrIleLysAsnTyrTh :   368
-         ||||||||||||||||||#   ||||||||||||   ||||||||||||  !|||:!!||
-         AsnCysAspProTyrSer#---ThrGluAlaIleValArgThrThrIleLeuAsnHisTh
- 43766 : AACTGTGATCCATACAGCC---ACTGAAGCCATTGTCAGAACGACCATCTTGAACCATAC : 43823
-
-   369 : r :   368
-         |
-         r
- 43824 : A : 43825
-
-vulgar: AIPGENE26763 0 368 . ctg301 40759 43825 + 1266 M 45 135 F 0 2 G 1 0 M 83 249 5 0 2 I 0 1504 3 0 2 M 26 78 F 0 1 G 1 0 M 49 147 5 0 2 I 0 281 3 0 2 M 55 165 S 0 2 5 0 2 I 0 177 3 0 2 S 1 1 M 17 51 F 0 2 G 1 0 M 13 39 G 1 0 M 22 66 G 1 0 M 38 114 F 0 1 G 1 0 M 13 39
-# --- START OF GFF DUMP ---
-#
-#
-##gff-version 2
-##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
-##type DNA
-#
-#
-# seqname source feature start end score strand frame attributes
-#
-ctg301	exonerate:protein2genome:local	gene	40760	43825	1266	+	.	gene_id 1 ; sequence AIPGENE26763 ; gene_orientation + ; identity 77.01 ; similarity 84.49
-ctg301	exonerate:protein2genome:local	cds	40760	41145	.	+	.	
-ctg301	exonerate:protein2genome:local	exon	40760	41145	.	+	.	insertions 0 ; deletions 1 ; identity 75.19 ; similarity 84.50 ; frameshifts 2
-ctg301	exonerate:protein2genome:local	splice5	41146	41147	.	+	.	intron_id 1 ; splice_site "GT"
-ctg301	exonerate:protein2genome:local	intron	41146	42653	.	+	.	intron_id 1
-ctg301	exonerate:protein2genome:local	splice3	42652	42653	.	+	.	intron_id 0 ; splice_site "AG"
-ctg301	exonerate:protein2genome:local	cds	42654	42879	.	+	.	
-ctg301	exonerate:protein2genome:local	exon	42654	42879	.	+	.	insertions 0 ; deletions 1 ; identity 85.53 ; similarity 90.79 ; frameshifts 1
-ctg301	exonerate:protein2genome:local	splice5	42880	42881	.	+	.	intron_id 2 ; splice_site "GT"
-ctg301	exonerate:protein2genome:local	intron	42880	43164	.	+	.	intron_id 2
-ctg301	exonerate:protein2genome:local	splice3	43163	43164	.	+	.	intron_id 1 ; splice_site "AG"
-ctg301	exonerate:protein2genome:local	cds	43165	43331	.	+	.	
-ctg301	exonerate:protein2genome:local	exon	43165	43331	.	+	.	insertions 0 ; deletions 0 ; identity 90.91 ; similarity 96.36
-ctg301	exonerate:protein2genome:local	splice5	43332	43333	.	+	.	intron_id 3 ; splice_site "GT"
-ctg301	exonerate:protein2genome:local	intron	43332	43512	.	+	.	intron_id 3
-ctg301	exonerate:protein2genome:local	splice3	43511	43512	.	+	.	intron_id 2 ; splice_site "AG"
-ctg301	exonerate:protein2genome:local	cds	43513	43825	.	+	.	
-ctg301	exonerate:protein2genome:local	exon	43513	43825	.	+	.	insertions 0 ; deletions 4 ; identity 65.05 ; similarity 72.82 ; frameshifts 3
-ctg301	exonerate:protein2genome:local	similarity	40760	43825	1266	+	.	alignment_id 1 ; Query AIPGENE26763 ; Align 40760 1 135 ; Align 40897 47 249 ; Align 42654 130 78 ; Align 42733 157 147 ; Align 43165 206 165 ; Align 43514 262 51 ; Align 43567 280 39 ; Align 43606 294 66 ; Align 43672 317 114 ; Align 43787 356 39
 # --- END OF GFF DUMP ---
 #
 
@@ -912,7 +764,7 @@ vulgar: AIPGENE20564 4 185 . ctg145 107649 111262 + 676 M 7 21 S 0 2 5 0 2 I 0 3
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -1105,7 +957,7 @@ vulgar: AIPGENE13242 6 459 . ctg295 113056 107648 - 1523 M 55 165 S 0 1 5 0 2 I 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -1293,7 +1145,7 @@ vulgar: AIPGENE15200 4 443 . ctg224 144242 147701 + 1636 M 29 87 G 1 0 M 1 3 F 0
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -1471,7 +1323,7 @@ vulgar: AIPGENE25402 16 489 . ctg39 312030 315617 + 1362 M 28 84 G 0 9 M 48 144 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -1659,7 +1511,7 @@ vulgar: AIPGENE4001 0 481 . ctg232 28744 36090 + 1483 M 10 30 5 0 2 I 0 1910 3 0
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -1812,7 +1664,7 @@ vulgar: AIPGENE1161 20 271 . ctg214 120654 123504 + 1127 M 44 132 S 0 2 5 0 2 I 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -2215,7 +2067,7 @@ vulgar: AIPGENE21712 0 1106 . ctg196 46420 23801 - 2892 M 33 99 F 0 2 G 1 0 M 16
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -2458,7 +2310,7 @@ vulgar: AIPGENE9142 4 316 . ctg187 34297 32436 - 1242 M 45 135 F 0 1 G 1 0 M 35 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -2596,7 +2448,7 @@ vulgar: AIPGENE9142 2 377 . ctg187 36687 38902 + 1499 M 15 45 F 0 2 G 1 0 M 19 5
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -2749,7 +2601,7 @@ vulgar: AIPGENE16442 54 430 . ctg135 147894 139360 - 1216 M 19 57 S 0 1 5 0 2 I 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -2832,7 +2684,7 @@ vulgar: AIPGENE13806 0 85 . ctg121 11424 12107 + 259 M 40 120 F 0 2 G 1 0 M 18 5
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -2920,7 +2772,7 @@ vulgar: AIPGENE25153 29 228 . ctg121 238675 239825 + 671 M 117 351 S 0 2 5 0 2 I
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -3153,7 +3005,7 @@ vulgar: AIPGENE10504 2 616 . ctg108 49037 37136 - 1897 M 16 48 F 0 1 M 14 42 S 0
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -3406,7 +3258,7 @@ vulgar: AIPGENE28401 26 507 . ctg16 230959 49229 - 1449 M 25 75 G 0 6 M 59 177 F
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -3451,6 +3303,154 @@ ctg16	exonerate:protein2genome:local	splice3	49273	49274	.	-	.	intron_id 6 ; spl
 ctg16	exonerate:protein2genome:local	cds	49230	49272	.	-	.	
 ctg16	exonerate:protein2genome:local	exon	49230	49272	.	-	.	insertions 0 ; deletions 1 ; identity 78.57 ; similarity 85.71
 ctg16	exonerate:protein2genome:local	similarity	49230	230959	1449	-	.	alignment_id 1 ; Query AIPGENE28401 ; Align 230960 27 75 ; Align 230879 52 177 ; Align 230700 112 84 ; Align 229446 140 75 ; Align 228776 165 63 ; Align 228712 186 42 ; Align 228668 200 36 ; Align 227438 213 24 ; Align 227412 222 78 ; Align 227332 248 6 ; Align 227326 251 102 ; Align 227222 286 63 ; Align 226760 308 72 ; Align 226687 332 81 ; Align 226468 359 18 ; Align 226450 366 15 ; Align 226435 372 132 ; Align 225860 416 228 ; Align 49272 493 21 ; Align 49251 501 21
+# --- END OF GFF DUMP ---
+#
+
+C4 Alignment:
+------------
+         Query: AIPGENE26763
+        Target: ctg301 len=160229
+         Model: protein2genome:local
+     Raw score: 1266
+   Query range: 0 -> 368
+  Target range: 40759 -> 43825
+
+     1 : MetSerLeuHisAspLysArgThrValSerAspUnkThrCysValLeuGluArgTyrSer :    20
+         ||||||||||||||||||||||||!.!!!!|||   ..!! !||||||!!:!:!|||!!!
+         MetSerLeuHisAspLysArgThrAlaThrAspLysValSerValLeuAspLysTyrCys
+ 40760 : ATGAGTTTACACGACAAGAGAACAGCCACCGACAAGGTATCTGTCTTGGACAAATATTGC : 40817
+
+    21 : LysLeuAspGlnGlyThrSerValGlnAlaLeuTyrIleTrpIleAspGlyThrGlyGlu :    40
+         |||||||||||||||  ! !!:!!||||||||||||||||||||||||||||||||||||
+         LysLeuAspGlnGlyAspArgIleGlnAlaLeuTyrIleTrpIleAspGlyThrGlyGlu
+ 40818 : AAGCTCGACCAAGGAGATCGAATTCAAGCTCTGTACATCTGGATAGATGGAACCGGTGAA : 40877
+
+    41 : GlyIleArgCysLys--ThrLysThrLeuGluLysArgProAspSerIleGluAspLeuP :    60
+         |||||||||||||||##   |||||||||!!:|||! !|||!!:||||||||||||||||
+         GlyIleArgCysLys##---LysThrLeuAspLysProProGluSerIleGluAspLeuP
+ 40878 : GGAATCCGTTGTAAAAC---AAAACCCTGGATAAGCCTCCAGAGTCTATCGAGGACCTTC : 40936
+
+    61 : roIleTrpAsnPheAspGlySerSerThrAlaGlnUnkGluGlyHisAsnSerAspValT :    80
+         |||||||||||||||||||||||||||||!.!|||...||||||  !|||||||||||||
+         roIleTrpAsnPheAspGlySerSerThrGlyGlnAlaGluGlyPheAsnSerAspValT
+ 40937 : CCATCTGGAACTTCGATGGCTCGAGTACAGGTCAAGCCGAGGGATTCAACAGTGATGTAT : 40996
+
+    81 : yrLeuHisProValAlaIlePheLysAspProPheArgGlyGlyGluAsnUnkLeuValL :   100
+         ||||||||||||||:!!! !||||||||||||||||||||||||||||||   |||||||
+         yrLeuHisProValSerThrPheLysAspProPheArgGlyGlyGluAsnIleLeuValL
+ 40997 : ACCTTCATCCAGTCTCTACCTTCAAGGATCCTTTCAGAGGTGGAGAAAATATCTTGGTTC : 41056
+
+   101 : euCysGluThrTyrThrHisAspHisLysProThrHisThrAsnAsnArgLysThrCysM :   120
+         ||||||||||||||! !:!!:!!||||||||||||  !|||||||||||||||||||||.
+         euCysGluThrTyrLysTyrAsnHisLysProThrThrThrAsnAsnArgLysThrCysP
+ 41057 : TCTGCGAGACGTATAAGTACAACCATAAACCCACCACTACAAACAACAGAAAAACCTGTT : 41116
+
+   121 : etAsnIleMetAsnAspProGluValLys  >>>> Target Intron 1 >>>>  Se :   130
+         !..!.:!!|||:!!  !  !:!!||||||           1508 bp           !.
+         heGluValMetAspCysGluLysValLys++                         ++Ly
+ 41117 : TTGAAGTTATGGATTGTGAGAAAGTCAAGgt.........................agAA : 42654
+
+   131 : rSerUnkProTrpPheGlyIleGluGlnGluTyrThrLeuLeuAspIleAspGlyHisPr :   150
+         !|||   |||||||||||||||||||||||||||||||||||||||:!!|||||||||||
+         sSerIleProTrpPheGlyIleGluGlnGluTyrThrLeuLeuAspValAspGlyHisPr
+ 42655 : ATCCATACCATGGTTCGGCATTGAACAAGAATACACACTTCTTGATGTAGATGGCCACCC : 42714
+
+   151 : oLeuGlyTrpProLys-GlyGlyPheProGlyProGlnGlyProTyrTyrCysGlyValG :   170
+         ||||! ! ! ||||||#    !!.!!||||||||||||||||||||||||||||||||||
+         oLeuAspGlyProLys#---TrpLeuProGlyProGlnGlyProTyrTyrCysGlyValG
+ 42715 : ATTAGATGGCCCAAAGG---TGGCTTCCAGGACCACAGGGACCATACTATTGTGGTGTTG : 42772
+
+   171 : lyThrAsnLysValPheGlyArgGluValValGluAlaHisTyrArgAlaCysLeuTyrA :   190
+         ||||||||!:!|||||||||||||||:!!|||||||||||||||||||||||||||||||
+         lyThrAsnArgValPheGlyArgGluIleValGluAlaHisTyrArgAlaCysLeuTyrA
+ 42773 : GAACCAACAGAGTTTTTGGACGAGAGATCGTTGAGGCACATTATCGTGCATGTCTGTATG : 42832
+
+   191 : laGlyValLysIleAlaGlyThrAsnUnkGluValMetProAlaGln  >>>> Target :   206
+         |||||:!!||||||||||||||||||...||||||||||||||||||            2
+         laGlyIleLysIleAlaGlyThrAsnAlaGluValMetProAlaGln++           
+ 42833 : CTGGAATCAAGATTGCTGGTACTAACGCTGAAGTAATGCCTGCTCAGgt........... : 42882
+
+   207 :  Intron 2 >>>>  TrpGluTyrGlnValGlyProCysGluGlyIleGluMetGlyAs :   220
+         85 bp           ||||||||||||||||||||||||||||||||||||||||||||
+                       ++TrpGluTyrGlnValGlyProCysGluGlyIleGluMetGlyAs
+ 42883 : ..............agTGGGAATACCAAGTGGGCCCATGTGAAGGTATTGAGATGGGAGA : 43207
+
+   221 : pHisLeuTrpIleSerArgTyrIleLeuHisArgValAlaGluAspPheHisValValVa :   240
+         |||||||||||||||||||||||||||||||||||||||||||||||||  !|||:!!||
+         pHisLeuTrpIleSerArgTyrIleLeuHisArgValAlaGluAspPheGlyValMetVa
+ 43208 : TCACCTGTGGATATCCAGATACATCCTACACCGTGTGGCTGAAGACTTTGGTGTCATGGT : 43267
+
+   241 : lSerPheAspProLysProMetProGlyAspTrpAsnGlyUnkGlyAlaHisCysAsnTy :   260
+         |!!!||||||||||||||||||||||||!!:|||||||||...|||||||||||||||||
+         lThrPheAspProLysProMetProGlyGluTrpAsnGlyAlaGlyAlaHisCysAsnTy
+ 43268 : TACCTTTGATCCCAAACCAATGCCTGGTGAATGGAATGGTGCTGGAGCTCACTGCAACTA : 43327
+
+   261 : r{Se}  >>>> Target Intron 3 >>>>  {r}ThrValGlyMetArgGluGluAs :   269
+         |{||}            181 bp           {|}|||:!!! !||||||.!.|||..
+         r{Se}++                         ++{r}ThrLeuGluMetArgAsnGluGl
+ 43328 : C{AG}gt.........................ag{T}ACACTGGAAATGAGAAATGAAGG : 43535
+
+   270 : nGlyMetArgLeuIleTyrGluAlaIle--AspLysLeuGluLysAsnHisAspTyrHis :   288
+         .||||||!:!  !|||||||||||||||##   |||||||||:!!|||||||||||||||
+         yGlyMetLysAspIleTyrGluAlaIle##---LysLeuGluGluAsnHisAspTyrHis
+ 43536 : AGGAATGAAAGACATCTATGAAGCTATTAA---AAGCTTGAAGAGAACCATGATTACCAC : 43591
+
+   289 : IleLysLysTyrAspProLysGlnGlyGlnAspAsnAlaArgArgLeuThrGlyArgHis :   308
+         |||||||||:!!     !...|||  !::!   !    !! !  !||||||||||||! !
+         IleLysLysHis---***SerGlnProArgLeuIleMetLeuValLeuThrGlyArgLeu
+ 43592 : ATCAAGAAGCAC---TGATCCCAACCAAGGCTGATAATGCTCGTCCTGACTGGCAGACTT : 43648
+
+   309 : GluThrSerSerIleTyrGlnPheSerHisGlyValAlaAsnArgGlyAlaSerValArg :   328
+         |||||||||!!!  !   .!.   ||||||  !|||  !   ! !! !!.!..!|||!:!
+         GluThrSerThrSerMetAsn---SerHisMetValLeuProThrValValGlnValLys
+ 43649 : GAAACCTCAACATCAATGAAT---TCTCACATGGTGTTGCCAACCGTGGTGCAAGTGAAG : 43705
+
+   329 : IleProArgGlnCysAlaGluAspGlyLysGlyTyrLeuGluAspArgArgProSerSer :   348
+           ! !!  !|||||||||||||||||||||||||||||||||||||||||||||||||||
+         AspSerSerGlnCysAlaGluAspGlyLysGlyTyrLeuGluAspArgArgProSerSer
+ 43706 : GATTCCTCGCAGTGTGCCGAGGATGGTAAAGGATACCTTGAGGATAGAAGACCATCATCC : 43765
+
+   349 : AsnCysAspProTyrSer-ValThrGluAlaIleUnkArgThrThrIleLysAsnTyrTh :   368
+         ||||||||||||||||||#   ||||||||||||   ||||||||||||  !|||:!!||
+         AsnCysAspProTyrSer#---ThrGluAlaIleValArgThrThrIleLeuAsnHisTh
+ 43766 : AACTGTGATCCATACAGCC---ACTGAAGCCATTGTCAGAACGACCATCTTGAACCATAC : 43823
+
+   369 : r :   368
+         |
+         r
+ 43824 : A : 43825
+
+vulgar: AIPGENE26763 0 368 . ctg301 40759 43825 + 1266 M 45 135 F 0 2 G 1 0 M 83 249 5 0 2 I 0 1504 3 0 2 M 26 78 F 0 1 G 1 0 M 49 147 5 0 2 I 0 281 3 0 2 M 55 165 S 0 2 5 0 2 I 0 177 3 0 2 S 1 1 M 17 51 F 0 2 G 1 0 M 13 39 G 1 0 M 22 66 G 1 0 M 38 114 F 0 1 G 1 0 M 13 39
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2018-12-18
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+ctg301	exonerate:protein2genome:local	gene	40760	43825	1266	+	.	gene_id 1 ; sequence AIPGENE26763 ; gene_orientation + ; identity 77.01 ; similarity 84.49
+ctg301	exonerate:protein2genome:local	cds	40760	41145	.	+	.	
+ctg301	exonerate:protein2genome:local	exon	40760	41145	.	+	.	insertions 0 ; deletions 1 ; identity 75.19 ; similarity 84.50 ; frameshifts 2
+ctg301	exonerate:protein2genome:local	splice5	41146	41147	.	+	.	intron_id 1 ; splice_site "GT"
+ctg301	exonerate:protein2genome:local	intron	41146	42653	.	+	.	intron_id 1
+ctg301	exonerate:protein2genome:local	splice3	42652	42653	.	+	.	intron_id 0 ; splice_site "AG"
+ctg301	exonerate:protein2genome:local	cds	42654	42879	.	+	.	
+ctg301	exonerate:protein2genome:local	exon	42654	42879	.	+	.	insertions 0 ; deletions 1 ; identity 85.53 ; similarity 90.79 ; frameshifts 1
+ctg301	exonerate:protein2genome:local	splice5	42880	42881	.	+	.	intron_id 2 ; splice_site "GT"
+ctg301	exonerate:protein2genome:local	intron	42880	43164	.	+	.	intron_id 2
+ctg301	exonerate:protein2genome:local	splice3	43163	43164	.	+	.	intron_id 1 ; splice_site "AG"
+ctg301	exonerate:protein2genome:local	cds	43165	43331	.	+	.	
+ctg301	exonerate:protein2genome:local	exon	43165	43331	.	+	.	insertions 0 ; deletions 0 ; identity 90.91 ; similarity 96.36
+ctg301	exonerate:protein2genome:local	splice5	43332	43333	.	+	.	intron_id 3 ; splice_site "GT"
+ctg301	exonerate:protein2genome:local	intron	43332	43512	.	+	.	intron_id 3
+ctg301	exonerate:protein2genome:local	splice3	43511	43512	.	+	.	intron_id 2 ; splice_site "AG"
+ctg301	exonerate:protein2genome:local	cds	43513	43825	.	+	.	
+ctg301	exonerate:protein2genome:local	exon	43513	43825	.	+	.	insertions 0 ; deletions 4 ; identity 65.05 ; similarity 72.82 ; frameshifts 3
+ctg301	exonerate:protein2genome:local	similarity	40760	43825	1266	+	.	alignment_id 1 ; Query AIPGENE26763 ; Align 40760 1 135 ; Align 40897 47 249 ; Align 42654 130 78 ; Align 42733 157 147 ; Align 43165 206 165 ; Align 43514 262 51 ; Align 43567 280 39 ; Align 43606 294 66 ; Align 43672 317 114 ; Align 43787 356 39
 # --- END OF GFF DUMP ---
 #
 
@@ -3569,7 +3569,7 @@ vulgar: AIPGENE8252 4 373 . ctg187 34297 32279 - 1340 M 45 135 F 0 1 G 1 0 M 35 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -3707,7 +3707,7 @@ vulgar: AIPGENE8252 2 377 . ctg187 36687 38902 + 1504 M 15 45 F 0 2 G 1 0 M 19 5
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -3830,7 +3830,7 @@ vulgar: AIPGENE11224 4 293 . ctg164 281644 284426 + 954 M 19 57 5 0 2 I 0 1837 3
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -3943,7 +3943,7 @@ vulgar: AIPGENE17108 0 233 . ctg130 18999 22086 + 736 M 33 99 F 0 2 G 1 0 M 4 12
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -4141,7 +4141,7 @@ vulgar: AIPGENE18106 13 470 . ctg295 116062 107648 - 1455 M 24 72 F 0 2 G 1 0 M 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -4344,7 +4344,7 @@ vulgar: AIPGENE2900 14 488 . ctg232 30679 36090 + 1334 M 26 78 G 1 0 M 1 3 F 0 2
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -4887,7 +4887,7 @@ vulgar: AIPGENE28157 56 1497 . ctg62 139485 110591 - 4417 M 13 39 G 1 0 M 15 45 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -5195,7 +5195,7 @@ vulgar: AIPGENE12816 2 377 . ctg187 36687 38902 + 1445 M 15 45 F 0 2 G 1 0 M 19 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -5283,7 +5283,7 @@ vulgar: AIPGENE13043 0 180 . ctg203 39151 40738 + 714 M 44 132 F 0 1 M 38 114 F 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -5356,7 +5356,7 @@ vulgar: AIPGENE13888 0 126 . ctg151 119654 118450 - 427 M 37 111 5 0 2 I 0 814 3
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -5569,7 +5569,7 @@ vulgar: AIPGENE25424 1 576 . ctg125 129217 123107 - 1922 M 39 117 5 0 2 I 0 85 3
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -5807,7 +5807,7 @@ vulgar: AIPGENE16434 0 501 . ctg121 24641 16770 - 1627 M 26 78 G 0 3 M 32 96 F 0
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -6020,7 +6020,7 @@ vulgar: AIPGENE18105 13 470 . ctg295 116062 107648 - 1455 M 24 72 F 0 2 G 1 0 M 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -6168,7 +6168,7 @@ vulgar: AIPGENE9147 4 316 . ctg187 34297 32436 - 1214 M 45 135 F 0 1 G 1 0 M 35 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -6306,7 +6306,7 @@ vulgar: AIPGENE9147 2 377 . ctg187 36687 38902 + 1477 M 15 45 F 0 2 G 1 0 M 19 5
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -6434,7 +6434,7 @@ vulgar: AIPGENE4852 14 316 . ctg232 30679 34233 + 1016 M 26 78 G 1 0 M 1 3 F 0 2
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -6522,7 +6522,7 @@ vulgar: AIPGENE16631 0 147 . ctg182 99266 97915 - 577 M 18 54 5 0 2 I 0 909 3 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -6620,7 +6620,7 @@ vulgar: AIPGENE8319 4 186 . ctg145 107649 111265 + 630 M 7 21 S 0 2 5 0 2 I 0 30
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -6943,7 +6943,7 @@ vulgar: AIPGENE7971 0 839 . ctg14 258070 247896 - 2299 M 19 57 5 0 2 I 0 1783 3 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -7201,7 +7201,7 @@ vulgar: AIPGENE13241 6 459 . ctg295 113056 107648 - 1498 M 55 165 S 0 1 5 0 2 I 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -7424,7 +7424,7 @@ vulgar: AIPGENE4046 2 512 . ctg232 25676 18463 - 1524 M 30 90 5 0 2 I 0 1509 3 0
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -7857,7 +7857,7 @@ vulgar: AIPGENE21711 0 1119 . ctg196 46420 24296 - 2973 M 33 99 F 0 2 G 1 0 M 16
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -8095,7 +8095,7 @@ vulgar: AIPGENE12775 4 316 . ctg187 34297 32436 - 1230 M 45 135 F 0 1 G 1 0 M 35
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -8233,7 +8233,7 @@ vulgar: AIPGENE12775 2 377 . ctg187 36687 38902 + 1475 M 15 45 F 0 2 G 1 0 M 19 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -8381,7 +8381,7 @@ vulgar: AIPGENE11186 12 343 . ctg164 299445 291196 - 1154 M 24 72 S 0 1 5 0 2 I 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -8464,7 +8464,7 @@ vulgar: AIPGENE10597 0 68 . ctg105 66888 67091 + 244 M 23 69 F 0 2 G 1 0 M 44 13
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -8632,7 +8632,7 @@ vulgar: AIPGENE13657 0 458 . ctg80 12364 5890 - 1250 M 18 54 5 0 2 I 0 580 3 0 2
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -8685,7 +8685,7 @@ ctg80	exonerate:protein2genome:local	similarity	5891	12364	1250	-	.	alignment_id
 # --- END OF GFF DUMP ---
 #
 -- completed exonerate analysis
-Command line: [exonerate --model protein2genome --percent 50 --showtargetgff yes aiptasia_sym_prot.fasta Ae.ctg.lay.part-2.fa]
+Command line: [exonerate --model protein2genome --percent 50 --showtargetgff yes sym_prot_all.fasta Ae.ctg.lay.part-2.fa]
 Hostname: [SPMC-Moleculars-iMac.local]
 
 C4 Alignment:
@@ -8728,7 +8728,7 @@ vulgar: AIPGENE17838 0 88 . ctg598 13785 13521 - 393 M 88 264
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -8816,7 +8816,7 @@ vulgar: AIPGENE5165 13 219 . ctg738 37067 39265 + 802 M 17 51 S 0 2 5 0 2 I 0 95
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -8914,7 +8914,7 @@ vulgar: AIPGENE14484 0 178 . ctg558 103958 105925 + 691 M 14 42 G 0 6 M 21 63 G 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -8992,7 +8992,7 @@ vulgar: AIPGENE8470 0 132 . ctg558 103958 105108 + 495 M 14 42 G 0 6 M 21 63 G 0
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -9045,7 +9045,7 @@ vulgar: AIPGENE28898 0 69 . ctg648 59360 59153 - 334 M 69 207
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -9088,7 +9088,7 @@ vulgar: AIPGENE28898 0 52 . ctg648 49788 49632 - 217 M 52 156
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -9236,7 +9236,7 @@ vulgar: AIPGENE24599 0 435 . ctg648 56697 49632 - 1827 M 75 225 S 0 1 5 0 2 I 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -9399,7 +9399,7 @@ vulgar: AIPGENE24599 1 452 . ctg648 62422 59153 - 1682 M 9 27 F 0 2 M 15 45 F 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -9517,7 +9517,7 @@ vulgar: AIPGENE17951 0 313 . ctg648 50571 49632 - 1281 M 97 291 F 0 1 M 42 126 F
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -9630,7 +9630,7 @@ vulgar: AIPGENE17951 3 325 . ctg648 60129 59168 - 1279 M 44 132 F 0 2 G 1 0 M 38
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -9738,7 +9738,7 @@ vulgar: AIPGENE15827 39 292 . ctg372 241713 243622 + 766 M 41 123 F 0 2 M 11 33 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -9881,7 +9881,7 @@ vulgar: AIPGENE1928 34 385 . ctg372 81828 78082 - 1352 M 25 75 F 0 1 M 21 63 S 0
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -10014,7 +10014,7 @@ vulgar: AIPGENE2846 0 340 . ctg648 56592 49812 - 1441 M 40 120 S 0 1 5 0 2 I 0 1
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -10147,7 +10147,7 @@ vulgar: AIPGENE2846 9 340 . ctg648 62295 59384 - 1304 M 14 42 F 0 1 M 17 51 S 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -10320,7 +10320,7 @@ vulgar: AIPGENE2489 29 498 . ctg484 330292 332512 + 1462 M 39 117 F 0 1 M 2 6 G 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -10433,7 +10433,7 @@ vulgar: AIPGENE20514 0 245 . ctg324 59481 58398 - 820 M 18 54 S 0 2 5 0 2 I 0 12
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -10516,7 +10516,7 @@ vulgar: AIPGENE2854 0 126 . ctg648 56697 50767 - 524 M 75 225 S 0 1 5 0 2 I 0 14
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -10584,7 +10584,7 @@ vulgar: AIPGENE2854 0 106 . ctg648 52398 50826 - 457 M 75 225 S 0 1 5 0 2 I 0 12
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -10677,7 +10677,7 @@ vulgar: AIPGENE2869 0 190 . ctg648 56697 49632 - 776 M 75 225 S 0 1 5 0 2 I 0 14
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -10780,7 +10780,7 @@ vulgar: AIPGENE2869 1 207 . ctg648 62422 59153 - 713 M 9 27 F 0 2 M 15 45 F 0 1 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -10943,7 +10943,7 @@ vulgar: AIPGENE9543 0 446 . ctg648 56697 49597 - 1905 M 75 225 S 0 1 5 0 2 I 0 1
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -11106,7 +11106,7 @@ vulgar: AIPGENE9543 1 447 . ctg648 62422 59168 - 1739 M 9 27 F 0 2 M 15 45 F 0 1
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -11189,7 +11189,7 @@ vulgar: AIPGENE21619 12 147 . ctg412 62741 65064 + 522 M 43 129 5 0 2 I 0 637 3 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -11337,7 +11337,7 @@ vulgar: AIPGENE17177 0 375 . ctg324 59481 57521 - 1183 M 20 60 S 0 1 5 0 2 I 0 3
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -11460,7 +11460,7 @@ vulgar: AIPGENE28879 0 272 . ctg648 56592 50016 - 1076 M 40 120 S 0 1 5 0 2 I 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -11578,7 +11578,7 @@ vulgar: AIPGENE28879 9 272 . ctg648 62295 59588 - 918 M 14 42 F 0 1 M 17 51 S 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -11741,7 +11741,7 @@ vulgar: AIPGENE9554 0 446 . ctg648 56697 49597 - 1855 M 75 225 S 0 1 5 0 2 I 0 1
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -11904,7 +11904,7 @@ vulgar: AIPGENE9554 1 447 . ctg648 62422 59168 - 1759 M 9 27 F 0 2 M 15 45 F 0 1
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -12072,7 +12072,7 @@ vulgar: AIPGENE27901 0 448 . ctg324 59481 57303 - 2032 M 18 54 S 0 2 5 0 2 I 0 1
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -12230,7 +12230,7 @@ vulgar: AIPGENE12129 0 317 . ctg818 99179 96523 - 864 M 29 87 S 0 1 5 0 2 I 0 77
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -12398,7 +12398,7 @@ vulgar: AIPGENE12599 7 396 . ctg787 86597 87758 + 1265 M 28 84 G 1 0 M 1 3 F 0 1
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -12451,7 +12451,7 @@ vulgar: AIPGENE27564 5 89 . ctg756 30490 30239 - 310 M 16 48 F 0 2 M 5 15 G 1 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -12559,7 +12559,7 @@ vulgar: AIPGENE28920 0 265 . ctg648 56697 50424 - 1018 M 75 225 S 0 1 5 0 2 I 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -12687,7 +12687,7 @@ vulgar: AIPGENE28920 1 265 . ctg648 62422 54530 - 779 M 9 27 F 0 2 M 15 45 F 0 1
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -12810,7 +12810,7 @@ vulgar: AIPGENE28889 0 259 . ctg648 56697 50159 - 1057 M 75 225 S 0 1 5 0 2 I 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -12933,7 +12933,7 @@ vulgar: AIPGENE28889 1 284 . ctg648 62422 59153 - 854 M 9 27 F 0 2 M 15 45 F 0 1
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -13101,7 +13101,7 @@ vulgar: AIPGENE20512 0 433 . ctg324 59481 57347 - 2015 M 18 54 S 0 2 5 0 2 I 0 1
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -13264,7 +13264,7 @@ vulgar: AIPGENE23849 0 386 . ctg648 56697 50150 - 1515 M 75 225 S 0 1 5 0 2 I 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -13422,7 +13422,7 @@ vulgar: AIPGENE23849 1 388 . ctg648 62422 54259 - 1169 M 9 27 F 0 2 M 15 45 F 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -13520,7 +13520,7 @@ vulgar: AIPGENE26706 0 143 . ctg494 38248 40451 + 379 M 17 51 S 0 1 5 0 2 I 0 68
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -13598,7 +13598,7 @@ vulgar: AIPGENE25636 12 93 . ctg435 66827 65351 - 302 M 32 96 S 0 2 5 0 2 I 0 54
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -13706,7 +13706,7 @@ vulgar: AIPGENE28936 0 227 . ctg648 56697 50255 - 945 M 75 225 S 0 1 5 0 2 I 0 1
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -13814,7 +13814,7 @@ vulgar: AIPGENE28936 1 226 . ctg648 62422 59828 - 754 M 9 27 F 0 2 M 15 45 F 0 1
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -13902,7 +13902,7 @@ vulgar: AIPGENE4512 0 184 . ctg472 79784 78132 - 613 M 27 81 F 0 2 G 1 0 M 58 17
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -14015,7 +14015,7 @@ vulgar: AIPGENE12727 15 252 . ctg412 42810 64604 + 698 M 23 69 G 1 0 M 30 90 S 0
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -14208,7 +14208,7 @@ vulgar: AIPGENE10493 0 448 . ctg324 59481 57303 - 2030 M 18 54 S 0 2 5 0 2 I 0 1
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -14276,7 +14276,7 @@ vulgar: AIPGENE28886 8 67 . ctg648 59327 59153 - 263 M 49 147 G 1 0 M 9 27
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -14419,7 +14419,7 @@ vulgar: AIPGENE23845 0 435 . ctg648 56697 49632 - 1854 M 75 225 S 0 1 5 0 2 I 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -14577,7 +14577,7 @@ vulgar: AIPGENE23845 1 453 . ctg648 62422 59153 - 1714 M 9 27 F 0 2 M 15 45 F 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -14740,7 +14740,7 @@ vulgar: AIPGENE23810 0 433 . ctg324 59481 57347 - 1924 M 18 54 S 0 2 5 0 2 I 0 1
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -14778,8 +14778,8 @@ ctg324	exonerate:protein2genome:local	similarity	57348	59481	1924	-	.	alignment_
 # --- END OF GFF DUMP ---
 #
 -- completed exonerate analysis
-Command line: [exonerate --model protein2genome --percent 50 --showtargetgff yes aiptasia_sym_prot.fasta Ae.ctg.lay.part-3.fa]
-Hostname: [SPMC-Moleculars-iMac.local]
+Command line: [exonerate --model protein2genome --percent 50 --showtargetgff yes sym_prot_all.fasta Ae.ctg.lay.part-3.fa]
+Hostname: [wlan010-111-048-075.wlan.wwu.edu]
 
 C4 Alignment:
 ------------
@@ -14816,7 +14816,7 @@ vulgar: AIPGENE28886 8 67 . ctg870 17842 17661 - 241 M 28 84 F 0 1 M 19 57 G 0 3
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -14969,7 +14969,7 @@ vulgar: AIPGENE10493 0 441 . ctg1451 15796 11348 - 1741 M 19 57 5 0 2 I 0 984 3 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -15042,7 +15042,7 @@ vulgar: AIPGENE4636 0 67 . ctg930 16559 16759 + 207 M 42 126 F 0 2 G 1 0 M 24 72
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -15052,280 +15052,6 @@ ctg930	exonerate:protein2genome:local	gene	16560	16759	207	+	.	gene_id 1 ; seque
 ctg930	exonerate:protein2genome:local	cds	16560	16759	.	+	.	
 ctg930	exonerate:protein2genome:local	exon	16560	16759	.	+	.	insertions 0 ; deletions 1 ; identity 65.15 ; similarity 87.88 ; frameshifts 2
 ctg930	exonerate:protein2genome:local	similarity	16560	16759	207	+	.	alignment_id 1 ; Query AIPGENE4636 ; Align 16560 1 126 ; Align 16688 44 72
-# --- END OF GFF DUMP ---
-#
-
-C4 Alignment:
-------------
-         Query: AIPGENE9543
-        Target: ctg1355 len=125886:[revcomp]
-         Model: protein2genome:local
-     Raw score: 1301
-   Query range: 1 -> 439
-  Target range: 75566 -> 72365
-
-     2 : ArgGluCysIleSerIleHisValGlyGlnAlaGlyValGlnMetGlyAsnAlaCysTrp :    21
-         ||||||||||||||||||||||||||||||||||||||||||!!:|||||||||||||||
-         ArgGluCysIleSerIleHisValGlyGlnAlaGlyValGlnIleGlyAsnAlaCysTrp
- 75566 : CGAGAATGCATTTCCATCCATGTGGGTCAAGCTGGAGTACAGATAGGCAATGCCTGTTGG : 75509
-
-    22 : GluLeuTyrCysLeuGluHisGlyIleGlnProAspGlyGlnMetProSerAspMetThr :    41
-         |||||||||||||||||||||..!|||:!!|||||||||! !:!:! !|||..!   ..!
-         GluLeuTyrCysLeuGluHisAsnIleLysProAspGlyLeuLeuGlnSerSerArgVal
- 75508 : GAGCTTTACTGTCTAGAGCACAACATCAAACCAGATGGTCTACTACAGAGCAGTCGAGTT : 75449
-
-    42 : LeuGlyGlyGlyAspAspSerPheAsnThrPhePheSer<->GluThrGlyAlaGly-Ly :    60
-                  |||||||||||||||!:!||||||||||||   |||.!!|||:!!|||# !
-         ---------GlyAspAspSerPheSerThrPhePheSerThrGluAlaGlySerGly#Hi
- 75448 : ---------GGGGATGATTCCTTCAGTACCTTCTTCTCAACGGAGGCTGGTTCTGGAACA : 75397
-
-    61 : sHisValProArgAlaValPheValAspLeuGluProThrValVal{A}  >>>> Targ :    76
-          :!!|||||||||||||||||||||||||||||||||||||||:!!{|}           
-         sTyrValProArgAlaValPheValAspLeuGluProThrValIle{A}++         
- 75396 : CTATGTTCCTCGGGCCGTCTTTGTCGACTTGGAGCCAACTGTGATA{G}gt......... : 75346
-
-    77 : et Intron 1 >>>>  {sp}GluValArgThrGlyThrTyrArgGlnLeuPhe-HisP :    89
-          501 bp           {||}|||:!!|||||||||! !||||||.!.||||||#   |
-                         ++{sp}GluIleArgThrGlyMetTyrArgAspLeuPhe#---P
- 75345 : ................ag{AT}GAGATACGAACTGGCATGTACCGTGACCTCTTCA---C : 74811
-
-    90 : roGluGlnLeuIleThrGlyLysGluAspAlaAlaAsnAsnTyrAlaArgGlyHisTyrT :   109
-         |||||||||||||||||||||||||||||||||||||||||!:!||||||||||||||||
-         roGluGlnLeuIleThrGlyLysGluAspAlaAlaAsnAsnPheAlaArgGlyHisTyrT
- 74810 : CAGAACAGCTCATCACTGGCAAGGAAGATGCCGCTAATAACTTTGCACGGGGTCACTATA : 74751
-
-   110 : hrValGlyLysGluIleIleAspMetValLeuAspArgValArgLysThr  >>>> Tar :   126
-         |||||||||||||||||:!!|||   |||||||||!:!:!!||||||! !          
-         hrValGlyLysGluIleValAspAspValLeuAspLysIleArgLysMet++        
- 74750 : CTGTTGGCAAAGAGATAGTCGATGACGTGCTGGACAAAATCAGAAAGATGgt........ : 74698
-
-   127 : get Intron 2 >>>>  AlaAspGlnCysThrGlyLeuGlnGlyPheLeuIlePheHi :   139
-          1394 bp           .!!|||||||||  !||||||||||||||||||||||||:!
-                          ++ThrAspGlnCysCysGlyLeuGlnGlyPheLeuIlePheAs
- 74697 : .................agACAGACCAGTGTTGTGGCCTTCAAGGATTCCTCATCTTCAA : 73267
-
-   140 : sSerPheGlyGlyGlyThrGlySerGlyPheThrSerLeuLeuMetGluArgLeuSerVa :   159
-         !|||.!!||||||||||||||||||||||||  !|||! !! !:!!|||||||||!!!||
-         nSerLeuGlyGlyGlyThrGlySerGlyPheGluSerTrp***LeuGluArgLeuThrVa
- 73266 : CTCACTTGGAGGCGGTACAGGATCTGGGTTCGAATCCTGGTGACTGGAGAGGTTGACAGT : 73207
-
-   160 : lAspTyrGlyLysLysSerLysLeuGluPheAlaValTyrProAlaProGlnIleSerTh :   179
-         |||||||.!!|||||||||||||||||||||:!!|||||||||||||||.!.:!:|||||
-         lAspTyrSerLysLysSerLysLeuGluPheSerValTyrProAlaProAsnValSerTh
- 73206 : TGACTACAGCAAGAAGTCTAAGTTGGAGTTCTCGGTGTACCCTGCACCTAACGTGAGCAC : 73147
-
-   180 : rAlaValValGluProTyrAsnAlaValLeuThrThrHisThrThrLeuGluGlnSerAs :   199
-         ||||||||||||||||||||||||||||||||||||||||||||||||||||!!.:!!||
-         rAlaValValGluProTyrAsnAlaValLeuThrThrHisThrThrLeuGluHisAlaAs
- 73146 : CGCTGTGGTCGAGCCTTATAACGCAGTACTGACTACTCATACTACTCTTGAACACGCGGA : 73087
-
-   200 : pCysAlaPheMetValAspAsnGluAlaIlePheAspIleCysArgArgAsnLeuAspIl :   219
-         ||||.!!|||||| !!||||||||||||! !||||||:!!||||||||||||||||||||
-         pCysThrPheMetPheAspAsnGluAlaThrPheAspLeuCysArgArgAsnLeuAspIl
- 73086 : CTGCACATTCATGTTTGATAATGAAGCCACCTTTGATTTATGCAGACGCAATCTCGATAT : 73027
-
-   220 : eGluArgProThrTyrThrAsnLeu--AsnArgLeuIleGlyGlnIleValSerSerIle :   238
-         |||||||||||||!    !.!.|||##:!!|||||||||.!!|||:!!||||||||||||
-         eGluArgProThrLeuPheGluLeu##AspArgLeuIleSerGlnValValSerSerIle
- 73026 : TGAAAGGCCTACATTATTCGAACTTGAGATCGCCTCATCAGCCAGGTTGTTTCTTCCATT : 72968
-
-   239 : ThrAlaSerLeuArgPheAspGlyAlaLeuAsnValAspLeuThrGluPheGlnThrAsn :   258
-         |||:!!|||||||||||||||||||||||||||||||||||||||||||||:!!   ...
-         ThrSerSerLeuArgPheAspGlyAlaLeuAsnValAspLeuThrGluPheLys---Arg
- 72967 : ACGTCATCTCTTCGATTTGATGGCGCACTCAACGTTGATCTCACGGAGTTCAAA---CGA : 72911
-
-   259 : LeuValProTyrProArgIleHisPheProLeuAlaThrTyrAlaProValIleSerAla :   278
-         :!!  !  !:!!  !||||||||||||||||||  !|||||||||! !  !  !     !
-         IleTrpCysHisIleArgIleHisPheProLeuMetThrTyrAlaArgSerTyr---Leu
- 72910 : ATTTGGTGCCATATCCGAATCCACTTCCCTCTGATGACCTACGCTCGGTCATAT---CTC : 72854
-
-   279 : GluLysAlaTyrHisGluGlnLeuSerValAlaGluIleThrAsnAlaCysPheGluPro :   298
-         :!!|||::!      ..!  !  !! !  !!.!! !  !  !||||||||||||||||||
-         GlnLysSerValSerArgThrAspIleCysGlyGlyTyrArgAsnAlaCysPheGluPro
- 72853 : CAGAAAAGCGTATCACGAACAGATATCTGTGGCGGATATCGCAATGCTTGTTTCGAACCA : 72794
-
-   299 : AlaAsnGlnMetValLysCysAspProArgHisGlyLysTyrMetAlaCysCys--LeuL :   318
-         :!!|||||||||||||||||||||||||||||||||||||||||||||||||||##   |
-         SerAsnGlnMetValLysCysAspProArgHisGlyLysTyrMetAlaCysCys##---L
- 72793 : TCCAATCAAATGGTCAAATGTGATCCACGTCATGGAAAATACATGGCCTGTTGCTG---T : 72735
-
-   319 : euTyrArgGlyAspValValProLysAspValAsnAlaAlaIleAlaHisIleLysThrL :   338
-         |||||||||||||||||||||||||||||||||||||||||||||||  !||||||!.!|
-         euTyrArgGlyAspValValProLysAspValAsnAlaAlaIleAlaValIleLysAsnL
- 72734 : TGTATCGAGGAGATGTGGTACCCAAAGATGTGAACGCAGCTATTGCGGTCATCAAGAATA : 72675
-
-   339 : ysArgThrIleGlnPheValAspTrpCysProThrGlyUnkLysValGlyIleAsnTyrG :   358
-         |||||:!!|||  !||||||||||||||||||||||||   |||||||||:!!!.!  !.
-         ysArgSerIleValPheValAspTrpCysProThrGlyPheLysValGlyLeuThrThrA
- 72674 : AACGATCAATCGTGTTTGTTGACTGGTGCCCTACTGGTTTTAAAGTGGGATTAACTACCA : 72615
-
-   359 : lnProProThrValValProGlyGlyAspLeuUnkLysValGlnArgAlaValCysMetL :   378
-         !.! !  !  !! !  !  ! !!|||   !!!   |||||||||||||||||||||||||
-         snLeuAsnCysGlySerTrpArgGly---PheGlyLysValGlnArgAlaValCysMetL
- 72614 : ACCTCAACTGTGGTTCCTGGCGGGGA---TTTGGAAAGGTGCAAAGGGCAGTTTGTATGC : 72558
-
-   379 : euSerAsnThrThrAlaIleAlaGluAlaTrpAlaArgLeuAspHisLysPheAspLeuM :   398
-         ||!!!|||||||||||||||:!!||||||||||||!:!  !!     |||||||||||||
-         euThrAsnThrThrAlaIleSerGluAlaTrpAlaLysAlaGlySerLysPheAspLeuM
- 72557 : TGACTAACACTACTGCTATATCTGAAGCATGGGCCAAGGCTGGATCAAAGTTTGACCTGA : 72498
-
-   399 : et<->TyrAlaLysArgAlaPheValHisTrpPheValGlyGluGlyMetGluGluGlyG :   417
-         ||    ! !.!:!!..!  !|||||||||||| !   !|||||||||  !! !..!! !.
-         etLeuGlnGlyGluGluHisPheValHisTrpValCysGlyGluGlyTrpGlyArgGluS
- 72497 : TGTTACAAGGGGAAGAGCATTTTGTTCACTGGGTATGTGGGGAGGGATGGGGGAGGGAGA : 72438
-
-   418 : luPheSerGluAlaArgGlu-AspLeuAlaAlaLeu<->GluLysAspTyrGluGluVal :   435
-         ..! !..!:!!|||||||||#|||:!!|||||||||   |||:!!||||||! !||||||
-         erSerGlnLysAlaArgGlu#AspMetAlaAlaLeuGluGluGluAspTyrValGluVal
- 72437 : GTTCTCAGAAGGCTCGTGAGGGACATGGCAGCTCTTGAGGAAGAAGACTATGTGGAGGTT : 72380
-
-   436 : GlyLeuAspSer :   439
-         |||  !||||||
-         GlyGluAspSer
- 72379 : GGAGAAGATTCA : 72366
-
-vulgar: AIPGENE9543 1 439 . ctg1355 75566 72365 - 1301 M 40 120 G 3 0 M 10 30 G 0 3 M 5 15 F 0 1 M 16 48 S 0 1 5 0 2 I 0 497 3 0 2 S 1 2 M 11 33 F 0 1 G 1 0 M 37 111 5 0 2 I 0 1390 3 0 2 M 102 306 F 0 2 M 29 87 G 1 0 M 19 57 G 1 0 M 39 117 F 0 2 G 1 0 M 49 147 G 1 0 M 31 93 G 0 3 M 25 75 F 0 1 M 5 15 G 0 3 M 11 33
-# --- START OF GFF DUMP ---
-#
-#
-##gff-version 2
-##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
-##type DNA
-#
-#
-# seqname source feature start end score strand frame attributes
-#
-ctg1355	exonerate:protein2genome:local	gene	72366	75566	1301	-	.	gene_id 1 ; sequence AIPGENE9543 ; gene_orientation + ; identity 72.26 ; similarity 80.89
-ctg1355	exonerate:protein2genome:local	cds	75349	75566	.	-	.	
-ctg1355	exonerate:protein2genome:local	exon	75349	75566	.	-	.	insertions 3 ; deletions 3 ; identity 78.87 ; similarity 88.73 ; frameshifts 1
-ctg1355	exonerate:protein2genome:local	splice5	75347	75348	.	-	.	intron_id 1 ; splice_site "GT"
-ctg1355	exonerate:protein2genome:local	intron	74848	75348	.	-	.	intron_id 1
-ctg1355	exonerate:protein2genome:local	splice3	74848	74849	.	-	.	intron_id 0 ; splice_site "AG"
-ctg1355	exonerate:protein2genome:local	cds	74701	74847	.	-	.	
-ctg1355	exonerate:protein2genome:local	exon	74701	74847	.	-	.	insertions 0 ; deletions 1 ; identity 79.59 ; similarity 89.80 ; frameshifts 1
-ctg1355	exonerate:protein2genome:local	splice5	74699	74700	.	-	.	intron_id 2 ; splice_site "GT"
-ctg1355	exonerate:protein2genome:local	intron	73307	74700	.	-	.	intron_id 2
-ctg1355	exonerate:protein2genome:local	splice3	73307	73308	.	-	.	intron_id 1 ; splice_site "AG"
-ctg1355	exonerate:protein2genome:local	cds	72366	73306	.	-	.	
-ctg1355	exonerate:protein2genome:local	exon	72366	73306	.	-	.	insertions 6 ; deletions 4 ; identity 69.35 ; similarity 77.42 ; frameshifts 5
-ctg1355	exonerate:protein2genome:local	similarity	72366	75566	1301	-	.	alignment_id 1 ; Query AIPGENE9543 ; Align 75567 2 120 ; Align 75447 45 30 ; Align 75414 55 15 ; Align 75398 60 48 ; Align 74846 77 33 ; Align 74812 89 111 ; Align 73307 126 306 ; Align 72999 228 87 ; Align 72912 258 57 ; Align 72855 278 117 ; Align 72736 318 147 ; Align 72589 368 93 ; Align 72493 399 75 ; Align 72417 424 15 ; Align 72399 429 33
-# --- END OF GFF DUMP ---
-#
-
-C4 Alignment:
-------------
-         Query: AIPGENE2854
-        Target: ctg870 len=66327:[revcomp]
-         Model: protein2genome:local
-     Raw score: 583
-   Query range: 0 -> 128
-  Target range: 21382 -> 18852
-
-     1 : MetArgGluCysIleSerValHisValGlyGlnAlaGlyValGlnIleGlyAsnAlaCys :    20
-         ..!|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-         GlnArgGluCysIleSerValHisValGlyGlnAlaGlyValGlnIleGlyAsnAlaCys
- 21382 : CAGCGTGAATGTATTTCAGTCCACGTTGGTCAAGCCGGTGTTCAGATCGGTAATGCTTGC : 21325
-
-    21 : TrpGluLeuTyrCysLeuGluHisUnkIleGlnProAspGlyGlnMetProSerAspLys :    40
-         ||||||||||||||||||||||||   |||||||||||||||||||||||||||||||||
-         TrpGluLeuTyrCysLeuGluHisGlyIleGlnProAspGlyGlnMetProSerAspLys
- 21324 : TGGGAGTTGTACTGTCTTGAACACGGTATCCAGCCCGATGGTCAGATGCCAAGCGACAAG : 21265
-
-    41 : ThrIleGlyGlyGlyAspAspSerPheAsnThrPhePheSerGluThrGlyAlaGlyLys :    60
-         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-         ThrIleGlyGlyGlyAspAspSerPheAsnThrPhePheSerGluThrGlyAlaGlyLys
- 21264 : ACGATCGGCGGTGGTGATGATTCGTTCAATACTTTCTTCAGTGAAACCGGTGCTGGGAAA : 21205
-
-    61 : HisValProArgAlaValPheValAspLeuGluProThrValVal{A}  >>>> Targe :    76
-         |||||||||||||||||||||||||||||||||||||||||||||{|}           2
-         HisValProArgAlaValPheValAspLeuGluProThrValVal{A}++          
- 21204 : CACGTTCCAAGAGCTGTGTTCGTAGATTTAGAACCAACCGTTGTA{G}gt.......... : 21154
-
-    77 : t Intron 1 >>>>  {sp}GluValArgThrGly--ThrTyrArgGlnLeuPheHisP :    89
-         147 bp           {||}|||||||||!.!|||##   |||||||||||||||||||
-                        ++{sp}GluValArgAsnGly##---TyrArgGlnLeuPheHisP
- 21153 : ...............ag{AT}GAGGTTCGAAACGGACG---TACAGACAACTCTTCCACC : 18972
-
-    90 : roGluGlnLeuIleThrGlyLysGluAspAlaAlaAsnAsnTyrAlaArgGlyHisTyrT :   109
-         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-         roGluGlnLeuIleThrGlyLysGluAspAlaAlaAsnAsnTyrAlaArgGlyHisTyrT
- 18971 : CTGAACAACTGATCACAGGCAAGGAAGATGCTGCCAACAACTATGCTCGTGGTCACTACA : 18912
-
-   110 : hrIleGlyLysGluIleValAspLeuValLeuAspArgIleArgLysLeuLysHisArg :   128
-         ||:!!||||||...|||:!!||||||||||||||||||:!!|||||||||  !  !|||
-         hrValGlyLysSerIleIleAspLeuValLeuAspArgValArgLysLeuValSerArg
- 18911 : CCGTAGGAAAATCTATTATCGATCTTGTTCTGGATCGAGTTAGAAAACTGGTAAGCCGA : 18853
-
-vulgar: AIPGENE2854 0 128 . ctg870 21382 18852 - 583 M 75 225 S 0 1 5 0 2 I 0 2143 3 0 2 S 1 2 M 5 15 F 0 2 G 1 0 M 46 138
-# --- START OF GFF DUMP ---
-#
-#
-##gff-version 2
-##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
-##type DNA
-#
-#
-# seqname source feature start end score strand frame attributes
-#
-ctg870	exonerate:protein2genome:local	gene	18853	21382	583	-	.	gene_id 1 ; sequence AIPGENE2854 ; gene_orientation + ; identity 92.86 ; similarity 95.24
-ctg870	exonerate:protein2genome:local	cds	21157	21382	.	-	.	
-ctg870	exonerate:protein2genome:local	exon	21157	21382	.	-	.	insertions 0 ; deletions 0 ; identity 97.33 ; similarity 97.33
-ctg870	exonerate:protein2genome:local	splice5	21155	21156	.	-	.	intron_id 1 ; splice_site "GT"
-ctg870	exonerate:protein2genome:local	intron	19010	21156	.	-	.	intron_id 1
-ctg870	exonerate:protein2genome:local	splice3	19010	19011	.	-	.	intron_id 0 ; splice_site "AG"
-ctg870	exonerate:protein2genome:local	cds	18853	19009	.	-	.	
-ctg870	exonerate:protein2genome:local	exon	18853	19009	.	-	.	insertions 0 ; deletions 1 ; identity 86.27 ; similarity 92.16 ; frameshifts 2
-ctg870	exonerate:protein2genome:local	similarity	18853	21382	583	-	.	alignment_id 1 ; Query AIPGENE2854 ; Align 21383 1 225 ; Align 19008 77 15 ; Align 18991 83 138
-# --- END OF GFF DUMP ---
-#
-
-C4 Alignment:
-------------
-         Query: AIPGENE2854
-        Target: ctg870 len=66327:[revcomp]
-         Model: protein2genome:local
-     Raw score: 397
-   Query range: 1 -> 75
-  Target range: 15594 -> 15372
-
-     2 : ArgGluCysIleSerValHisValGlyGlnAlaGlyValGlnIleGlyAsnAlaCysTrp :    21
-         |||||||||||||||:!!||||||||||||||||||||||||||||||||||||||||||
-         ArgGluCysIleSerIleHisValGlyGlnAlaGlyValGlnIleGlyAsnAlaCysTrp
- 15594 : CGTGAATGTATTTCAATCCACGTTGGTCAAGCCGGTGTTCAGATCGGTAATGCTTGCTGG : 15537
-
-    22 : GluLeuTyrCysLeuGluHisUnkIleGlnProAspGlyGlnMetProSerAspLysThr :    41
-         |||||||||||||||||||||   ||||||||||||||||||||||||||||||||||||
-         GluLeuTyrCysLeuGluHisGlyIleGlnProAspGlyGlnMetProSerAspLysThr
- 15536 : GAGTTGTACTGTCTTGAACACGGTATCCAGCCCGATGGTCAGATGCCAAGCGACAAGACG : 15477
-
-    42 : IleGlyGlyGlyAspAspSerPheAsnThrPhePheSerGluThrGlyAlaGlyLysHis :    61
-         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-         IleGlyGlyGlyAspAspSerPheAsnThrPhePheSerGluThrGlyAlaGlyLysHis
- 15476 : ATCGGCGGTGGTGATGATTCGTTCAATACTTTCTTCAGTGAAACCGGTGCTGGGAAACAC : 15417
-
-    62 : ValProArgAlaValPheValAspLeuGluProThrValVal :    75
-         ||||||||||||||||||||||||||||||||||||||||||
-         ValProArgAlaValPheValAspLeuGluProThrValVal
- 15416 : GTTCCAAGAGCTGTGTTCGTTGATTTAGAACCAACCGTTGTA : 15373
-
-vulgar: AIPGENE2854 1 75 . ctg870 15594 15372 - 397 M 74 222
-# --- START OF GFF DUMP ---
-#
-#
-##gff-version 2
-##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
-##type DNA
-#
-#
-# seqname source feature start end score strand frame attributes
-#
-ctg870	exonerate:protein2genome:local	gene	15373	15594	397	-	.	gene_id 2 ; sequence AIPGENE2854 ; gene_orientation . ; identity 97.30 ; similarity 98.65
-ctg870	exonerate:protein2genome:local	cds	15373	15594	.	-	.	
-ctg870	exonerate:protein2genome:local	exon	15373	15594	.	-	.	insertions 0 ; deletions 0 ; identity 97.30 ; similarity 98.65
-ctg870	exonerate:protein2genome:local	similarity	15373	15594	397	-	.	alignment_id 2 ; Query AIPGENE2854 ; Align 15595 2 222
 # --- END OF GFF DUMP ---
 #
 
@@ -15414,7 +15140,7 @@ vulgar: AIPGENE20514 0 242 . ctg1451 15796 13250 - 762 M 19 57 5 0 2 I 0 984 3 0
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -15557,7 +15283,7 @@ vulgar: AIPGENE9142 0 377 . ctg1365 15240 12384 - 1249 M 17 51 F 0 2 G 1 0 M 9 2
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -15577,54 +15303,6 @@ ctg1365	exonerate:protein2genome:local	splice3	13134	13135	.	-	.	intron_id 1 ; s
 ctg1365	exonerate:protein2genome:local	cds	12385	13133	.	-	.	
 ctg1365	exonerate:protein2genome:local	exon	12385	13133	.	-	.	insertions 0 ; deletions 7 ; identity 84.68 ; similarity 89.92 ; frameshifts 3
 ctg1365	exonerate:protein2genome:local	similarity	12385	15240	1249	-	.	alignment_id 1 ; Query AIPGENE9142 ; Align 15241 1 51 ; Align 15188 19 27 ; Align 15161 29 138 ; Align 15022 76 30 ; Align 14896 86 33 ; Align 14863 98 45 ; Align 14818 114 24 ; Align 13132 123 138 ; Align 12994 170 132 ; Align 12862 216 3 ; Align 12857 217 309 ; Align 12548 321 42 ; Align 12505 336 21 ; Align 12484 344 48 ; Align 12436 361 51
-# --- END OF GFF DUMP ---
-#
-
-C4 Alignment:
-------------
-         Query: AIPGENE28898
-        Target: ctg870 len=66327:[revcomp]
-         Model: protein2genome:local
-     Raw score: 250
-   Query range: 8 -> 69
-  Target range: 17851 -> 17661
-
-     9 : AspHisLysPheAspLeuMetTyrAlaLysArgAlaPheValHisTrpTyrValGlyGlu :    28
-         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-         AspHisLysPheAspLeuMetTyrAlaLysArgAlaPheValHisTrpTyrValGlyGlu
- 17851 : GATCACAAGTTTGATCTGATGTATGCCAAGCGTGCCTTTGTGCACTGGTATGTTGGAGAG : 17794
-
-    29 : GlyMetGluGluGlyGluPheSerGluAlaArg-GluAspLeuAlaAlaLeuGluLysAs :    48
-         |||||||||||||||||||||||||||||||||#||||||||||||||||||||||||||
-         GlyMetGluGluGlyGluPheSerGluAlaArg#GluAspLeuAlaAlaLeuGluLysAs
- 17793 : GGTATGGAAGAAGGAGAGTTCTCCGAGGCCCGTGGAGGACTTGGCAGCTCTCGAGAAAGA : 17733
-
-    49 : pTyrGluGluValGlyValAspSerAlaGlu<->GluGluGlyGluGlu<->GluGlyGl :    66
-         ||||||||||||||||||||||||||||!!:   |||||||||||||||   ||||||!!
-         pTyrGluGluValGlyValAspSerAlaAspAlaGluGluGlyGluGluAspGluGlyAs
- 17732 : CTACGAGGAGGTGGGTGTCGATTCTGCCGATGCCGAAGAAGGCGAAGAAGATGAAGGCGA : 17673
-
-    67 : uGluTyr*** :    69
-         :|||||||||
-         pGluTyr***
- 17672 : TGAATACTAA : 17662
-
-vulgar: AIPGENE28898 8 69 . ctg870 17851 17661 - 250 M 31 93 F 0 1 M 19 57 G 0 3 M 5 15 G 0 3 M 6 18
-# --- START OF GFF DUMP ---
-#
-#
-##gff-version 2
-##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
-##type DNA
-#
-#
-# seqname source feature start end score strand frame attributes
-#
-ctg870	exonerate:protein2genome:local	gene	17662	17851	250	-	.	gene_id 1 ; sequence AIPGENE28898 ; gene_orientation . ; identity 96.72 ; similarity 100.00
-ctg870	exonerate:protein2genome:local	cds	17662	17851	.	-	.	
-ctg870	exonerate:protein2genome:local	exon	17662	17851	.	-	.	insertions 6 ; deletions 0 ; identity 96.72 ; similarity 100.00 ; frameshifts 1
-ctg870	exonerate:protein2genome:local	similarity	17662	17851	250	-	.	alignment_id 1 ; Query AIPGENE28898 ; Align 17852 9 93 ; Align 17758 40 57 ; Align 17698 59 15 ; Align 17680 64 18
 # --- END OF GFF DUMP ---
 #
 
@@ -15663,7 +15341,7 @@ vulgar: AIPGENE19990 0 67 . ctg930 16559 16759 + 207 M 42 126 F 0 2 G 1 0 M 24 7
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -15811,7 +15489,7 @@ vulgar: AIPGENE24599 1 439 . ctg1355 75566 72365 - 1228 M 40 120 G 3 0 M 10 30 G
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -15929,7 +15607,7 @@ vulgar: AIPGENE17951 2 318 . ctg1355 73309 72362 - 945 M 103 309 F 0 2 M 29 87 G
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -16237,7 +15915,7 @@ vulgar: AIPGENE22385 24 1091 . ctg1028 38470 29446 - 3048 M 53 159 F 0 1 G 1 0 M
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -16300,7 +15978,7 @@ vulgar: AIPGENE28898 0 69 . ctg961 74092 73884 - 301 M 6 18 F 0 1 M 63 189
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -16343,7 +16021,7 @@ vulgar: AIPGENE28898 0 44 . ctg961 60518 60387 - 182 M 27 81 F 0 2 G 1 0 M 16 48
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -16456,7 +16134,7 @@ vulgar: AIPGENE17951 3 325 . ctg961 74866 73899 - 1248 M 15 45 F 0 2 G 1 0 M 85 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -16604,7 +16282,7 @@ vulgar: AIPGENE24599 0 452 . ctg961 75668 73884 - 1936 M 75 225 S 0 1 5 0 2 I 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -16737,7 +16415,7 @@ vulgar: AIPGENE607 52 365 . ctg875 14674 17232 + 1111 M 17 51 S 0 1 5 0 2 I 0 52
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -16772,6 +16450,54 @@ ctg875	exonerate:protein2genome:local	splice3	16950	16951	.	+	.	intron_id 4 ; sp
 ctg875	exonerate:protein2genome:local	cds	16952	17232	.	+	.	
 ctg875	exonerate:protein2genome:local	exon	16952	17232	.	+	.	insertions 0 ; deletions 0 ; identity 64.52 ; similarity 82.80
 ctg875	exonerate:protein2genome:local	similarity	14675	17232	1111	+	.	alignment_id 1 ; Query AIPGENE607 ; Align 14675 53 51 ; Align 14785 71 45 ; Align 14830 87 18 ; Align 14894 94 201 ; Align 15812 161 105 ; Align 16578 196 57 ; Align 16636 215 171 ; Align 16954 273 279
+# --- END OF GFF DUMP ---
+#
+
+C4 Alignment:
+------------
+         Query: AIPGENE28898
+        Target: ctg870 len=66327:[revcomp]
+         Model: protein2genome:local
+     Raw score: 250
+   Query range: 8 -> 69
+  Target range: 17851 -> 17661
+
+     9 : AspHisLysPheAspLeuMetTyrAlaLysArgAlaPheValHisTrpTyrValGlyGlu :    28
+         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+         AspHisLysPheAspLeuMetTyrAlaLysArgAlaPheValHisTrpTyrValGlyGlu
+ 17851 : GATCACAAGTTTGATCTGATGTATGCCAAGCGTGCCTTTGTGCACTGGTATGTTGGAGAG : 17794
+
+    29 : GlyMetGluGluGlyGluPheSerGluAlaArg-GluAspLeuAlaAlaLeuGluLysAs :    48
+         |||||||||||||||||||||||||||||||||#||||||||||||||||||||||||||
+         GlyMetGluGluGlyGluPheSerGluAlaArg#GluAspLeuAlaAlaLeuGluLysAs
+ 17793 : GGTATGGAAGAAGGAGAGTTCTCCGAGGCCCGTGGAGGACTTGGCAGCTCTCGAGAAAGA : 17733
+
+    49 : pTyrGluGluValGlyValAspSerAlaGlu<->GluGluGlyGluGlu<->GluGlyGl :    66
+         ||||||||||||||||||||||||||||!!:   |||||||||||||||   ||||||!!
+         pTyrGluGluValGlyValAspSerAlaAspAlaGluGluGlyGluGluAspGluGlyAs
+ 17732 : CTACGAGGAGGTGGGTGTCGATTCTGCCGATGCCGAAGAAGGCGAAGAAGATGAAGGCGA : 17673
+
+    67 : uGluTyr*** :    69
+         :|||||||||
+         pGluTyr***
+ 17672 : TGAATACTAA : 17662
+
+vulgar: AIPGENE28898 8 69 . ctg870 17851 17661 - 250 M 31 93 F 0 1 M 19 57 G 0 3 M 5 15 G 0 3 M 6 18
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2018-12-18
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+ctg870	exonerate:protein2genome:local	gene	17662	17851	250	-	.	gene_id 1 ; sequence AIPGENE28898 ; gene_orientation . ; identity 96.72 ; similarity 100.00
+ctg870	exonerate:protein2genome:local	cds	17662	17851	.	-	.	
+ctg870	exonerate:protein2genome:local	exon	17662	17851	.	-	.	insertions 6 ; deletions 0 ; identity 96.72 ; similarity 100.00 ; frameshifts 1
+ctg870	exonerate:protein2genome:local	similarity	17662	17851	250	-	.	alignment_id 1 ; Query AIPGENE28898 ; Align 17852 9 93 ; Align 17758 40 57 ; Align 17698 59 15 ; Align 17680 64 18
 # --- END OF GFF DUMP ---
 #
 
@@ -16875,7 +16601,7 @@ vulgar: AIPGENE17951 2 326 . ctg870 18659 17679 - 993 M 56 168 F 0 1 M 15 45 G 0
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -17028,7 +16754,7 @@ vulgar: AIPGENE24599 0 452 . ctg870 21382 17661 - 1634 M 75 225 S 0 1 5 0 2 I 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -17161,7 +16887,7 @@ vulgar: AIPGENE26155 0 319 . ctg1743 52309 61173 + 1117 M 15 45 G 1 0 M 40 120 5
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -17319,7 +17045,7 @@ vulgar: AIPGENE9142 0 377 . ctg1736 31256 28935 - 1452 M 30 90 F 0 2 G 1 0 M 40 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -17457,7 +17183,7 @@ vulgar: AIPGENE9142 0 377 . ctg1685 7562 5751 - 1619 M 30 90 F 0 2 G 1 0 M 54 16
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -17595,7 +17321,7 @@ vulgar: AIPGENE9142 0 377 . ctg1685 10500 11881 + 1597 M 36 108 F 0 1 M 49 147 5
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -17708,7 +17434,7 @@ vulgar: AIPGENE25209 33 293 . ctg1358 4118 5714 + 782 M 42 126 S 0 1 5 0 2 I 0 1
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -17821,7 +17547,7 @@ vulgar: AIPGENE7917 31 266 . ctg1243 33091 49009 + 792 M 19 57 F 0 2 G 1 0 M 22 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -17974,7 +17700,7 @@ vulgar: AIPGENE8252 0 377 . ctg1736 31256 28935 - 1500 M 30 90 F 0 2 G 1 0 M 40 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -18112,7 +17838,7 @@ vulgar: AIPGENE8252 0 377 . ctg1685 7562 5751 - 1637 M 30 90 F 0 2 G 1 0 M 54 16
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -18250,7 +17976,7 @@ vulgar: AIPGENE8252 0 377 . ctg1685 10500 11881 + 1603 M 36 108 F 0 1 M 49 147 5
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -18388,7 +18114,7 @@ vulgar: AIPGENE8252 0 377 . ctg1365 15240 12384 - 1272 M 17 51 F 0 2 G 1 0 M 9 2
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -18511,7 +18237,7 @@ vulgar: AIPGENE2846 9 320 . ctg1355 75446 72621 - 1018 M 10 30 G 0 3 M 5 15 F 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -18624,7 +18350,7 @@ vulgar: AIPGENE20514 0 257 . ctg1010 34940 13037 - 997 M 19 57 5 0 2 I 0 121 3 0
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -18747,7 +18473,7 @@ vulgar: AIPGENE20514 0 248 . ctg1010 38497 37376 - 816 M 19 57 5 0 2 I 0 62 3 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -18885,7 +18611,7 @@ vulgar: AIPGENE2846 0 340 . ctg961 75563 74115 - 1510 M 40 120 S 0 1 5 0 2 I 0 3
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -19018,7 +18744,7 @@ vulgar: AIPGENE2846 0 340 . ctg870 21277 17896 - 1227 M 40 120 S 0 1 5 0 2 I 0 2
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -19106,7 +18832,7 @@ vulgar: AIPGENE15442 0 161 . ctg1776 79020 81366 + 542 M 25 75 5 0 2 I 0 91 3 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -19244,7 +18970,7 @@ vulgar: AIPGENE26156 0 332 . ctg1743 59037 61195 + 1277 M 58 174 5 0 2 I 0 517 3
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -19327,7 +19053,7 @@ vulgar: AIPGENE2854 1 125 . ctg1355 75566 74700 - 403 M 40 120 G 3 0 M 10 30 G 0
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -19430,7 +19156,7 @@ vulgar: AIPGENE7920 3 222 . ctg1243 32766 48590 + 709 M 10 30 F 0 1 M 10 30 5 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -19513,7 +19239,7 @@ vulgar: AIPGENE2854 0 125 . ctg961 75668 61339 - 631 M 75 225 S 0 1 5 0 2 I 0 13
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -19606,7 +19332,7 @@ vulgar: AIPGENE2869 0 207 . ctg961 75668 60315 - 918 M 75 225 S 0 1 5 0 2 I 0 13
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -19626,6 +19352,122 @@ ctg961	exonerate:protein2genome:local	splice3	60555	60556	.	-	.	intron_id 1 ; sp
 ctg961	exonerate:protein2genome:local	cds	60316	60554	.	-	.	
 ctg961	exonerate:protein2genome:local	exon	60316	60554	.	-	.	insertions 0 ; deletions 2 ; identity 96.20 ; similarity 97.47 ; frameshifts 2
 ctg961	exonerate:protein2genome:local	similarity	60316	75668	918	-	.	alignment_id 1 ; Query AIPGENE2869 ; Align 75669 1 225 ; Align 61487 77 150 ; Align 60555 127 117 ; Align 60436 167 48 ; Align 60388 184 72
+# --- END OF GFF DUMP ---
+#
+
+C4 Alignment:
+------------
+         Query: AIPGENE2854
+        Target: ctg870 len=66327:[revcomp]
+         Model: protein2genome:local
+     Raw score: 583
+   Query range: 0 -> 128
+  Target range: 21382 -> 18852
+
+     1 : MetArgGluCysIleSerValHisValGlyGlnAlaGlyValGlnIleGlyAsnAlaCys :    20
+         ..!|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+         GlnArgGluCysIleSerValHisValGlyGlnAlaGlyValGlnIleGlyAsnAlaCys
+ 21382 : CAGCGTGAATGTATTTCAGTCCACGTTGGTCAAGCCGGTGTTCAGATCGGTAATGCTTGC : 21325
+
+    21 : TrpGluLeuTyrCysLeuGluHisUnkIleGlnProAspGlyGlnMetProSerAspLys :    40
+         ||||||||||||||||||||||||   |||||||||||||||||||||||||||||||||
+         TrpGluLeuTyrCysLeuGluHisGlyIleGlnProAspGlyGlnMetProSerAspLys
+ 21324 : TGGGAGTTGTACTGTCTTGAACACGGTATCCAGCCCGATGGTCAGATGCCAAGCGACAAG : 21265
+
+    41 : ThrIleGlyGlyGlyAspAspSerPheAsnThrPhePheSerGluThrGlyAlaGlyLys :    60
+         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+         ThrIleGlyGlyGlyAspAspSerPheAsnThrPhePheSerGluThrGlyAlaGlyLys
+ 21264 : ACGATCGGCGGTGGTGATGATTCGTTCAATACTTTCTTCAGTGAAACCGGTGCTGGGAAA : 21205
+
+    61 : HisValProArgAlaValPheValAspLeuGluProThrValVal{A}  >>>> Targe :    76
+         |||||||||||||||||||||||||||||||||||||||||||||{|}           2
+         HisValProArgAlaValPheValAspLeuGluProThrValVal{A}++          
+ 21204 : CACGTTCCAAGAGCTGTGTTCGTAGATTTAGAACCAACCGTTGTA{G}gt.......... : 21154
+
+    77 : t Intron 1 >>>>  {sp}GluValArgThrGly--ThrTyrArgGlnLeuPheHisP :    89
+         147 bp           {||}|||||||||!.!|||##   |||||||||||||||||||
+                        ++{sp}GluValArgAsnGly##---TyrArgGlnLeuPheHisP
+ 21153 : ...............ag{AT}GAGGTTCGAAACGGACG---TACAGACAACTCTTCCACC : 18972
+
+    90 : roGluGlnLeuIleThrGlyLysGluAspAlaAlaAsnAsnTyrAlaArgGlyHisTyrT :   109
+         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+         roGluGlnLeuIleThrGlyLysGluAspAlaAlaAsnAsnTyrAlaArgGlyHisTyrT
+ 18971 : CTGAACAACTGATCACAGGCAAGGAAGATGCTGCCAACAACTATGCTCGTGGTCACTACA : 18912
+
+   110 : hrIleGlyLysGluIleValAspLeuValLeuAspArgIleArgLysLeuLysHisArg :   128
+         ||:!!||||||...|||:!!||||||||||||||||||:!!|||||||||  !  !|||
+         hrValGlyLysSerIleIleAspLeuValLeuAspArgValArgLysLeuValSerArg
+ 18911 : CCGTAGGAAAATCTATTATCGATCTTGTTCTGGATCGAGTTAGAAAACTGGTAAGCCGA : 18853
+
+vulgar: AIPGENE2854 0 128 . ctg870 21382 18852 - 583 M 75 225 S 0 1 5 0 2 I 0 2143 3 0 2 S 1 2 M 5 15 F 0 2 G 1 0 M 46 138
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2018-12-18
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+ctg870	exonerate:protein2genome:local	gene	18853	21382	583	-	.	gene_id 1 ; sequence AIPGENE2854 ; gene_orientation + ; identity 92.86 ; similarity 95.24
+ctg870	exonerate:protein2genome:local	cds	21157	21382	.	-	.	
+ctg870	exonerate:protein2genome:local	exon	21157	21382	.	-	.	insertions 0 ; deletions 0 ; identity 97.33 ; similarity 97.33
+ctg870	exonerate:protein2genome:local	splice5	21155	21156	.	-	.	intron_id 1 ; splice_site "GT"
+ctg870	exonerate:protein2genome:local	intron	19010	21156	.	-	.	intron_id 1
+ctg870	exonerate:protein2genome:local	splice3	19010	19011	.	-	.	intron_id 0 ; splice_site "AG"
+ctg870	exonerate:protein2genome:local	cds	18853	19009	.	-	.	
+ctg870	exonerate:protein2genome:local	exon	18853	19009	.	-	.	insertions 0 ; deletions 1 ; identity 86.27 ; similarity 92.16 ; frameshifts 2
+ctg870	exonerate:protein2genome:local	similarity	18853	21382	583	-	.	alignment_id 1 ; Query AIPGENE2854 ; Align 21383 1 225 ; Align 19008 77 15 ; Align 18991 83 138
+# --- END OF GFF DUMP ---
+#
+
+C4 Alignment:
+------------
+         Query: AIPGENE2854
+        Target: ctg870 len=66327:[revcomp]
+         Model: protein2genome:local
+     Raw score: 397
+   Query range: 1 -> 75
+  Target range: 15594 -> 15372
+
+     2 : ArgGluCysIleSerValHisValGlyGlnAlaGlyValGlnIleGlyAsnAlaCysTrp :    21
+         |||||||||||||||:!!||||||||||||||||||||||||||||||||||||||||||
+         ArgGluCysIleSerIleHisValGlyGlnAlaGlyValGlnIleGlyAsnAlaCysTrp
+ 15594 : CGTGAATGTATTTCAATCCACGTTGGTCAAGCCGGTGTTCAGATCGGTAATGCTTGCTGG : 15537
+
+    22 : GluLeuTyrCysLeuGluHisUnkIleGlnProAspGlyGlnMetProSerAspLysThr :    41
+         |||||||||||||||||||||   ||||||||||||||||||||||||||||||||||||
+         GluLeuTyrCysLeuGluHisGlyIleGlnProAspGlyGlnMetProSerAspLysThr
+ 15536 : GAGTTGTACTGTCTTGAACACGGTATCCAGCCCGATGGTCAGATGCCAAGCGACAAGACG : 15477
+
+    42 : IleGlyGlyGlyAspAspSerPheAsnThrPhePheSerGluThrGlyAlaGlyLysHis :    61
+         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+         IleGlyGlyGlyAspAspSerPheAsnThrPhePheSerGluThrGlyAlaGlyLysHis
+ 15476 : ATCGGCGGTGGTGATGATTCGTTCAATACTTTCTTCAGTGAAACCGGTGCTGGGAAACAC : 15417
+
+    62 : ValProArgAlaValPheValAspLeuGluProThrValVal :    75
+         ||||||||||||||||||||||||||||||||||||||||||
+         ValProArgAlaValPheValAspLeuGluProThrValVal
+ 15416 : GTTCCAAGAGCTGTGTTCGTTGATTTAGAACCAACCGTTGTA : 15373
+
+vulgar: AIPGENE2854 1 75 . ctg870 15594 15372 - 397 M 74 222
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2018-12-18
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+ctg870	exonerate:protein2genome:local	gene	15373	15594	397	-	.	gene_id 2 ; sequence AIPGENE2854 ; gene_orientation . ; identity 97.30 ; similarity 98.65
+ctg870	exonerate:protein2genome:local	cds	15373	15594	.	-	.	
+ctg870	exonerate:protein2genome:local	exon	15373	15594	.	-	.	insertions 0 ; deletions 0 ; identity 97.30 ; similarity 98.65
+ctg870	exonerate:protein2genome:local	similarity	15373	15594	397	-	.	alignment_id 2 ; Query AIPGENE2854 ; Align 15595 2 222
 # --- END OF GFF DUMP ---
 #
 
@@ -19704,7 +19546,7 @@ vulgar: AIPGENE2869 0 207 . ctg870 21382 17661 - 836 M 75 225 S 0 1 5 0 2 I 0 21
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -19847,7 +19689,7 @@ vulgar: AIPGENE12816 0 377 . ctg1736 31256 28935 - 1409 M 30 90 F 0 2 G 1 0 M 40
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -19985,7 +19827,7 @@ vulgar: AIPGENE12816 0 377 . ctg1685 7562 5751 - 1566 M 34 102 F 0 2 G 1 0 M 50 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -20123,7 +19965,7 @@ vulgar: AIPGENE12816 0 377 . ctg1685 10500 11881 + 1599 M 36 108 F 0 1 M 49 147 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -20196,7 +20038,7 @@ vulgar: AIPGENE15785 0 124 . ctg1407 3474 4944 + 351 M 29 87 F 0 2 G 1 0 M 9 27 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -20334,7 +20176,7 @@ vulgar: AIPGENE12816 0 377 . ctg1365 15240 12384 - 1200 M 17 51 F 0 2 G 1 0 M 9 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -20477,7 +20319,7 @@ vulgar: AIPGENE17177 2 375 . ctg1438 8884 12724 + 1212 M 18 54 5 0 2 I 0 1935 3 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -20507,6 +20349,164 @@ ctg1438	exonerate:protein2genome:local	splice3	12497	12498	.	+	.	intron_id 3 ; s
 ctg1438	exonerate:protein2genome:local	cds	12499	12724	.	+	.	
 ctg1438	exonerate:protein2genome:local	exon	12499	12724	.	+	.	insertions 0 ; deletions 1 ; identity 81.33 ; similarity 90.67 ; frameshifts 1
 ctg1438	exonerate:protein2genome:local	similarity	8885	12724	1212	+	.	alignment_id 1 ; Query AIPGENE17177 ; Align 8885 3 54 ; Align 10878 21 111 ; Align 11258 59 165 ; Align 11425 115 72 ; Align 11499 140 213 ; Align 11781 211 42 ; Align 11825 226 150 ; Align 11977 277 69 ; Align 12499 300 153 ; Align 12653 352 72
+# --- END OF GFF DUMP ---
+#
+
+C4 Alignment:
+------------
+         Query: AIPGENE9543
+        Target: ctg1355 len=125886:[revcomp]
+         Model: protein2genome:local
+     Raw score: 1301
+   Query range: 1 -> 439
+  Target range: 75566 -> 72365
+
+     2 : ArgGluCysIleSerIleHisValGlyGlnAlaGlyValGlnMetGlyAsnAlaCysTrp :    21
+         ||||||||||||||||||||||||||||||||||||||||||!!:|||||||||||||||
+         ArgGluCysIleSerIleHisValGlyGlnAlaGlyValGlnIleGlyAsnAlaCysTrp
+ 75566 : CGAGAATGCATTTCCATCCATGTGGGTCAAGCTGGAGTACAGATAGGCAATGCCTGTTGG : 75509
+
+    22 : GluLeuTyrCysLeuGluHisGlyIleGlnProAspGlyGlnMetProSerAspMetThr :    41
+         |||||||||||||||||||||..!|||:!!|||||||||! !:!:! !|||..!   ..!
+         GluLeuTyrCysLeuGluHisAsnIleLysProAspGlyLeuLeuGlnSerSerArgVal
+ 75508 : GAGCTTTACTGTCTAGAGCACAACATCAAACCAGATGGTCTACTACAGAGCAGTCGAGTT : 75449
+
+    42 : LeuGlyGlyGlyAspAspSerPheAsnThrPhePheSer<->GluThrGlyAlaGly-Ly :    60
+                  |||||||||||||||!:!||||||||||||   |||.!!|||:!!|||# !
+         ---------GlyAspAspSerPheSerThrPhePheSerThrGluAlaGlySerGly#Hi
+ 75448 : ---------GGGGATGATTCCTTCAGTACCTTCTTCTCAACGGAGGCTGGTTCTGGAACA : 75397
+
+    61 : sHisValProArgAlaValPheValAspLeuGluProThrValVal{A}  >>>> Targ :    76
+          :!!|||||||||||||||||||||||||||||||||||||||:!!{|}           
+         sTyrValProArgAlaValPheValAspLeuGluProThrValIle{A}++         
+ 75396 : CTATGTTCCTCGGGCCGTCTTTGTCGACTTGGAGCCAACTGTGATA{G}gt......... : 75346
+
+    77 : et Intron 1 >>>>  {sp}GluValArgThrGlyThrTyrArgGlnLeuPhe-HisP :    89
+          501 bp           {||}|||:!!|||||||||! !||||||.!.||||||#   |
+                         ++{sp}GluIleArgThrGlyMetTyrArgAspLeuPhe#---P
+ 75345 : ................ag{AT}GAGATACGAACTGGCATGTACCGTGACCTCTTCA---C : 74811
+
+    90 : roGluGlnLeuIleThrGlyLysGluAspAlaAlaAsnAsnTyrAlaArgGlyHisTyrT :   109
+         |||||||||||||||||||||||||||||||||||||||||!:!||||||||||||||||
+         roGluGlnLeuIleThrGlyLysGluAspAlaAlaAsnAsnPheAlaArgGlyHisTyrT
+ 74810 : CAGAACAGCTCATCACTGGCAAGGAAGATGCCGCTAATAACTTTGCACGGGGTCACTATA : 74751
+
+   110 : hrValGlyLysGluIleIleAspMetValLeuAspArgValArgLysThr  >>>> Tar :   126
+         |||||||||||||||||:!!|||   |||||||||!:!:!!||||||! !          
+         hrValGlyLysGluIleValAspAspValLeuAspLysIleArgLysMet++        
+ 74750 : CTGTTGGCAAAGAGATAGTCGATGACGTGCTGGACAAAATCAGAAAGATGgt........ : 74698
+
+   127 : get Intron 2 >>>>  AlaAspGlnCysThrGlyLeuGlnGlyPheLeuIlePheHi :   139
+          1394 bp           .!!|||||||||  !||||||||||||||||||||||||:!
+                          ++ThrAspGlnCysCysGlyLeuGlnGlyPheLeuIlePheAs
+ 74697 : .................agACAGACCAGTGTTGTGGCCTTCAAGGATTCCTCATCTTCAA : 73267
+
+   140 : sSerPheGlyGlyGlyThrGlySerGlyPheThrSerLeuLeuMetGluArgLeuSerVa :   159
+         !|||.!!||||||||||||||||||||||||  !|||! !! !:!!|||||||||!!!||
+         nSerLeuGlyGlyGlyThrGlySerGlyPheGluSerTrp***LeuGluArgLeuThrVa
+ 73266 : CTCACTTGGAGGCGGTACAGGATCTGGGTTCGAATCCTGGTGACTGGAGAGGTTGACAGT : 73207
+
+   160 : lAspTyrGlyLysLysSerLysLeuGluPheAlaValTyrProAlaProGlnIleSerTh :   179
+         |||||||.!!|||||||||||||||||||||:!!|||||||||||||||.!.:!:|||||
+         lAspTyrSerLysLysSerLysLeuGluPheSerValTyrProAlaProAsnValSerTh
+ 73206 : TGACTACAGCAAGAAGTCTAAGTTGGAGTTCTCGGTGTACCCTGCACCTAACGTGAGCAC : 73147
+
+   180 : rAlaValValGluProTyrAsnAlaValLeuThrThrHisThrThrLeuGluGlnSerAs :   199
+         ||||||||||||||||||||||||||||||||||||||||||||||||||||!!.:!!||
+         rAlaValValGluProTyrAsnAlaValLeuThrThrHisThrThrLeuGluHisAlaAs
+ 73146 : CGCTGTGGTCGAGCCTTATAACGCAGTACTGACTACTCATACTACTCTTGAACACGCGGA : 73087
+
+   200 : pCysAlaPheMetValAspAsnGluAlaIlePheAspIleCysArgArgAsnLeuAspIl :   219
+         ||||.!!|||||| !!||||||||||||! !||||||:!!||||||||||||||||||||
+         pCysThrPheMetPheAspAsnGluAlaThrPheAspLeuCysArgArgAsnLeuAspIl
+ 73086 : CTGCACATTCATGTTTGATAATGAAGCCACCTTTGATTTATGCAGACGCAATCTCGATAT : 73027
+
+   220 : eGluArgProThrTyrThrAsnLeu--AsnArgLeuIleGlyGlnIleValSerSerIle :   238
+         |||||||||||||!    !.!.|||##:!!|||||||||.!!|||:!!||||||||||||
+         eGluArgProThrLeuPheGluLeu##AspArgLeuIleSerGlnValValSerSerIle
+ 73026 : TGAAAGGCCTACATTATTCGAACTTGAGATCGCCTCATCAGCCAGGTTGTTTCTTCCATT : 72968
+
+   239 : ThrAlaSerLeuArgPheAspGlyAlaLeuAsnValAspLeuThrGluPheGlnThrAsn :   258
+         |||:!!|||||||||||||||||||||||||||||||||||||||||||||:!!   ...
+         ThrSerSerLeuArgPheAspGlyAlaLeuAsnValAspLeuThrGluPheLys---Arg
+ 72967 : ACGTCATCTCTTCGATTTGATGGCGCACTCAACGTTGATCTCACGGAGTTCAAA---CGA : 72911
+
+   259 : LeuValProTyrProArgIleHisPheProLeuAlaThrTyrAlaProValIleSerAla :   278
+         :!!  !  !:!!  !||||||||||||||||||  !|||||||||! !  !  !     !
+         IleTrpCysHisIleArgIleHisPheProLeuMetThrTyrAlaArgSerTyr---Leu
+ 72910 : ATTTGGTGCCATATCCGAATCCACTTCCCTCTGATGACCTACGCTCGGTCATAT---CTC : 72854
+
+   279 : GluLysAlaTyrHisGluGlnLeuSerValAlaGluIleThrAsnAlaCysPheGluPro :   298
+         :!!|||::!      ..!  !  !! !  !!.!! !  !  !||||||||||||||||||
+         GlnLysSerValSerArgThrAspIleCysGlyGlyTyrArgAsnAlaCysPheGluPro
+ 72853 : CAGAAAAGCGTATCACGAACAGATATCTGTGGCGGATATCGCAATGCTTGTTTCGAACCA : 72794
+
+   299 : AlaAsnGlnMetValLysCysAspProArgHisGlyLysTyrMetAlaCysCys--LeuL :   318
+         :!!|||||||||||||||||||||||||||||||||||||||||||||||||||##   |
+         SerAsnGlnMetValLysCysAspProArgHisGlyLysTyrMetAlaCysCys##---L
+ 72793 : TCCAATCAAATGGTCAAATGTGATCCACGTCATGGAAAATACATGGCCTGTTGCTG---T : 72735
+
+   319 : euTyrArgGlyAspValValProLysAspValAsnAlaAlaIleAlaHisIleLysThrL :   338
+         |||||||||||||||||||||||||||||||||||||||||||||||  !||||||!.!|
+         euTyrArgGlyAspValValProLysAspValAsnAlaAlaIleAlaValIleLysAsnL
+ 72734 : TGTATCGAGGAGATGTGGTACCCAAAGATGTGAACGCAGCTATTGCGGTCATCAAGAATA : 72675
+
+   339 : ysArgThrIleGlnPheValAspTrpCysProThrGlyUnkLysValGlyIleAsnTyrG :   358
+         |||||:!!|||  !||||||||||||||||||||||||   |||||||||:!!!.!  !.
+         ysArgSerIleValPheValAspTrpCysProThrGlyPheLysValGlyLeuThrThrA
+ 72674 : AACGATCAATCGTGTTTGTTGACTGGTGCCCTACTGGTTTTAAAGTGGGATTAACTACCA : 72615
+
+   359 : lnProProThrValValProGlyGlyAspLeuUnkLysValGlnArgAlaValCysMetL :   378
+         !.! !  !  !! !  !  ! !!|||   !!!   |||||||||||||||||||||||||
+         snLeuAsnCysGlySerTrpArgGly---PheGlyLysValGlnArgAlaValCysMetL
+ 72614 : ACCTCAACTGTGGTTCCTGGCGGGGA---TTTGGAAAGGTGCAAAGGGCAGTTTGTATGC : 72558
+
+   379 : euSerAsnThrThrAlaIleAlaGluAlaTrpAlaArgLeuAspHisLysPheAspLeuM :   398
+         ||!!!|||||||||||||||:!!||||||||||||!:!  !!     |||||||||||||
+         euThrAsnThrThrAlaIleSerGluAlaTrpAlaLysAlaGlySerLysPheAspLeuM
+ 72557 : TGACTAACACTACTGCTATATCTGAAGCATGGGCCAAGGCTGGATCAAAGTTTGACCTGA : 72498
+
+   399 : et<->TyrAlaLysArgAlaPheValHisTrpPheValGlyGluGlyMetGluGluGlyG :   417
+         ||    ! !.!:!!..!  !|||||||||||| !   !|||||||||  !! !..!! !.
+         etLeuGlnGlyGluGluHisPheValHisTrpValCysGlyGluGlyTrpGlyArgGluS
+ 72497 : TGTTACAAGGGGAAGAGCATTTTGTTCACTGGGTATGTGGGGAGGGATGGGGGAGGGAGA : 72438
+
+   418 : luPheSerGluAlaArgGlu-AspLeuAlaAlaLeu<->GluLysAspTyrGluGluVal :   435
+         ..! !..!:!!|||||||||#|||:!!|||||||||   |||:!!||||||! !||||||
+         erSerGlnLysAlaArgGlu#AspMetAlaAlaLeuGluGluGluAspTyrValGluVal
+ 72437 : GTTCTCAGAAGGCTCGTGAGGGACATGGCAGCTCTTGAGGAAGAAGACTATGTGGAGGTT : 72380
+
+   436 : GlyLeuAspSer :   439
+         |||  !||||||
+         GlyGluAspSer
+ 72379 : GGAGAAGATTCA : 72366
+
+vulgar: AIPGENE9543 1 439 . ctg1355 75566 72365 - 1301 M 40 120 G 3 0 M 10 30 G 0 3 M 5 15 F 0 1 M 16 48 S 0 1 5 0 2 I 0 497 3 0 2 S 1 2 M 11 33 F 0 1 G 1 0 M 37 111 5 0 2 I 0 1390 3 0 2 M 102 306 F 0 2 M 29 87 G 1 0 M 19 57 G 1 0 M 39 117 F 0 2 G 1 0 M 49 147 G 1 0 M 31 93 G 0 3 M 25 75 F 0 1 M 5 15 G 0 3 M 11 33
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2018-12-18
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+ctg1355	exonerate:protein2genome:local	gene	72366	75566	1301	-	.	gene_id 1 ; sequence AIPGENE9543 ; gene_orientation + ; identity 72.26 ; similarity 80.89
+ctg1355	exonerate:protein2genome:local	cds	75349	75566	.	-	.	
+ctg1355	exonerate:protein2genome:local	exon	75349	75566	.	-	.	insertions 3 ; deletions 3 ; identity 78.87 ; similarity 88.73 ; frameshifts 1
+ctg1355	exonerate:protein2genome:local	splice5	75347	75348	.	-	.	intron_id 1 ; splice_site "GT"
+ctg1355	exonerate:protein2genome:local	intron	74848	75348	.	-	.	intron_id 1
+ctg1355	exonerate:protein2genome:local	splice3	74848	74849	.	-	.	intron_id 0 ; splice_site "AG"
+ctg1355	exonerate:protein2genome:local	cds	74701	74847	.	-	.	
+ctg1355	exonerate:protein2genome:local	exon	74701	74847	.	-	.	insertions 0 ; deletions 1 ; identity 79.59 ; similarity 89.80 ; frameshifts 1
+ctg1355	exonerate:protein2genome:local	splice5	74699	74700	.	-	.	intron_id 2 ; splice_site "GT"
+ctg1355	exonerate:protein2genome:local	intron	73307	74700	.	-	.	intron_id 2
+ctg1355	exonerate:protein2genome:local	splice3	73307	73308	.	-	.	intron_id 1 ; splice_site "AG"
+ctg1355	exonerate:protein2genome:local	cds	72366	73306	.	-	.	
+ctg1355	exonerate:protein2genome:local	exon	72366	73306	.	-	.	insertions 6 ; deletions 4 ; identity 69.35 ; similarity 77.42 ; frameshifts 5
+ctg1355	exonerate:protein2genome:local	similarity	72366	75566	1301	-	.	alignment_id 1 ; Query AIPGENE9543 ; Align 75567 2 120 ; Align 75447 45 30 ; Align 75414 55 15 ; Align 75398 60 48 ; Align 74846 77 33 ; Align 74812 89 111 ; Align 73307 126 306 ; Align 72999 228 87 ; Align 72912 258 57 ; Align 72855 278 117 ; Align 72736 318 147 ; Align 72589 368 93 ; Align 72493 399 75 ; Align 72417 424 15 ; Align 72399 429 33
 # --- END OF GFF DUMP ---
 #
 
@@ -20630,7 +20630,7 @@ vulgar: AIPGENE17177 0 375 . ctg1010 38497 36595 - 1182 M 20 60 S 0 1 5 0 2 I 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -20793,7 +20793,7 @@ vulgar: AIPGENE9543 0 447 . ctg961 75668 73899 - 1944 M 75 225 S 0 1 5 0 2 I 0 3
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -20951,7 +20951,7 @@ vulgar: AIPGENE9543 0 448 . ctg870 21382 17679 - 1661 M 75 225 S 0 1 5 0 2 I 0 2
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -21094,7 +21094,7 @@ vulgar: AIPGENE9147 0 377 . ctg1736 31256 28935 - 1430 M 30 90 F 0 2 G 1 0 M 40 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -21232,7 +21232,7 @@ vulgar: AIPGENE9147 0 377 . ctg1685 7562 5751 - 1591 M 30 90 F 0 2 G 1 0 M 54 16
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -21370,7 +21370,7 @@ vulgar: AIPGENE9147 0 377 . ctg1685 10500 11881 + 1572 M 36 108 F 0 1 M 49 147 5
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -21478,7 +21478,7 @@ vulgar: AIPGENE6455 0 219 . ctg1565 19627 16558 - 593 M 48 144 S 0 2 5 0 2 I 0 7
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -21656,7 +21656,7 @@ vulgar: AIPGENE27901 0 442 . ctg1451 15796 11345 - 1751 M 19 57 5 0 2 I 0 984 3 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -21809,7 +21809,7 @@ vulgar: AIPGENE9147 0 377 . ctg1365 15240 12384 - 1221 M 17 51 F 0 2 G 1 0 M 9 2
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -21967,7 +21967,7 @@ vulgar: AIPGENE9554 1 439 . ctg1355 75566 72365 - 1294 M 40 120 G 3 0 M 10 30 G 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -22080,7 +22080,7 @@ vulgar: AIPGENE28879 9 272 . ctg1355 75446 72764 - 811 M 10 30 G 0 3 M 5 15 F 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -22153,7 +22153,7 @@ vulgar: AIPGENE25117 0 129 . ctg1187 35970 34593 - 457 M 37 111 5 0 2 I 0 986 3 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -22236,7 +22236,7 @@ vulgar: AIPGENE29038 0 183 . ctg1034 47570 47020 - 618 M 29 87 F 0 1 M 11 33 F 0
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -22389,7 +22389,7 @@ vulgar: AIPGENE27901 0 446 . ctg1010 38497 36386 - 2082 M 19 57 5 0 2 I 0 62 3 0
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -22562,7 +22562,7 @@ vulgar: AIPGENE9554 0 447 . ctg961 75668 73899 - 1920 M 75 225 S 0 1 5 0 2 I 0 3
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -22680,7 +22680,7 @@ vulgar: AIPGENE28879 0 274 . ctg961 75563 67651 - 1152 M 40 120 S 0 1 5 0 2 I 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -22843,7 +22843,7 @@ vulgar: AIPGENE9554 0 448 . ctg870 21382 17679 - 1633 M 75 225 S 0 1 5 0 2 I 0 2
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -22956,7 +22956,7 @@ vulgar: AIPGENE28879 0 272 . ctg870 21277 18100 - 976 M 40 120 S 0 1 5 0 2 I 0 2
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -23119,7 +23119,7 @@ vulgar: AIPGENE20512 0 441 . ctg1451 15796 11348 - 1729 M 19 57 5 0 2 I 0 984 3 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -23242,7 +23242,7 @@ vulgar: AIPGENE28889 1 256 . ctg1355 75566 72911 - 894 M 40 120 G 3 0 M 10 30 G 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -23405,7 +23405,7 @@ vulgar: AIPGENE20512 0 447 . ctg1010 38497 16927 - 2084 M 19 57 5 0 2 I 0 62 3 0
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -23543,7 +23543,7 @@ vulgar: AIPGENE28889 0 284 . ctg961 75668 60315 - 1182 M 75 225 S 0 1 5 0 2 I 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -23671,7 +23671,7 @@ vulgar: AIPGENE28920 0 259 . ctg961 75668 61150 - 1251 M 75 225 S 0 1 5 0 2 I 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -23794,7 +23794,7 @@ vulgar: AIPGENE28920 0 257 . ctg870 21382 12678 - 929 M 75 225 S 0 1 5 0 2 I 0 2
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -23922,7 +23922,7 @@ vulgar: AIPGENE28889 0 284 . ctg870 21382 17661 - 1085 M 75 225 S 0 1 5 0 2 I 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -24060,7 +24060,7 @@ vulgar: AIPGENE26157 0 326 . ctg1743 52309 61195 + 1171 M 15 45 G 1 0 M 40 120 5
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -24148,7 +24148,7 @@ vulgar: AIPGENE1359 1 134 . ctg1454 30746 48232 + 558 M 42 126 S 0 1 5 0 2 I 0 1
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -24216,7 +24216,7 @@ vulgar: AIPGENE1359 1 101 . ctg1454 47591 48135 + 441 M 42 126 S 0 1 5 0 2 I 0 2
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -24324,7 +24324,7 @@ vulgar: AIPGENE25210 33 293 . ctg1358 4118 5714 + 782 M 42 126 S 0 1 5 0 2 I 0 1
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -24422,7 +24422,7 @@ vulgar: AIPGENE2911 0 187 . ctg1068 27789 29917 + 689 M 29 87 5 0 2 I 0 1118 3 0
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -24690,7 +24690,7 @@ vulgar: AIPGENE21328 9 806 . ctg964 42540 30865 - 2231 M 76 228 S 0 1 5 0 2 I 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -24888,7 +24888,7 @@ vulgar: AIPGENE23849 0 386 . ctg961 75668 60867 - 1534 M 75 225 S 0 1 5 0 2 I 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -25021,7 +25021,7 @@ vulgar: AIPGENE23849 125 387 . ctg961 75665 74454 - 1116 M 74 222 S 0 1 5 0 2 I 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -25169,7 +25169,7 @@ vulgar: AIPGENE23849 0 388 . ctg870 21382 12385 - 1223 M 75 225 S 0 1 5 0 2 I 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -25302,7 +25302,7 @@ vulgar: AIPGENE23849 92 388 . ctg870 39127 18234 - 1093 M 33 99 5 0 2 I 0 17645 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -25410,7 +25410,7 @@ vulgar: AIPGENE28936 1 227 . ctg1355 75566 73000 - 823 M 40 120 G 3 0 M 10 30 G 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -25468,7 +25468,7 @@ vulgar: AIPGENE8078 2 65 . ctg1137 44947 45136 + 205 M 63 189
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -25626,7 +25626,7 @@ vulgar: AIPGENE10493 0 448 . ctg1010 38497 16924 - 2097 M 19 57 5 0 2 I 0 62 3 0
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -25744,7 +25744,7 @@ vulgar: AIPGENE28936 0 226 . ctg961 75668 74564 - 1075 M 75 225 S 0 1 5 0 2 I 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -25847,7 +25847,7 @@ vulgar: AIPGENE28936 0 227 . ctg870 21382 18345 - 998 M 75 225 S 0 1 5 0 2 I 0 2
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -25990,7 +25990,7 @@ vulgar: AIPGENE12775 0 377 . ctg1736 31256 28935 - 1479 M 30 90 F 0 2 G 1 0 M 40
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -26043,7 +26043,7 @@ vulgar: AIPGENE10597 0 63 . ctg1701 733 923 + 216 M 54 162 F 0 1 M 9 27
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -26171,7 +26171,7 @@ vulgar: AIPGENE12775 0 377 . ctg1685 7562 5751 - 1628 M 30 90 F 0 2 G 1 0 M 54 1
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -26309,7 +26309,7 @@ vulgar: AIPGENE12775 0 377 . ctg1685 10500 11881 + 1593 M 36 108 F 0 1 M 49 147 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -26472,7 +26472,7 @@ vulgar: AIPGENE23810 0 444 . ctg1451 15796 11338 - 1627 M 19 57 5 0 2 I 0 984 3 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -26625,7 +26625,7 @@ vulgar: AIPGENE12775 0 377 . ctg1365 15240 12384 - 1250 M 17 51 F 0 2 G 1 0 M 9 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -26783,7 +26783,7 @@ vulgar: AIPGENE23845 1 438 . ctg1355 75566 72368 - 1300 M 35 105 G 3 0 M 20 60 F
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -26946,7 +26946,7 @@ vulgar: AIPGENE23810 0 444 . ctg1010 38497 36392 - 1953 M 19 57 5 0 2 I 0 62 3 0
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -27014,7 +27014,7 @@ vulgar: AIPGENE28886 8 67 . ctg961 74058 73884 - 240 M 51 153 G 1 0 M 7 21
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -27162,7 +27162,7 @@ vulgar: AIPGENE23845 0 453 . ctg961 75668 73884 - 1907 M 75 225 S 0 1 5 0 2 I 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -27325,7 +27325,7 @@ vulgar: AIPGENE23845 0 453 . ctg870 21382 17661 - 1651 M 75 225 S 0 1 5 0 2 I 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -27348,7 +27348,7 @@ ctg870	exonerate:protein2genome:local	similarity	17662	21382	1651	-	.	alignment_
 # --- END OF GFF DUMP ---
 #
 -- completed exonerate analysis
-Command line: [exonerate --model protein2genome --percent 50 --showtargetgff yes aiptasia_sym_prot.fasta Ae.ctg.lay.part-4.fa]
+Command line: [exonerate --model protein2genome --percent 50 --showtargetgff yes sym_prot_all.fasta Ae.ctg.lay.part-4.part-1.fa]
 Hostname: [SPMC-Moleculars-iMac.local]
 
 C4 Alignment:
@@ -27451,7 +27451,7 @@ vulgar: AIPGENE4852 16 309 . ctg2026 6030 3635 - 900 M 36 108 5 0 2 I 0 359 3 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -27524,7 +27524,7 @@ vulgar: AIPGENE4636 0 65 . ctg2082 9322 9127 - 283 M 65 195
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -27534,74 +27534,6 @@ ctg2082	exonerate:protein2genome:local	gene	9128	9322	283	-	.	gene_id 1 ; sequen
 ctg2082	exonerate:protein2genome:local	cds	9128	9322	.	-	.	
 ctg2082	exonerate:protein2genome:local	exon	9128	9322	.	-	.	insertions 0 ; deletions 0 ; identity 81.54 ; similarity 90.77
 ctg2082	exonerate:protein2genome:local	similarity	9128	9322	283	-	.	alignment_id 1 ; Query AIPGENE4636 ; Align 9323 1 195
-# --- END OF GFF DUMP ---
-#
-
-C4 Alignment:
-------------
-         Query: AIPGENE2854
-        Target: ctg2896 len=17903
-         Model: protein2genome:local
-     Raw score: 522
-   Query range: 10 -> 123
-  Target range: 15451 -> 16183
-
-    11 : GlnAlaGlyValGlnIleGlyAsnAlaCysTrpGluLeuTyrCysLeuGluHisUnkIle :    30
-         ||||||||||||||||||||||||||||||||||||||||||||||||||||||   |||
-         GlnAlaGlyValGlnIleGlyAsnAlaCysTrpGluLeuTyrCysLeuGluHisGlyIle
- 15452 : CAAGCCGGTGTTCAGATCGGTAACGCTTGTTGGGAGTTGTACTGTCTTGAACATGGTATC : 15509
-
-    31 : GlnProAspGlyGlnMetProSerAspLysThrIleGlyGlyGlyAspAspSerPheAsn :    50
-         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-         GlnProAspGlyGlnMetProSerAspLysThrIleGlyGlyGlyAspAspSerPheAsn
- 15510 : CAGCCCGATGGCCAGATGCCCAGCGACAAGACGATCGGTGGTGGCGATGATTCGTTTAAC : 15569
-
-    51 : ThrPhePheSerGluThrGlyAlaGlyLysHisValProArgAlaValPheValAspLeu :    70
-         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-         ThrPhePheSerGluThrGlyAlaGlyLysHisValProArgAlaValPheValAspLeu
- 15570 : ACTTTCTTCAGCGAAACTGGAGCTGGAAAACACGTCCCAAGAGCCGTGTTCGTTGATCTC : 15629
-
-    71 : GluProThrValValAspGlu{V}  >>>> Target Intron 1 >>>>  {al}Arg :    79
-         |||||||||||||||! !|||{ }            393 bp           { !}  !
-         GluProThrValValGlyGlu{C}-+                         ++{ys}Ser
- 15630 : GAACCCACAGTAGTTGGTGAG{T}tt.........................ag{GT}TCG : 16049
-
-    80 : ThrGlyThrTyrArgGlnLeuPheHisProGluGlnLeuIleThrGlyLysGluAspAla :    99
-           !||||||||||||||||||||||||||||||||||||||||||||||||! !:!!|||
-         TyrGlyThrTyrArgGlnLeuPheHisProGluGlnLeuIleThrGlyLysGlyAsnAla
- 16050 : TATGGAACATATCGTCAACTCTTCCATCCCGAACAGCTCATCACAGGGAAAGGAAACGCT : 16109
-
-   100 : AlaAsnAsnTyrAlaArgGlyHisTyrThrIleGlyLysGluIleValAspLeuValLeu :   119
-         ||||||||||||||||||||||||||||||:!!|||||||||:!!:!!||||||||||||
-         AlaAsnAsnTyrAlaArgGlyHisTyrThrValGlyLysGluLeuIleAspLeuValLeu
- 16110 : GCTAACAACTATGCTCGTGGACATTACACTGTTGGGAAAGAACTTATTGATTTGGTGTTG : 16169
-
-   120 : AspArgIleArg :   123
-         ||||||||||||
-         AspArgIleArg
- 16170 : GACAGAATCAGA : 16183
-
-vulgar: AIPGENE2854 10 123 . ctg2896 15451 16183 + 522 M 67 201 S 0 1 5 0 2 I 0 389 3 0 2 S 1 2 M 45 135
-# --- START OF GFF DUMP ---
-#
-#
-##gff-version 2
-##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
-##type DNA
-#
-#
-# seqname source feature start end score strand frame attributes
-#
-ctg2896	exonerate:protein2genome:local	gene	15452	16183	522	+	.	gene_id 1 ; sequence AIPGENE2854 ; gene_orientation + ; identity 91.96 ; similarity 95.54
-ctg2896	exonerate:protein2genome:local	cds	15452	15653	.	+	.	
-ctg2896	exonerate:protein2genome:local	exon	15452	15653	.	+	.	insertions 0 ; deletions 0 ; identity 97.01 ; similarity 97.01
-ctg2896	exonerate:protein2genome:local	splice5	15654	15655	.	+	.	intron_id 1 ; splice_site "TT"
-ctg2896	exonerate:protein2genome:local	intron	15654	16046	.	+	.	intron_id 1
-ctg2896	exonerate:protein2genome:local	splice3	16045	16046	.	+	.	intron_id 0 ; splice_site "AG"
-ctg2896	exonerate:protein2genome:local	cds	16047	16183	.	+	.	
-ctg2896	exonerate:protein2genome:local	exon	16047	16183	.	+	.	insertions 0 ; deletions 0 ; identity 84.44 ; similarity 93.33
-ctg2896	exonerate:protein2genome:local	similarity	15452	16183	522	+	.	alignment_id 1 ; Query AIPGENE2854 ; Align 15452 11 201 ; Align 16049 79 135
 # --- END OF GFF DUMP ---
 #
 
@@ -27640,7 +27572,7 @@ vulgar: AIPGENE19990 0 65 . ctg2082 9322 9127 - 283 M 65 195
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -27773,7 +27705,7 @@ vulgar: AIPGENE27618 39 456 . ctg2846 13709 14957 + 1416 M 43 129 F 0 1 M 34 102
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -27783,94 +27715,6 @@ ctg2846	exonerate:protein2genome:local	gene	13710	14957	1416	+	.	gene_id 1 ; seq
 ctg2846	exonerate:protein2genome:local	cds	13710	14957	.	+	.	
 ctg2846	exonerate:protein2genome:local	exon	13710	14957	.	+	.	insertions 0 ; deletions 3 ; identity 70.53 ; similarity 83.33 ; frameshifts 6
 ctg2846	exonerate:protein2genome:local	similarity	13710	14957	1416	+	.	alignment_id 1 ; Query AIPGENE27618 ; Align 13710 40 129 ; Align 13840 83 102 ; Align 13944 118 285 ; Align 14231 214 96 ; Align 14328 246 279 ; Align 14607 340 351
-# --- END OF GFF DUMP ---
-#
-
-C4 Alignment:
-------------
-         Query: AIPGENE2869
-        Target: ctg2896 len=17903
-         Model: protein2genome:local
-     Raw score: 544
-   Query range: 10 -> 174
-  Target range: 15451 -> 17194
-
-    11 : GlnAlaGlyValGlnIleGlyAsnAlaCysTrpGluLeuTyrCysLeuGluHisGlyIle :    30
-         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-         GlnAlaGlyValGlnIleGlyAsnAlaCysTrpGluLeuTyrCysLeuGluHisGlyIle
- 15452 : CAAGCCGGTGTTCAGATCGGTAACGCTTGTTGGGAGTTGTACTGTCTTGAACATGGTATC : 15509
-
-    31 : GlnProAspGlyGlnMetProSerAspLysThrIleGlyGlyGlyAspAspSerPheAsn :    50
-         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-         GlnProAspGlyGlnMetProSerAspLysThrIleGlyGlyGlyAspAspSerPheAsn
- 15510 : CAGCCCGATGGCCAGATGCCCAGCGACAAGACGATCGGTGGTGGCGATGATTCGTTTAAC : 15569
-
-    51 : ThrPhePheSerGluThrGlyAlaGlyLysHisValProArgAlaValPheValAspLeu :    70
-         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-         ThrPhePheSerGluThrGlyAlaGlyLysHisValProArgAlaValPheValAspLeu
- 15570 : ACTTTCTTCAGCGAAACTGGAGCTGGAAAACACGTCCCAAGAGCCGTGTTCGTTGATCTC : 15629
-
-    71 : GluProThrValValAspGlu{V}  >>>> Target Intron 1 >>>>  {al}Arg :    79
-         |||||||||||||||! !|||{ }            393 bp           { !}  !
-         GluProThrValValGlyGlu{C}-+                         ++{ys}Ser
- 15630 : GAACCCACAGTAGTTGGTGAG{T}tt.........................ag{GT}TCG : 16049
-
-    80 : ThrGlyThrTyrArgGlnLeuPheHisProGluGlnLeuIleUnkGlyLysGluAspAla :    99
-           !|||||||||||||||||||||||||||||||||||||||...||||||! !:!!|||
-         TyrGlyThrTyrArgGlnLeuPheHisProGluGlnLeuIleThrGlyLysGlyAsnAla
- 16050 : TATGGAACATATCGTCAACTCTTCCATCCCGAACAGCTCATCACAGGGAAAGGAAACGCT : 16109
-
-   100 : AlaUnkUnkTyrAlaArgGlyHisTyrThrValGlyLysGluLeuIleAspIleValLeu :   119
-         |||      ||||||||||||||||||||||||||||||||||||||||||:!:||||||
-         AlaAsnAsnTyrAlaArgGlyHisTyrThrValGlyLysGluLeuIleAspLeuValLeu
- 16110 : GCTAACAACTATGCTCGTGGACATTACACTGTTGGGAAAGAACTTATTGATTTGGTGTTG : 16169
-
-   120 : AspArgIleArgLys{Le}  >>>> Target Intron 2 >>>>  {u}ValGlnArg :   128
-         ||||||||||||!!.{! }            870 bp           {!}|||||||||
-         AspArgIleArgAsn{Tr}++                         --{p}ValGlnArg
- 16170 : GACAGAATCAGAAAC{TG}gt.........................cc{G}GTACAGCGT : 17066
-
-   129 : AlaValCysMetLeuSerAsnThrThrAlaIleAlaGluAlaTrpAlaArgLeuAspHis :   148
-         |||||||||||||||..!:!!  !!:!  !:!:!.!   ..!         |||||||||
-         AlaValCysMetLeuGluHisHisSerHisLeuGlyProCys---------LeuAspHis
- 17067 : GCCGTCTGCATGTTGGAACACCACAGCCATTTGGGGCCCTGT---------CTGGATCAC : 17117
-
-   149 : LysPheAsp-LeuMetTyrAlaLysArgAlaPheValHisTrpTyr--ValGlyGluGly :   167
-         |||||||||#   |||||||||||||||||||||||||||||||||##   |||||||||
-         LysPheAsp#---MetTyrAlaLysArgAlaPheValHisTrpTyr##---GlyGluGly
- 17118 : AAGTTTGACG---ATGTATGCCAAGCGTGCCTTTGTGCACTGGTATTT---GGAGAGGGT : 17171
-
-   168 : MetGluGluGlyGluPheSer :   174
-         |||||||||||||||||||||
-         MetGluGluGlyGluPheSer
- 17172 : ATGGAAGAAGGAGAGTTCTCA : 17194
-
-vulgar: AIPGENE2869 10 174 . ctg2896 15451 17194 + 544 M 67 201 S 0 1 5 0 2 I 0 389 3 0 2 S 1 2 M 46 138 S 0 2 5 0 2 I 0 866 3 0 2 S 1 1 M 17 51 G 3 0 M 6 18 F 0 1 G 1 0 M 11 33 F 0 2 G 1 0 M 10 30
-# --- START OF GFF DUMP ---
-#
-#
-##gff-version 2
-##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
-##type DNA
-#
-#
-# seqname source feature start end score strand frame attributes
-#
-ctg2896	exonerate:protein2genome:local	gene	15452	17194	544	+	.	gene_id 1 ; sequence AIPGENE2869 ; gene_orientation + ; identity 87.90 ; similarity 91.08
-ctg2896	exonerate:protein2genome:local	cds	15452	15653	.	+	.	
-ctg2896	exonerate:protein2genome:local	exon	15452	15653	.	+	.	insertions 0 ; deletions 0 ; identity 98.51 ; similarity 98.51
-ctg2896	exonerate:protein2genome:local	splice5	15654	15655	.	+	.	intron_id 1 ; splice_site "TT"
-ctg2896	exonerate:protein2genome:local	intron	15654	16046	.	+	.	intron_id 1
-ctg2896	exonerate:protein2genome:local	splice3	16045	16046	.	+	.	intron_id 0 ; splice_site "AG"
-ctg2896	exonerate:protein2genome:local	cds	16047	16188	.	+	.	
-ctg2896	exonerate:protein2genome:local	exon	16047	16188	.	+	.	insertions 0 ; deletions 0 ; identity 80.43 ; similarity 84.78
-ctg2896	exonerate:protein2genome:local	splice5	16189	16190	.	+	.	intron_id 2 ; splice_site "GT"
-ctg2896	exonerate:protein2genome:local	intron	16189	17058	.	+	.	intron_id 2
-ctg2896	exonerate:protein2genome:local	splice3	17057	17058	.	+	.	intron_id 1 ; splice_site "CC"
-ctg2896	exonerate:protein2genome:local	cds	17059	17194	.	+	.	
-ctg2896	exonerate:protein2genome:local	exon	17059	17194	.	+	.	insertions 0 ; deletions 5 ; identity 79.55 ; similarity 86.36 ; frameshifts 3
-ctg2896	exonerate:protein2genome:local	similarity	15452	17194	544	+	.	alignment_id 1 ; Query AIPGENE2869 ; Align 15452 11 201 ; Align 16049 79 138 ; Align 17060 126 51 ; Align 17111 146 18 ; Align 17130 153 33 ; Align 17165 165 30
 # --- END OF GFF DUMP ---
 #
 
@@ -28004,7 +27848,7 @@ vulgar: AIPGENE24026 6 451 . ctg2846 13715 15046 + 1694 M 43 129 F 0 1 M 30 90 F
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -28167,7 +28011,7 @@ vulgar: AIPGENE2900 16 480 . ctg2026 6030 893 - 1360 M 36 108 5 0 2 I 0 359 3 0 
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -28222,6 +28066,313 @@ ctg2026	exonerate:protein2genome:local	splice3	919	920	.	-	.	intron_id 8 ; splic
 ctg2026	exonerate:protein2genome:local	cds	894	918	.	-	.	
 ctg2026	exonerate:protein2genome:local	exon	894	918	.	-	.	insertions 0 ; deletions 0 ; identity 87.50 ; similarity 100.00
 ctg2026	exonerate:protein2genome:local	similarity	894	6030	1360	-	.	alignment_id 1 ; Query AIPGENE2900 ; Align 6031 17 108 ; Align 5560 53 84 ; Align 5476 82 54 ; Align 5341 100 126 ; Align 4972 142 24 ; Align 4946 150 3 ; Align 4943 152 162 ; Align 4241 206 111 ; Align 3835 244 48 ; Align 3786 260 240 ; Align 3077 340 81 ; Align 2994 367 3 ; Align 2991 369 66 ; Align 2923 391 12 ; Align 2536 395 48 ; Align 2487 411 108 ; Align 1429 448 36 ; Align 1392 460 36 ; Align 918 473 24
+# --- END OF GFF DUMP ---
+#
+
+C4 Alignment:
+------------
+         Query: AIPGENE23386
+        Target: ctg1897 len=29854
+         Model: protein2genome:local
+     Raw score: 1003
+   Query range: 0 -> 317
+  Target range: 8690 -> 15291
+
+     1 : MetGlyArgIlePheIleGlyLeuValLysCysGlyAlaTrpGlyCysPheAspGluPhe :    20
+         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+         MetGlyArgIlePheIleGlyLeuValLysCysGlyAlaTrpGlyCysPheAspGluPhe
+  8691 : ATGGGTCGTATATTCATTGGTCTGGTCAAGTGCGGTGCCTGGGGCTGCTTTGATGAGTTT :  8748
+
+    21 : AsnArgLeu--GluGluAlaValLeuSerAlaValSerPhePheLeuGlnThrIleGlnA :    40
+         |||||||||##   ||||||||||||||||||||||||.!.   :!!|||||||||||||
+         AsnArgLeu##---GluAlaValLeuSerAlaValSerMetGlnIleGlnThrIleGlnA
+  8749 : AATCGTCTAGA---GAAGCAGTCCTGTCAGCTGTCTCTATGCAGATACAAACCATTCAAG :  8807
+
+    41 : laAlaLeuLysSerLysValGlnSerThrGluLeuLeuGlyArgThr  >>>> Target :    56
+         |||||||||||||||||:!!:!!||||||||||||||||||||||||            8
+         laAlaLeuLysSerLysLeuLysSerThrGluLeuLeuGlyArgThr++           
+  8808 : CTGCACTTAAATCGAAACTCAAAAGTACTGAGCTGCTAGGGAGAACGgt........... :  8857
+
+    57 :  Intron 1 >>>>  ValAsnIleAspPheAsnPhePhePhePheIleThrLeu-AsnP :    70
+         77 bp           |||:!!||||||||||||! !  !.!!||||||||||||#   |
+                       ++ValAspIleAspPheAsnSerGlyIlePheIleThrLeu#---P
+  8858 : ..............agGTGGACATCGACTTCAATTCCGGTATCTTCATCACCCTAA---C :  9772
+
+    71 : roAlaGlyLysGlyTyrGlyGlyArgGlnLysLeuProAspAsnLeuLysGlnLeuPheA :    90
+         ||::! !!||||||!   !! !!! !||||||||||||||||||||||||||||||||||
+         roSerArgLysGlyLeuTrpTrpProGlnLysLeuProAspAsnLeuLysGlnLeuPheA
+  9773 : CCAGCAGGAAAGGGTTATGGTGGCCGCAAAAGCTGCCTGATAATCTGAAGCAGTTGTTTC :  9832
+
+    91 : rgProValValPheLeu{Ar}  >>>> Target Intron 2 >>>>  {g}ProAspA :    99
+         ||||||||!.!.!.! !{||}           2079 bp           {|}|||  !|
+         rgProValAlaMetSer{Ar}--                         +-{g}ProPheA
+  9833 : GACCAGTTGCCATGTCT{CG}tc.........................aa{A}CCCTTCA : 11938
+
+   100 : snGluLeuIleAlaGluValPheHisTrpThrHisAspPhePhePro--AspAlaLysAr :   118
+         ||   :!!  !  !:!!||||||||||||||||||!!:   .!.|||##|||.!!|||||
+         snPheMetAlaPheGlnValPheHisTrpThrHisGlu---MetPro##AspThrLysAr
+ 11939 : ATTTTATGGCCTTTCAGGTGTTCCACTGGACGCATGAG---ATGCCACCGACACAAAACG : 11994
+
+   119 : gProLeuAspThrTyrTyrAspProIlePheLeuArgLeuLeuSer-TyrGluLeuGlu  :   138
+         |||||||||||||||||||||||||  !     !||||||:!!|||#|||||||||||| 
+         gProLeuAspThrTyrTyrAspProAspLysGlyArgLeuMetSer#TyrGluLeuGlu+
+ 11995 : ACCTCTCGATACCTACTATGACCCAGACAAAGGGCGCTTGATGTCCCTATGAACTGGAGg : 12055
+
+   139 :  >>>> Target Intron 3 >>>>  LeuArgSerThrGlnValValPhePheHisCy :   148
+                    756 bp           ||||||||||||!!.|||!.! !!.!!|||||
+         +                         ++LeuArgSerThrHisValAlaValIleHisCy
+ 12056 : t.........................agCTCCGTTCAACCCATGTAGCTGTCATCCACTG : 12841
+
+   149 : sSerAlaGlnSer--SerProLysHisValLeuGlnLysLeuGlnGlnMetCysMetVal :   167
+         |||||||||||||##   ||||||||||||||||||||||||||||||||||||||||||
+         sSerAlaGlnSer##---ProLysHisValLeuGlnLysLeuGlnGlnMetCysMetVal
+ 12842 : TAGTGCTCAGTCCTC---CCCAAACACGTCTTACAGAAGCTCCAACAAATGTGCATGGTC : 12897
+
+   168 : IleSerThrAsnThrGlyArgValTyrArgProLysAspCysGluArgLeuValLeuTyr :   187
+         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+         IleSerThrAsnThrGlyArgValTyrArgProLysAspCysGluArgLeuValLeuTyr
+ 12898 : ATTAGCACCAATACTGGTCGTGTGTACAGACCTAAAGACTGTGAACGATTGGTACTCTAC : 12957
+
+   188 : LeuLysAspLeuAsnLeuProLysProAspLysTrpGlyThrSerGlnLeuIleAlaPhe :   207
+         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+         LeuLysAspLeuAsnLeuProLysProAspLysTrpGlyThrSerGlnLeuIleAlaPhe
+ 12958 : CTTAAAGACCTTAATCTACCTAAACCAGACAAGTGGGGGACAAGTCAGTTGATAGCTTTC : 13017
+
+   208 : LeuGlnGln  >>>> Target Intron 4 >>>>  ValIleThrTyrPhePhePheT :   218
+         |||||||||            360 bp           ||||||||||||     !||||
+         LeuGlnGln++                         ++ValIleThrTyrLysGlyPheT
+ 13018 : TTACAACAGgt.........................agGTGATAACCTATAAAGGTTTCT : 13410
+
+   219 : yrAspAspAsnLeuGluTrpValGlyLeuGluGlyValPhePheValAlaSerMetSerA :   238
+         ||||||||||||||||||||||||||||||||||||||    ! ||||||||||||||||
+         yrAspAspAsnLeuGluTrpValGlyLeuGluGlyValGlnValValAlaSerMetSerA
+ 13411 : ATGATGATAATCTAGAGTGGGTAGGTCTAGAGGGTGTACAAGTAGTGGCTTCCATGAGTG : 13470
+
+   239 : laGlyThrAla  >>>> Target Intron 5 >>>>  ArgGluAsnArgGluLeuAs :   248
+         ||||||||!.!           1581 bp           ! !|||||||||||||||!!
+         laGlyThrGly-+                         ++LeuGluAsnArgGluLeuGl
+ 13471 : CTGGTACTGGAat.........................agCTCGAAAACCGTGAACTAGA : 15081
+
+   249 : pIleLeuMetPheLysGluValLeuAspAsnIleAla-ArgValGluArgThrMetThrP :   268
+         :||||||||||||||||||||||||||||||||||||#|||||||||||||||:!:||||
+         uIleLeuMetPheLysGluValLeuAspAsnIleAla#ArgValGluArgThrLeuThrP
+ 15082 : GATCCTAATGTTTAAAGAAGTACTGGACAACATTGCTCCGTGTTGAACGTACACTAACGT : 15142
+
+   269 : hePheGlyGlySerLeuLeuLeuAlaGlyArgSerGlyValGlyArgArgThrAlaValT :   288
+         ||  !|||||||||||||||||||||||||||||||||||||||||||||||||||||||
+         heProGlyGlySerLeuLeuLeuAlaGlyArgSerGlyValGlyArgArgThrAlaValT
+ 15143 : TCCCTGGAGGTTCACTACTATTGGCTGGACGAAGTGGCGTTGGACGAAGGACAGCGGTAA : 15202
+
+   289 : hrLeuValThrHisMetHisAsnIleGluValPhePheSerLysValSerArgSerTyrG :   308
+         ||||||||||||||||||||||||||||||||  !  !||||||||||||||||||||||
+         hrLeuValThrHisMetHisAsnIleGluValSerAspSerLysValSerArgSerTyrG
+ 15203 : CTCTAGTAACGCACATGCACAACATTGAAGTGAGTGACTCCAAAGTCTCGCGCTCCTATG : 15262
+
+   309 : lyLeuLysGlnPheLysAsnAspLeuLys :   317
+         |||||||||||||||||||||||||||||
+         lyLeuLysGlnPheLysAsnAspLeuLys
+ 15263 : GACTGAAACAGTTTAAGAACGACCTGAAG : 15291
+
+vulgar: AIPGENE23386 0 317 . ctg1897 8690 15291 + 1003 M 23 69 F 0 2 G 1 0 M 31 93 5 0 2 I 0 873 3 0 2 M 13 39 F 0 1 G 1 0 M 26 78 S 0 2 5 0 2 I 0 2075 3 0 2 S 1 1 M 15 45 G 1 0 M 2 6 F 0 2 M 19 57 F 0 1 M 4 12 5 0 2 I 0 752 3 0 2 M 15 45 F 0 2 G 1 0 M 57 171 5 0 2 I 0 356 3 0 2 M 31 93 5 0 2 I 0 1577 3 0 2 M 19 57 F 0 1 M 57 171
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2018-12-18
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+ctg1897	exonerate:protein2genome:local	gene	8691	15291	1003	+	.	gene_id 1 ; sequence AIPGENE23386 ; gene_orientation + ; identity 85.26 ; similarity 88.78
+ctg1897	exonerate:protein2genome:local	cds	8691	8854	.	+	.	
+ctg1897	exonerate:protein2genome:local	exon	8691	8854	.	+	.	insertions 0 ; deletions 1 ; identity 90.91 ; similarity 96.36 ; frameshifts 2
+ctg1897	exonerate:protein2genome:local	splice5	8855	8856	.	+	.	intron_id 1 ; splice_site "GT"
+ctg1897	exonerate:protein2genome:local	intron	8855	9731	.	+	.	intron_id 1
+ctg1897	exonerate:protein2genome:local	splice3	9730	9731	.	+	.	intron_id 0 ; splice_site "AG"
+ctg1897	exonerate:protein2genome:local	cds	9732	9851	.	+	.	
+ctg1897	exonerate:protein2genome:local	exon	9732	9851	.	+	.	insertions 0 ; deletions 1 ; identity 66.67 ; similarity 71.79 ; frameshifts 1
+ctg1897	exonerate:protein2genome:local	splice5	9852	9853	.	+	.	intron_id 2 ; splice_site "TC"
+ctg1897	exonerate:protein2genome:local	intron	9852	11930	.	+	.	intron_id 2
+ctg1897	exonerate:protein2genome:local	splice3	11929	11930	.	+	.	intron_id 1 ; splice_site "AA"
+ctg1897	exonerate:protein2genome:local	cds	11931	12054	.	+	.	
+ctg1897	exonerate:protein2genome:local	exon	11931	12054	.	+	.	insertions 0 ; deletions 1 ; identity 68.29 ; similarity 78.05 ; frameshifts 3
+ctg1897	exonerate:protein2genome:local	splice5	12055	12056	.	+	.	intron_id 3 ; splice_site "GT"
+ctg1897	exonerate:protein2genome:local	intron	12055	12810	.	+	.	intron_id 3
+ctg1897	exonerate:protein2genome:local	splice3	12809	12810	.	+	.	intron_id 2 ; splice_site "AG"
+ctg1897	exonerate:protein2genome:local	cds	12811	13028	.	+	.	
+ctg1897	exonerate:protein2genome:local	exon	12811	13028	.	+	.	insertions 0 ; deletions 1 ; identity 94.52 ; similarity 94.52 ; frameshifts 2
+ctg1897	exonerate:protein2genome:local	splice5	13029	13030	.	+	.	intron_id 4 ; splice_site "GT"
+ctg1897	exonerate:protein2genome:local	intron	13029	13388	.	+	.	intron_id 4
+ctg1897	exonerate:protein2genome:local	splice3	13387	13388	.	+	.	intron_id 3 ; splice_site "AG"
+ctg1897	exonerate:protein2genome:local	cds	13389	13481	.	+	.	
+ctg1897	exonerate:protein2genome:local	exon	13389	13481	.	+	.	insertions 0 ; deletions 0 ; identity 81.25 ; similarity 81.25
+ctg1897	exonerate:protein2genome:local	splice5	13482	13483	.	+	.	intron_id 5 ; splice_site "AT"
+ctg1897	exonerate:protein2genome:local	intron	13482	15062	.	+	.	intron_id 5
+ctg1897	exonerate:protein2genome:local	splice3	15061	15062	.	+	.	intron_id 4 ; splice_site "AG"
+ctg1897	exonerate:protein2genome:local	cds	15063	15291	.	+	.	
+ctg1897	exonerate:protein2genome:local	exon	15063	15291	.	+	.	insertions 0 ; deletions 0 ; identity 92.11 ; similarity 94.74 ; frameshifts 1
+ctg1897	exonerate:protein2genome:local	similarity	8691	15291	1003	+	.	alignment_id 1 ; Query AIPGENE23386 ; Align 8691 1 69 ; Align 8762 25 93 ; Align 9732 56 39 ; Align 9772 70 78 ; Align 11932 97 45 ; Align 11977 113 6 ; Align 11985 115 57 ; Align 12043 134 12 ; Align 12811 138 45 ; Align 12858 154 171 ; Align 13389 211 93 ; Align 15063 242 57 ; Align 15121 261 171
+# --- END OF GFF DUMP ---
+#
+-- completed exonerate analysis
+Command line: [exonerate --model protein2genome --percent 50 --showtargetgff yes sym_prot_all.fasta Ae.ctg.lay.part-4.part-2.fa]
+Hostname: [SPMC-Moleculars-iMac.local]
+
+C4 Alignment:
+------------
+         Query: AIPGENE2854
+        Target: ctg2896 len=17903
+         Model: protein2genome:local
+     Raw score: 522
+   Query range: 10 -> 123
+  Target range: 15451 -> 16183
+
+    11 : GlnAlaGlyValGlnIleGlyAsnAlaCysTrpGluLeuTyrCysLeuGluHisUnkIle :    30
+         ||||||||||||||||||||||||||||||||||||||||||||||||||||||   |||
+         GlnAlaGlyValGlnIleGlyAsnAlaCysTrpGluLeuTyrCysLeuGluHisGlyIle
+ 15452 : CAAGCCGGTGTTCAGATCGGTAACGCTTGTTGGGAGTTGTACTGTCTTGAACATGGTATC : 15509
+
+    31 : GlnProAspGlyGlnMetProSerAspLysThrIleGlyGlyGlyAspAspSerPheAsn :    50
+         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+         GlnProAspGlyGlnMetProSerAspLysThrIleGlyGlyGlyAspAspSerPheAsn
+ 15510 : CAGCCCGATGGCCAGATGCCCAGCGACAAGACGATCGGTGGTGGCGATGATTCGTTTAAC : 15569
+
+    51 : ThrPhePheSerGluThrGlyAlaGlyLysHisValProArgAlaValPheValAspLeu :    70
+         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+         ThrPhePheSerGluThrGlyAlaGlyLysHisValProArgAlaValPheValAspLeu
+ 15570 : ACTTTCTTCAGCGAAACTGGAGCTGGAAAACACGTCCCAAGAGCCGTGTTCGTTGATCTC : 15629
+
+    71 : GluProThrValValAspGlu{V}  >>>> Target Intron 1 >>>>  {al}Arg :    79
+         |||||||||||||||! !|||{ }            393 bp           { !}  !
+         GluProThrValValGlyGlu{C}-+                         ++{ys}Ser
+ 15630 : GAACCCACAGTAGTTGGTGAG{T}tt.........................ag{GT}TCG : 16049
+
+    80 : ThrGlyThrTyrArgGlnLeuPheHisProGluGlnLeuIleThrGlyLysGluAspAla :    99
+           !||||||||||||||||||||||||||||||||||||||||||||||||! !:!!|||
+         TyrGlyThrTyrArgGlnLeuPheHisProGluGlnLeuIleThrGlyLysGlyAsnAla
+ 16050 : TATGGAACATATCGTCAACTCTTCCATCCCGAACAGCTCATCACAGGGAAAGGAAACGCT : 16109
+
+   100 : AlaAsnAsnTyrAlaArgGlyHisTyrThrIleGlyLysGluIleValAspLeuValLeu :   119
+         ||||||||||||||||||||||||||||||:!!|||||||||:!!:!!||||||||||||
+         AlaAsnAsnTyrAlaArgGlyHisTyrThrValGlyLysGluLeuIleAspLeuValLeu
+ 16110 : GCTAACAACTATGCTCGTGGACATTACACTGTTGGGAAAGAACTTATTGATTTGGTGTTG : 16169
+
+   120 : AspArgIleArg :   123
+         ||||||||||||
+         AspArgIleArg
+ 16170 : GACAGAATCAGA : 16183
+
+vulgar: AIPGENE2854 10 123 . ctg2896 15451 16183 + 522 M 67 201 S 0 1 5 0 2 I 0 389 3 0 2 S 1 2 M 45 135
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2018-12-18
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+ctg2896	exonerate:protein2genome:local	gene	15452	16183	522	+	.	gene_id 1 ; sequence AIPGENE2854 ; gene_orientation + ; identity 91.96 ; similarity 95.54
+ctg2896	exonerate:protein2genome:local	cds	15452	15653	.	+	.	
+ctg2896	exonerate:protein2genome:local	exon	15452	15653	.	+	.	insertions 0 ; deletions 0 ; identity 97.01 ; similarity 97.01
+ctg2896	exonerate:protein2genome:local	splice5	15654	15655	.	+	.	intron_id 1 ; splice_site "TT"
+ctg2896	exonerate:protein2genome:local	intron	15654	16046	.	+	.	intron_id 1
+ctg2896	exonerate:protein2genome:local	splice3	16045	16046	.	+	.	intron_id 0 ; splice_site "AG"
+ctg2896	exonerate:protein2genome:local	cds	16047	16183	.	+	.	
+ctg2896	exonerate:protein2genome:local	exon	16047	16183	.	+	.	insertions 0 ; deletions 0 ; identity 84.44 ; similarity 93.33
+ctg2896	exonerate:protein2genome:local	similarity	15452	16183	522	+	.	alignment_id 1 ; Query AIPGENE2854 ; Align 15452 11 201 ; Align 16049 79 135
+# --- END OF GFF DUMP ---
+#
+
+C4 Alignment:
+------------
+         Query: AIPGENE2869
+        Target: ctg2896 len=17903
+         Model: protein2genome:local
+     Raw score: 544
+   Query range: 10 -> 174
+  Target range: 15451 -> 17194
+
+    11 : GlnAlaGlyValGlnIleGlyAsnAlaCysTrpGluLeuTyrCysLeuGluHisGlyIle :    30
+         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+         GlnAlaGlyValGlnIleGlyAsnAlaCysTrpGluLeuTyrCysLeuGluHisGlyIle
+ 15452 : CAAGCCGGTGTTCAGATCGGTAACGCTTGTTGGGAGTTGTACTGTCTTGAACATGGTATC : 15509
+
+    31 : GlnProAspGlyGlnMetProSerAspLysThrIleGlyGlyGlyAspAspSerPheAsn :    50
+         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+         GlnProAspGlyGlnMetProSerAspLysThrIleGlyGlyGlyAspAspSerPheAsn
+ 15510 : CAGCCCGATGGCCAGATGCCCAGCGACAAGACGATCGGTGGTGGCGATGATTCGTTTAAC : 15569
+
+    51 : ThrPhePheSerGluThrGlyAlaGlyLysHisValProArgAlaValPheValAspLeu :    70
+         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+         ThrPhePheSerGluThrGlyAlaGlyLysHisValProArgAlaValPheValAspLeu
+ 15570 : ACTTTCTTCAGCGAAACTGGAGCTGGAAAACACGTCCCAAGAGCCGTGTTCGTTGATCTC : 15629
+
+    71 : GluProThrValValAspGlu{V}  >>>> Target Intron 1 >>>>  {al}Arg :    79
+         |||||||||||||||! !|||{ }            393 bp           { !}  !
+         GluProThrValValGlyGlu{C}-+                         ++{ys}Ser
+ 15630 : GAACCCACAGTAGTTGGTGAG{T}tt.........................ag{GT}TCG : 16049
+
+    80 : ThrGlyThrTyrArgGlnLeuPheHisProGluGlnLeuIleUnkGlyLysGluAspAla :    99
+           !|||||||||||||||||||||||||||||||||||||||...||||||! !:!!|||
+         TyrGlyThrTyrArgGlnLeuPheHisProGluGlnLeuIleThrGlyLysGlyAsnAla
+ 16050 : TATGGAACATATCGTCAACTCTTCCATCCCGAACAGCTCATCACAGGGAAAGGAAACGCT : 16109
+
+   100 : AlaUnkUnkTyrAlaArgGlyHisTyrThrValGlyLysGluLeuIleAspIleValLeu :   119
+         |||      ||||||||||||||||||||||||||||||||||||||||||:!:||||||
+         AlaAsnAsnTyrAlaArgGlyHisTyrThrValGlyLysGluLeuIleAspLeuValLeu
+ 16110 : GCTAACAACTATGCTCGTGGACATTACACTGTTGGGAAAGAACTTATTGATTTGGTGTTG : 16169
+
+   120 : AspArgIleArgLys{Le}  >>>> Target Intron 2 >>>>  {u}ValGlnArg :   128
+         ||||||||||||!!.{! }            870 bp           {!}|||||||||
+         AspArgIleArgAsn{Tr}++                         --{p}ValGlnArg
+ 16170 : GACAGAATCAGAAAC{TG}gt.........................cc{G}GTACAGCGT : 17066
+
+   129 : AlaValCysMetLeuSerAsnThrThrAlaIleAlaGluAlaTrpAlaArgLeuAspHis :   148
+         |||||||||||||||..!:!!  !!:!  !:!:!.!   ..!         |||||||||
+         AlaValCysMetLeuGluHisHisSerHisLeuGlyProCys---------LeuAspHis
+ 17067 : GCCGTCTGCATGTTGGAACACCACAGCCATTTGGGGCCCTGT---------CTGGATCAC : 17117
+
+   149 : LysPheAsp-LeuMetTyrAlaLysArgAlaPheValHisTrpTyr--ValGlyGluGly :   167
+         |||||||||#   |||||||||||||||||||||||||||||||||##   |||||||||
+         LysPheAsp#---MetTyrAlaLysArgAlaPheValHisTrpTyr##---GlyGluGly
+ 17118 : AAGTTTGACG---ATGTATGCCAAGCGTGCCTTTGTGCACTGGTATTT---GGAGAGGGT : 17171
+
+   168 : MetGluGluGlyGluPheSer :   174
+         |||||||||||||||||||||
+         MetGluGluGlyGluPheSer
+ 17172 : ATGGAAGAAGGAGAGTTCTCA : 17194
+
+vulgar: AIPGENE2869 10 174 . ctg2896 15451 17194 + 544 M 67 201 S 0 1 5 0 2 I 0 389 3 0 2 S 1 2 M 46 138 S 0 2 5 0 2 I 0 866 3 0 2 S 1 1 M 17 51 G 3 0 M 6 18 F 0 1 G 1 0 M 11 33 F 0 2 G 1 0 M 10 30
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2018-12-18
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+ctg2896	exonerate:protein2genome:local	gene	15452	17194	544	+	.	gene_id 1 ; sequence AIPGENE2869 ; gene_orientation + ; identity 87.90 ; similarity 91.08
+ctg2896	exonerate:protein2genome:local	cds	15452	15653	.	+	.	
+ctg2896	exonerate:protein2genome:local	exon	15452	15653	.	+	.	insertions 0 ; deletions 0 ; identity 98.51 ; similarity 98.51
+ctg2896	exonerate:protein2genome:local	splice5	15654	15655	.	+	.	intron_id 1 ; splice_site "TT"
+ctg2896	exonerate:protein2genome:local	intron	15654	16046	.	+	.	intron_id 1
+ctg2896	exonerate:protein2genome:local	splice3	16045	16046	.	+	.	intron_id 0 ; splice_site "AG"
+ctg2896	exonerate:protein2genome:local	cds	16047	16188	.	+	.	
+ctg2896	exonerate:protein2genome:local	exon	16047	16188	.	+	.	insertions 0 ; deletions 0 ; identity 80.43 ; similarity 84.78
+ctg2896	exonerate:protein2genome:local	splice5	16189	16190	.	+	.	intron_id 2 ; splice_site "GT"
+ctg2896	exonerate:protein2genome:local	intron	16189	17058	.	+	.	intron_id 2
+ctg2896	exonerate:protein2genome:local	splice3	17057	17058	.	+	.	intron_id 1 ; splice_site "CC"
+ctg2896	exonerate:protein2genome:local	cds	17059	17194	.	+	.	
+ctg2896	exonerate:protein2genome:local	exon	17059	17194	.	+	.	insertions 0 ; deletions 5 ; identity 79.55 ; similarity 86.36 ; frameshifts 3
+ctg2896	exonerate:protein2genome:local	similarity	15452	17194	544	+	.	alignment_id 1 ; Query AIPGENE2869 ; Align 15452 11 201 ; Align 16049 79 138 ; Align 17060 126 51 ; Align 17111 146 18 ; Align 17130 153 33 ; Align 17165 165 30
 # --- END OF GFF DUMP ---
 #
 
@@ -28340,7 +28491,7 @@ vulgar: AIPGENE12599 4 396 . ctg4506 11955 13129 + 1210 M 42 126 F 0 1 M 18 54 F
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
@@ -28350,154 +28501,6 @@ ctg4506	exonerate:protein2genome:local	gene	11956	13129	1210	+	.	gene_id 1 ; seq
 ctg4506	exonerate:protein2genome:local	cds	11956	13129	.	+	.	
 ctg4506	exonerate:protein2genome:local	exon	11956	13129	.	+	.	insertions 0 ; deletions 3 ; identity 66.84 ; similarity 81.49 ; frameshifts 7
 ctg4506	exonerate:protein2genome:local	similarity	11956	13129	1210	+	.	alignment_id 1 ; Query AIPGENE12599 ; Align 11956 5 126 ; Align 12083 47 54 ; Align 12139 66 627 ; Align 12768 276 204 ; Align 12974 344 3 ; Align 12977 346 153
-# --- END OF GFF DUMP ---
-#
-
-C4 Alignment:
-------------
-         Query: AIPGENE23386
-        Target: ctg1897 len=29854
-         Model: protein2genome:local
-     Raw score: 1003
-   Query range: 0 -> 317
-  Target range: 8690 -> 15291
-
-     1 : MetGlyArgIlePheIleGlyLeuValLysCysGlyAlaTrpGlyCysPheAspGluPhe :    20
-         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-         MetGlyArgIlePheIleGlyLeuValLysCysGlyAlaTrpGlyCysPheAspGluPhe
-  8691 : ATGGGTCGTATATTCATTGGTCTGGTCAAGTGCGGTGCCTGGGGCTGCTTTGATGAGTTT :  8748
-
-    21 : AsnArgLeu--GluGluAlaValLeuSerAlaValSerPhePheLeuGlnThrIleGlnA :    40
-         |||||||||##   ||||||||||||||||||||||||.!.   :!!|||||||||||||
-         AsnArgLeu##---GluAlaValLeuSerAlaValSerMetGlnIleGlnThrIleGlnA
-  8749 : AATCGTCTAGA---GAAGCAGTCCTGTCAGCTGTCTCTATGCAGATACAAACCATTCAAG :  8807
-
-    41 : laAlaLeuLysSerLysValGlnSerThrGluLeuLeuGlyArgThr  >>>> Target :    56
-         |||||||||||||||||:!!:!!||||||||||||||||||||||||            8
-         laAlaLeuLysSerLysLeuLysSerThrGluLeuLeuGlyArgThr++           
-  8808 : CTGCACTTAAATCGAAACTCAAAAGTACTGAGCTGCTAGGGAGAACGgt........... :  8857
-
-    57 :  Intron 1 >>>>  ValAsnIleAspPheAsnPhePhePhePheIleThrLeu-AsnP :    70
-         77 bp           |||:!!||||||||||||! !  !.!!||||||||||||#   |
-                       ++ValAspIleAspPheAsnSerGlyIlePheIleThrLeu#---P
-  8858 : ..............agGTGGACATCGACTTCAATTCCGGTATCTTCATCACCCTAA---C :  9772
-
-    71 : roAlaGlyLysGlyTyrGlyGlyArgGlnLysLeuProAspAsnLeuLysGlnLeuPheA :    90
-         ||::! !!||||||!   !! !!! !||||||||||||||||||||||||||||||||||
-         roSerArgLysGlyLeuTrpTrpProGlnLysLeuProAspAsnLeuLysGlnLeuPheA
-  9773 : CCAGCAGGAAAGGGTTATGGTGGCCGCAAAAGCTGCCTGATAATCTGAAGCAGTTGTTTC :  9832
-
-    91 : rgProValValPheLeu{Ar}  >>>> Target Intron 2 >>>>  {g}ProAspA :    99
-         ||||||||!.!.!.! !{||}           2079 bp           {|}|||  !|
-         rgProValAlaMetSer{Ar}--                         +-{g}ProPheA
-  9833 : GACCAGTTGCCATGTCT{CG}tc.........................aa{A}CCCTTCA : 11938
-
-   100 : snGluLeuIleAlaGluValPheHisTrpThrHisAspPhePhePro--AspAlaLysAr :   118
-         ||   :!!  !  !:!!||||||||||||||||||!!:   .!.|||##|||.!!|||||
-         snPheMetAlaPheGlnValPheHisTrpThrHisGlu---MetPro##AspThrLysAr
- 11939 : ATTTTATGGCCTTTCAGGTGTTCCACTGGACGCATGAG---ATGCCACCGACACAAAACG : 11994
-
-   119 : gProLeuAspThrTyrTyrAspProIlePheLeuArgLeuLeuSer-TyrGluLeuGlu  :   138
-         |||||||||||||||||||||||||  !     !||||||:!!|||#|||||||||||| 
-         gProLeuAspThrTyrTyrAspProAspLysGlyArgLeuMetSer#TyrGluLeuGlu+
- 11995 : ACCTCTCGATACCTACTATGACCCAGACAAAGGGCGCTTGATGTCCCTATGAACTGGAGg : 12055
-
-   139 :  >>>> Target Intron 3 >>>>  LeuArgSerThrGlnValValPhePheHisCy :   148
-                    756 bp           ||||||||||||!!.|||!.! !!.!!|||||
-         +                         ++LeuArgSerThrHisValAlaValIleHisCy
- 12056 : t.........................agCTCCGTTCAACCCATGTAGCTGTCATCCACTG : 12841
-
-   149 : sSerAlaGlnSer--SerProLysHisValLeuGlnLysLeuGlnGlnMetCysMetVal :   167
-         |||||||||||||##   ||||||||||||||||||||||||||||||||||||||||||
-         sSerAlaGlnSer##---ProLysHisValLeuGlnLysLeuGlnGlnMetCysMetVal
- 12842 : TAGTGCTCAGTCCTC---CCCAAACACGTCTTACAGAAGCTCCAACAAATGTGCATGGTC : 12897
-
-   168 : IleSerThrAsnThrGlyArgValTyrArgProLysAspCysGluArgLeuValLeuTyr :   187
-         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-         IleSerThrAsnThrGlyArgValTyrArgProLysAspCysGluArgLeuValLeuTyr
- 12898 : ATTAGCACCAATACTGGTCGTGTGTACAGACCTAAAGACTGTGAACGATTGGTACTCTAC : 12957
-
-   188 : LeuLysAspLeuAsnLeuProLysProAspLysTrpGlyThrSerGlnLeuIleAlaPhe :   207
-         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-         LeuLysAspLeuAsnLeuProLysProAspLysTrpGlyThrSerGlnLeuIleAlaPhe
- 12958 : CTTAAAGACCTTAATCTACCTAAACCAGACAAGTGGGGGACAAGTCAGTTGATAGCTTTC : 13017
-
-   208 : LeuGlnGln  >>>> Target Intron 4 >>>>  ValIleThrTyrPhePhePheT :   218
-         |||||||||            360 bp           ||||||||||||     !||||
-         LeuGlnGln++                         ++ValIleThrTyrLysGlyPheT
- 13018 : TTACAACAGgt.........................agGTGATAACCTATAAAGGTTTCT : 13410
-
-   219 : yrAspAspAsnLeuGluTrpValGlyLeuGluGlyValPhePheValAlaSerMetSerA :   238
-         ||||||||||||||||||||||||||||||||||||||    ! ||||||||||||||||
-         yrAspAspAsnLeuGluTrpValGlyLeuGluGlyValGlnValValAlaSerMetSerA
- 13411 : ATGATGATAATCTAGAGTGGGTAGGTCTAGAGGGTGTACAAGTAGTGGCTTCCATGAGTG : 13470
-
-   239 : laGlyThrAla  >>>> Target Intron 5 >>>>  ArgGluAsnArgGluLeuAs :   248
-         ||||||||!.!           1581 bp           ! !|||||||||||||||!!
-         laGlyThrGly-+                         ++LeuGluAsnArgGluLeuGl
- 13471 : CTGGTACTGGAat.........................agCTCGAAAACCGTGAACTAGA : 15081
-
-   249 : pIleLeuMetPheLysGluValLeuAspAsnIleAla-ArgValGluArgThrMetThrP :   268
-         :||||||||||||||||||||||||||||||||||||#|||||||||||||||:!:||||
-         uIleLeuMetPheLysGluValLeuAspAsnIleAla#ArgValGluArgThrLeuThrP
- 15082 : GATCCTAATGTTTAAAGAAGTACTGGACAACATTGCTCCGTGTTGAACGTACACTAACGT : 15142
-
-   269 : hePheGlyGlySerLeuLeuLeuAlaGlyArgSerGlyValGlyArgArgThrAlaValT :   288
-         ||  !|||||||||||||||||||||||||||||||||||||||||||||||||||||||
-         heProGlyGlySerLeuLeuLeuAlaGlyArgSerGlyValGlyArgArgThrAlaValT
- 15143 : TCCCTGGAGGTTCACTACTATTGGCTGGACGAAGTGGCGTTGGACGAAGGACAGCGGTAA : 15202
-
-   289 : hrLeuValThrHisMetHisAsnIleGluValPhePheSerLysValSerArgSerTyrG :   308
-         ||||||||||||||||||||||||||||||||  !  !||||||||||||||||||||||
-         hrLeuValThrHisMetHisAsnIleGluValSerAspSerLysValSerArgSerTyrG
- 15203 : CTCTAGTAACGCACATGCACAACATTGAAGTGAGTGACTCCAAAGTCTCGCGCTCCTATG : 15262
-
-   309 : lyLeuLysGlnPheLysAsnAspLeuLys :   317
-         |||||||||||||||||||||||||||||
-         lyLeuLysGlnPheLysAsnAspLeuLys
- 15263 : GACTGAAACAGTTTAAGAACGACCTGAAG : 15291
-
-vulgar: AIPGENE23386 0 317 . ctg1897 8690 15291 + 1003 M 23 69 F 0 2 G 1 0 M 31 93 5 0 2 I 0 873 3 0 2 M 13 39 F 0 1 G 1 0 M 26 78 S 0 2 5 0 2 I 0 2075 3 0 2 S 1 1 M 15 45 G 1 0 M 2 6 F 0 2 M 19 57 F 0 1 M 4 12 5 0 2 I 0 752 3 0 2 M 15 45 F 0 2 G 1 0 M 57 171 5 0 2 I 0 356 3 0 2 M 31 93 5 0 2 I 0 1577 3 0 2 M 19 57 F 0 1 M 57 171
-# --- START OF GFF DUMP ---
-#
-#
-##gff-version 2
-##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
-##type DNA
-#
-#
-# seqname source feature start end score strand frame attributes
-#
-ctg1897	exonerate:protein2genome:local	gene	8691	15291	1003	+	.	gene_id 1 ; sequence AIPGENE23386 ; gene_orientation + ; identity 85.26 ; similarity 88.78
-ctg1897	exonerate:protein2genome:local	cds	8691	8854	.	+	.	
-ctg1897	exonerate:protein2genome:local	exon	8691	8854	.	+	.	insertions 0 ; deletions 1 ; identity 90.91 ; similarity 96.36 ; frameshifts 2
-ctg1897	exonerate:protein2genome:local	splice5	8855	8856	.	+	.	intron_id 1 ; splice_site "GT"
-ctg1897	exonerate:protein2genome:local	intron	8855	9731	.	+	.	intron_id 1
-ctg1897	exonerate:protein2genome:local	splice3	9730	9731	.	+	.	intron_id 0 ; splice_site "AG"
-ctg1897	exonerate:protein2genome:local	cds	9732	9851	.	+	.	
-ctg1897	exonerate:protein2genome:local	exon	9732	9851	.	+	.	insertions 0 ; deletions 1 ; identity 66.67 ; similarity 71.79 ; frameshifts 1
-ctg1897	exonerate:protein2genome:local	splice5	9852	9853	.	+	.	intron_id 2 ; splice_site "TC"
-ctg1897	exonerate:protein2genome:local	intron	9852	11930	.	+	.	intron_id 2
-ctg1897	exonerate:protein2genome:local	splice3	11929	11930	.	+	.	intron_id 1 ; splice_site "AA"
-ctg1897	exonerate:protein2genome:local	cds	11931	12054	.	+	.	
-ctg1897	exonerate:protein2genome:local	exon	11931	12054	.	+	.	insertions 0 ; deletions 1 ; identity 68.29 ; similarity 78.05 ; frameshifts 3
-ctg1897	exonerate:protein2genome:local	splice5	12055	12056	.	+	.	intron_id 3 ; splice_site "GT"
-ctg1897	exonerate:protein2genome:local	intron	12055	12810	.	+	.	intron_id 3
-ctg1897	exonerate:protein2genome:local	splice3	12809	12810	.	+	.	intron_id 2 ; splice_site "AG"
-ctg1897	exonerate:protein2genome:local	cds	12811	13028	.	+	.	
-ctg1897	exonerate:protein2genome:local	exon	12811	13028	.	+	.	insertions 0 ; deletions 1 ; identity 94.52 ; similarity 94.52 ; frameshifts 2
-ctg1897	exonerate:protein2genome:local	splice5	13029	13030	.	+	.	intron_id 4 ; splice_site "GT"
-ctg1897	exonerate:protein2genome:local	intron	13029	13388	.	+	.	intron_id 4
-ctg1897	exonerate:protein2genome:local	splice3	13387	13388	.	+	.	intron_id 3 ; splice_site "AG"
-ctg1897	exonerate:protein2genome:local	cds	13389	13481	.	+	.	
-ctg1897	exonerate:protein2genome:local	exon	13389	13481	.	+	.	insertions 0 ; deletions 0 ; identity 81.25 ; similarity 81.25
-ctg1897	exonerate:protein2genome:local	splice5	13482	13483	.	+	.	intron_id 5 ; splice_site "AT"
-ctg1897	exonerate:protein2genome:local	intron	13482	15062	.	+	.	intron_id 5
-ctg1897	exonerate:protein2genome:local	splice3	15061	15062	.	+	.	intron_id 4 ; splice_site "AG"
-ctg1897	exonerate:protein2genome:local	cds	15063	15291	.	+	.	
-ctg1897	exonerate:protein2genome:local	exon	15063	15291	.	+	.	insertions 0 ; deletions 0 ; identity 92.11 ; similarity 94.74 ; frameshifts 1
-ctg1897	exonerate:protein2genome:local	similarity	8691	15291	1003	+	.	alignment_id 1 ; Query AIPGENE23386 ; Align 8691 1 69 ; Align 8762 25 93 ; Align 9732 56 39 ; Align 9772 70 78 ; Align 11932 97 45 ; Align 11977 113 6 ; Align 11985 115 57 ; Align 12043 134 12 ; Align 12811 138 45 ; Align 12858 154 171 ; Align 13389 211 93 ; Align 15063 242 57 ; Align 15121 261 171
 # --- END OF GFF DUMP ---
 #
 
@@ -28541,7 +28544,7 @@ vulgar: AIPGENE12122 8 78 . ctg3037 6860 5309 - 250 M 6 18 F 0 1 M 13 39 5 0 2 I
 #
 ##gff-version 2
 ##source-version exonerate:protein2genome:local 2.4.0
-##date 2018-12-14
+##date 2018-12-18
 ##type DNA
 #
 #
