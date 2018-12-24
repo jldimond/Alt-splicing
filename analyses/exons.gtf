@@ -1,0 +1,1111 @@
+ctg101	exonerate:protein2genome:local	gene	58397	59237	757	+	.	gene_id 1 ; sequence AIPGENE23599 ; gene_orientation + ; identity 72.46 ; similarity 86.86
+ctg101	exonerate:protein2genome:local	exon	58397	58451	.	+	.	insertions 0 ; deletions 0 ; identity 33.33 ; similarity 77.78
+ctg101	exonerate:protein2genome:local	exon	58575	59237	.	+	.	insertions 0 ; deletions 5 ; identity 75.69 ; similarity 87.61 ; frameshifts 7
+ctg164	exonerate:protein2genome:local	gene	281645	284426	954	+	.	gene_id 1 ; sequence AIPGENE11223 ; gene_orientation + ; identity 77.11 ; similarity 83.45
+ctg164	exonerate:protein2genome:local	exon	281645	281701	.	+	.	insertions 0 ; deletions 0 ; identity 60.00 ; similarity 75.00
+ctg164	exonerate:protein2genome:local	exon	283543	283950	.	+	.	insertions 0 ; deletions 2 ; identity 68.61 ; similarity 72.99
+ctg164	exonerate:protein2genome:local	exon	284035	284426	.	+	.	insertions 0 ; deletions 3 ; identity 89.15 ; similarity 96.12 ; frameshifts 5
+ctg187	exonerate:protein2genome:local	gene	32437	34297	1185	-	.	gene_id 1 ; sequence AIPGENE12816 ; gene_orientation + ; identity 87.34 ; similarity 91.23
+ctg187	exonerate:protein2genome:local	exon	34057	34297	.	-	.	insertions 0 ; deletions 1 ; identity 91.36 ; similarity 96.30 ; frameshifts 1
+ctg187	exonerate:protein2genome:local	exon	33865	33973	.	-	.	insertions 0 ; deletions 0 ; identity 91.67 ; similarity 94.44
+ctg187	exonerate:protein2genome:local	exon	32437	33019	.	-	.	insertions 0 ; deletions 2 ; identity 84.90 ; similarity 88.54 ; frameshifts 5
+ctg217	exonerate:protein2genome:local	gene	69169	71601	364	-	.	gene_id 1 ; sequence AIPGENE11940 ; gene_orientation + ; identity 80.00 ; similarity 89.57
+ctg217	exonerate:protein2genome:local	exon	71520	71601	.	-	.	insertions 0 ; deletions 0 ; identity 92.59 ; similarity 96.30
+ctg217	exonerate:protein2genome:local	exon	70296	70394	.	-	.	insertions 0 ; deletions 1 ; identity 78.79 ; similarity 90.91 ; frameshifts 1
+ctg217	exonerate:protein2genome:local	exon	69169	69337	.	-	.	insertions 0 ; deletions 0 ; identity 75.00 ; similarity 85.71 ; frameshifts 1
+ctg61	exonerate:protein2genome:local	gene	84017	87877	1063	+	.	gene_id 1 ; sequence AIPGENE23053 ; gene_orientation + ; identity 78.69 ; similarity 89.20
+ctg61	exonerate:protein2genome:local	exon	84017	84056	.	+	.	insertions 0 ; deletions 0 ; identity 84.62 ; similarity 92.31
+ctg61	exonerate:protein2genome:local	exon	84133	84252	.	+	.	insertions 0 ; deletions 1 ; identity 71.79 ; similarity 74.36
+ctg61	exonerate:protein2genome:local	exon	84947	85068	.	+	.	insertions 0 ; deletions 1 ; identity 87.18 ; similarity 94.87 ; frameshifts 2
+ctg61	exonerate:protein2genome:local	exon	85214	85361	.	+	.	insertions 0 ; deletions 1 ; identity 77.55 ; similarity 85.71 ; frameshifts 2
+ctg61	exonerate:protein2genome:local	exon	85704	85958	.	+	.	insertions 0 ; deletions 4 ; identity 71.95 ; similarity 90.24 ; frameshifts 7
+ctg61	exonerate:protein2genome:local	exon	86758	86948	.	+	.	insertions 0 ; deletions 0 ; identity 79.69 ; similarity 92.19 ; frameshifts 1
+ctg61	exonerate:protein2genome:local	exon	87176	87263	.	+	.	insertions 0 ; deletions 0 ; identity 79.31 ; similarity 89.66
+ctg61	exonerate:protein2genome:local	exon	87672	87737	.	+	.	insertions 0 ; deletions 0 ; identity 85.71 ; similarity 95.24
+ctg61	exonerate:protein2genome:local	exon	87822	87877	.	+	.	insertions 0 ; deletions 0 ; identity 88.89 ; similarity 94.44
+ctg49	exonerate:protein2genome:local	gene	137680	138259	863	+	.	gene_id 1 ; sequence AIPGENE25395 ; gene_orientation . ; identity 94.27 ; similarity 95.83
+ctg49	exonerate:protein2genome:local	exon	137680	138259	.	+	.	insertions 0 ; deletions 1 ; identity 94.27 ; similarity 95.83 ; frameshifts 4
+ctg301	exonerate:protein2genome:local	gene	40760	43825	1266	+	.	gene_id 1 ; sequence AIPGENE26763 ; gene_orientation + ; identity 77.01 ; similarity 84.49
+ctg301	exonerate:protein2genome:local	exon	40760	41145	.	+	.	insertions 0 ; deletions 1 ; identity 75.19 ; similarity 84.50 ; frameshifts 2
+ctg301	exonerate:protein2genome:local	exon	42654	42879	.	+	.	insertions 0 ; deletions 1 ; identity 85.53 ; similarity 90.79 ; frameshifts 1
+ctg301	exonerate:protein2genome:local	exon	43165	43331	.	+	.	insertions 0 ; deletions 0 ; identity 90.91 ; similarity 96.36
+ctg301	exonerate:protein2genome:local	exon	43513	43825	.	+	.	insertions 0 ; deletions 4 ; identity 65.05 ; similarity 72.82 ; frameshifts 3
+ctg145	exonerate:protein2genome:local	gene	107650	111262	676	+	.	gene_id 1 ; sequence AIPGENE20564 ; gene_orientation + ; identity 86.36 ; similarity 90.91
+ctg145	exonerate:protein2genome:local	exon	107650	107672	.	+	.	insertions 0 ; deletions 0 ; identity 85.71 ; similarity 100.00
+ctg145	exonerate:protein2genome:local	exon	107983	108054	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg145	exonerate:protein2genome:local	exon	108219	108289	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg145	exonerate:protein2genome:local	exon	109895	109941	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg145	exonerate:protein2genome:local	exon	110469	110531	.	+	.	insertions 0 ; deletions 0 ; identity 95.45 ; similarity 100.00
+ctg145	exonerate:protein2genome:local	exon	110998	111262	.	+	.	insertions 0 ; deletions 2 ; identity 74.71 ; similarity 81.61 ; frameshifts 4
+ctg295	exonerate:protein2genome:local	gene	107649	113056	1523	-	.	gene_id 1 ; sequence AIPGENE13242 ; gene_orientation + ; identity 74.38 ; similarity 85.39
+ctg295	exonerate:protein2genome:local	exon	112891	113056	.	-	.	insertions 0 ; deletions 0 ; identity 49.09 ; similarity 63.64
+ctg295	exonerate:protein2genome:local	exon	110718	110913	.	-	.	insertions 0 ; deletions 0 ; identity 76.56 ; similarity 92.19
+ctg295	exonerate:protein2genome:local	exon	109325	109620	.	-	.	insertions 0 ; deletions 1 ; identity 86.60 ; similarity 90.72 ; frameshifts 3
+ctg295	exonerate:protein2genome:local	exon	108919	109088	.	-	.	insertions 0 ; deletions 0 ; identity 87.72 ; similarity 96.49
+ctg295	exonerate:protein2genome:local	exon	108639	108775	.	-	.	insertions 0 ; deletions 1 ; identity 89.13 ; similarity 95.65 ; frameshifts 2
+ctg295	exonerate:protein2genome:local	exon	108390	108525	.	-	.	insertions 0 ; deletions 1 ; identity 75.00 ; similarity 81.82 ; frameshifts 2
+ctg295	exonerate:protein2genome:local	exon	108080	108260	.	-	.	insertions 0 ; deletions 1 ; identity 63.93 ; similarity 75.41
+ctg295	exonerate:protein2genome:local	exon	107649	107720	.	-	.	insertions 0 ; deletions 0 ; identity 41.67 ; similarity 79.17
+ctg224	exonerate:protein2genome:local	gene	144243	147701	1636	+	.	gene_id 1 ; sequence AIPGENE15200 ; gene_orientation + ; identity 81.94 ; similarity 89.12
+ctg224	exonerate:protein2genome:local	exon	144243	144346	.	+	.	insertions 0 ; deletions 1 ; identity 82.35 ; similarity 85.29 ; frameshifts 1
+ctg224	exonerate:protein2genome:local	exon	146059	146575	.	+	.	insertions 0 ; deletions 3 ; identity 87.65 ; similarity 92.35 ; frameshifts 4
+ctg224	exonerate:protein2genome:local	exon	146749	146914	.	+	.	insertions 0 ; deletions 0 ; identity 94.44 ; similarity 96.30
+ctg224	exonerate:protein2genome:local	exon	147172	147701	.	+	.	insertions 6 ; deletions 0 ; identity 72.41 ; similarity 84.48 ; frameshifts 1
+ctg39	exonerate:protein2genome:local	gene	312031	315617	1362	+	.	gene_id 1 ; sequence AIPGENE25402 ; gene_orientation + ; identity 67.89 ; similarity 82.33
+ctg39	exonerate:protein2genome:local	exon	312031	312268	.	+	.	insertions 9 ; deletions 0 ; identity 69.74 ; similarity 86.84
+ctg39	exonerate:protein2genome:local	exon	313009	313608	.	+	.	insertions 0 ; deletions 5 ; identity 65.33 ; similarity 80.40 ; frameshifts 4
+ctg39	exonerate:protein2genome:local	exon	314112	314479	.	+	.	insertions 0 ; deletions 2 ; identity 80.17 ; similarity 91.74 ; frameshifts 4
+ctg39	exonerate:protein2genome:local	exon	315407	315617	.	+	.	insertions 0 ; deletions 0 ; identity 52.17 ; similarity 66.67 ; frameshifts 2
+ctg232	exonerate:protein2genome:local	gene	28745	36090	1483	+	.	gene_id 1 ; sequence AIPGENE4001 ; gene_orientation + ; identity 73.68 ; similarity 84.21
+ctg232	exonerate:protein2genome:local	exon	28745	28774	.	+	.	insertions 0 ; deletions 0 ; identity 63.64 ; similarity 81.82
+ctg232	exonerate:protein2genome:local	exon	30689	30792	.	+	.	insertions 0 ; deletions 1 ; identity 88.57 ; similarity 91.43 ; frameshifts 2
+ctg232	exonerate:protein2genome:local	exon	31126	31266	.	+	.	insertions 0 ; deletions 0 ; identity 81.25 ; similarity 89.58
+ctg232	exonerate:protein2genome:local	exon	32237	32554	.	+	.	insertions 0 ; deletions 0 ; identity 68.22 ; similarity 84.11
+ctg232	exonerate:protein2genome:local	exon	33260	33373	.	+	.	insertions 0 ; deletions 0 ; identity 82.05 ; similarity 89.74
+ctg232	exonerate:protein2genome:local	exon	34014	34322	.	+	.	insertions 0 ; deletions 1 ; identity 61.17 ; similarity 75.73 ; frameshifts 3
+ctg232	exonerate:protein2genome:local	exon	34548	34690	.	+	.	insertions 0 ; deletions 1 ; identity 91.67 ; similarity 95.83 ; frameshifts 2
+ctg232	exonerate:protein2genome:local	exon	34911	35067	.	+	.	insertions 0 ; deletions 1 ; identity 72.55 ; similarity 88.24 ; frameshifts 2
+ctg232	exonerate:protein2genome:local	exon	35876	35949	.	+	.	insertions 0 ; deletions 0 ; identity 66.67 ; similarity 70.83
+ctg232	exonerate:protein2genome:local	exon	36041	36090	.	+	.	insertions 0 ; deletions 0 ; identity 68.75 ; similarity 75.00
+ctg214	exonerate:protein2genome:local	gene	120655	123504	1127	+	.	gene_id 1 ; sequence AIPGENE1161 ; gene_orientation + ; identity 90.76 ; similarity 95.98
+ctg214	exonerate:protein2genome:local	exon	120655	120788	.	+	.	insertions 0 ; deletions 0 ; identity 86.36 ; similarity 93.18
+ctg214	exonerate:protein2genome:local	exon	121041	121138	.	+	.	insertions 0 ; deletions 0 ; identity 84.38 ; similarity 96.88
+ctg214	exonerate:protein2genome:local	exon	121877	122004	.	+	.	insertions 0 ; deletions 0 ; identity 90.70 ; similarity 95.35
+ctg214	exonerate:protein2genome:local	exon	122309	122455	.	+	.	insertions 0 ; deletions 0 ; identity 94.00 ; similarity 96.00
+ctg214	exonerate:protein2genome:local	exon	122778	122891	.	+	.	insertions 0 ; deletions 0 ; identity 97.44 ; similarity 100.00
+ctg214	exonerate:protein2genome:local	exon	123373	123504	.	+	.	insertions 0 ; deletions 0 ; identity 88.64 ; similarity 93.18
+ctg196	exonerate:protein2genome:local	gene	23802	46420	2892	-	.	gene_id 1 ; sequence AIPGENE21712 ; gene_orientation + ; identity 75.81 ; similarity 84.67
+ctg196	exonerate:protein2genome:local	exon	46272	46420	.	-	.	insertions 0 ; deletions 1 ; identity 84.00 ; similarity 94.00 ; frameshifts 2
+ctg196	exonerate:protein2genome:local	exon	46082	46168	.	-	.	insertions 0 ; deletions 0 ; identity 56.67 ; similarity 73.33
+ctg196	exonerate:protein2genome:local	exon	42160	42213	.	-	.	insertions 0 ; deletions 0 ; identity 42.11 ; similarity 47.37
+ctg196	exonerate:protein2genome:local	exon	41769	41895	.	-	.	insertions 0 ; deletions 0 ; identity 72.09 ; similarity 74.42 ; frameshifts 1
+ctg196	exonerate:protein2genome:local	exon	41606	41654	.	-	.	insertions 0 ; deletions 0 ; identity 93.75 ; similarity 100.00
+ctg196	exonerate:protein2genome:local	exon	41415	41467	.	-	.	insertions 0 ; deletions 1 ; identity 72.22 ; similarity 72.22
+ctg196	exonerate:protein2genome:local	exon	41199	41286	.	-	.	insertions 0 ; deletions 0 ; identity 86.21 ; similarity 89.66
+ctg196	exonerate:protein2genome:local	exon	40833	40956	.	-	.	insertions 0 ; deletions 1 ; identity 100.00 ; similarity 100.00 ; frameshifts 2
+ctg196	exonerate:protein2genome:local	exon	40577	40681	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg196	exonerate:protein2genome:local	exon	40111	40167	.	-	.	insertions 0 ; deletions 1 ; identity 83.33 ; similarity 88.89 ; frameshifts 2
+ctg196	exonerate:protein2genome:local	exon	39690	39780	.	-	.	insertions 0 ; deletions 0 ; identity 96.55 ; similarity 100.00
+ctg196	exonerate:protein2genome:local	exon	39055	39201	.	-	.	insertions 0 ; deletions 2 ; identity 82.98 ; similarity 91.49 ; frameshifts 4
+ctg196	exonerate:protein2genome:local	exon	38280	38461	.	-	.	insertions 3 ; deletions 0 ; identity 71.67 ; similarity 90.00
+ctg196	exonerate:protein2genome:local	exon	38087	38155	.	-	.	insertions 0 ; deletions 0 ; identity 79.17 ; similarity 91.67
+ctg196	exonerate:protein2genome:local	exon	37577	37782	.	-	.	insertions 0 ; deletions 1 ; identity 69.57 ; similarity 84.06 ; frameshifts 2
+ctg196	exonerate:protein2genome:local	exon	37166	37413	.	-	.	insertions 0 ; deletions 1 ; identity 80.72 ; similarity 87.95 ; frameshifts 2
+ctg196	exonerate:protein2genome:local	exon	36392	36486	.	-	.	insertions 0 ; deletions 1 ; identity 62.50 ; similarity 87.50 ; frameshifts 2
+ctg196	exonerate:protein2genome:local	exon	35870	35985	.	-	.	insertions 0 ; deletions 1 ; identity 97.37 ; similarity 100.00 ; frameshifts 1
+ctg196	exonerate:protein2genome:local	exon	35418	35485	.	-	.	insertions 0 ; deletions 0 ; identity 73.91 ; similarity 78.26
+ctg196	exonerate:protein2genome:local	exon	31094	31212	.	-	.	insertions 0 ; deletions 0 ; identity 71.79 ; similarity 79.49
+ctg196	exonerate:protein2genome:local	exon	30536	30725	.	-	.	insertions 0 ; deletions 0 ; identity 31.25 ; similarity 42.19
+ctg196	exonerate:protein2genome:local	exon	29728	29772	.	-	.	insertions 0 ; deletions 0 ; identity 93.75 ; similarity 93.75
+ctg196	exonerate:protein2genome:local	exon	29547	29653	.	-	.	insertions 0 ; deletions 1 ; identity 86.11 ; similarity 88.89 ; frameshifts 2
+ctg196	exonerate:protein2genome:local	exon	25114	25335	.	-	.	insertions 0 ; deletions 0 ; identity 76.71 ; similarity 83.56 ; frameshifts 2
+ctg196	exonerate:protein2genome:local	exon	24645	24948	.	-	.	insertions 6 ; deletions 1 ; identity 80.61 ; similarity 87.76
+ctg196	exonerate:protein2genome:local	exon	24374	24554	.	-	.	insertions 9 ; deletions 1 ; identity 60.71 ; similarity 80.36 ; frameshifts 2
+ctg196	exonerate:protein2genome:local	exon	23802	23839	.	-	.	insertions 0 ; deletions 0 ; identity 58.33 ; similarity 83.33
+ctg187	exonerate:protein2genome:local	gene	32437	34297	1242	-	.	gene_id 1 ; sequence AIPGENE9142 ; gene_orientation + ; identity 89.94 ; similarity 95.13
+ctg187	exonerate:protein2genome:local	exon	34057	34297	.	-	.	insertions 0 ; deletions 1 ; identity 95.06 ; similarity 98.77 ; frameshifts 1
+ctg187	exonerate:protein2genome:local	exon	33865	33973	.	-	.	insertions 0 ; deletions 0 ; identity 91.67 ; similarity 97.22
+ctg187	exonerate:protein2genome:local	exon	32437	33019	.	-	.	insertions 0 ; deletions 2 ; identity 87.50 ; similarity 93.23 ; frameshifts 5
+ctg187	exonerate:protein2genome:local	gene	36688	38902	1499	+	.	gene_id 1 ; sequence AIPGENE9142 ; gene_orientation + ; identity 93.77 ; similarity 97.83
+ctg187	exonerate:protein2genome:local	exon	36688	36935	.	+	.	insertions 0 ; deletions 2 ; identity 97.56 ; similarity 100.00 ; frameshifts 5
+ctg187	exonerate:protein2genome:local	exon	37009	37119	.	+	.	insertions 0 ; deletions 0 ; identity 97.37 ; similarity 100.00
+ctg187	exonerate:protein2genome:local	exon	38143	38902	.	+	.	insertions 0 ; deletions 4 ; identity 92.03 ; similarity 96.81 ; frameshifts 7
+ctg135	exonerate:protein2genome:local	gene	139361	147894	1216	-	.	gene_id 1 ; sequence AIPGENE16442 ; gene_orientation + ; identity 71.70 ; similarity 82.48
+ctg135	exonerate:protein2genome:local	exon	147837	147894	.	-	.	insertions 0 ; deletions 0 ; identity 57.89 ; similarity 68.42
+ctg135	exonerate:protein2genome:local	exon	146161	146424	.	-	.	insertions 0 ; deletions 0 ; identity 80.68 ; similarity 92.05 ; frameshifts 1
+ctg135	exonerate:protein2genome:local	exon	145507	145711	.	-	.	insertions 0 ; deletions 0 ; identity 51.47 ; similarity 69.12
+ctg135	exonerate:protein2genome:local	exon	145200	145308	.	-	.	insertions 0 ; deletions 1 ; identity 83.33 ; similarity 86.11 ; frameshifts 2
+ctg135	exonerate:protein2genome:local	exon	141884	142092	.	-	.	insertions 0 ; deletions 0 ; identity 85.51 ; similarity 92.75
+ctg135	exonerate:protein2genome:local	exon	139938	140098	.	-	.	insertions 0 ; deletions 1 ; identity 72.22 ; similarity 81.48 ; frameshifts 1
+ctg135	exonerate:protein2genome:local	exon	139361	139480	.	-	.	insertions 0 ; deletions 0 ; identity 57.50 ; similarity 72.50
+ctg121	exonerate:protein2genome:local	gene	11425	12107	259	+	.	gene_id 1 ; sequence AIPGENE13806 ; gene_orientation + ; identity 71.43 ; similarity 80.95
+ctg121	exonerate:protein2genome:local	exon	11425	11600	.	+	.	insertions 0 ; deletions 1 ; identity 74.58 ; similarity 83.05 ; frameshifts 2
+ctg121	exonerate:protein2genome:local	exon	12030	12107	.	+	.	insertions 0 ; deletions 0 ; identity 61.54 ; similarity 73.08
+ctg121	exonerate:protein2genome:local	gene	238676	239825	671	+	.	gene_id 1 ; sequence AIPGENE25153 ; gene_orientation + ; identity 70.20 ; similarity 85.35
+ctg121	exonerate:protein2genome:local	exon	238676	239028	.	+	.	insertions 0 ; deletions 0 ; identity 68.38 ; similarity 83.76
+ctg121	exonerate:protein2genome:local	exon	239581	239825	.	+	.	insertions 0 ; deletions 0 ; identity 72.84 ; similarity 87.65 ; frameshifts 1
+ctg108	exonerate:protein2genome:local	gene	37137	49037	1897	-	.	gene_id 1 ; sequence AIPGENE10504 ; gene_orientation + ; identity 79.40 ; similarity 83.55
+ctg108	exonerate:protein2genome:local	exon	48946	49037	.	-	.	insertions 0 ; deletions 0 ; identity 60.00 ; similarity 76.67 ; frameshifts 1
+ctg108	exonerate:protein2genome:local	exon	48829	48872	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg108	exonerate:protein2genome:local	exon	48288	48359	.	-	.	insertions 0 ; deletions 1 ; identity 60.00 ; similarity 60.00
+ctg108	exonerate:protein2genome:local	exon	46756	46831	.	-	.	insertions 0 ; deletions 0 ; identity 64.00 ; similarity 64.00
+ctg108	exonerate:protein2genome:local	exon	45956	46003	.	-	.	insertions 0 ; deletions 0 ; identity 93.33 ; similarity 93.33
+ctg108	exonerate:protein2genome:local	exon	45110	45207	.	-	.	insertions 0 ; deletions 0 ; identity 27.27 ; similarity 45.45
+ctg108	exonerate:protein2genome:local	exon	43127	43264	.	-	.	insertions 0 ; deletions 0 ; identity 82.98 ; similarity 91.49
+ctg108	exonerate:protein2genome:local	exon	42993	43049	.	-	.	insertions 0 ; deletions 0 ; identity 80.00 ; similarity 95.00
+ctg108	exonerate:protein2genome:local	exon	42033	42125	.	-	.	insertions 0 ; deletions 1 ; identity 90.62 ; similarity 93.75
+ctg108	exonerate:protein2genome:local	exon	40775	40932	.	-	.	insertions 0 ; deletions 2 ; identity 88.68 ; similarity 88.68 ; frameshifts 2
+ctg108	exonerate:protein2genome:local	exon	40598	40706	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg108	exonerate:protein2genome:local	exon	38476	38598	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg108	exonerate:protein2genome:local	exon	38209	38387	.	-	.	insertions 0 ; deletions 1 ; identity 70.69 ; similarity 70.69 ; frameshifts 2
+ctg108	exonerate:protein2genome:local	exon	37976	38118	.	-	.	insertions 0 ; deletions 0 ; identity 85.42 ; similarity 89.58
+ctg108	exonerate:protein2genome:local	exon	37825	37884	.	-	.	insertions 0 ; deletions 0 ; identity 90.48 ; similarity 95.24
+ctg108	exonerate:protein2genome:local	exon	37286	37549	.	-	.	insertions 0 ; deletions 1 ; identity 76.40 ; similarity 82.02
+ctg108	exonerate:protein2genome:local	exon	37137	37212	.	-	.	insertions 0 ; deletions 0 ; identity 76.00 ; similarity 80.00 ; frameshifts 1
+ctg16	exonerate:protein2genome:local	gene	49230	230959	1449	-	.	gene_id 1 ; sequence AIPGENE28401 ; gene_orientation + ; identity 74.73 ; similarity 87.05
+ctg16	exonerate:protein2genome:local	exon	230616	230959	.	-	.	insertions 6 ; deletions 1 ; identity 74.34 ; similarity 85.84 ; frameshifts 2
+ctg16	exonerate:protein2genome:local	exon	229371	229445	.	-	.	insertions 0 ; deletions 0 ; identity 76.92 ; similarity 92.31
+ctg16	exonerate:protein2genome:local	exon	228630	228775	.	-	.	insertions 0 ; deletions 0 ; identity 82.98 ; similarity 91.49 ; frameshifts 3
+ctg16	exonerate:protein2genome:local	exon	227158	227438	.	-	.	insertions 0 ; deletions 3 ; identity 76.92 ; similarity 87.91 ; frameshifts 6
+ctg16	exonerate:protein2genome:local	exon	226606	226761	.	-	.	insertions 0 ; deletions 0 ; identity 67.31 ; similarity 88.46 ; frameshifts 1
+ctg16	exonerate:protein2genome:local	exon	226303	226467	.	-	.	insertions 0 ; deletions 2 ; identity 75.00 ; similarity 87.50
+ctg16	exonerate:protein2genome:local	exon	225630	225859	.	-	.	insertions 0 ; deletions 0 ; identity 71.05 ; similarity 82.89
+ctg16	exonerate:protein2genome:local	exon	49230	49272	.	-	.	insertions 0 ; deletions 1 ; identity 78.57 ; similarity 85.71
+ctg187	exonerate:protein2genome:local	gene	32280	34297	1340	-	.	gene_id 1 ; sequence AIPGENE8252 ; gene_orientation + ; identity 88.61 ; similarity 91.94
+ctg187	exonerate:protein2genome:local	exon	34057	34297	.	-	.	insertions 0 ; deletions 1 ; identity 96.30 ; similarity 98.77 ; frameshifts 1
+ctg187	exonerate:protein2genome:local	exon	33865	33973	.	-	.	insertions 0 ; deletions 0 ; identity 94.44 ; similarity 97.22
+ctg187	exonerate:protein2genome:local	exon	32280	33019	.	-	.	insertions 0 ; deletions 7 ; identity 85.25 ; similarity 88.93 ; frameshifts 6
+ctg187	exonerate:protein2genome:local	gene	36688	38902	1504	+	.	gene_id 1 ; sequence AIPGENE8252 ; gene_orientation + ; identity 94.58 ; similarity 97.29
+ctg187	exonerate:protein2genome:local	exon	36688	36935	.	+	.	insertions 0 ; deletions 2 ; identity 97.56 ; similarity 100.00 ; frameshifts 5
+ctg187	exonerate:protein2genome:local	exon	37009	37119	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg187	exonerate:protein2genome:local	exon	38143	38902	.	+	.	insertions 0 ; deletions 4 ; identity 92.83 ; similarity 96.02 ; frameshifts 7
+ctg164	exonerate:protein2genome:local	gene	281645	284426	954	+	.	gene_id 1 ; sequence AIPGENE11224 ; gene_orientation + ; identity 77.11 ; similarity 83.45
+ctg164	exonerate:protein2genome:local	exon	281645	281701	.	+	.	insertions 0 ; deletions 0 ; identity 60.00 ; similarity 75.00
+ctg164	exonerate:protein2genome:local	exon	283543	283950	.	+	.	insertions 0 ; deletions 2 ; identity 68.61 ; similarity 72.99
+ctg164	exonerate:protein2genome:local	exon	284035	284426	.	+	.	insertions 0 ; deletions 3 ; identity 89.15 ; similarity 96.12 ; frameshifts 5
+ctg130	exonerate:protein2genome:local	gene	19000	22086	736	+	.	gene_id 1 ; sequence AIPGENE17108 ; gene_orientation + ; identity 82.10 ; similarity 90.39
+ctg130	exonerate:protein2genome:local	exon	19000	19112	.	+	.	insertions 0 ; deletions 1 ; identity 86.84 ; similarity 92.11 ; frameshifts 2
+ctg130	exonerate:protein2genome:local	exon	19763	19864	.	+	.	insertions 0 ; deletions 1 ; identity 84.85 ; similarity 90.91 ; frameshifts 2
+ctg130	exonerate:protein2genome:local	exon	20074	20150	.	+	.	insertions 0 ; deletions 0 ; identity 92.31 ; similarity 96.15
+ctg130	exonerate:protein2genome:local	exon	20644	20766	.	+	.	insertions 0 ; deletions 0 ; identity 83.33 ; similarity 95.24
+ctg130	exonerate:protein2genome:local	exon	21008	21105	.	+	.	insertions 0 ; deletions 0 ; identity 75.76 ; similarity 90.91 ; frameshifts 2
+ctg130	exonerate:protein2genome:local	exon	21683	21789	.	+	.	insertions 0 ; deletions 1 ; identity 80.56 ; similarity 88.89 ; frameshifts 2
+ctg130	exonerate:protein2genome:local	exon	22008	22086	.	+	.	insertions 0 ; deletions 0 ; identity 65.38 ; similarity 69.23 ; frameshifts 1
+ctg295	exonerate:protein2genome:local	gene	107649	116062	1455	-	.	gene_id 1 ; sequence AIPGENE18106 ; gene_orientation + ; identity 73.50 ; similarity 86.41
+ctg295	exonerate:protein2genome:local	exon	115884	116062	.	-	.	insertions 3 ; deletions 1 ; identity 59.32 ; similarity 72.88 ; frameshifts 2
+ctg295	exonerate:protein2genome:local	exon	110718	110914	.	-	.	insertions 0 ; deletions 0 ; identity 78.46 ; similarity 92.31
+ctg295	exonerate:protein2genome:local	exon	109325	109620	.	-	.	insertions 0 ; deletions 1 ; identity 80.41 ; similarity 87.63 ; frameshifts 3
+ctg295	exonerate:protein2genome:local	exon	108919	109088	.	-	.	insertions 0 ; deletions 0 ; identity 91.23 ; similarity 98.25
+ctg295	exonerate:protein2genome:local	exon	108639	108775	.	-	.	insertions 0 ; deletions 1 ; identity 78.26 ; similarity 93.48 ; frameshifts 2
+ctg295	exonerate:protein2genome:local	exon	108390	108525	.	-	.	insertions 0 ; deletions 1 ; identity 75.00 ; similarity 81.82 ; frameshifts 2
+ctg295	exonerate:protein2genome:local	exon	108080	108260	.	-	.	insertions 0 ; deletions 1 ; identity 55.74 ; similarity 80.33
+ctg295	exonerate:protein2genome:local	exon	107649	107720	.	-	.	insertions 0 ; deletions 0 ; identity 50.00 ; similarity 75.00
+ctg232	exonerate:protein2genome:local	gene	30680	36090	1334	+	.	gene_id 1 ; sequence AIPGENE2900 ; gene_orientation + ; identity 66.74 ; similarity 77.40
+ctg232	exonerate:protein2genome:local	exon	30680	30792	.	+	.	insertions 0 ; deletions 1 ; identity 71.05 ; similarity 89.47 ; frameshifts 2
+ctg232	exonerate:protein2genome:local	exon	31126	31266	.	+	.	insertions 0 ; deletions 0 ; identity 70.83 ; similarity 79.17
+ctg232	exonerate:protein2genome:local	exon	32237	32554	.	+	.	insertions 0 ; deletions 0 ; identity 68.22 ; similarity 78.50
+ctg232	exonerate:protein2genome:local	exon	33260	33373	.	+	.	insertions 0 ; deletions 0 ; identity 74.36 ; similarity 89.74
+ctg232	exonerate:protein2genome:local	exon	34014	34301	.	+	.	insertions 0 ; deletions 0 ; identity 63.16 ; similarity 72.63 ; frameshifts 1
+ctg232	exonerate:protein2genome:local	exon	34528	34690	.	+	.	insertions 0 ; deletions 1 ; identity 56.36 ; similarity 65.45
+ctg232	exonerate:protein2genome:local	exon	34911	35067	.	+	.	insertions 0 ; deletions 1 ; identity 66.04 ; similarity 79.25 ; frameshifts 1
+ctg232	exonerate:protein2genome:local	exon	35877	35949	.	+	.	insertions 0 ; deletions 0 ; identity 70.83 ; similarity 75.00
+ctg232	exonerate:protein2genome:local	exon	36041	36090	.	+	.	insertions 0 ; deletions 0 ; identity 62.50 ; similarity 68.75
+ctg62	exonerate:protein2genome:local	gene	110592	139485	4417	-	.	gene_id 1 ; sequence AIPGENE28157 ; gene_orientation + ; identity 76.46 ; similarity 85.06
+ctg62	exonerate:protein2genome:local	exon	139400	139485	.	-	.	insertions 0 ; deletions 1 ; identity 53.57 ; similarity 60.71
+ctg62	exonerate:protein2genome:local	exon	139031	139174	.	-	.	insertions 0 ; deletions 1 ; identity 75.00 ; similarity 85.42 ; frameshifts 2
+ctg62	exonerate:protein2genome:local	exon	137981	138113	.	-	.	insertions 0 ; deletions 0 ; identity 59.09 ; similarity 68.18
+ctg62	exonerate:protein2genome:local	exon	137049	137153	.	-	.	insertions 0 ; deletions 1 ; identity 62.86 ; similarity 71.43 ; frameshifts 1
+ctg62	exonerate:protein2genome:local	exon	136700	136789	.	-	.	insertions 0 ; deletions 0 ; identity 74.19 ; similarity 90.32
+ctg62	exonerate:protein2genome:local	exon	136239	136365	.	-	.	insertions 0 ; deletions 0 ; identity 47.62 ; similarity 66.67
+ctg62	exonerate:protein2genome:local	exon	135789	135894	.	-	.	insertions 0 ; deletions 0 ; identity 70.59 ; similarity 79.41
+ctg62	exonerate:protein2genome:local	exon	135075	135216	.	-	.	insertions 0 ; deletions 0 ; identity 77.08 ; similarity 83.33
+ctg62	exonerate:protein2genome:local	exon	134553	134630	.	-	.	insertions 0 ; deletions 0 ; identity 70.37 ; similarity 85.19
+ctg62	exonerate:protein2genome:local	exon	134158	134249	.	-	.	insertions 0 ; deletions 0 ; identity 53.33 ; similarity 63.33
+ctg62	exonerate:protein2genome:local	exon	133363	133456	.	-	.	insertions 0 ; deletions 1 ; identity 84.38 ; similarity 84.38
+ctg62	exonerate:protein2genome:local	exon	132910	132984	.	-	.	insertions 0 ; deletions 0 ; identity 96.15 ; similarity 100.00
+ctg62	exonerate:protein2genome:local	exon	132357	132471	.	-	.	insertions 0 ; deletions 0 ; identity 92.11 ; similarity 94.74
+ctg62	exonerate:protein2genome:local	exon	132085	132130	.	-	.	insertions 0 ; deletions 0 ; identity 50.00 ; similarity 57.14
+ctg62	exonerate:protein2genome:local	exon	131447	131558	.	-	.	insertions 0 ; deletions 0 ; identity 81.58 ; similarity 89.47
+ctg62	exonerate:protein2genome:local	exon	130637	130765	.	-	.	insertions 0 ; deletions 0 ; identity 79.55 ; similarity 93.18
+ctg62	exonerate:protein2genome:local	exon	129964	130184	.	-	.	insertions 0 ; deletions 1 ; identity 81.08 ; similarity 89.19 ; frameshifts 2
+ctg62	exonerate:protein2genome:local	exon	128950	129082	.	-	.	insertions 0 ; deletions 1 ; identity 100.00 ; similarity 100.00 ; frameshifts 2
+ctg62	exonerate:protein2genome:local	exon	128450	128573	.	-	.	insertions 0 ; deletions 0 ; identity 88.10 ; similarity 95.24
+ctg62	exonerate:protein2genome:local	exon	121333	121407	.	-	.	insertions 0 ; deletions 0 ; identity 96.15 ; similarity 100.00
+ctg62	exonerate:protein2genome:local	exon	120707	120793	.	-	.	insertions 0 ; deletions 0 ; identity 80.00 ; similarity 86.67
+ctg62	exonerate:protein2genome:local	exon	120201	120291	.	-	.	insertions 0 ; deletions 0 ; identity 60.00 ; similarity 80.00
+ctg62	exonerate:protein2genome:local	exon	119866	119986	.	-	.	insertions 0 ; deletions 0 ; identity 69.23 ; similarity 89.74
+ctg62	exonerate:protein2genome:local	exon	119218	119357	.	-	.	insertions 0 ; deletions 1 ; identity 70.21 ; similarity 82.98 ; frameshifts 1
+ctg62	exonerate:protein2genome:local	exon	118446	118646	.	-	.	insertions 0 ; deletions 0 ; identity 83.82 ; similarity 91.18
+ctg62	exonerate:protein2genome:local	exon	117678	117788	.	-	.	insertions 0 ; deletions 0 ; identity 97.37 ; similarity 97.37
+ctg62	exonerate:protein2genome:local	exon	117151	117275	.	-	.	insertions 0 ; deletions 0 ; identity 78.05 ; similarity 90.24
+ctg62	exonerate:protein2genome:local	exon	116603	116672	.	-	.	insertions 0 ; deletions 0 ; identity 87.50 ; similarity 91.67
+ctg62	exonerate:protein2genome:local	exon	116442	116507	.	-	.	insertions 0 ; deletions 1 ; identity 85.71 ; similarity 90.48 ; frameshifts 1
+ctg62	exonerate:protein2genome:local	exon	115818	115893	.	-	.	insertions 0 ; deletions 0 ; identity 88.46 ; similarity 96.15
+ctg62	exonerate:protein2genome:local	exon	115081	115266	.	-	.	insertions 0 ; deletions 1 ; identity 77.42 ; similarity 82.26 ; frameshifts 3
+ctg62	exonerate:protein2genome:local	exon	114673	114762	.	-	.	insertions 0 ; deletions 0 ; identity 77.42 ; similarity 93.55
+ctg62	exonerate:protein2genome:local	exon	114012	114182	.	-	.	insertions 0 ; deletions 1 ; identity 78.95 ; similarity 85.96 ; frameshifts 3
+ctg62	exonerate:protein2genome:local	exon	113002	113081	.	-	.	insertions 0 ; deletions 0 ; identity 80.77 ; similarity 80.77 ; frameshifts 5
+ctg62	exonerate:protein2genome:local	exon	112504	112602	.	-	.	insertions 0 ; deletions 0 ; identity 85.29 ; similarity 94.12
+ctg62	exonerate:protein2genome:local	exon	111652	111963	.	-	.	insertions 3 ; deletions 0 ; identity 64.00 ; similarity 73.00 ; frameshifts 12
+ctg62	exonerate:protein2genome:local	exon	110592	110666	.	-	.	insertions 0 ; deletions 0 ; identity 88.00 ; similarity 92.00
+ctg187	exonerate:protein2genome:local	gene	36688	38902	1445	+	.	gene_id 1 ; sequence AIPGENE12816 ; gene_orientation + ; identity 91.33 ; similarity 94.85
+ctg187	exonerate:protein2genome:local	exon	36688	36935	.	+	.	insertions 0 ; deletions 2 ; identity 93.90 ; similarity 97.56 ; frameshifts 5
+ctg187	exonerate:protein2genome:local	exon	37009	37119	.	+	.	insertions 0 ; deletions 0 ; identity 97.37 ; similarity 97.37
+ctg187	exonerate:protein2genome:local	exon	38143	38902	.	+	.	insertions 0 ; deletions 4 ; identity 89.64 ; similarity 93.63 ; frameshifts 7
+ctg203	exonerate:protein2genome:local	gene	39152	40738	714	+	.	gene_id 1 ; sequence AIPGENE13043 ; gene_orientation + ; identity 84.92 ; similarity 91.62
+ctg203	exonerate:protein2genome:local	exon	39152	39577	.	+	.	insertions 0 ; deletions 1 ; identity 85.21 ; similarity 90.85 ; frameshifts 3
+ctg203	exonerate:protein2genome:local	exon	40624	40738	.	+	.	insertions 0 ; deletions 0 ; identity 84.21 ; similarity 94.74 ; frameshifts 1
+ctg151	exonerate:protein2genome:local	gene	118451	119654	427	-	.	gene_id 1 ; sequence AIPGENE13888 ; gene_orientation + ; identity 73.81 ; similarity 85.71
+ctg151	exonerate:protein2genome:local	exon	119544	119654	.	-	.	insertions 0 ; deletions 0 ; identity 86.84 ; similarity 94.74
+ctg151	exonerate:protein2genome:local	exon	118451	118725	.	-	.	insertions 6 ; deletions 0 ; identity 68.54 ; similarity 82.02 ; frameshifts 2
+ctg125	exonerate:protein2genome:local	gene	123108	129217	1922	-	.	gene_id 1 ; sequence AIPGENE25424 ; gene_orientation + ; identity 82.33 ; similarity 89.93
+ctg125	exonerate:protein2genome:local	exon	129101	129217	.	-	.	insertions 0 ; deletions 0 ; identity 72.50 ; similarity 80.00
+ctg125	exonerate:protein2genome:local	exon	128863	129011	.	-	.	insertions 0 ; deletions 0 ; identity 84.00 ; similarity 94.00 ; frameshifts 2
+ctg125	exonerate:protein2genome:local	exon	128639	128783	.	-	.	insertions 0 ; deletions 1 ; identity 79.59 ; similarity 87.76 ; frameshifts 1
+ctg125	exonerate:protein2genome:local	exon	127832	128076	.	-	.	insertions 0 ; deletions 0 ; identity 75.31 ; similarity 81.48
+ctg125	exonerate:protein2genome:local	exon	127058	127243	.	-	.	insertions 3 ; deletions 0 ; identity 85.00 ; similarity 93.33
+ctg125	exonerate:protein2genome:local	exon	126586	126704	.	-	.	insertions 0 ; deletions 1 ; identity 73.68 ; similarity 86.84 ; frameshifts 2
+ctg125	exonerate:protein2genome:local	exon	125767	125907	.	-	.	insertions 0 ; deletions 1 ; identity 87.23 ; similarity 91.49 ; frameshifts 2
+ctg125	exonerate:protein2genome:local	exon	124920	125143	.	-	.	insertions 0 ; deletions 0 ; identity 83.78 ; similarity 91.89 ; frameshifts 1
+ctg125	exonerate:protein2genome:local	exon	124262	124407	.	-	.	insertions 0 ; deletions 0 ; identity 97.96 ; similarity 97.96
+ctg125	exonerate:protein2genome:local	exon	123836	123945	.	-	.	insertions 0 ; deletions 1 ; identity 81.08 ; similarity 89.19 ; frameshifts 2
+ctg125	exonerate:protein2genome:local	exon	123607	123689	.	-	.	insertions 0 ; deletions 0 ; identity 74.07 ; similarity 85.19
+ctg125	exonerate:protein2genome:local	exon	123108	123168	.	-	.	insertions 0 ; deletions 0 ; identity 85.00 ; similarity 95.00
+ctg121	exonerate:protein2genome:local	gene	16771	24641	1627	-	.	gene_id 1 ; sequence AIPGENE16434 ; gene_orientation + ; identity 79.75 ; similarity 89.37
+ctg121	exonerate:protein2genome:local	exon	24124	24641	.	-	.	insertions 3 ; deletions 1 ; identity 82.35 ; similarity 87.65 ; frameshifts 4
+ctg121	exonerate:protein2genome:local	exon	21467	21590	.	-	.	insertions 0 ; deletions 1 ; identity 72.50 ; similarity 92.50 ; frameshifts 1
+ctg121	exonerate:protein2genome:local	exon	20693	20791	.	-	.	insertions 0 ; deletions 1 ; identity 80.65 ; similarity 90.32 ; frameshifts 2
+ctg121	exonerate:protein2genome:local	exon	20070	20116	.	-	.	insertions 0 ; deletions 0 ; identity 85.71 ; similarity 85.71 ; frameshifts 2
+ctg121	exonerate:protein2genome:local	exon	19404	19527	.	-	.	insertions 0 ; deletions 0 ; identity 83.33 ; similarity 95.24
+ctg121	exonerate:protein2genome:local	exon	18707	18808	.	-	.	insertions 0 ; deletions 1 ; identity 87.88 ; similarity 96.97 ; frameshifts 1
+ctg121	exonerate:protein2genome:local	exon	18400	18495	.	-	.	insertions 0 ; deletions 0 ; identity 93.55 ; similarity 93.55
+ctg121	exonerate:protein2genome:local	exon	17992	18150	.	-	.	insertions 0 ; deletions 0 ; identity 76.92 ; similarity 88.46 ; frameshifts 1
+ctg121	exonerate:protein2genome:local	exon	17124	17300	.	-	.	insertions 0 ; deletions 0 ; identity 63.79 ; similarity 82.76
+ctg121	exonerate:protein2genome:local	exon	16771	16829	.	-	.	insertions 0 ; deletions 0 ; identity 78.95 ; similarity 89.47
+ctg295	exonerate:protein2genome:local	gene	107649	116062	1455	-	.	gene_id 1 ; sequence AIPGENE18105 ; gene_orientation + ; identity 73.50 ; similarity 86.41
+ctg295	exonerate:protein2genome:local	exon	115884	116062	.	-	.	insertions 3 ; deletions 1 ; identity 59.32 ; similarity 72.88 ; frameshifts 2
+ctg295	exonerate:protein2genome:local	exon	110718	110914	.	-	.	insertions 0 ; deletions 0 ; identity 78.46 ; similarity 92.31
+ctg295	exonerate:protein2genome:local	exon	109325	109620	.	-	.	insertions 0 ; deletions 1 ; identity 80.41 ; similarity 87.63 ; frameshifts 3
+ctg295	exonerate:protein2genome:local	exon	108919	109088	.	-	.	insertions 0 ; deletions 0 ; identity 91.23 ; similarity 98.25
+ctg295	exonerate:protein2genome:local	exon	108639	108775	.	-	.	insertions 0 ; deletions 1 ; identity 78.26 ; similarity 93.48 ; frameshifts 2
+ctg295	exonerate:protein2genome:local	exon	108390	108525	.	-	.	insertions 0 ; deletions 1 ; identity 75.00 ; similarity 81.82 ; frameshifts 2
+ctg295	exonerate:protein2genome:local	exon	108080	108260	.	-	.	insertions 0 ; deletions 1 ; identity 55.74 ; similarity 80.33
+ctg295	exonerate:protein2genome:local	exon	107649	107720	.	-	.	insertions 0 ; deletions 0 ; identity 50.00 ; similarity 75.00
+ctg187	exonerate:protein2genome:local	gene	32437	34297	1214	-	.	gene_id 1 ; sequence AIPGENE9147 ; gene_orientation + ; identity 89.29 ; similarity 92.21
+ctg187	exonerate:protein2genome:local	exon	34057	34297	.	-	.	insertions 0 ; deletions 1 ; identity 95.06 ; similarity 98.77 ; frameshifts 1
+ctg187	exonerate:protein2genome:local	exon	33865	33973	.	-	.	insertions 0 ; deletions 0 ; identity 91.67 ; similarity 97.22
+ctg187	exonerate:protein2genome:local	exon	32437	33019	.	-	.	insertions 0 ; deletions 2 ; identity 86.46 ; similarity 88.54 ; frameshifts 5
+ctg187	exonerate:protein2genome:local	gene	36688	38902	1477	+	.	gene_id 1 ; sequence AIPGENE9147 ; gene_orientation + ; identity 93.22 ; similarity 95.66
+ctg187	exonerate:protein2genome:local	exon	36688	36935	.	+	.	insertions 0 ; deletions 2 ; identity 97.56 ; similarity 100.00 ; frameshifts 5
+ctg187	exonerate:protein2genome:local	exon	37009	37119	.	+	.	insertions 0 ; deletions 0 ; identity 97.37 ; similarity 100.00
+ctg187	exonerate:protein2genome:local	exon	38143	38902	.	+	.	insertions 0 ; deletions 4 ; identity 91.24 ; similarity 93.63 ; frameshifts 7
+ctg232	exonerate:protein2genome:local	gene	30680	34233	1016	+	.	gene_id 1 ; sequence AIPGENE4852 ; gene_orientation + ; identity 71.43 ; similarity 83.39
+ctg232	exonerate:protein2genome:local	exon	30680	30792	.	+	.	insertions 0 ; deletions 1 ; identity 71.05 ; similarity 89.47 ; frameshifts 2
+ctg232	exonerate:protein2genome:local	exon	31126	31266	.	+	.	insertions 0 ; deletions 0 ; identity 68.75 ; similarity 79.17
+ctg232	exonerate:protein2genome:local	exon	32237	32554	.	+	.	insertions 0 ; deletions 0 ; identity 70.09 ; similarity 80.37
+ctg232	exonerate:protein2genome:local	exon	33260	33373	.	+	.	insertions 0 ; deletions 0 ; identity 74.36 ; similarity 89.74
+ctg232	exonerate:protein2genome:local	exon	34014	34233	.	+	.	insertions 0 ; deletions 0 ; identity 71.23 ; similarity 82.19 ; frameshifts 1
+ctg182	exonerate:protein2genome:local	gene	97916	99266	577	-	.	gene_id 1 ; sequence AIPGENE16631 ; gene_orientation + ; identity 87.59 ; similarity 92.41
+ctg182	exonerate:protein2genome:local	exon	99213	99266	.	-	.	insertions 0 ; deletions 0 ; identity 94.74 ; similarity 94.74
+ctg182	exonerate:protein2genome:local	exon	97916	98299	.	-	.	insertions 0 ; deletions 2 ; identity 86.61 ; similarity 92.13 ; frameshifts 3
+ctg145	exonerate:protein2genome:local	gene	107650	111265	630	+	.	gene_id 1 ; sequence AIPGENE8319 ; gene_orientation + ; identity 80.23 ; similarity 88.70
+ctg145	exonerate:protein2genome:local	exon	107650	107672	.	+	.	insertions 0 ; deletions 0 ; identity 85.71 ; similarity 100.00
+ctg145	exonerate:protein2genome:local	exon	107983	108054	.	+	.	insertions 0 ; deletions 0 ; identity 95.65 ; similarity 100.00
+ctg145	exonerate:protein2genome:local	exon	108219	108289	.	+	.	insertions 0 ; deletions 0 ; identity 95.65 ; similarity 100.00
+ctg145	exonerate:protein2genome:local	exon	109895	109941	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg145	exonerate:protein2genome:local	exon	110469	110531	.	+	.	insertions 0 ; deletions 0 ; identity 86.36 ; similarity 100.00
+ctg145	exonerate:protein2genome:local	exon	110998	111265	.	+	.	insertions 0 ; deletions 2 ; identity 67.05 ; similarity 77.27 ; frameshifts 4
+ctg14	exonerate:protein2genome:local	gene	247897	258070	2299	-	.	gene_id 1 ; sequence AIPGENE7971 ; gene_orientation + ; identity 75.18 ; similarity 85.33
+ctg14	exonerate:protein2genome:local	exon	258014	258070	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg14	exonerate:protein2genome:local	exon	256121	256226	.	-	.	insertions 0 ; deletions 1 ; identity 97.22 ; similarity 97.22 ; frameshifts 1
+ctg14	exonerate:protein2genome:local	exon	255583	255753	.	-	.	insertions 0 ; deletions 1 ; identity 91.07 ; similarity 94.64 ; frameshifts 2
+ctg14	exonerate:protein2genome:local	exon	254330	254642	.	-	.	insertions 0 ; deletions 1 ; identity 86.54 ; similarity 91.35 ; frameshifts 2
+ctg14	exonerate:protein2genome:local	exon	253802	254022	.	-	.	insertions 0 ; deletions 0 ; identity 80.82 ; similarity 91.78 ; frameshifts 1
+ctg14	exonerate:protein2genome:local	exon	253327	253467	.	-	.	insertions 0 ; deletions 2 ; identity 65.96 ; similarity 76.60 ; frameshifts 1
+ctg14	exonerate:protein2genome:local	exon	252811	253003	.	-	.	insertions 0 ; deletions 1 ; identity 65.08 ; similarity 80.95 ; frameshifts 3
+ctg14	exonerate:protein2genome:local	exon	252414	252561	.	-	.	insertions 0 ; deletions 0 ; identity 43.75 ; similarity 68.75
+ctg14	exonerate:protein2genome:local	exon	252206	252296	.	-	.	insertions 0 ; deletions 0 ; identity 70.97 ; similarity 77.42
+ctg14	exonerate:protein2genome:local	exon	251147	251162	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg14	exonerate:protein2genome:local	exon	250783	250843	.	-	.	insertions 0 ; deletions 1 ; identity 75.00 ; similarity 95.00 ; frameshifts 2
+ctg14	exonerate:protein2genome:local	exon	250371	250501	.	-	.	insertions 0 ; deletions 1 ; identity 72.09 ; similarity 88.37
+ctg14	exonerate:protein2genome:local	exon	249987	250077	.	-	.	insertions 0 ; deletions 1 ; identity 77.42 ; similarity 83.87
+ctg14	exonerate:protein2genome:local	exon	249772	249892	.	-	.	insertions 0 ; deletions 0 ; identity 50.00 ; similarity 72.50
+ctg14	exonerate:protein2genome:local	exon	249410	249552	.	-	.	insertions 0 ; deletions 2 ; identity 74.47 ; similarity 87.23 ; frameshifts 3
+ctg14	exonerate:protein2genome:local	exon	249153	249262	.	-	.	insertions 0 ; deletions 0 ; identity 69.44 ; similarity 77.78 ; frameshifts 1
+ctg14	exonerate:protein2genome:local	exon	248770	248912	.	-	.	insertions 0 ; deletions 0 ; identity 56.25 ; similarity 75.00
+ctg14	exonerate:protein2genome:local	exon	248213	248303	.	-	.	insertions 0 ; deletions 0 ; identity 93.33 ; similarity 96.67
+ctg14	exonerate:protein2genome:local	exon	247897	248047	.	-	.	insertions 0 ; deletions 1 ; identity 83.67 ; similarity 85.71 ; frameshifts 2
+ctg295	exonerate:protein2genome:local	gene	107649	113056	1498	-	.	gene_id 1 ; sequence AIPGENE13241 ; gene_orientation + ; identity 73.48 ; similarity 84.72
+ctg295	exonerate:protein2genome:local	exon	112891	113056	.	-	.	insertions 0 ; deletions 0 ; identity 49.09 ; similarity 63.64
+ctg295	exonerate:protein2genome:local	exon	110718	110913	.	-	.	insertions 0 ; deletions 0 ; identity 76.56 ; similarity 92.19
+ctg295	exonerate:protein2genome:local	exon	109325	109620	.	-	.	insertions 0 ; deletions 1 ; identity 86.60 ; similarity 90.72 ; frameshifts 3
+ctg295	exonerate:protein2genome:local	exon	108919	109088	.	-	.	insertions 0 ; deletions 0 ; identity 87.72 ; similarity 96.49
+ctg295	exonerate:protein2genome:local	exon	108639	108775	.	-	.	insertions 0 ; deletions 1 ; identity 89.13 ; similarity 95.65 ; frameshifts 2
+ctg295	exonerate:protein2genome:local	exon	108390	108525	.	-	.	insertions 0 ; deletions 1 ; identity 75.00 ; similarity 81.82 ; frameshifts 2
+ctg295	exonerate:protein2genome:local	exon	108080	108260	.	-	.	insertions 0 ; deletions 1 ; identity 59.02 ; similarity 72.13
+ctg295	exonerate:protein2genome:local	exon	107649	107720	.	-	.	insertions 0 ; deletions 0 ; identity 37.50 ; similarity 75.00
+ctg232	exonerate:protein2genome:local	gene	18464	25676	1524	-	.	gene_id 1 ; sequence AIPGENE4046 ; gene_orientation + ; identity 78.23 ; similarity 86.29
+ctg232	exonerate:protein2genome:local	exon	25587	25676	.	-	.	insertions 0 ; deletions 0 ; identity 45.16 ; similarity 61.29
+ctg232	exonerate:protein2genome:local	exon	23969	24073	.	-	.	insertions 0 ; deletions 0 ; identity 94.44 ; similarity 94.44
+ctg232	exonerate:protein2genome:local	exon	23201	23338	.	-	.	insertions 0 ; deletions 1 ; identity 86.67 ; similarity 93.33 ; frameshifts 1
+ctg232	exonerate:protein2genome:local	exon	22875	23003	.	-	.	insertions 0 ; deletions 0 ; identity 61.90 ; similarity 71.43
+ctg232	exonerate:protein2genome:local	exon	22278	22467	.	-	.	insertions 0 ; deletions 2 ; identity 88.52 ; similarity 91.80 ; frameshifts 4
+ctg232	exonerate:protein2genome:local	exon	21415	21529	.	-	.	insertions 0 ; deletions 0 ; identity 89.74 ; similarity 94.87
+ctg232	exonerate:protein2genome:local	exon	20803	21086	.	-	.	insertions 0 ; deletions 2 ; identity 83.16 ; similarity 90.53 ; frameshifts 2
+ctg232	exonerate:protein2genome:local	exon	20424	20576	.	-	.	insertions 0 ; deletions 2 ; identity 58.00 ; similarity 70.00 ; frameshifts 1
+ctg232	exonerate:protein2genome:local	exon	19928	20091	.	-	.	insertions 0 ; deletions 1 ; identity 69.81 ; similarity 86.79 ; frameshifts 2
+ctg232	exonerate:protein2genome:local	exon	19278	19352	.	-	.	insertions 0 ; deletions 0 ; identity 91.67 ; similarity 91.67
+ctg232	exonerate:protein2genome:local	exon	18915	18954	.	-	.	insertions 0 ; deletions 0 ; identity 92.86 ; similarity 100.00
+ctg232	exonerate:protein2genome:local	exon	18464	18496	.	-	.	insertions 0 ; deletions 0 ; identity 90.91 ; similarity 100.00
+ctg196	exonerate:protein2genome:local	gene	24297	46420	2973	-	.	gene_id 1 ; sequence AIPGENE21711 ; gene_orientation + ; identity 75.93 ; similarity 84.87
+ctg196	exonerate:protein2genome:local	exon	46272	46420	.	-	.	insertions 0 ; deletions 1 ; identity 84.00 ; similarity 94.00 ; frameshifts 2
+ctg196	exonerate:protein2genome:local	exon	46082	46168	.	-	.	insertions 0 ; deletions 0 ; identity 56.67 ; similarity 73.33
+ctg196	exonerate:protein2genome:local	exon	42160	42213	.	-	.	insertions 0 ; deletions 0 ; identity 42.11 ; similarity 47.37
+ctg196	exonerate:protein2genome:local	exon	41769	41895	.	-	.	insertions 0 ; deletions 0 ; identity 72.09 ; similarity 74.42 ; frameshifts 1
+ctg196	exonerate:protein2genome:local	exon	41606	41654	.	-	.	insertions 0 ; deletions 0 ; identity 93.75 ; similarity 100.00
+ctg196	exonerate:protein2genome:local	exon	41415	41467	.	-	.	insertions 0 ; deletions 1 ; identity 72.22 ; similarity 72.22
+ctg196	exonerate:protein2genome:local	exon	41199	41286	.	-	.	insertions 0 ; deletions 0 ; identity 86.21 ; similarity 89.66
+ctg196	exonerate:protein2genome:local	exon	40833	40956	.	-	.	insertions 0 ; deletions 1 ; identity 100.00 ; similarity 100.00 ; frameshifts 2
+ctg196	exonerate:protein2genome:local	exon	40577	40681	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg196	exonerate:protein2genome:local	exon	40111	40167	.	-	.	insertions 0 ; deletions 1 ; identity 83.33 ; similarity 88.89 ; frameshifts 2
+ctg196	exonerate:protein2genome:local	exon	39690	39780	.	-	.	insertions 0 ; deletions 0 ; identity 96.55 ; similarity 100.00
+ctg196	exonerate:protein2genome:local	exon	39055	39201	.	-	.	insertions 0 ; deletions 2 ; identity 82.98 ; similarity 91.49 ; frameshifts 4
+ctg196	exonerate:protein2genome:local	exon	38280	38461	.	-	.	insertions 3 ; deletions 0 ; identity 71.67 ; similarity 90.00
+ctg196	exonerate:protein2genome:local	exon	38087	38155	.	-	.	insertions 0 ; deletions 0 ; identity 79.17 ; similarity 91.67
+ctg196	exonerate:protein2genome:local	exon	37577	37782	.	-	.	insertions 0 ; deletions 1 ; identity 69.57 ; similarity 84.06 ; frameshifts 2
+ctg196	exonerate:protein2genome:local	exon	37166	37413	.	-	.	insertions 0 ; deletions 1 ; identity 80.72 ; similarity 87.95 ; frameshifts 2
+ctg196	exonerate:protein2genome:local	exon	36392	36486	.	-	.	insertions 0 ; deletions 1 ; identity 62.50 ; similarity 87.50 ; frameshifts 2
+ctg196	exonerate:protein2genome:local	exon	35870	35985	.	-	.	insertions 0 ; deletions 1 ; identity 97.37 ; similarity 100.00 ; frameshifts 1
+ctg196	exonerate:protein2genome:local	exon	35418	35485	.	-	.	insertions 0 ; deletions 0 ; identity 73.91 ; similarity 78.26
+ctg196	exonerate:protein2genome:local	exon	31094	31212	.	-	.	insertions 0 ; deletions 0 ; identity 71.79 ; similarity 79.49
+ctg196	exonerate:protein2genome:local	exon	30536	30725	.	-	.	insertions 0 ; deletions 0 ; identity 31.25 ; similarity 42.19
+ctg196	exonerate:protein2genome:local	exon	29728	29772	.	-	.	insertions 0 ; deletions 0 ; identity 93.75 ; similarity 93.75
+ctg196	exonerate:protein2genome:local	exon	29547	29653	.	-	.	insertions 0 ; deletions 1 ; identity 86.11 ; similarity 88.89 ; frameshifts 2
+ctg196	exonerate:protein2genome:local	exon	25114	25335	.	-	.	insertions 0 ; deletions 0 ; identity 76.71 ; similarity 83.56 ; frameshifts 2
+ctg196	exonerate:protein2genome:local	exon	24645	24948	.	-	.	insertions 6 ; deletions 1 ; identity 80.61 ; similarity 87.76
+ctg196	exonerate:protein2genome:local	exon	24297	24554	.	-	.	insertions 9 ; deletions 1 ; identity 64.63 ; similarity 84.15 ; frameshifts 2
+ctg187	exonerate:protein2genome:local	gene	32437	34297	1230	-	.	gene_id 1 ; sequence AIPGENE12775 ; gene_orientation + ; identity 91.23 ; similarity 93.83
+ctg187	exonerate:protein2genome:local	exon	34057	34297	.	-	.	insertions 0 ; deletions 1 ; identity 93.83 ; similarity 96.30 ; frameshifts 1
+ctg187	exonerate:protein2genome:local	exon	33865	33973	.	-	.	insertions 0 ; deletions 0 ; identity 94.44 ; similarity 97.22
+ctg187	exonerate:protein2genome:local	exon	32437	33019	.	-	.	insertions 0 ; deletions 2 ; identity 89.58 ; similarity 92.19 ; frameshifts 5
+ctg187	exonerate:protein2genome:local	gene	36688	38902	1475	+	.	gene_id 1 ; sequence AIPGENE12775 ; gene_orientation + ; identity 93.50 ; similarity 96.48
+ctg187	exonerate:protein2genome:local	exon	36688	36935	.	+	.	insertions 0 ; deletions 2 ; identity 95.12 ; similarity 97.56 ; frameshifts 5
+ctg187	exonerate:protein2genome:local	exon	37009	37119	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg187	exonerate:protein2genome:local	exon	38143	38902	.	+	.	insertions 0 ; deletions 4 ; identity 92.03 ; similarity 95.62 ; frameshifts 7
+ctg164	exonerate:protein2genome:local	gene	291197	299445	1154	-	.	gene_id 1 ; sequence AIPGENE11186 ; gene_orientation + ; identity 83.28 ; similarity 89.78
+ctg164	exonerate:protein2genome:local	exon	299373	299445	.	-	.	insertions 0 ; deletions 0 ; identity 91.67 ; similarity 91.67
+ctg164	exonerate:protein2genome:local	exon	299175	299294	.	-	.	insertions 0 ; deletions 0 ; identity 92.31 ; similarity 100.00
+ctg164	exonerate:protein2genome:local	exon	298828	299057	.	-	.	insertions 0 ; deletions 1 ; identity 86.67 ; similarity 90.67 ; frameshifts 2
+ctg164	exonerate:protein2genome:local	exon	294016	294179	.	-	.	insertions 0 ; deletions 1 ; identity 72.22 ; similarity 83.33 ; frameshifts 3
+ctg164	exonerate:protein2genome:local	exon	293335	293427	.	-	.	insertions 0 ; deletions 1 ; identity 83.33 ; similarity 86.67 ; frameshifts 2
+ctg164	exonerate:protein2genome:local	exon	292724	292859	.	-	.	insertions 0 ; deletions 0 ; identity 84.09 ; similarity 93.18
+ctg164	exonerate:protein2genome:local	exon	291605	291716	.	-	.	insertions 0 ; deletions 0 ; identity 76.32 ; similarity 86.84
+ctg164	exonerate:protein2genome:local	exon	291197	291259	.	-	.	insertions 0 ; deletions 0 ; identity 85.71 ; similarity 85.71
+ctg105	exonerate:protein2genome:local	gene	66889	67091	244	+	.	gene_id 1 ; sequence AIPGENE10597 ; gene_orientation . ; identity 82.09 ; similarity 94.03
+ctg105	exonerate:protein2genome:local	exon	66889	67091	.	+	.	insertions 0 ; deletions 1 ; identity 82.09 ; similarity 94.03 ; frameshifts 2
+ctg80	exonerate:protein2genome:local	gene	5891	12364	1250	-	.	gene_id 1 ; sequence AIPGENE13657 ; gene_orientation + ; identity 70.89 ; similarity 82.00
+ctg80	exonerate:protein2genome:local	exon	12311	12364	.	-	.	insertions 0 ; deletions 0 ; identity 89.47 ; similarity 94.74
+ctg80	exonerate:protein2genome:local	exon	11594	11726	.	-	.	insertions 0 ; deletions 2 ; identity 67.44 ; similarity 76.74 ; frameshifts 3
+ctg80	exonerate:protein2genome:local	exon	10264	10458	.	-	.	insertions 0 ; deletions 0 ; identity 64.06 ; similarity 78.12
+ctg80	exonerate:protein2genome:local	exon	9333	9449	.	-	.	insertions 0 ; deletions 0 ; identity 76.32 ; similarity 76.32
+ctg80	exonerate:protein2genome:local	exon	8794	8915	.	-	.	insertions 0 ; deletions 0 ; identity 70.73 ; similarity 80.49
+ctg80	exonerate:protein2genome:local	exon	8498	8578	.	-	.	insertions 0 ; deletions 0 ; identity 92.86 ; similarity 96.43
+ctg80	exonerate:protein2genome:local	exon	8092	8239	.	-	.	insertions 3 ; deletions 0 ; identity 54.17 ; similarity 75.00
+ctg80	exonerate:protein2genome:local	exon	7015	7162	.	-	.	insertions 0 ; deletions 0 ; identity 75.00 ; similarity 83.33
+ctg80	exonerate:protein2genome:local	exon	5891	6266	.	-	.	insertions 0 ; deletions 1 ; identity 71.77 ; similarity 85.48 ; frameshifts 3
+ctg598	exonerate:protein2genome:local	gene	13522	13785	393	-	.	gene_id 1 ; sequence AIPGENE17838 ; gene_orientation . ; identity 84.09 ; similarity 92.05
+ctg598	exonerate:protein2genome:local	exon	13522	13785	.	-	.	insertions 0 ; deletions 0 ; identity 84.09 ; similarity 92.05
+ctg738	exonerate:protein2genome:local	gene	37068	39265	802	+	.	gene_id 1 ; sequence AIPGENE5165 ; gene_orientation + ; identity 91.22 ; similarity 94.63
+ctg738	exonerate:protein2genome:local	exon	37068	37120	.	+	.	insertions 0 ; deletions 0 ; identity 76.47 ; similarity 88.24
+ctg738	exonerate:protein2genome:local	exon	38082	38208	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg738	exonerate:protein2genome:local	exon	38540	38760	.	+	.	insertions 0 ; deletions 0 ; identity 91.89 ; similarity 91.89 ; frameshifts 2
+ctg738	exonerate:protein2genome:local	exon	39044	39265	.	+	.	insertions 0 ; deletions 0 ; identity 89.04 ; similarity 95.89 ; frameshifts 3
+ctg558	exonerate:protein2genome:local	gene	103959	105925	691	+	.	gene_id 1 ; sequence AIPGENE14484 ; gene_orientation + ; identity 79.10 ; similarity 90.40
+ctg558	exonerate:protein2genome:local	exon	103959	104115	.	+	.	insertions 9 ; deletions 0 ; identity 63.27 ; similarity 81.63
+ctg558	exonerate:protein2genome:local	exon	104861	105102	.	+	.	insertions 0 ; deletions 0 ; identity 80.25 ; similarity 92.59
+ctg558	exonerate:protein2genome:local	exon	105782	105925	.	+	.	insertions 0 ; deletions 0 ; identity 91.67 ; similarity 95.83
+ctg558	exonerate:protein2genome:local	gene	103959	105108	495	+	.	gene_id 1 ; sequence AIPGENE8470 ; gene_orientation + ; identity 74.81 ; similarity 88.55
+ctg558	exonerate:protein2genome:local	exon	103959	104115	.	+	.	insertions 9 ; deletions 0 ; identity 63.27 ; similarity 81.63
+ctg558	exonerate:protein2genome:local	exon	104861	105108	.	+	.	insertions 0 ; deletions 0 ; identity 81.71 ; similarity 92.68
+ctg648	exonerate:protein2genome:local	gene	59154	59360	334	-	.	gene_id 1 ; sequence AIPGENE28898 ; gene_orientation . ; identity 91.30 ; similarity 95.65
+ctg648	exonerate:protein2genome:local	exon	59154	59360	.	-	.	insertions 0 ; deletions 0 ; identity 91.30 ; similarity 95.65
+ctg648	exonerate:protein2genome:local	gene	49633	49788	217	-	.	gene_id 2 ; sequence AIPGENE28898 ; gene_orientation . ; identity 80.77 ; similarity 82.69
+ctg648	exonerate:protein2genome:local	exon	49633	49788	.	-	.	insertions 0 ; deletions 0 ; identity 80.77 ; similarity 82.69
+ctg648	exonerate:protein2genome:local	gene	49633	56697	1827	-	.	gene_id 1 ; sequence AIPGENE24599 ; gene_orientation + ; identity 88.63 ; similarity 90.72
+ctg648	exonerate:protein2genome:local	exon	56472	56697	.	-	.	insertions 0 ; deletions 0 ; identity 96.00 ; similarity 98.67
+ctg648	exonerate:protein2genome:local	exon	54920	55026	.	-	.	insertions 0 ; deletions 0 ; identity 91.18 ; similarity 97.06 ; frameshifts 2
+ctg648	exonerate:protein2genome:local	exon	50770	50814	.	-	.	insertions 0 ; deletions 0 ; identity 85.71 ; similarity 85.71
+ctg648	exonerate:protein2genome:local	exon	49633	50561	.	-	.	insertions 0 ; deletions 1 ; identity 86.69 ; similarity 88.31 ; frameshifts 3
+ctg648	exonerate:protein2genome:local	gene	59154	62422	1682	-	.	gene_id 2 ; sequence AIPGENE24599 ; gene_orientation + ; identity 85.81 ; similarity 90.54
+ctg648	exonerate:protein2genome:local	exon	62201	62422	.	-	.	insertions 0 ; deletions 2 ; identity 73.61 ; similarity 77.78 ; frameshifts 5
+ctg648	exonerate:protein2genome:local	exon	60400	60548	.	-	.	insertions 0 ; deletions 0 ; identity 94.00 ; similarity 96.00
+ctg648	exonerate:protein2genome:local	exon	59154	60129	.	-	.	insertions 0 ; deletions 4 ; identity 87.31 ; similarity 92.57 ; frameshifts 7
+ctg648	exonerate:protein2genome:local	gene	49633	50571	1281	-	.	gene_id 1 ; sequence AIPGENE17951 ; gene_orientation . ; identity 81.73 ; similarity 88.46
+ctg648	exonerate:protein2genome:local	exon	49633	50571	.	-	.	insertions 0 ; deletions 1 ; identity 81.73 ; similarity 88.46 ; frameshifts 3
+ctg648	exonerate:protein2genome:local	gene	59169	60129	1279	-	.	gene_id 2 ; sequence AIPGENE17951 ; gene_orientation . ; identity 83.65 ; similarity 93.08
+ctg648	exonerate:protein2genome:local	exon	59169	60129	.	-	.	insertions 0 ; deletions 4 ; identity 83.65 ; similarity 93.08 ; frameshifts 7
+ctg372	exonerate:protein2genome:local	gene	241714	243622	766	+	.	gene_id 1 ; sequence AIPGENE15827 ; gene_orientation + ; identity 78.31 ; similarity 87.15
+ctg372	exonerate:protein2genome:local	exon	241714	241871	.	+	.	insertions 0 ; deletions 0 ; identity 62.26 ; similarity 75.47 ; frameshifts 2
+ctg372	exonerate:protein2genome:local	exon	242107	242194	.	+	.	insertions 0 ; deletions 0 ; identity 89.66 ; similarity 93.10
+ctg372	exonerate:protein2genome:local	exon	242268	242378	.	+	.	insertions 0 ; deletions 0 ; identity 86.49 ; similarity 94.59 ; frameshifts 1
+ctg372	exonerate:protein2genome:local	exon	242728	242876	.	+	.	insertions 0 ; deletions 1 ; identity 88.00 ; similarity 96.00 ; frameshifts 2
+ctg372	exonerate:protein2genome:local	exon	243360	243622	.	+	.	insertions 12 ; deletions 2 ; identity 74.70 ; similarity 83.13 ; frameshifts 2
+ctg372	exonerate:protein2genome:local	gene	78083	81828	1352	-	.	gene_id 1 ; sequence AIPGENE1928 ; gene_orientation + ; identity 84.93 ; similarity 92.17
+ctg372	exonerate:protein2genome:local	exon	81689	81828	.	-	.	insertions 0 ; deletions 0 ; identity 89.13 ; similarity 93.48 ; frameshifts 1
+ctg372	exonerate:protein2genome:local	exon	79434	79982	.	-	.	insertions 0 ; deletions 4 ; identity 83.98 ; similarity 90.61 ; frameshifts 7
+ctg372	exonerate:protein2genome:local	exon	78083	78439	.	-	.	insertions 0 ; deletions 1 ; identity 84.87 ; similarity 94.12
+ctg648	exonerate:protein2genome:local	gene	49813	56592	1441	-	.	gene_id 1 ; sequence AIPGENE2846 ; gene_orientation + ; identity 91.96 ; similarity 95.24
+ctg648	exonerate:protein2genome:local	exon	56472	56592	.	-	.	insertions 0 ; deletions 0 ; identity 97.50 ; similarity 100.00
+ctg648	exonerate:protein2genome:local	exon	54938	55026	.	-	.	insertions 0 ; deletions 0 ; identity 89.29 ; similarity 96.43 ; frameshifts 2
+ctg648	exonerate:protein2genome:local	exon	50770	50832	.	-	.	insertions 0 ; deletions 0 ; identity 85.00 ; similarity 90.00
+ctg648	exonerate:protein2genome:local	exon	49813	50561	.	-	.	insertions 0 ; deletions 1 ; identity 91.94 ; similarity 94.76 ; frameshifts 3
+ctg648	exonerate:protein2genome:local	gene	59385	62295	1304	-	.	gene_id 2 ; sequence AIPGENE2846 ; gene_orientation + ; identity 89.26 ; similarity 93.87
+ctg648	exonerate:protein2genome:local	exon	62201	62295	.	-	.	insertions 0 ; deletions 0 ; identity 58.06 ; similarity 61.29 ; frameshifts 1
+ctg648	exonerate:protein2genome:local	exon	60400	60548	.	-	.	insertions 0 ; deletions 0 ; identity 94.00 ; similarity 96.00
+ctg648	exonerate:protein2genome:local	exon	59385	60129	.	-	.	insertions 0 ; deletions 4 ; identity 92.28 ; similarity 97.56 ; frameshifts 7
+ctg484	exonerate:protein2genome:local	gene	330293	332512	1462	+	.	gene_id 1 ; sequence AIPGENE2489 ; gene_orientation + ; identity 71.86 ; similarity 83.77
+ctg484	exonerate:protein2genome:local	exon	330293	330696	.	+	.	insertions 0 ; deletions 2 ; identity 78.20 ; similarity 87.22 ; frameshifts 4
+ctg484	exonerate:protein2genome:local	exon	330856	330896	.	+	.	insertions 0 ; deletions 0 ; identity 71.43 ; similarity 71.43
+ctg484	exonerate:protein2genome:local	exon	331240	331641	.	+	.	insertions 6 ; deletions 1 ; identity 62.60 ; similarity 74.81 ; frameshifts 2
+ctg484	exonerate:protein2genome:local	exon	331951	332512	.	+	.	insertions 0 ; deletions 2 ; identity 74.05 ; similarity 88.65 ; frameshifts 5
+ctg324	exonerate:protein2genome:local	gene	58399	59481	820	-	.	gene_id 1 ; sequence AIPGENE20514 ; gene_orientation + ; identity 64.05 ; similarity 83.47
+ctg324	exonerate:protein2genome:local	exon	59426	59481	.	-	.	insertions 0 ; deletions 0 ; identity 66.67 ; similarity 88.89
+ctg324	exonerate:protein2genome:local	exon	59186	59295	.	-	.	insertions 0 ; deletions 0 ; identity 47.22 ; similarity 77.78
+ctg324	exonerate:protein2genome:local	exon	58980	59090	.	-	.	insertions 0 ; deletions 0 ; identity 55.56 ; similarity 75.00
+ctg324	exonerate:protein2genome:local	exon	58399	58857	.	-	.	insertions 0 ; deletions 0 ; identity 69.74 ; similarity 86.18 ; frameshifts 1
+ctg648	exonerate:protein2genome:local	gene	50768	56697	524	-	.	gene_id 1 ; sequence AIPGENE2854 ; gene_orientation + ; identity 88.71 ; similarity 95.97
+ctg648	exonerate:protein2genome:local	exon	56472	56697	.	-	.	insertions 0 ; deletions 0 ; identity 93.33 ; similarity 97.33
+ctg648	exonerate:protein2genome:local	exon	54938	55026	.	-	.	insertions 0 ; deletions 0 ; identity 89.29 ; similarity 96.43 ; frameshifts 2
+ctg648	exonerate:protein2genome:local	exon	50768	50832	.	-	.	insertions 0 ; deletions 0 ; identity 71.43 ; similarity 90.48
+ctg648	exonerate:protein2genome:local	gene	50827	52398	457	-	.	gene_id 2 ; sequence AIPGENE2854 ; gene_orientation + ; identity 89.42 ; similarity 92.31
+ctg648	exonerate:protein2genome:local	exon	52173	52398	.	-	.	insertions 0 ; deletions 0 ; identity 93.33 ; similarity 97.33
+ctg648	exonerate:protein2genome:local	exon	50827	50917	.	-	.	insertions 0 ; deletions 1 ; identity 79.31 ; similarity 79.31 ; frameshifts 2
+ctg648	exonerate:protein2genome:local	gene	49633	56697	776	-	.	gene_id 1 ; sequence AIPGENE2869 ; gene_orientation + ; identity 89.30 ; similarity 91.98
+ctg648	exonerate:protein2genome:local	exon	56472	56697	.	-	.	insertions 0 ; deletions 0 ; identity 94.67 ; similarity 98.67
+ctg648	exonerate:protein2genome:local	exon	54920	55026	.	-	.	insertions 0 ; deletions 0 ; identity 85.29 ; similarity 91.18 ; frameshifts 2
+ctg648	exonerate:protein2genome:local	exon	50770	50814	.	-	.	insertions 0 ; deletions 0 ; identity 85.71 ; similarity 85.71
+ctg648	exonerate:protein2genome:local	exon	49633	49826	.	-	.	insertions 0 ; deletions 0 ; identity 85.94 ; similarity 85.94
+ctg648	exonerate:protein2genome:local	gene	59154	62422	713	-	.	gene_id 2 ; sequence AIPGENE2869 ; gene_orientation + ; identity 85.71 ; similarity 88.18
+ctg648	exonerate:protein2genome:local	exon	62201	62422	.	-	.	insertions 0 ; deletions 2 ; identity 75.00 ; similarity 77.78 ; frameshifts 5
+ctg648	exonerate:protein2genome:local	exon	60400	60548	.	-	.	insertions 0 ; deletions 0 ; identity 88.00 ; similarity 90.00
+ctg648	exonerate:protein2genome:local	exon	59154	59399	.	-	.	insertions 0 ; deletions 0 ; identity 93.90 ; similarity 96.34
+ctg648	exonerate:protein2genome:local	gene	49598	56697	1905	-	.	gene_id 1 ; sequence AIPGENE9543 ; gene_orientation + ; identity 90.72 ; similarity 92.99
+ctg648	exonerate:protein2genome:local	exon	56472	56697	.	-	.	insertions 0 ; deletions 0 ; identity 97.33 ; similarity 97.33
+ctg648	exonerate:protein2genome:local	exon	54920	55026	.	-	.	insertions 0 ; deletions 0 ; identity 91.18 ; similarity 97.06 ; frameshifts 2
+ctg648	exonerate:protein2genome:local	exon	50770	50814	.	-	.	insertions 0 ; deletions 0 ; identity 78.57 ; similarity 92.86
+ctg648	exonerate:protein2genome:local	exon	49598	50561	.	-	.	insertions 0 ; deletions 1 ; identity 89.66 ; similarity 91.54 ; frameshifts 5
+ctg648	exonerate:protein2genome:local	gene	59169	62422	1739	-	.	gene_id 2 ; sequence AIPGENE9543 ; gene_orientation + ; identity 89.29 ; similarity 93.62
+ctg648	exonerate:protein2genome:local	exon	62201	62422	.	-	.	insertions 0 ; deletions 2 ; identity 73.61 ; similarity 77.78 ; frameshifts 5
+ctg648	exonerate:protein2genome:local	exon	60400	60548	.	-	.	insertions 0 ; deletions 0 ; identity 90.00 ; similarity 94.00
+ctg648	exonerate:protein2genome:local	exon	59169	60129	.	-	.	insertions 0 ; deletions 4 ; identity 92.77 ; similarity 97.17 ; frameshifts 7
+ctg412	exonerate:protein2genome:local	gene	62742	65064	522	+	.	gene_id 1 ; sequence AIPGENE21619 ; gene_orientation + ; identity 75.94 ; similarity 89.47
+ctg412	exonerate:protein2genome:local	exon	62742	62870	.	+	.	insertions 0 ; deletions 0 ; identity 75.00 ; similarity 90.91
+ctg412	exonerate:protein2genome:local	exon	63512	63582	.	+	.	insertions 0 ; deletions 0 ; identity 52.17 ; similarity 73.91
+ctg412	exonerate:protein2genome:local	exon	64487	64602	.	+	.	insertions 0 ; deletions 0 ; identity 78.95 ; similarity 92.11
+ctg412	exonerate:protein2genome:local	exon	64976	65064	.	+	.	insertions 0 ; deletions 0 ; identity 89.66 ; similarity 96.55
+ctg324	exonerate:protein2genome:local	gene	57522	59481	1183	-	.	gene_id 1 ; sequence AIPGENE17177 ; gene_orientation + ; identity 64.52 ; similarity 79.30
+ctg324	exonerate:protein2genome:local	exon	59421	59481	.	-	.	insertions 0 ; deletions 0 ; identity 70.00 ; similarity 80.00
+ctg324	exonerate:protein2genome:local	exon	58980	59090	.	-	.	insertions 0 ; deletions 0 ; identity 44.44 ; similarity 61.11
+ctg324	exonerate:protein2genome:local	exon	58399	58857	.	-	.	insertions 0 ; deletions 0 ; identity 66.67 ; similarity 81.05 ; frameshifts 1
+ctg324	exonerate:protein2genome:local	exon	57522	58015	.	-	.	insertions 0 ; deletions 1 ; identity 66.46 ; similarity 81.71 ; frameshifts 2
+ctg648	exonerate:protein2genome:local	gene	50017	56592	1076	-	.	gene_id 1 ; sequence AIPGENE28879 ; gene_orientation + ; identity 90.67 ; similarity 93.66
+ctg648	exonerate:protein2genome:local	exon	56472	56592	.	-	.	insertions 0 ; deletions 0 ; identity 97.50 ; similarity 100.00
+ctg648	exonerate:protein2genome:local	exon	54938	55026	.	-	.	insertions 0 ; deletions 0 ; identity 85.71 ; similarity 92.86 ; frameshifts 2
+ctg648	exonerate:protein2genome:local	exon	50770	50832	.	-	.	insertions 0 ; deletions 0 ; identity 80.00 ; similarity 85.00
+ctg648	exonerate:protein2genome:local	exon	50017	50561	.	-	.	insertions 0 ; deletions 1 ; identity 91.11 ; similarity 93.33 ; frameshifts 3
+ctg648	exonerate:protein2genome:local	gene	59589	62295	918	-	.	gene_id 2 ; sequence AIPGENE28879 ; gene_orientation + ; identity 84.50 ; similarity 91.09
+ctg648	exonerate:protein2genome:local	exon	62201	62295	.	-	.	insertions 0 ; deletions 0 ; identity 58.06 ; similarity 61.29 ; frameshifts 1
+ctg648	exonerate:protein2genome:local	exon	60400	60548	.	-	.	insertions 0 ; deletions 0 ; identity 90.00 ; similarity 92.00
+ctg648	exonerate:protein2genome:local	exon	59589	60129	.	-	.	insertions 0 ; deletions 4 ; identity 87.64 ; similarity 96.07 ; frameshifts 7
+ctg648	exonerate:protein2genome:local	gene	49598	56697	1855	-	.	gene_id 1 ; sequence AIPGENE9554 ; gene_orientation + ; identity 88.01 ; similarity 91.86
+ctg648	exonerate:protein2genome:local	exon	56472	56697	.	-	.	insertions 0 ; deletions 0 ; identity 93.33 ; similarity 97.33
+ctg648	exonerate:protein2genome:local	exon	54938	55026	.	-	.	insertions 0 ; deletions 0 ; identity 89.29 ; similarity 92.86 ; frameshifts 2
+ctg648	exonerate:protein2genome:local	exon	50770	50832	.	-	.	insertions 0 ; deletions 0 ; identity 85.00 ; similarity 85.00
+ctg648	exonerate:protein2genome:local	exon	49598	50561	.	-	.	insertions 0 ; deletions 1 ; identity 86.83 ; similarity 90.91 ; frameshifts 5
+ctg648	exonerate:protein2genome:local	gene	59169	62422	1759	-	.	gene_id 2 ; sequence AIPGENE9554 ; gene_orientation + ; identity 90.89 ; similarity 94.08
+ctg648	exonerate:protein2genome:local	exon	62201	62422	.	-	.	insertions 0 ; deletions 2 ; identity 75.00 ; similarity 77.78 ; frameshifts 5
+ctg648	exonerate:protein2genome:local	exon	60400	60548	.	-	.	insertions 0 ; deletions 0 ; identity 94.00 ; similarity 94.00
+ctg648	exonerate:protein2genome:local	exon	59169	60129	.	-	.	insertions 0 ; deletions 4 ; identity 94.03 ; similarity 97.80 ; frameshifts 7
+ctg324	exonerate:protein2genome:local	gene	57304	59481	2032	-	.	gene_id 1 ; sequence AIPGENE27901 ; gene_orientation + ; identity 95.26 ; similarity 96.16
+ctg324	exonerate:protein2genome:local	exon	59426	59481	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg324	exonerate:protein2genome:local	exon	59186	59295	.	-	.	insertions 0 ; deletions 0 ; identity 97.22 ; similarity 97.22
+ctg324	exonerate:protein2genome:local	exon	58980	59090	.	-	.	insertions 0 ; deletions 0 ; identity 75.00 ; similarity 75.00
+ctg324	exonerate:protein2genome:local	exon	58399	58857	.	-	.	insertions 0 ; deletions 0 ; identity 97.39 ; similarity 98.04 ; frameshifts 1
+ctg324	exonerate:protein2genome:local	exon	57522	58015	.	-	.	insertions 0 ; deletions 1 ; identity 95.76 ; similarity 97.58 ; frameshifts 2
+ctg324	exonerate:protein2genome:local	exon	57304	57416	.	-	.	insertions 0 ; deletions 1 ; identity 100.00 ; similarity 100.00 ; frameshifts 2
+ctg818	exonerate:protein2genome:local	gene	96524	99179	864	-	.	gene_id 1 ; sequence AIPGENE12129 ; gene_orientation + ; identity 71.10 ; similarity 80.84
+ctg818	exonerate:protein2genome:local	exon	99092	99179	.	-	.	insertions 0 ; deletions 0 ; identity 86.21 ; similarity 96.55
+ctg818	exonerate:protein2genome:local	exon	98922	99010	.	-	.	insertions 0 ; deletions 0 ; identity 85.71 ; similarity 89.29 ; frameshifts 1
+ctg818	exonerate:protein2genome:local	exon	98518	98794	.	-	.	insertions 0 ; deletions 2 ; identity 72.22 ; similarity 77.78 ; frameshifts 4
+ctg818	exonerate:protein2genome:local	exon	98123	98248	.	-	.	insertions 0 ; deletions 0 ; identity 60.98 ; similarity 75.61
+ctg818	exonerate:protein2genome:local	exon	97974	98040	.	-	.	insertions 0 ; deletions 0 ; identity 78.26 ; similarity 91.30
+ctg818	exonerate:protein2genome:local	exon	97809	97894	.	-	.	insertions 0 ; deletions 0 ; identity 85.71 ; similarity 89.29
+ctg818	exonerate:protein2genome:local	exon	97443	97479	.	-	.	insertions 0 ; deletions 0 ; identity 69.23 ; similarity 92.31
+ctg818	exonerate:protein2genome:local	exon	96920	97053	.	-	.	insertions 0 ; deletions 1 ; identity 45.45 ; similarity 61.36
+ctg818	exonerate:protein2genome:local	exon	96524	96566	.	-	.	insertions 0 ; deletions 0 ; identity 64.29 ; similarity 85.71
+ctg787	exonerate:protein2genome:local	gene	86598	87758	1265	+	.	gene_id 1 ; sequence AIPGENE12599 ; gene_orientation . ; identity 68.65 ; similarity 80.57
+ctg787	exonerate:protein2genome:local	exon	86598	87758	.	+	.	insertions 0 ; deletions 3 ; identity 68.65 ; similarity 80.57 ; frameshifts 3
+ctg756	exonerate:protein2genome:local	gene	30240	30490	310	-	.	gene_id 1 ; sequence AIPGENE27564 ; gene_orientation . ; identity 74.70 ; similarity 86.75
+ctg756	exonerate:protein2genome:local	exon	30240	30490	.	-	.	insertions 0 ; deletions 1 ; identity 74.70 ; similarity 86.75 ; frameshifts 2
+ctg648	exonerate:protein2genome:local	gene	50425	56697	1018	-	.	gene_id 1 ; sequence AIPGENE28920 ; gene_orientation + ; identity 85.06 ; similarity 88.89
+ctg648	exonerate:protein2genome:local	exon	56472	56697	.	-	.	insertions 0 ; deletions 0 ; identity 94.67 ; similarity 97.33
+ctg648	exonerate:protein2genome:local	exon	54876	55026	.	-	.	insertions 0 ; deletions 0 ; identity 68.00 ; similarity 74.00 ; frameshifts 2
+ctg648	exonerate:protein2genome:local	exon	52173	52305	.	-	.	insertions 0 ; deletions 0 ; identity 97.73 ; similarity 100.00
+ctg648	exonerate:protein2genome:local	exon	50770	50917	.	-	.	insertions 0 ; deletions 1 ; identity 66.67 ; similarity 72.92 ; frameshifts 1
+ctg648	exonerate:protein2genome:local	exon	50425	50561	.	-	.	insertions 0 ; deletions 0 ; identity 95.56 ; similarity 97.78
+ctg648	exonerate:protein2genome:local	gene	54531	62422	779	-	.	gene_id 2 ; sequence AIPGENE28920 ; gene_orientation + ; identity 81.71 ; similarity 86.77
+ctg648	exonerate:protein2genome:local	exon	62201	62422	.	-	.	insertions 0 ; deletions 2 ; identity 72.22 ; similarity 76.39 ; frameshifts 5
+ctg648	exonerate:protein2genome:local	exon	60400	60548	.	-	.	insertions 0 ; deletions 0 ; identity 92.00 ; similarity 96.00
+ctg648	exonerate:protein2genome:local	exon	56472	56604	.	-	.	insertions 0 ; deletions 0 ; identity 97.73 ; similarity 100.00
+ctg648	exonerate:protein2genome:local	exon	54876	55026	.	-	.	insertions 0 ; deletions 1 ; identity 77.08 ; similarity 85.42 ; frameshifts 4
+ctg648	exonerate:protein2genome:local	exon	54531	54664	.	-	.	insertions 0 ; deletions 1 ; identity 75.00 ; similarity 81.82
+ctg648	exonerate:protein2genome:local	gene	50160	56697	1057	-	.	gene_id 1 ; sequence AIPGENE28889 ; gene_orientation + ; identity 88.67 ; similarity 92.58
+ctg648	exonerate:protein2genome:local	exon	56472	56697	.	-	.	insertions 0 ; deletions 0 ; identity 94.67 ; similarity 98.67
+ctg648	exonerate:protein2genome:local	exon	54938	55026	.	-	.	insertions 0 ; deletions 0 ; identity 89.29 ; similarity 96.43 ; frameshifts 2
+ctg648	exonerate:protein2genome:local	exon	50770	50832	.	-	.	insertions 0 ; deletions 0 ; identity 85.00 ; similarity 85.00
+ctg648	exonerate:protein2genome:local	exon	50160	50561	.	-	.	insertions 0 ; deletions 0 ; identity 85.71 ; similarity 89.47 ; frameshifts 1
+ctg648	exonerate:protein2genome:local	gene	59154	62422	854	-	.	gene_id 2 ; sequence AIPGENE28889 ; gene_orientation + ; identity 82.55 ; similarity 89.82
+ctg648	exonerate:protein2genome:local	exon	62201	62422	.	-	.	insertions 0 ; deletions 2 ; identity 73.61 ; similarity 77.78 ; frameshifts 5
+ctg648	exonerate:protein2genome:local	exon	60400	60548	.	-	.	insertions 0 ; deletions 0 ; identity 94.00 ; similarity 96.00
+ctg648	exonerate:protein2genome:local	exon	59733	60129	.	-	.	insertions 0 ; deletions 3 ; identity 83.85 ; similarity 93.85 ; frameshifts 6
+ctg648	exonerate:protein2genome:local	exon	59154	59227	.	-	.	insertions 0 ; deletions 1 ; identity 79.17 ; similarity 91.67
+ctg324	exonerate:protein2genome:local	gene	57348	59481	2015	-	.	gene_id 1 ; sequence AIPGENE20512 ; gene_orientation + ; identity 95.57 ; similarity 95.80
+ctg324	exonerate:protein2genome:local	exon	59426	59481	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg324	exonerate:protein2genome:local	exon	59186	59295	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg324	exonerate:protein2genome:local	exon	58980	59090	.	-	.	insertions 0 ; deletions 0 ; identity 77.78 ; similarity 77.78
+ctg324	exonerate:protein2genome:local	exon	58399	58857	.	-	.	insertions 0 ; deletions 0 ; identity 99.35 ; similarity 99.35 ; frameshifts 1
+ctg324	exonerate:protein2genome:local	exon	57522	58015	.	-	.	insertions 0 ; deletions 1 ; identity 94.55 ; similarity 94.55 ; frameshifts 2
+ctg324	exonerate:protein2genome:local	exon	57348	57416	.	-	.	insertions 0 ; deletions 0 ; identity 95.65 ; similarity 100.00
+ctg648	exonerate:protein2genome:local	gene	50151	56697	1515	-	.	gene_id 1 ; sequence AIPGENE23849 ; gene_orientation + ; identity 82.72 ; similarity 87.43
+ctg648	exonerate:protein2genome:local	exon	56472	56697	.	-	.	insertions 0 ; deletions 0 ; identity 90.67 ; similarity 96.00
+ctg648	exonerate:protein2genome:local	exon	54876	55026	.	-	.	insertions 0 ; deletions 0 ; identity 58.00 ; similarity 66.00 ; frameshifts 2
+ctg648	exonerate:protein2genome:local	exon	52173	52395	.	-	.	insertions 0 ; deletions 0 ; identity 89.19 ; similarity 93.24
+ctg648	exonerate:protein2genome:local	exon	50770	50917	.	-	.	insertions 0 ; deletions 1 ; identity 62.50 ; similarity 70.83 ; frameshifts 1
+ctg648	exonerate:protein2genome:local	exon	50151	50561	.	-	.	insertions 0 ; deletions 0 ; identity 91.18 ; similarity 93.38 ; frameshifts 1
+ctg648	exonerate:protein2genome:local	gene	54260	62422	1169	-	.	gene_id 2 ; sequence AIPGENE23849 ; gene_orientation + ; identity 80.05 ; similarity 86.97
+ctg648	exonerate:protein2genome:local	exon	62201	62422	.	-	.	insertions 0 ; deletions 2 ; identity 72.22 ; similarity 76.39 ; frameshifts 5
+ctg648	exonerate:protein2genome:local	exon	60400	60548	.	-	.	insertions 0 ; deletions 0 ; identity 84.00 ; similarity 96.00
+ctg648	exonerate:protein2genome:local	exon	56472	56694	.	-	.	insertions 0 ; deletions 0 ; identity 89.19 ; similarity 93.24
+ctg648	exonerate:protein2genome:local	exon	54876	55026	.	-	.	insertions 0 ; deletions 1 ; identity 64.58 ; similarity 79.17 ; frameshifts 4
+ctg648	exonerate:protein2genome:local	exon	54260	54664	.	-	.	insertions 0 ; deletions 5 ; identity 83.46 ; similarity 88.72 ; frameshifts 4
+ctg494	exonerate:protein2genome:local	gene	38249	40451	379	+	.	gene_id 1 ; sequence AIPGENE26706 ; gene_orientation + ; identity 58.99 ; similarity 80.58
+ctg494	exonerate:protein2genome:local	exon	38249	38300	.	+	.	insertions 0 ; deletions 0 ; identity 76.47 ; similarity 88.24
+ctg494	exonerate:protein2genome:local	exon	38990	39089	.	+	.	insertions 0 ; deletions 0 ; identity 46.88 ; similarity 78.12
+ctg494	exonerate:protein2genome:local	exon	39247	39291	.	+	.	insertions 0 ; deletions 0 ; identity 50.00 ; similarity 78.57
+ctg494	exonerate:protein2genome:local	exon	39857	39977	.	+	.	insertions 0 ; deletions 1 ; identity 56.10 ; similarity 75.61
+ctg494	exonerate:protein2genome:local	exon	40344	40451	.	+	.	insertions 0 ; deletions 0 ; identity 69.44 ; similarity 86.11
+ctg435	exonerate:protein2genome:local	gene	65352	66827	302	-	.	gene_id 1 ; sequence AIPGENE25636 ; gene_orientation + ; identity 73.42 ; similarity 87.34
+ctg435	exonerate:protein2genome:local	exon	66730	66827	.	-	.	insertions 0 ; deletions 0 ; identity 68.75 ; similarity 87.50
+ctg435	exonerate:protein2genome:local	exon	66133	66180	.	-	.	insertions 0 ; deletions 0 ; identity 93.33 ; similarity 100.00
+ctg435	exonerate:protein2genome:local	exon	65352	65448	.	-	.	insertions 0 ; deletions 0 ; identity 68.75 ; similarity 81.25
+ctg648	exonerate:protein2genome:local	gene	50256	56697	945	-	.	gene_id 1 ; sequence AIPGENE28936 ; gene_orientation + ; identity 90.18 ; similarity 94.64
+ctg648	exonerate:protein2genome:local	exon	56472	56697	.	-	.	insertions 0 ; deletions 0 ; identity 94.67 ; similarity 98.67
+ctg648	exonerate:protein2genome:local	exon	54938	55026	.	-	.	insertions 0 ; deletions 0 ; identity 89.29 ; similarity 96.43 ; frameshifts 2
+ctg648	exonerate:protein2genome:local	exon	50770	50832	.	-	.	insertions 0 ; deletions 0 ; identity 80.00 ; similarity 90.00
+ctg648	exonerate:protein2genome:local	exon	50256	50561	.	-	.	insertions 0 ; deletions 0 ; identity 89.11 ; similarity 92.08 ; frameshifts 1
+ctg648	exonerate:protein2genome:local	gene	59829	62422	754	-	.	gene_id 2 ; sequence AIPGENE28936 ; gene_orientation + ; identity 86.82 ; similarity 91.36
+ctg648	exonerate:protein2genome:local	exon	62201	62422	.	-	.	insertions 0 ; deletions 2 ; identity 75.00 ; similarity 77.78 ; frameshifts 5
+ctg648	exonerate:protein2genome:local	exon	60400	60548	.	-	.	insertions 0 ; deletions 0 ; identity 92.00 ; similarity 96.00
+ctg648	exonerate:protein2genome:local	exon	59829	60129	.	-	.	insertions 0 ; deletions 2 ; identity 92.93 ; similarity 98.99 ; frameshifts 4
+ctg472	exonerate:protein2genome:local	gene	78133	79784	613	-	.	gene_id 1 ; sequence AIPGENE4512 ; gene_orientation + ; identity 76.24 ; similarity 90.06
+ctg472	exonerate:protein2genome:local	exon	79363	79784	.	-	.	insertions 0 ; deletions 2 ; identity 78.57 ; similarity 92.86 ; frameshifts 5
+ctg472	exonerate:protein2genome:local	exon	78133	78259	.	-	.	insertions 0 ; deletions 1 ; identity 66.67 ; similarity 78.57 ; frameshifts 1
+ctg412	exonerate:protein2genome:local	gene	42811	64604	698	+	.	gene_id 1 ; sequence AIPGENE12727 ; gene_orientation + ; identity 69.26 ; similarity 84.85
+ctg412	exonerate:protein2genome:local	exon	42811	42971	.	+	.	insertions 0 ; deletions 1 ; identity 64.15 ; similarity 79.25
+ctg412	exonerate:protein2genome:local	exon	43521	43603	.	+	.	insertions 0 ; deletions 0 ; identity 57.69 ; similarity 69.23 ; frameshifts 2
+ctg412	exonerate:protein2genome:local	exon	43700	43737	.	+	.	insertions 0 ; deletions 0 ; identity 91.67 ; similarity 100.00
+ctg412	exonerate:protein2genome:local	exon	61695	61753	.	+	.	insertions 0 ; deletions 0 ; identity 70.00 ; similarity 85.00
+ctg412	exonerate:protein2genome:local	exon	62277	62329	.	+	.	insertions 0 ; deletions 0 ; identity 47.06 ; similarity 70.59
+ctg412	exonerate:protein2genome:local	exon	62744	62870	.	+	.	insertions 0 ; deletions 0 ; identity 76.74 ; similarity 93.02
+ctg412	exonerate:protein2genome:local	exon	63512	63582	.	+	.	insertions 0 ; deletions 0 ; identity 65.22 ; similarity 86.96
+ctg412	exonerate:protein2genome:local	exon	64487	64604	.	+	.	insertions 0 ; deletions 0 ; identity 76.92 ; similarity 92.31
+ctg324	exonerate:protein2genome:local	gene	57304	59481	2030	-	.	gene_id 1 ; sequence AIPGENE10493 ; gene_orientation + ; identity 95.71 ; similarity 95.71
+ctg324	exonerate:protein2genome:local	exon	59426	59481	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg324	exonerate:protein2genome:local	exon	59186	59295	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg324	exonerate:protein2genome:local	exon	58980	59090	.	-	.	insertions 0 ; deletions 0 ; identity 75.00 ; similarity 75.00
+ctg324	exonerate:protein2genome:local	exon	58399	58857	.	-	.	insertions 0 ; deletions 0 ; identity 98.04 ; similarity 98.04 ; frameshifts 1
+ctg324	exonerate:protein2genome:local	exon	57522	58015	.	-	.	insertions 0 ; deletions 1 ; identity 97.58 ; similarity 97.58 ; frameshifts 2
+ctg324	exonerate:protein2genome:local	exon	57304	57416	.	-	.	insertions 0 ; deletions 1 ; identity 91.89 ; similarity 91.89 ; frameshifts 2
+ctg648	exonerate:protein2genome:local	gene	59154	59327	263	-	.	gene_id 1 ; sequence AIPGENE28886 ; gene_orientation . ; identity 91.38 ; similarity 96.55
+ctg648	exonerate:protein2genome:local	exon	59154	59327	.	-	.	insertions 0 ; deletions 1 ; identity 91.38 ; similarity 96.55
+ctg648	exonerate:protein2genome:local	gene	49633	56697	1854	-	.	gene_id 1 ; sequence AIPGENE23845 ; gene_orientation + ; identity 86.61 ; similarity 89.84
+ctg648	exonerate:protein2genome:local	exon	56472	56697	.	-	.	insertions 0 ; deletions 0 ; identity 89.33 ; similarity 94.67
+ctg648	exonerate:protein2genome:local	exon	54876	55026	.	-	.	insertions 0 ; deletions 0 ; identity 58.00 ; similarity 66.00 ; frameshifts 2
+ctg648	exonerate:protein2genome:local	exon	49633	50562	.	-	.	insertions 0 ; deletions 1 ; identity 90.61 ; similarity 92.56 ; frameshifts 3
+ctg648	exonerate:protein2genome:local	gene	59154	62422	1714	-	.	gene_id 2 ; sequence AIPGENE23845 ; gene_orientation + ; identity 86.49 ; similarity 93.02
+ctg648	exonerate:protein2genome:local	exon	62201	62422	.	-	.	insertions 0 ; deletions 2 ; identity 73.61 ; similarity 75.00 ; frameshifts 5
+ctg648	exonerate:protein2genome:local	exon	60400	60548	.	-	.	insertions 0 ; deletions 0 ; identity 76.00 ; similarity 92.00
+ctg648	exonerate:protein2genome:local	exon	59154	60129	.	-	.	insertions 0 ; deletions 5 ; identity 91.02 ; similarity 97.21 ; frameshifts 7
+ctg324	exonerate:protein2genome:local	gene	57348	59481	1924	-	.	gene_id 1 ; sequence AIPGENE23810 ; gene_orientation + ; identity 90.21 ; similarity 94.64
+ctg324	exonerate:protein2genome:local	exon	59426	59481	.	-	.	insertions 0 ; deletions 0 ; identity 94.44 ; similarity 100.00
+ctg324	exonerate:protein2genome:local	exon	59186	59295	.	-	.	insertions 0 ; deletions 0 ; identity 88.89 ; similarity 91.67
+ctg324	exonerate:protein2genome:local	exon	58980	59090	.	-	.	insertions 0 ; deletions 0 ; identity 77.78 ; similarity 77.78
+ctg324	exonerate:protein2genome:local	exon	58399	58857	.	-	.	insertions 0 ; deletions 0 ; identity 93.46 ; similarity 97.39 ; frameshifts 1
+ctg324	exonerate:protein2genome:local	exon	57522	58015	.	-	.	insertions 0 ; deletions 1 ; identity 90.91 ; similarity 95.76 ; frameshifts 2
+ctg324	exonerate:protein2genome:local	exon	57348	57416	.	-	.	insertions 0 ; deletions 0 ; identity 82.61 ; similarity 95.65
+ctg870	exonerate:protein2genome:local	gene	17662	17842	241	-	.	gene_id 1 ; sequence AIPGENE28886 ; gene_orientation . ; identity 91.53 ; similarity 98.31
+ctg870	exonerate:protein2genome:local	exon	17662	17842	.	-	.	insertions 3 ; deletions 0 ; identity 91.53 ; similarity 98.31 ; frameshifts 1
+ctg1451	exonerate:protein2genome:local	gene	11349	15796	1741	-	.	gene_id 1 ; sequence AIPGENE10493 ; gene_orientation + ; identity 86.67 ; similarity 87.59
+ctg1451	exonerate:protein2genome:local	exon	15740	15796	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg1451	exonerate:protein2genome:local	exon	14643	14751	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg1451	exonerate:protein2genome:local	exon	14048	14158	.	-	.	insertions 0 ; deletions 0 ; identity 97.22 ; similarity 97.22
+ctg1451	exonerate:protein2genome:local	exon	13243	13699	.	-	.	insertions 0 ; deletions 1 ; identity 92.67 ; similarity 93.33 ; frameshifts 3
+ctg1451	exonerate:protein2genome:local	exon	12148	12637	.	-	.	insertions 0 ; deletions 2 ; identity 78.05 ; similarity 79.27
+ctg1451	exonerate:protein2genome:local	exon	11349	11441	.	-	.	insertions 0 ; deletions 0 ; identity 64.52 ; similarity 67.74
+ctg930	exonerate:protein2genome:local	gene	16560	16759	207	+	.	gene_id 1 ; sequence AIPGENE4636 ; gene_orientation . ; identity 65.15 ; similarity 87.88
+ctg930	exonerate:protein2genome:local	exon	16560	16759	.	+	.	insertions 0 ; deletions 1 ; identity 65.15 ; similarity 87.88 ; frameshifts 2
+ctg1355	exonerate:protein2genome:local	gene	72366	75566	1301	-	.	gene_id 1 ; sequence AIPGENE9543 ; gene_orientation + ; identity 72.26 ; similarity 80.89
+ctg1355	exonerate:protein2genome:local	exon	75349	75566	.	-	.	insertions 3 ; deletions 3 ; identity 78.87 ; similarity 88.73 ; frameshifts 1
+ctg1355	exonerate:protein2genome:local	exon	74701	74847	.	-	.	insertions 0 ; deletions 1 ; identity 79.59 ; similarity 89.80 ; frameshifts 1
+ctg1355	exonerate:protein2genome:local	exon	72366	73306	.	-	.	insertions 6 ; deletions 4 ; identity 69.35 ; similarity 77.42 ; frameshifts 5
+ctg870	exonerate:protein2genome:local	gene	18853	21382	583	-	.	gene_id 1 ; sequence AIPGENE2854 ; gene_orientation + ; identity 92.86 ; similarity 95.24
+ctg870	exonerate:protein2genome:local	exon	21157	21382	.	-	.	insertions 0 ; deletions 0 ; identity 97.33 ; similarity 97.33
+ctg870	exonerate:protein2genome:local	exon	18853	19009	.	-	.	insertions 0 ; deletions 1 ; identity 86.27 ; similarity 92.16 ; frameshifts 2
+ctg870	exonerate:protein2genome:local	gene	15373	15594	397	-	.	gene_id 2 ; sequence AIPGENE2854 ; gene_orientation . ; identity 97.30 ; similarity 98.65
+ctg870	exonerate:protein2genome:local	exon	15373	15594	.	-	.	insertions 0 ; deletions 0 ; identity 97.30 ; similarity 98.65
+ctg1451	exonerate:protein2genome:local	gene	13251	15796	762	-	.	gene_id 1 ; sequence AIPGENE20514 ; gene_orientation + ; identity 64.02 ; similarity 82.85
+ctg1451	exonerate:protein2genome:local	exon	15740	15796	.	-	.	insertions 0 ; deletions 0 ; identity 70.00 ; similarity 90.00
+ctg1451	exonerate:protein2genome:local	exon	14643	14751	.	-	.	insertions 0 ; deletions 0 ; identity 47.22 ; similarity 77.78
+ctg1451	exonerate:protein2genome:local	exon	14048	14158	.	-	.	insertions 0 ; deletions 0 ; identity 69.44 ; similarity 88.89
+ctg1451	exonerate:protein2genome:local	exon	13251	13699	.	-	.	insertions 0 ; deletions 1 ; identity 66.22 ; similarity 81.76 ; frameshifts 3
+ctg1365	exonerate:protein2genome:local	gene	12385	15240	1249	-	.	gene_id 1 ; sequence AIPGENE9142 ; gene_orientation + ; identity 85.16 ; similarity 89.84
+ctg1365	exonerate:protein2genome:local	exon	14992	15240	.	-	.	insertions 0 ; deletions 3 ; identity 93.98 ; similarity 95.18 ; frameshifts 3
+ctg1365	exonerate:protein2genome:local	exon	14793	14895	.	-	.	insertions 0 ; deletions 2 ; identity 67.65 ; similarity 76.47
+ctg1365	exonerate:protein2genome:local	exon	12385	13133	.	-	.	insertions 0 ; deletions 7 ; identity 84.68 ; similarity 89.92 ; frameshifts 3
+ctg870	exonerate:protein2genome:local	gene	17662	17851	250	-	.	gene_id 1 ; sequence AIPGENE28898 ; gene_orientation . ; identity 96.72 ; similarity 100.00
+ctg870	exonerate:protein2genome:local	exon	17662	17851	.	-	.	insertions 6 ; deletions 0 ; identity 96.72 ; similarity 100.00 ; frameshifts 1
+ctg930	exonerate:protein2genome:local	gene	16560	16759	207	+	.	gene_id 1 ; sequence AIPGENE19990 ; gene_orientation . ; identity 65.15 ; similarity 87.88
+ctg930	exonerate:protein2genome:local	exon	16560	16759	.	+	.	insertions 0 ; deletions 1 ; identity 65.15 ; similarity 87.88 ; frameshifts 2
+ctg1355	exonerate:protein2genome:local	gene	72366	75566	1228	-	.	gene_id 1 ; sequence AIPGENE24599 ; gene_orientation + ; identity 68.30 ; similarity 77.86
+ctg1355	exonerate:protein2genome:local	exon	75349	75566	.	-	.	insertions 3 ; deletions 3 ; identity 80.28 ; similarity 90.14 ; frameshifts 1
+ctg1355	exonerate:protein2genome:local	exon	74701	74847	.	-	.	insertions 0 ; deletions 1 ; identity 79.59 ; similarity 91.84 ; frameshifts 1
+ctg1355	exonerate:protein2genome:local	exon	72366	73306	.	-	.	insertions 6 ; deletions 4 ; identity 63.55 ; similarity 72.58 ; frameshifts 5
+ctg1355	exonerate:protein2genome:local	gene	72363	73309	945	-	.	gene_id 1 ; sequence AIPGENE17951 ; gene_orientation . ; identity 70.51 ; similarity 79.17
+ctg1355	exonerate:protein2genome:local	exon	72363	73309	.	-	.	insertions 6 ; deletions 4 ; identity 70.51 ; similarity 79.17 ; frameshifts 5
+ctg1028	exonerate:protein2genome:local	gene	29447	38470	3048	-	.	gene_id 1 ; sequence AIPGENE22385 ; gene_orientation + ; identity 71.25 ; similarity 83.09
+ctg1028	exonerate:protein2genome:local	exon	37757	38470	.	-	.	insertions 0 ; deletions 5 ; identity 72.46 ; similarity 86.86 ; frameshifts 5
+ctg1028	exonerate:protein2genome:local	exon	34099	34931	.	-	.	insertions 0 ; deletions 9 ; identity 71.64 ; similarity 81.82 ; frameshifts 5
+ctg1028	exonerate:protein2genome:local	exon	30609	32106	.	-	.	insertions 3 ; deletions 3 ; identity 72.87 ; similarity 84.01 ; frameshifts 10
+ctg1028	exonerate:protein2genome:local	exon	29447	29574	.	-	.	insertions 0 ; deletions 0 ; identity 42.86 ; similarity 59.52
+ctg961	exonerate:protein2genome:local	gene	73885	74092	301	-	.	gene_id 1 ; sequence AIPGENE28898 ; gene_orientation . ; identity 91.30 ; similarity 92.75
+ctg961	exonerate:protein2genome:local	exon	73885	74092	.	-	.	insertions 0 ; deletions 0 ; identity 91.30 ; similarity 92.75 ; frameshifts 1
+ctg961	exonerate:protein2genome:local	gene	60388	60518	182	-	.	gene_id 2 ; sequence AIPGENE28898 ; gene_orientation . ; identity 97.67 ; similarity 100.00
+ctg961	exonerate:protein2genome:local	exon	60388	60518	.	-	.	insertions 0 ; deletions 1 ; identity 97.67 ; similarity 100.00 ; frameshifts 2
+ctg961	exonerate:protein2genome:local	gene	73900	74866	1248	-	.	gene_id 1 ; sequence AIPGENE17951 ; gene_orientation . ; identity 81.88 ; similarity 90.00
+ctg961	exonerate:protein2genome:local	exon	73900	74866	.	-	.	insertions 0 ; deletions 2 ; identity 81.88 ; similarity 90.00 ; frameshifts 7
+ctg961	exonerate:protein2genome:local	gene	73885	75668	1936	-	.	gene_id 1 ; sequence AIPGENE24599 ; gene_orientation + ; identity 90.65 ; similarity 92.65
+ctg961	exonerate:protein2genome:local	exon	75443	75668	.	-	.	insertions 0 ; deletions 0 ; identity 96.00 ; similarity 97.33
+ctg961	exonerate:protein2genome:local	exon	74940	75089	.	-	.	insertions 0 ; deletions 0 ; identity 92.00 ; similarity 100.00 ; frameshifts 1
+ctg961	exonerate:protein2genome:local	exon	73885	74866	.	-	.	insertions 0 ; deletions 2 ; identity 89.23 ; similarity 90.46 ; frameshifts 7
+ctg875	exonerate:protein2genome:local	gene	14675	17232	1111	+	.	gene_id 1 ; sequence AIPGENE607 ; gene_orientation + ; identity 69.58 ; similarity 79.29
+ctg875	exonerate:protein2genome:local	exon	14675	14726	.	+	.	insertions 0 ; deletions 0 ; identity 76.47 ; similarity 82.35
+ctg875	exonerate:protein2genome:local	exon	14783	14849	.	+	.	insertions 0 ; deletions 1 ; identity 80.95 ; similarity 80.95
+ctg875	exonerate:protein2genome:local	exon	14893	15094	.	+	.	insertions 0 ; deletions 0 ; identity 75.00 ; similarity 80.88
+ctg875	exonerate:protein2genome:local	exon	15812	15916	.	+	.	insertions 0 ; deletions 0 ; identity 50.00 ; similarity 58.33
+ctg875	exonerate:protein2genome:local	exon	16578	16807	.	+	.	insertions 0 ; deletions 0 ; identity 73.68 ; similarity 80.26 ; frameshifts 1
+ctg875	exonerate:protein2genome:local	exon	16952	17232	.	+	.	insertions 0 ; deletions 0 ; identity 64.52 ; similarity 82.80
+ctg870	exonerate:protein2genome:local	gene	17680	18659	993	-	.	gene_id 1 ; sequence AIPGENE17951 ; gene_orientation . ; identity 75.39 ; similarity 84.42
+ctg870	exonerate:protein2genome:local	exon	17680	18659	.	-	.	insertions 9 ; deletions 3 ; identity 75.39 ; similarity 84.42 ; frameshifts 8
+ctg870	exonerate:protein2genome:local	gene	17662	21382	1634	-	.	gene_id 1 ; sequence AIPGENE24599 ; gene_orientation + ; identity 85.91 ; similarity 89.04
+ctg870	exonerate:protein2genome:local	exon	21157	21382	.	-	.	insertions 0 ; deletions 0 ; identity 97.33 ; similarity 98.67
+ctg870	exonerate:protein2genome:local	exon	18862	19009	.	-	.	insertions 0 ; deletions 1 ; identity 89.80 ; similarity 95.92 ; frameshifts 2
+ctg870	exonerate:protein2genome:local	exon	17662	18656	.	-	.	insertions 15 ; deletions 3 ; identity 82.72 ; similarity 85.80 ; frameshifts 8
+ctg1743	exonerate:protein2genome:local	gene	52310	61173	1117	+	.	gene_id 1 ; sequence AIPGENE26155 ; gene_orientation + ; identity 75.72 ; similarity 84.03
+ctg1743	exonerate:protein2genome:local	exon	52310	52474	.	+	.	insertions 0 ; deletions 1 ; identity 66.07 ; similarity 80.36
+ctg1743	exonerate:protein2genome:local	exon	53938	54154	.	+	.	insertions 0 ; deletions 1 ; identity 61.97 ; similarity 73.24 ; frameshifts 2
+ctg1743	exonerate:protein2genome:local	exon	54325	54594	.	+	.	insertions 0 ; deletions 0 ; identity 87.64 ; similarity 89.89 ; frameshifts 1
+ctg1743	exonerate:protein2genome:local	exon	54982	55114	.	+	.	insertions 0 ; deletions 0 ; identity 76.74 ; similarity 88.37
+ctg1743	exonerate:protein2genome:local	exon	55390	55541	.	+	.	insertions 0 ; deletions 0 ; identity 82.00 ; similarity 88.00
+ctg1743	exonerate:protein2genome:local	exon	61157	61173	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg1736	exonerate:protein2genome:local	gene	28936	31256	1452	-	.	gene_id 1 ; sequence AIPGENE9142 ; gene_orientation + ; identity 90.03 ; similarity 94.34
+ctg1736	exonerate:protein2genome:local	exon	31004	31256	.	-	.	insertions 0 ; deletions 2 ; identity 97.62 ; similarity 100.00 ; frameshifts 4
+ctg1736	exonerate:protein2genome:local	exon	30815	30922	.	-	.	insertions 0 ; deletions 1 ; identity 88.57 ; similarity 94.29 ; frameshifts 2
+ctg1736	exonerate:protein2genome:local	exon	28936	29701	.	-	.	insertions 0 ; deletions 2 ; identity 87.75 ; similarity 92.49 ; frameshifts 5
+ctg1685	exonerate:protein2genome:local	gene	5752	7562	1619	-	.	gene_id 1 ; sequence AIPGENE9142 ; gene_orientation + ; identity 91.98 ; similarity 94.92
+ctg1685	exonerate:protein2genome:local	exon	7309	7562	.	-	.	insertions 0 ; deletions 1 ; identity 97.65 ; similarity 100.00 ; frameshifts 2
+ctg1685	exonerate:protein2genome:local	exon	7099	7208	.	-	.	insertions 0 ; deletions 0 ; identity 91.67 ; similarity 91.67
+ctg1685	exonerate:protein2genome:local	exon	5752	6517	.	-	.	insertions 0 ; deletions 1 ; identity 90.16 ; similarity 93.70 ; frameshifts 3
+ctg1685	exonerate:protein2genome:local	gene	10501	11881	1597	+	.	gene_id 1 ; sequence AIPGENE9142 ; gene_orientation + ; identity 88.00 ; similarity 92.80
+ctg1685	exonerate:protein2genome:local	exon	10501	10756	.	+	.	insertions 0 ; deletions 0 ; identity 98.84 ; similarity 100.00 ; frameshifts 1
+ctg1685	exonerate:protein2genome:local	exon	10856	10963	.	+	.	insertions 0 ; deletions 1 ; identity 64.86 ; similarity 70.27
+ctg1685	exonerate:protein2genome:local	exon	11119	11881	.	+	.	insertions 0 ; deletions 1 ; identity 87.80 ; similarity 93.70 ; frameshifts 1
+ctg1358	exonerate:protein2genome:local	gene	4119	5714	782	+	.	gene_id 1 ; sequence AIPGENE25209 ; gene_orientation + ; identity 71.60 ; similarity 80.93
+ctg1358	exonerate:protein2genome:local	exon	4119	4245	.	+	.	insertions 0 ; deletions 0 ; identity 61.90 ; similarity 69.05
+ctg1358	exonerate:protein2genome:local	exon	4393	4731	.	+	.	insertions 0 ; deletions 1 ; identity 69.03 ; similarity 78.76 ; frameshifts 1
+ctg1358	exonerate:protein2genome:local	exon	5109	5350	.	+	.	insertions 0 ; deletions 1 ; identity 86.42 ; similarity 95.06 ; frameshifts 2
+ctg1358	exonerate:protein2genome:local	exon	5646	5714	.	+	.	insertions 0 ; deletions 0 ; identity 47.83 ; similarity 60.87
+ctg1243	exonerate:protein2genome:local	gene	33092	49009	792	+	.	gene_id 1 ; sequence AIPGENE7917 ; gene_orientation + ; identity 73.59 ; similarity 85.71
+ctg1243	exonerate:protein2genome:local	exon	33092	33217	.	+	.	insertions 0 ; deletions 1 ; identity 70.73 ; similarity 87.80 ; frameshifts 2
+ctg1243	exonerate:protein2genome:local	exon	33568	33705	.	+	.	insertions 0 ; deletions 0 ; identity 75.56 ; similarity 86.67
+ctg1243	exonerate:protein2genome:local	exon	47764	47884	.	+	.	insertions 0 ; deletions 0 ; identity 70.00 ; similarity 82.50 ; frameshifts 2
+ctg1243	exonerate:protein2genome:local	exon	48377	48596	.	+	.	insertions 0 ; deletions 0 ; identity 81.94 ; similarity 87.50 ; frameshifts 2
+ctg1243	exonerate:protein2genome:local	exon	48907	49009	.	+	.	insertions 0 ; deletions 0 ; identity 58.82 ; similarity 79.41
+ctg1736	exonerate:protein2genome:local	gene	28936	31256	1500	-	.	gene_id 1 ; sequence AIPGENE8252 ; gene_orientation + ; identity 93.80 ; similarity 94.34
+ctg1736	exonerate:protein2genome:local	exon	31004	31256	.	-	.	insertions 0 ; deletions 2 ; identity 100.00 ; similarity 100.00 ; frameshifts 4
+ctg1736	exonerate:protein2genome:local	exon	30815	30922	.	-	.	insertions 0 ; deletions 1 ; identity 91.43 ; similarity 94.29 ; frameshifts 2
+ctg1736	exonerate:protein2genome:local	exon	28936	29701	.	-	.	insertions 0 ; deletions 2 ; identity 92.09 ; similarity 92.49 ; frameshifts 5
+ctg1685	exonerate:protein2genome:local	gene	5752	7562	1637	-	.	gene_id 1 ; sequence AIPGENE8252 ; gene_orientation + ; identity 93.85 ; similarity 94.12
+ctg1685	exonerate:protein2genome:local	exon	7309	7562	.	-	.	insertions 0 ; deletions 1 ; identity 100.00 ; similarity 100.00 ; frameshifts 2
+ctg1685	exonerate:protein2genome:local	exon	7099	7208	.	-	.	insertions 0 ; deletions 0 ; identity 91.67 ; similarity 91.67
+ctg1685	exonerate:protein2genome:local	exon	5752	6517	.	-	.	insertions 0 ; deletions 1 ; identity 92.13 ; similarity 92.52 ; frameshifts 3
+ctg1685	exonerate:protein2genome:local	gene	10501	11881	1603	+	.	gene_id 1 ; sequence AIPGENE8252 ; gene_orientation + ; identity 89.07 ; similarity 92.00
+ctg1685	exonerate:protein2genome:local	exon	10501	10756	.	+	.	insertions 0 ; deletions 0 ; identity 96.51 ; similarity 100.00 ; frameshifts 1
+ctg1685	exonerate:protein2genome:local	exon	10856	10963	.	+	.	insertions 0 ; deletions 1 ; identity 67.57 ; similarity 70.27
+ctg1685	exonerate:protein2genome:local	exon	11119	11881	.	+	.	insertions 0 ; deletions 1 ; identity 89.76 ; similarity 92.52 ; frameshifts 1
+ctg1365	exonerate:protein2genome:local	gene	12385	15240	1272	-	.	gene_id 1 ; sequence AIPGENE8252 ; gene_orientation + ; identity 87.09 ; similarity 89.56
+ctg1365	exonerate:protein2genome:local	exon	14992	15240	.	-	.	insertions 0 ; deletions 3 ; identity 93.98 ; similarity 95.18 ; frameshifts 3
+ctg1365	exonerate:protein2genome:local	exon	14793	14895	.	-	.	insertions 0 ; deletions 2 ; identity 67.65 ; similarity 76.47
+ctg1365	exonerate:protein2genome:local	exon	12385	13133	.	-	.	insertions 0 ; deletions 7 ; identity 87.50 ; similarity 89.52 ; frameshifts 3
+ctg1355	exonerate:protein2genome:local	gene	72622	75446	1018	-	.	gene_id 1 ; sequence AIPGENE2846 ; gene_orientation + ; identity 74.51 ; similarity 85.29
+ctg1355	exonerate:protein2genome:local	exon	75349	75446	.	-	.	insertions 3 ; deletions 0 ; identity 80.65 ; similarity 93.55 ; frameshifts 1
+ctg1355	exonerate:protein2genome:local	exon	74701	74847	.	-	.	insertions 0 ; deletions 1 ; identity 79.59 ; similarity 91.84 ; frameshifts 1
+ctg1355	exonerate:protein2genome:local	exon	72622	73306	.	-	.	insertions 0 ; deletions 3 ; identity 72.25 ; similarity 82.38 ; frameshifts 4
+ctg1010	exonerate:protein2genome:local	gene	13038	34940	997	-	.	gene_id 1 ; sequence AIPGENE20514 ; gene_orientation + ; identity 83.53 ; similarity 90.59
+ctg1010	exonerate:protein2genome:local	exon	34884	34940	.	-	.	insertions 0 ; deletions 0 ; identity 95.00 ; similarity 100.00
+ctg1010	exonerate:protein2genome:local	exon	34651	34758	.	-	.	insertions 0 ; deletions 1 ; identity 85.71 ; similarity 97.14 ; frameshifts 2
+ctg1010	exonerate:protein2genome:local	exon	34373	34482	.	-	.	insertions 0 ; deletions 0 ; identity 83.78 ; similarity 91.89
+ctg1010	exonerate:protein2genome:local	exon	31060	31519	.	-	.	insertions 0 ; deletions 0 ; identity 84.42 ; similarity 90.26 ; frameshifts 1
+ctg1010	exonerate:protein2genome:local	exon	13038	13073	.	-	.	insertions 0 ; deletions 0 ; identity 41.67 ; similarity 50.00
+ctg1010	exonerate:protein2genome:local	gene	37377	38497	816	-	.	gene_id 2 ; sequence AIPGENE20514 ; gene_orientation + ; identity 66.12 ; similarity 84.90
+ctg1010	exonerate:protein2genome:local	exon	38441	38497	.	-	.	insertions 0 ; deletions 0 ; identity 70.00 ; similarity 90.00
+ctg1010	exonerate:protein2genome:local	exon	38266	38374	.	-	.	insertions 0 ; deletions 0 ; identity 47.22 ; similarity 77.78
+ctg1010	exonerate:protein2genome:local	exon	38041	38151	.	-	.	insertions 0 ; deletions 0 ; identity 69.44 ; similarity 88.89
+ctg1010	exonerate:protein2genome:local	exon	37377	37843	.	-	.	insertions 0 ; deletions 1 ; identity 69.48 ; similarity 85.06 ; frameshifts 3
+ctg961	exonerate:protein2genome:local	gene	74116	75563	1510	-	.	gene_id 1 ; sequence AIPGENE2846 ; gene_orientation + ; identity 96.74 ; similarity 99.11
+ctg961	exonerate:protein2genome:local	exon	75443	75563	.	-	.	insertions 0 ; deletions 0 ; identity 97.50 ; similarity 97.50
+ctg961	exonerate:protein2genome:local	exon	74940	75089	.	-	.	insertions 0 ; deletions 0 ; identity 94.00 ; similarity 100.00 ; frameshifts 1
+ctg961	exonerate:protein2genome:local	exon	74116	74866	.	-	.	insertions 0 ; deletions 2 ; identity 97.18 ; similarity 99.19 ; frameshifts 7
+ctg870	exonerate:protein2genome:local	gene	17897	21277	1227	-	.	gene_id 1 ; sequence AIPGENE2846 ; gene_orientation + ; identity 87.50 ; similarity 91.07
+ctg870	exonerate:protein2genome:local	exon	21157	21277	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg870	exonerate:protein2genome:local	exon	18862	19009	.	-	.	insertions 0 ; deletions 1 ; identity 91.84 ; similarity 95.92 ; frameshifts 2
+ctg870	exonerate:protein2genome:local	exon	17897	18656	.	-	.	insertions 9 ; deletions 2 ; identity 84.68 ; similarity 88.71 ; frameshifts 7
+ctg1776	exonerate:protein2genome:local	gene	79021	81366	542	+	.	gene_id 1 ; sequence AIPGENE15442 ; gene_orientation + ; identity 94.30 ; similarity 95.57
+ctg1776	exonerate:protein2genome:local	exon	79021	79095	.	+	.	insertions 0 ; deletions 0 ; identity 92.31 ; similarity 92.31
+ctg1776	exonerate:protein2genome:local	exon	79191	79350	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg1776	exonerate:protein2genome:local	exon	80651	80684	.	+	.	insertions 0 ; deletions 0 ; identity 60.00 ; similarity 70.00
+ctg1776	exonerate:protein2genome:local	exon	81153	81366	.	+	.	insertions 0 ; deletions 1 ; identity 95.71 ; similarity 97.14 ; frameshifts 3
+ctg1743	exonerate:protein2genome:local	gene	59038	61195	1277	+	.	gene_id 1 ; sequence AIPGENE26156 ; gene_orientation + ; identity 76.60 ; similarity 85.41
+ctg1743	exonerate:protein2genome:local	exon	59038	59211	.	+	.	insertions 0 ; deletions 0 ; identity 57.63 ; similarity 79.66
+ctg1743	exonerate:protein2genome:local	exon	59733	59958	.	+	.	insertions 0 ; deletions 0 ; identity 86.67 ; similarity 94.67
+ctg1743	exonerate:protein2genome:local	exon	60239	60507	.	+	.	insertions 0 ; deletions 0 ; identity 81.82 ; similarity 87.50 ; frameshifts 1
+ctg1743	exonerate:protein2genome:local	exon	60681	60818	.	+	.	insertions 0 ; deletions 0 ; identity 64.44 ; similarity 73.33
+ctg1743	exonerate:protein2genome:local	exon	61006	61195	.	+	.	insertions 0 ; deletions 0 ; identity 84.13 ; similarity 85.71
+ctg1355	exonerate:protein2genome:local	gene	74701	75566	403	-	.	gene_id 1 ; sequence AIPGENE2854 ; gene_orientation + ; identity 80.67 ; similarity 91.60
+ctg1355	exonerate:protein2genome:local	exon	75349	75566	.	-	.	insertions 3 ; deletions 3 ; identity 78.87 ; similarity 90.14 ; frameshifts 1
+ctg1355	exonerate:protein2genome:local	exon	74701	74847	.	-	.	insertions 0 ; deletions 1 ; identity 83.33 ; similarity 93.75 ; frameshifts 1
+ctg1243	exonerate:protein2genome:local	gene	32767	48590	709	+	.	gene_id 1 ; sequence AIPGENE7920 ; gene_orientation + ; identity 76.39 ; similarity 86.11
+ctg1243	exonerate:protein2genome:local	exon	32767	32827	.	+	.	insertions 0 ; deletions 0 ; identity 66.67 ; similarity 90.48 ; frameshifts 1
+ctg1243	exonerate:protein2genome:local	exon	33092	33217	.	+	.	insertions 0 ; deletions 1 ; identity 80.49 ; similarity 92.68 ; frameshifts 2
+ctg1243	exonerate:protein2genome:local	exon	33568	33705	.	+	.	insertions 0 ; deletions 0 ; identity 73.33 ; similarity 84.44
+ctg1243	exonerate:protein2genome:local	exon	47764	47884	.	+	.	insertions 0 ; deletions 0 ; identity 70.00 ; similarity 77.50 ; frameshifts 2
+ctg1243	exonerate:protein2genome:local	exon	48377	48590	.	+	.	insertions 0 ; deletions 0 ; identity 80.28 ; similarity 85.92 ; frameshifts 1
+ctg961	exonerate:protein2genome:local	gene	61340	75668	631	-	.	gene_id 1 ; sequence AIPGENE2854 ; gene_orientation + ; identity 95.16 ; similarity 97.58
+ctg961	exonerate:protein2genome:local	exon	75443	75668	.	-	.	insertions 0 ; deletions 0 ; identity 96.00 ; similarity 96.00
+ctg961	exonerate:protein2genome:local	exon	61340	61488	.	-	.	insertions 0 ; deletions 0 ; identity 93.88 ; similarity 100.00
+ctg961	exonerate:protein2genome:local	gene	60316	75668	918	-	.	gene_id 1 ; sequence AIPGENE2869 ; gene_orientation + ; identity 95.59 ; similarity 96.57
+ctg961	exonerate:protein2genome:local	exon	75443	75668	.	-	.	insertions 0 ; deletions 0 ; identity 97.33 ; similarity 97.33
+ctg961	exonerate:protein2genome:local	exon	61337	61488	.	-	.	insertions 0 ; deletions 0 ; identity 90.20 ; similarity 92.16
+ctg961	exonerate:protein2genome:local	exon	60316	60554	.	-	.	insertions 0 ; deletions 2 ; identity 96.20 ; similarity 97.47 ; frameshifts 2
+ctg870	exonerate:protein2genome:local	gene	17662	21382	836	-	.	gene_id 1 ; sequence AIPGENE2869 ; gene_orientation + ; identity 90.69 ; similarity 93.63
+ctg870	exonerate:protein2genome:local	exon	21157	21382	.	-	.	insertions 0 ; deletions 0 ; identity 98.67 ; similarity 98.67
+ctg870	exonerate:protein2genome:local	exon	18862	19009	.	-	.	insertions 0 ; deletions 1 ; identity 83.67 ; similarity 89.80 ; frameshifts 2
+ctg870	exonerate:protein2genome:local	exon	17662	17911	.	-	.	insertions 6 ; deletions 1 ; identity 87.65 ; similarity 91.36 ; frameshifts 1
+ctg1736	exonerate:protein2genome:local	gene	28936	31256	1409	-	.	gene_id 1 ; sequence AIPGENE12816 ; gene_orientation + ; identity 88.41 ; similarity 91.64
+ctg1736	exonerate:protein2genome:local	exon	31004	31256	.	-	.	insertions 0 ; deletions 2 ; identity 94.05 ; similarity 97.62 ; frameshifts 4
+ctg1736	exonerate:protein2genome:local	exon	30815	30922	.	-	.	insertions 0 ; deletions 1 ; identity 88.57 ; similarity 91.43 ; frameshifts 2
+ctg1736	exonerate:protein2genome:local	exon	28936	29701	.	-	.	insertions 0 ; deletions 2 ; identity 86.56 ; similarity 89.72 ; frameshifts 5
+ctg1685	exonerate:protein2genome:local	gene	5752	7562	1566	-	.	gene_id 1 ; sequence AIPGENE12816 ; gene_orientation + ; identity 89.57 ; similarity 91.71
+ctg1685	exonerate:protein2genome:local	exon	7309	7562	.	-	.	insertions 0 ; deletions 1 ; identity 94.12 ; similarity 97.65 ; frameshifts 2
+ctg1685	exonerate:protein2genome:local	exon	7099	7208	.	-	.	insertions 0 ; deletions 0 ; identity 88.89 ; similarity 88.89
+ctg1685	exonerate:protein2genome:local	exon	5752	6517	.	-	.	insertions 0 ; deletions 1 ; identity 88.19 ; similarity 90.16 ; frameshifts 3
+ctg1685	exonerate:protein2genome:local	gene	10501	11881	1599	+	.	gene_id 1 ; sequence AIPGENE12816 ; gene_orientation + ; identity 89.60 ; similarity 91.20
+ctg1685	exonerate:protein2genome:local	exon	10501	10756	.	+	.	insertions 0 ; deletions 0 ; identity 97.67 ; similarity 97.67 ; frameshifts 1
+ctg1685	exonerate:protein2genome:local	exon	10856	10963	.	+	.	insertions 0 ; deletions 1 ; identity 64.86 ; similarity 67.57
+ctg1685	exonerate:protein2genome:local	exon	11119	11881	.	+	.	insertions 0 ; deletions 1 ; identity 90.55 ; similarity 92.52 ; frameshifts 1
+ctg1407	exonerate:protein2genome:local	gene	3475	4944	351	+	.	gene_id 1 ; sequence AIPGENE15785 ; gene_orientation + ; identity 75.41 ; similarity 85.25
+ctg1407	exonerate:protein2genome:local	exon	3475	3590	.	+	.	insertions 0 ; deletions 1 ; identity 92.31 ; similarity 97.44 ; frameshifts 2
+ctg1407	exonerate:protein2genome:local	exon	4246	4379	.	+	.	insertions 0 ; deletions 1 ; identity 80.00 ; similarity 86.67 ; frameshifts 2
+ctg1407	exonerate:protein2genome:local	exon	4825	4944	.	+	.	insertions 0 ; deletions 0 ; identity 52.50 ; similarity 70.00
+ctg1365	exonerate:protein2genome:local	gene	12385	15240	1200	-	.	gene_id 1 ; sequence AIPGENE12816 ; gene_orientation + ; identity 82.97 ; similarity 86.81
+ctg1365	exonerate:protein2genome:local	exon	14992	15240	.	-	.	insertions 0 ; deletions 3 ; identity 90.36 ; similarity 92.77 ; frameshifts 3
+ctg1365	exonerate:protein2genome:local	exon	14793	14895	.	-	.	insertions 0 ; deletions 2 ; identity 64.71 ; similarity 73.53
+ctg1365	exonerate:protein2genome:local	exon	12385	13133	.	-	.	insertions 0 ; deletions 7 ; identity 83.06 ; similarity 86.69 ; frameshifts 3
+ctg1438	exonerate:protein2genome:local	gene	8885	12724	1212	+	.	gene_id 1 ; sequence AIPGENE17177 ; gene_orientation + ; identity 74.93 ; similarity 88.56
+ctg1438	exonerate:protein2genome:local	exon	8885	8938	.	+	.	insertions 0 ; deletions 0 ; identity 47.37 ; similarity 84.21
+ctg1438	exonerate:protein2genome:local	exon	10878	10989	.	+	.	insertions 0 ; deletions 0 ; identity 59.46 ; similarity 72.97
+ctg1438	exonerate:protein2genome:local	exon	11256	11711	.	+	.	insertions 0 ; deletions 2 ; identity 77.48 ; similarity 92.05 ; frameshifts 4
+ctg1438	exonerate:protein2genome:local	exon	11781	12045	.	+	.	insertions 0 ; deletions 2 ; identity 77.27 ; similarity 88.64 ; frameshifts 4
+ctg1438	exonerate:protein2genome:local	exon	12499	12724	.	+	.	insertions 0 ; deletions 1 ; identity 81.33 ; similarity 90.67 ; frameshifts 1
+ctg1010	exonerate:protein2genome:local	gene	36596	38497	1182	-	.	gene_id 1 ; sequence AIPGENE17177 ; gene_orientation + ; identity 66.04 ; similarity 81.94
+ctg1010	exonerate:protein2genome:local	exon	38437	38497	.	-	.	insertions 0 ; deletions 0 ; identity 75.00 ; similarity 85.00
+ctg1010	exonerate:protein2genome:local	exon	38041	38151	.	-	.	insertions 0 ; deletions 0 ; identity 52.78 ; similarity 77.78
+ctg1010	exonerate:protein2genome:local	exon	37386	37843	.	-	.	insertions 0 ; deletions 1 ; identity 67.76 ; similarity 82.89 ; frameshifts 3
+ctg1010	exonerate:protein2genome:local	exon	36596	37089	.	-	.	insertions 0 ; deletions 1 ; identity 66.46 ; similarity 81.71 ; frameshifts 2
+ctg961	exonerate:protein2genome:local	gene	73900	75668	1944	-	.	gene_id 1 ; sequence AIPGENE9543 ; gene_orientation + ; identity 90.99 ; similarity 94.82
+ctg961	exonerate:protein2genome:local	exon	75443	75668	.	-	.	insertions 0 ; deletions 0 ; identity 92.00 ; similarity 96.00
+ctg961	exonerate:protein2genome:local	exon	74940	75089	.	-	.	insertions 0 ; deletions 0 ; identity 90.00 ; similarity 98.00 ; frameshifts 1
+ctg961	exonerate:protein2genome:local	exon	73900	74866	.	-	.	insertions 0 ; deletions 2 ; identity 90.94 ; similarity 94.06 ; frameshifts 7
+ctg870	exonerate:protein2genome:local	gene	17680	21382	1661	-	.	gene_id 1 ; sequence AIPGENE9543 ; gene_orientation + ; identity 85.55 ; similarity 90.52
+ctg870	exonerate:protein2genome:local	exon	21157	21382	.	-	.	insertions 0 ; deletions 0 ; identity 93.33 ; similarity 97.33
+ctg870	exonerate:protein2genome:local	exon	18862	19009	.	-	.	insertions 0 ; deletions 1 ; identity 91.84 ; similarity 93.88 ; frameshifts 2
+ctg870	exonerate:protein2genome:local	exon	17680	18656	.	-	.	insertions 9 ; deletions 3 ; identity 82.81 ; similarity 88.44 ; frameshifts 8
+ctg1736	exonerate:protein2genome:local	gene	28936	31256	1430	-	.	gene_id 1 ; sequence AIPGENE9147 ; gene_orientation + ; identity 89.49 ; similarity 92.18
+ctg1736	exonerate:protein2genome:local	exon	31004	31256	.	-	.	insertions 0 ; deletions 2 ; identity 97.62 ; similarity 100.00 ; frameshifts 4
+ctg1736	exonerate:protein2genome:local	exon	30815	30922	.	-	.	insertions 0 ; deletions 1 ; identity 88.57 ; similarity 94.29 ; frameshifts 2
+ctg1736	exonerate:protein2genome:local	exon	28936	29701	.	-	.	insertions 0 ; deletions 2 ; identity 86.96 ; similarity 89.33 ; frameshifts 5
+ctg1685	exonerate:protein2genome:local	gene	5752	7562	1591	-	.	gene_id 1 ; sequence AIPGENE9147 ; gene_orientation + ; identity 90.91 ; similarity 92.78
+ctg1685	exonerate:protein2genome:local	exon	7309	7562	.	-	.	insertions 0 ; deletions 1 ; identity 97.65 ; similarity 100.00 ; frameshifts 2
+ctg1685	exonerate:protein2genome:local	exon	7099	7208	.	-	.	insertions 0 ; deletions 0 ; identity 91.67 ; similarity 91.67
+ctg1685	exonerate:protein2genome:local	exon	5752	6517	.	-	.	insertions 0 ; deletions 1 ; identity 88.58 ; similarity 90.55 ; frameshifts 3
+ctg1685	exonerate:protein2genome:local	gene	10501	11881	1572	+	.	gene_id 1 ; sequence AIPGENE9147 ; gene_orientation + ; identity 87.20 ; similarity 90.67
+ctg1685	exonerate:protein2genome:local	exon	10501	10756	.	+	.	insertions 0 ; deletions 0 ; identity 98.84 ; similarity 100.00 ; frameshifts 1
+ctg1685	exonerate:protein2genome:local	exon	10856	10963	.	+	.	insertions 0 ; deletions 1 ; identity 64.86 ; similarity 70.27
+ctg1685	exonerate:protein2genome:local	exon	11119	11881	.	+	.	insertions 0 ; deletions 1 ; identity 86.61 ; similarity 90.55 ; frameshifts 1
+ctg1565	exonerate:protein2genome:local	gene	16559	19627	593	-	.	gene_id 1 ; sequence AIPGENE6455 ; gene_orientation + ; identity 71.36 ; similarity 80.28
+ctg1565	exonerate:protein2genome:local	exon	19482	19627	.	-	.	insertions 0 ; deletions 0 ; identity 79.17 ; similarity 91.67
+ctg1565	exonerate:protein2genome:local	exon	18635	18732	.	-	.	insertions 0 ; deletions 0 ; identity 68.75 ; similarity 78.12
+ctg1565	exonerate:protein2genome:local	exon	18323	18421	.	-	.	insertions 0 ; deletions 1 ; identity 77.42 ; similarity 83.87 ; frameshifts 2
+ctg1565	exonerate:protein2genome:local	exon	17974	18070	.	-	.	insertions 0 ; deletions 1 ; identity 61.29 ; similarity 67.74 ; frameshifts 2
+ctg1565	exonerate:protein2genome:local	exon	17140	17207	.	-	.	insertions 0 ; deletions 0 ; identity 69.57 ; similarity 82.61
+ctg1565	exonerate:protein2genome:local	exon	16559	16705	.	-	.	insertions 0 ; deletions 0 ; identity 69.39 ; similarity 75.51
+ctg1451	exonerate:protein2genome:local	gene	11346	15796	1751	-	.	gene_id 1 ; sequence AIPGENE27901 ; gene_orientation + ; identity 86.70 ; similarity 87.84
+ctg1451	exonerate:protein2genome:local	exon	15740	15796	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg1451	exonerate:protein2genome:local	exon	14643	14751	.	-	.	insertions 0 ; deletions 0 ; identity 97.22 ; similarity 97.22
+ctg1451	exonerate:protein2genome:local	exon	14048	14158	.	-	.	insertions 0 ; deletions 0 ; identity 97.22 ; similarity 97.22
+ctg1451	exonerate:protein2genome:local	exon	13243	13699	.	-	.	insertions 0 ; deletions 1 ; identity 94.00 ; similarity 94.00 ; frameshifts 3
+ctg1451	exonerate:protein2genome:local	exon	12148	12637	.	-	.	insertions 0 ; deletions 2 ; identity 77.44 ; similarity 79.88
+ctg1451	exonerate:protein2genome:local	exon	11346	11441	.	-	.	insertions 0 ; deletions 0 ; identity 65.62 ; similarity 68.75
+ctg1365	exonerate:protein2genome:local	gene	12385	15240	1221	-	.	gene_id 1 ; sequence AIPGENE9147 ; gene_orientation + ; identity 84.07 ; similarity 87.64
+ctg1365	exonerate:protein2genome:local	exon	14992	15240	.	-	.	insertions 0 ; deletions 3 ; identity 93.98 ; similarity 95.18 ; frameshifts 3
+ctg1365	exonerate:protein2genome:local	exon	14793	14895	.	-	.	insertions 0 ; deletions 2 ; identity 67.65 ; similarity 76.47
+ctg1365	exonerate:protein2genome:local	exon	12385	13133	.	-	.	insertions 0 ; deletions 7 ; identity 83.06 ; similarity 86.69 ; frameshifts 3
+ctg1355	exonerate:protein2genome:local	gene	72366	75566	1294	-	.	gene_id 1 ; sequence AIPGENE9554 ; gene_orientation + ; identity 71.33 ; similarity 80.65
+ctg1355	exonerate:protein2genome:local	exon	75349	75566	.	-	.	insertions 3 ; deletions 3 ; identity 77.46 ; similarity 88.73 ; frameshifts 1
+ctg1355	exonerate:protein2genome:local	exon	74701	74847	.	-	.	insertions 0 ; deletions 1 ; identity 79.59 ; similarity 87.76 ; frameshifts 1
+ctg1355	exonerate:protein2genome:local	exon	72366	73306	.	-	.	insertions 6 ; deletions 4 ; identity 68.39 ; similarity 77.42 ; frameshifts 5
+ctg1355	exonerate:protein2genome:local	gene	72765	75446	811	-	.	gene_id 1 ; sequence AIPGENE28879 ; gene_orientation + ; identity 70.66 ; similarity 82.24
+ctg1355	exonerate:protein2genome:local	exon	75349	75446	.	-	.	insertions 3 ; deletions 0 ; identity 80.65 ; similarity 93.55 ; frameshifts 1
+ctg1355	exonerate:protein2genome:local	exon	74701	74847	.	-	.	insertions 0 ; deletions 1 ; identity 75.51 ; similarity 87.76 ; frameshifts 1
+ctg1355	exonerate:protein2genome:local	exon	72765	73306	.	-	.	insertions 0 ; deletions 2 ; identity 67.22 ; similarity 78.33 ; frameshifts 2
+ctg1187	exonerate:protein2genome:local	gene	34594	35970	457	-	.	gene_id 1 ; sequence AIPGENE25117 ; gene_orientation + ; identity 79.69 ; similarity 93.75
+ctg1187	exonerate:protein2genome:local	exon	35860	35970	.	-	.	insertions 0 ; deletions 0 ; identity 81.58 ; similarity 92.11
+ctg1187	exonerate:protein2genome:local	exon	34594	34869	.	-	.	insertions 0 ; deletions 1 ; identity 79.12 ; similarity 94.51 ; frameshifts 3
+ctg1034	exonerate:protein2genome:local	gene	47021	47570	618	-	.	gene_id 1 ; sequence AIPGENE29038 ; gene_orientation . ; identity 72.53 ; similarity 85.16
+ctg1034	exonerate:protein2genome:local	exon	47021	47570	.	-	.	insertions 0 ; deletions 1 ; identity 72.53 ; similarity 85.16 ; frameshifts 4
+ctg1010	exonerate:protein2genome:local	gene	36387	38497	2082	-	.	gene_id 1 ; sequence AIPGENE27901 ; gene_orientation + ; identity 96.83 ; similarity 97.51
+ctg1010	exonerate:protein2genome:local	exon	38441	38497	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg1010	exonerate:protein2genome:local	exon	38266	38374	.	-	.	insertions 0 ; deletions 0 ; identity 97.22 ; similarity 97.22
+ctg1010	exonerate:protein2genome:local	exon	38041	38151	.	-	.	insertions 0 ; deletions 0 ; identity 97.22 ; similarity 97.22
+ctg1010	exonerate:protein2genome:local	exon	37386	37843	.	-	.	insertions 0 ; deletions 1 ; identity 98.03 ; similarity 98.68 ; frameshifts 3
+ctg1010	exonerate:protein2genome:local	exon	36596	37089	.	-	.	insertions 0 ; deletions 1 ; identity 96.36 ; similarity 97.58 ; frameshifts 2
+ctg1010	exonerate:protein2genome:local	exon	36387	36494	.	-	.	insertions 0 ; deletions 0 ; identity 91.67 ; similarity 91.67
+ctg961	exonerate:protein2genome:local	gene	73900	75668	1920	-	.	gene_id 1 ; sequence AIPGENE9554 ; gene_orientation + ; identity 89.19 ; similarity 94.37
+ctg961	exonerate:protein2genome:local	exon	75443	75668	.	-	.	insertions 0 ; deletions 0 ; identity 93.33 ; similarity 96.00
+ctg961	exonerate:protein2genome:local	exon	74940	75089	.	-	.	insertions 0 ; deletions 0 ; identity 88.00 ; similarity 96.00 ; frameshifts 1
+ctg961	exonerate:protein2genome:local	exon	73900	74866	.	-	.	insertions 0 ; deletions 2 ; identity 88.44 ; similarity 93.75 ; frameshifts 7
+ctg961	exonerate:protein2genome:local	gene	67652	75563	1152	-	.	gene_id 1 ; sequence AIPGENE28879 ; gene_orientation + ; identity 93.70 ; similarity 97.04
+ctg961	exonerate:protein2genome:local	exon	75443	75563	.	-	.	insertions 0 ; deletions 0 ; identity 97.50 ; similarity 97.50
+ctg961	exonerate:protein2genome:local	exon	74940	75089	.	-	.	insertions 0 ; deletions 0 ; identity 88.00 ; similarity 96.00 ; frameshifts 1
+ctg961	exonerate:protein2genome:local	exon	74408	74866	.	-	.	insertions 0 ; deletions 2 ; identity 95.36 ; similarity 97.35 ; frameshifts 5
+ctg961	exonerate:protein2genome:local	exon	67652	67743	.	-	.	insertions 0 ; deletions 0 ; identity 90.00 ; similarity 96.67
+ctg870	exonerate:protein2genome:local	gene	17680	21382	1633	-	.	gene_id 1 ; sequence AIPGENE9554 ; gene_orientation + ; identity 83.52 ; similarity 89.84
+ctg870	exonerate:protein2genome:local	exon	21157	21382	.	-	.	insertions 0 ; deletions 0 ; identity 94.67 ; similarity 97.33
+ctg870	exonerate:protein2genome:local	exon	18862	19009	.	-	.	insertions 0 ; deletions 1 ; identity 85.71 ; similarity 89.80 ; frameshifts 2
+ctg870	exonerate:protein2genome:local	exon	17680	18656	.	-	.	insertions 9 ; deletions 3 ; identity 80.62 ; similarity 88.12 ; frameshifts 8
+ctg870	exonerate:protein2genome:local	gene	18101	21277	976	-	.	gene_id 1 ; sequence AIPGENE28879 ; gene_orientation + ; identity 85.87 ; similarity 90.33
+ctg870	exonerate:protein2genome:local	exon	21157	21277	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg870	exonerate:protein2genome:local	exon	18862	19009	.	-	.	insertions 0 ; deletions 1 ; identity 85.71 ; similarity 91.84 ; frameshifts 2
+ctg870	exonerate:protein2genome:local	exon	18101	18656	.	-	.	insertions 9 ; deletions 1 ; identity 82.87 ; similarity 87.85 ; frameshifts 4
+ctg1451	exonerate:protein2genome:local	gene	11349	15796	1729	-	.	gene_id 1 ; sequence AIPGENE20512 ; gene_orientation + ; identity 85.98 ; similarity 87.13
+ctg1451	exonerate:protein2genome:local	exon	15740	15796	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg1451	exonerate:protein2genome:local	exon	14643	14751	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg1451	exonerate:protein2genome:local	exon	14048	14158	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg1451	exonerate:protein2genome:local	exon	13243	13699	.	-	.	insertions 0 ; deletions 1 ; identity 94.67 ; similarity 95.33 ; frameshifts 3
+ctg1451	exonerate:protein2genome:local	exon	12148	12637	.	-	.	insertions 0 ; deletions 2 ; identity 74.39 ; similarity 76.22
+ctg1451	exonerate:protein2genome:local	exon	11349	11441	.	-	.	insertions 0 ; deletions 0 ; identity 61.29 ; similarity 64.52
+ctg1355	exonerate:protein2genome:local	gene	72912	75566	894	-	.	gene_id 1 ; sequence AIPGENE28889 ; gene_orientation + ; identity 76.40 ; similarity 88.40
+ctg1355	exonerate:protein2genome:local	exon	75349	75566	.	-	.	insertions 3 ; deletions 3 ; identity 76.06 ; similarity 90.14 ; frameshifts 1
+ctg1355	exonerate:protein2genome:local	exon	74701	74847	.	-	.	insertions 0 ; deletions 1 ; identity 79.59 ; similarity 91.84 ; frameshifts 1
+ctg1355	exonerate:protein2genome:local	exon	72912	73306	.	-	.	insertions 0 ; deletions 0 ; identity 74.81 ; similarity 85.50 ; frameshifts 2
+ctg1010	exonerate:protein2genome:local	gene	16928	38497	2084	-	.	gene_id 1 ; sequence AIPGENE20512 ; gene_orientation + ; identity 96.61 ; similarity 97.29
+ctg1010	exonerate:protein2genome:local	exon	38441	38497	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg1010	exonerate:protein2genome:local	exon	38266	38374	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg1010	exonerate:protein2genome:local	exon	38041	38151	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg1010	exonerate:protein2genome:local	exon	37386	37843	.	-	.	insertions 0 ; deletions 1 ; identity 100.00 ; similarity 100.00 ; frameshifts 3
+ctg1010	exonerate:protein2genome:local	exon	36596	37089	.	-	.	insertions 0 ; deletions 1 ; identity 93.94 ; similarity 94.55 ; frameshifts 2
+ctg1010	exonerate:protein2genome:local	exon	16928	17038	.	-	.	insertions 0 ; deletions 0 ; identity 86.49 ; similarity 91.89
+ctg961	exonerate:protein2genome:local	gene	60316	75668	1182	-	.	gene_id 1 ; sequence AIPGENE28889 ; gene_orientation + ; identity 92.11 ; similarity 96.06
+ctg961	exonerate:protein2genome:local	exon	75443	75668	.	-	.	insertions 0 ; deletions 0 ; identity 94.67 ; similarity 97.33
+ctg961	exonerate:protein2genome:local	exon	74940	75089	.	-	.	insertions 0 ; deletions 0 ; identity 92.00 ; similarity 98.00 ; frameshifts 1
+ctg961	exonerate:protein2genome:local	exon	74566	74866	.	-	.	insertions 0 ; deletions 1 ; identity 92.93 ; similarity 95.96 ; frameshifts 2
+ctg961	exonerate:protein2genome:local	exon	60877	60976	.	-	.	insertions 0 ; deletions 1 ; identity 94.12 ; similarity 94.12
+ctg961	exonerate:protein2genome:local	exon	60316	60384	.	-	.	insertions 0 ; deletions 1 ; identity 78.26 ; similarity 91.30
+ctg961	exonerate:protein2genome:local	gene	61151	75668	1251	-	.	gene_id 1 ; sequence AIPGENE28920 ; gene_orientation + ; identity 95.33 ; similarity 97.67
+ctg961	exonerate:protein2genome:local	exon	75443	75668	.	-	.	insertions 0 ; deletions 0 ; identity 94.67 ; similarity 96.00
+ctg961	exonerate:protein2genome:local	exon	72175	72323	.	-	.	insertions 0 ; deletions 0 ; identity 94.00 ; similarity 100.00
+ctg961	exonerate:protein2genome:local	exon	62042	62174	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg961	exonerate:protein2genome:local	exon	61340	61488	.	-	.	insertions 0 ; deletions 0 ; identity 92.00 ; similarity 96.00
+ctg961	exonerate:protein2genome:local	exon	61151	61270	.	-	.	insertions 0 ; deletions 0 ; identity 97.50 ; similarity 97.50
+ctg870	exonerate:protein2genome:local	gene	12679	21382	929	-	.	gene_id 1 ; sequence AIPGENE28920 ; gene_orientation + ; identity 86.40 ; similarity 90.80
+ctg870	exonerate:protein2genome:local	exon	21157	21382	.	-	.	insertions 0 ; deletions 0 ; identity 96.00 ; similarity 97.33
+ctg870	exonerate:protein2genome:local	exon	18862	19009	.	-	.	insertions 0 ; deletions 1 ; identity 91.84 ; similarity 95.92 ; frameshifts 2
+ctg870	exonerate:protein2genome:local	exon	15372	15504	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg870	exonerate:protein2genome:local	exon	13214	13357	.	-	.	insertions 0 ; deletions 2 ; identity 56.25 ; similarity 70.83 ; frameshifts 1
+ctg870	exonerate:protein2genome:local	exon	12679	12787	.	-	.	insertions 0 ; deletions 2 ; identity 83.33 ; similarity 86.11 ; frameshifts 1
+ctg870	exonerate:protein2genome:local	gene	17662	21382	1085	-	.	gene_id 1 ; sequence AIPGENE28889 ; gene_orientation + ; identity 87.50 ; similarity 92.86
+ctg870	exonerate:protein2genome:local	exon	21157	21382	.	-	.	insertions 0 ; deletions 0 ; identity 96.00 ; similarity 98.67
+ctg870	exonerate:protein2genome:local	exon	18862	19009	.	-	.	insertions 0 ; deletions 1 ; identity 89.80 ; similarity 93.88 ; frameshifts 2
+ctg870	exonerate:protein2genome:local	exon	18258	18656	.	-	.	insertions 3 ; deletions 1 ; identity 83.21 ; similarity 88.55 ; frameshifts 2
+ctg870	exonerate:protein2genome:local	exon	17662	17744	.	-	.	insertions 3 ; deletions 0 ; identity 80.77 ; similarity 96.15
+ctg1743	exonerate:protein2genome:local	gene	52310	61195	1171	+	.	gene_id 1 ; sequence AIPGENE26157 ; gene_orientation + ; identity 76.01 ; similarity 84.11
+ctg1743	exonerate:protein2genome:local	exon	52310	52474	.	+	.	insertions 0 ; deletions 1 ; identity 66.07 ; similarity 80.36
+ctg1743	exonerate:protein2genome:local	exon	53938	54154	.	+	.	insertions 0 ; deletions 1 ; identity 61.97 ; similarity 73.24 ; frameshifts 2
+ctg1743	exonerate:protein2genome:local	exon	54325	54594	.	+	.	insertions 0 ; deletions 0 ; identity 87.64 ; similarity 89.89 ; frameshifts 1
+ctg1743	exonerate:protein2genome:local	exon	54982	55114	.	+	.	insertions 0 ; deletions 0 ; identity 76.74 ; similarity 88.37
+ctg1743	exonerate:protein2genome:local	exon	61006	61195	.	+	.	insertions 0 ; deletions 0 ; identity 84.13 ; similarity 88.89
+ctg1454	exonerate:protein2genome:local	gene	30747	48232	558	+	.	gene_id 1 ; sequence AIPGENE1359 ; gene_orientation + ; identity 87.69 ; similarity 95.38
+ctg1454	exonerate:protein2genome:local	exon	30747	30873	.	+	.	insertions 0 ; deletions 0 ; identity 92.86 ; similarity 97.62
+ctg1454	exonerate:protein2genome:local	exon	31076	31261	.	+	.	insertions 0 ; deletions 1 ; identity 85.00 ; similarity 93.33 ; frameshifts 2
+ctg1454	exonerate:protein2genome:local	exon	48148	48232	.	+	.	insertions 0 ; deletions 0 ; identity 85.71 ; similarity 96.43
+ctg1454	exonerate:protein2genome:local	gene	47592	48135	441	+	.	gene_id 2 ; sequence AIPGENE1359 ; gene_orientation + ; identity 87.88 ; similarity 95.96
+ctg1454	exonerate:protein2genome:local	exon	47592	47718	.	+	.	insertions 0 ; deletions 0 ; identity 92.86 ; similarity 97.62
+ctg1454	exonerate:protein2genome:local	exon	47962	48135	.	+	.	insertions 0 ; deletions 0 ; identity 84.21 ; similarity 94.74 ; frameshifts 1
+ctg1358	exonerate:protein2genome:local	gene	4119	5714	782	+	.	gene_id 1 ; sequence AIPGENE25210 ; gene_orientation + ; identity 71.60 ; similarity 80.93
+ctg1358	exonerate:protein2genome:local	exon	4119	4245	.	+	.	insertions 0 ; deletions 0 ; identity 61.90 ; similarity 69.05
+ctg1358	exonerate:protein2genome:local	exon	4393	4731	.	+	.	insertions 0 ; deletions 1 ; identity 69.03 ; similarity 78.76 ; frameshifts 1
+ctg1358	exonerate:protein2genome:local	exon	5109	5350	.	+	.	insertions 0 ; deletions 1 ; identity 86.42 ; similarity 95.06 ; frameshifts 2
+ctg1358	exonerate:protein2genome:local	exon	5646	5714	.	+	.	insertions 0 ; deletions 0 ; identity 47.83 ; similarity 60.87
+ctg1068	exonerate:protein2genome:local	gene	27790	29917	689	+	.	gene_id 1 ; sequence AIPGENE2911 ; gene_orientation + ; identity 76.22 ; similarity 90.81
+ctg1068	exonerate:protein2genome:local	exon	27790	27876	.	+	.	insertions 0 ; deletions 0 ; identity 70.00 ; similarity 83.33
+ctg1068	exonerate:protein2genome:local	exon	28999	29367	.	+	.	insertions 0 ; deletions 1 ; identity 81.15 ; similarity 92.62 ; frameshifts 2
+ctg1068	exonerate:protein2genome:local	exon	29814	29917	.	+	.	insertions 0 ; deletions 0 ; identity 64.71 ; similarity 91.18
+ctg964	exonerate:protein2genome:local	gene	30866	42540	2231	-	.	gene_id 1 ; sequence AIPGENE21328 ; gene_orientation + ; identity 73.15 ; similarity 82.10
+ctg964	exonerate:protein2genome:local	exon	42312	42540	.	-	.	insertions 0 ; deletions 0 ; identity 73.68 ; similarity 81.58
+ctg964	exonerate:protein2genome:local	exon	41251	41540	.	-	.	insertions 0 ; deletions 2 ; identity 81.91 ; similarity 90.43 ; frameshifts 5
+ctg964	exonerate:protein2genome:local	exon	40451	40726	.	-	.	insertions 0 ; deletions 2 ; identity 89.01 ; similarity 92.31 ; frameshifts 4
+ctg964	exonerate:protein2genome:local	exon	40193	40346	.	-	.	insertions 0 ; deletions 0 ; identity 80.77 ; similarity 88.46 ; frameshifts 1
+ctg964	exonerate:protein2genome:local	exon	39553	39742	.	-	.	insertions 0 ; deletions 2 ; identity 63.49 ; similarity 69.84
+ctg964	exonerate:protein2genome:local	exon	39381	39481	.	-	.	insertions 0 ; deletions 0 ; identity 94.12 ; similarity 97.06
+ctg964	exonerate:protein2genome:local	exon	38866	39107	.	-	.	insertions 0 ; deletions 2 ; identity 89.87 ; similarity 93.67 ; frameshifts 4
+ctg964	exonerate:protein2genome:local	exon	38412	38562	.	-	.	insertions 0 ; deletions 0 ; identity 51.02 ; similarity 71.43 ; frameshifts 1
+ctg964	exonerate:protein2genome:local	exon	37762	37931	.	-	.	insertions 0 ; deletions 0 ; identity 75.44 ; similarity 82.46
+ctg964	exonerate:protein2genome:local	exon	37215	37418	.	-	.	insertions 0 ; deletions 1 ; identity 65.22 ; similarity 76.81
+ctg964	exonerate:protein2genome:local	exon	35563	35701	.	-	.	insertions 0 ; deletions 1 ; identity 80.85 ; similarity 91.49 ; frameshifts 1
+ctg964	exonerate:protein2genome:local	exon	30866	31097	.	-	.	insertions 0 ; deletions 0 ; identity 33.77 ; similarity 51.95 ; frameshifts 1
+ctg961	exonerate:protein2genome:local	gene	60868	75668	1534	-	.	gene_id 1 ; sequence AIPGENE23849 ; gene_orientation + ; identity 88.74 ; similarity 94.24
+ctg961	exonerate:protein2genome:local	exon	75443	75668	.	-	.	insertions 0 ; deletions 0 ; identity 90.67 ; similarity 94.67
+ctg961	exonerate:protein2genome:local	exon	74940	75089	.	-	.	insertions 0 ; deletions 0 ; identity 86.00 ; similarity 96.00 ; frameshifts 1
+ctg961	exonerate:protein2genome:local	exon	72531	72756	.	-	.	insertions 0 ; deletions 0 ; identity 89.19 ; similarity 91.89 ; frameshifts 3
+ctg961	exonerate:protein2genome:local	exon	72175	72323	.	-	.	insertions 0 ; deletions 0 ; identity 82.00 ; similarity 94.00
+ctg961	exonerate:protein2genome:local	exon	71387	71616	.	-	.	insertions 0 ; deletions 2 ; identity 89.61 ; similarity 92.21 ; frameshifts 2
+ctg961	exonerate:protein2genome:local	exon	67896	67964	.	-	.	insertions 0 ; deletions 0 ; identity 83.33 ; similarity 95.83
+ctg961	exonerate:protein2genome:local	exon	60868	60975	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg961	exonerate:protein2genome:local	gene	74455	75665	1116	-	.	gene_id 2 ; sequence AIPGENE23849 ; gene_orientation + ; identity 90.73 ; similarity 95.75
+ctg961	exonerate:protein2genome:local	exon	75443	75665	.	-	.	insertions 0 ; deletions 0 ; identity 89.19 ; similarity 91.89
+ctg961	exonerate:protein2genome:local	exon	74940	75089	.	-	.	insertions 0 ; deletions 0 ; identity 80.00 ; similarity 94.00 ; frameshifts 1
+ctg961	exonerate:protein2genome:local	exon	74455	74866	.	-	.	insertions 0 ; deletions 2 ; identity 95.59 ; similarity 98.53 ; frameshifts 4
+ctg870	exonerate:protein2genome:local	gene	12386	21382	1223	-	.	gene_id 1 ; sequence AIPGENE23849 ; gene_orientation + ; identity 77.98 ; similarity 85.41
+ctg870	exonerate:protein2genome:local	exon	21157	21382	.	-	.	insertions 0 ; deletions 0 ; identity 92.00 ; similarity 96.00
+ctg870	exonerate:protein2genome:local	exon	18862	19009	.	-	.	insertions 0 ; deletions 1 ; identity 83.67 ; similarity 95.92 ; frameshifts 2
+ctg870	exonerate:protein2genome:local	exon	15372	15594	.	-	.	insertions 0 ; deletions 0 ; identity 89.19 ; similarity 93.24
+ctg870	exonerate:protein2genome:local	exon	13214	13357	.	-	.	insertions 0 ; deletions 2 ; identity 54.17 ; similarity 66.67 ; frameshifts 1
+ctg870	exonerate:protein2genome:local	exon	12386	12787	.	-	.	insertions 0 ; deletions 6 ; identity 70.68 ; similarity 78.20 ; frameshifts 3
+ctg870	exonerate:protein2genome:local	gene	18235	39127	1093	-	.	gene_id 2 ; sequence AIPGENE23849 ; gene_orientation + ; identity 83.96 ; similarity 90.10
+ctg870	exonerate:protein2genome:local	exon	39029	39127	.	-	.	insertions 0 ; deletions 0 ; identity 55.88 ; similarity 73.53
+ctg870	exonerate:protein2genome:local	exon	21157	21379	.	-	.	insertions 0 ; deletions 0 ; identity 90.54 ; similarity 93.24
+ctg870	exonerate:protein2genome:local	exon	18862	19009	.	-	.	insertions 0 ; deletions 1 ; identity 79.59 ; similarity 91.84 ; frameshifts 2
+ctg870	exonerate:protein2genome:local	exon	18235	18656	.	-	.	insertions 6 ; deletions 1 ; identity 89.13 ; similarity 92.03 ; frameshifts 2
+ctg1355	exonerate:protein2genome:local	gene	73001	75566	823	-	.	gene_id 1 ; sequence AIPGENE28936 ; gene_orientation + ; identity 78.73 ; similarity 89.14
+ctg1355	exonerate:protein2genome:local	exon	75349	75566	.	-	.	insertions 3 ; deletions 3 ; identity 78.87 ; similarity 90.14 ; frameshifts 1
+ctg1355	exonerate:protein2genome:local	exon	74701	74847	.	-	.	insertions 0 ; deletions 1 ; identity 79.59 ; similarity 91.84 ; frameshifts 1
+ctg1355	exonerate:protein2genome:local	exon	73001	73306	.	-	.	insertions 0 ; deletions 0 ; identity 77.45 ; similarity 86.27
+ctg1137	exonerate:protein2genome:local	gene	44948	45136	205	+	.	gene_id 1 ; sequence AIPGENE8078 ; gene_orientation . ; identity 50.79 ; similarity 68.25
+ctg1137	exonerate:protein2genome:local	exon	44948	45136	.	+	.	insertions 0 ; deletions 0 ; identity 50.79 ; similarity 68.25
+ctg1010	exonerate:protein2genome:local	gene	16925	38497	2097	-	.	gene_id 1 ; sequence AIPGENE10493 ; gene_orientation + ; identity 97.52 ; similarity 97.75
+ctg1010	exonerate:protein2genome:local	exon	38441	38497	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg1010	exonerate:protein2genome:local	exon	38266	38374	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+ctg1010	exonerate:protein2genome:local	exon	38041	38151	.	-	.	insertions 0 ; deletions 0 ; identity 97.22 ; similarity 97.22
+ctg1010	exonerate:protein2genome:local	exon	37386	37843	.	-	.	insertions 0 ; deletions 1 ; identity 98.68 ; similarity 98.68 ; frameshifts 3
+ctg1010	exonerate:protein2genome:local	exon	36596	37089	.	-	.	insertions 0 ; deletions 1 ; identity 96.97 ; similarity 97.58 ; frameshifts 2
+ctg1010	exonerate:protein2genome:local	exon	16925	17038	.	-	.	insertions 0 ; deletions 0 ; identity 92.11 ; similarity 92.11
+ctg961	exonerate:protein2genome:local	gene	74565	75668	1075	-	.	gene_id 1 ; sequence AIPGENE28936 ; gene_orientation + ; identity 97.32 ; similarity 99.11
+ctg961	exonerate:protein2genome:local	exon	75443	75668	.	-	.	insertions 0 ; deletions 0 ; identity 97.33 ; similarity 97.33
+ctg961	exonerate:protein2genome:local	exon	74940	75089	.	-	.	insertions 0 ; deletions 0 ; identity 98.00 ; similarity 100.00 ; frameshifts 1
+ctg961	exonerate:protein2genome:local	exon	74565	74866	.	-	.	insertions 0 ; deletions 1 ; identity 97.00 ; similarity 100.00 ; frameshifts 2
+ctg870	exonerate:protein2genome:local	gene	18346	21382	998	-	.	gene_id 1 ; sequence AIPGENE28936 ; gene_orientation + ; identity 93.33 ; similarity 97.33
+ctg870	exonerate:protein2genome:local	exon	21157	21382	.	-	.	insertions 0 ; deletions 0 ; identity 98.67 ; similarity 98.67
+ctg870	exonerate:protein2genome:local	exon	18862	19009	.	-	.	insertions 0 ; deletions 1 ; identity 91.84 ; similarity 95.92 ; frameshifts 2
+ctg870	exonerate:protein2genome:local	exon	18346	18656	.	-	.	insertions 3 ; deletions 0 ; identity 90.20 ; similarity 97.06 ; frameshifts 2
+ctg1736	exonerate:protein2genome:local	gene	28936	31256	1479	-	.	gene_id 1 ; sequence AIPGENE12775 ; gene_orientation + ; identity 92.99 ; similarity 94.07
+ctg1736	exonerate:protein2genome:local	exon	31004	31256	.	-	.	insertions 0 ; deletions 2 ; identity 97.62 ; similarity 97.62 ; frameshifts 4
+ctg1736	exonerate:protein2genome:local	exon	30815	30922	.	-	.	insertions 0 ; deletions 1 ; identity 91.43 ; similarity 94.29 ; frameshifts 2
+ctg1736	exonerate:protein2genome:local	exon	28936	29701	.	-	.	insertions 0 ; deletions 2 ; identity 91.70 ; similarity 92.89 ; frameshifts 5
+ctg1701	exonerate:protein2genome:local	gene	734	923	216	+	.	gene_id 1 ; sequence AIPGENE10597 ; gene_orientation . ; identity 76.19 ; similarity 87.30
+ctg1701	exonerate:protein2genome:local	exon	734	923	.	+	.	insertions 0 ; deletions 0 ; identity 76.19 ; similarity 87.30 ; frameshifts 1
+ctg1685	exonerate:protein2genome:local	gene	5752	7562	1628	-	.	gene_id 1 ; sequence AIPGENE12775 ; gene_orientation + ; identity 93.58 ; similarity 94.12
+ctg1685	exonerate:protein2genome:local	exon	7309	7562	.	-	.	insertions 0 ; deletions 1 ; identity 97.65 ; similarity 97.65 ; frameshifts 2
+ctg1685	exonerate:protein2genome:local	exon	7099	7208	.	-	.	insertions 0 ; deletions 0 ; identity 91.67 ; similarity 91.67
+ctg1685	exonerate:protein2genome:local	exon	5752	6517	.	-	.	insertions 0 ; deletions 1 ; identity 92.52 ; similarity 93.31 ; frameshifts 3
+ctg1685	exonerate:protein2genome:local	gene	10501	11881	1593	+	.	gene_id 1 ; sequence AIPGENE12775 ; gene_orientation + ; identity 88.80 ; similarity 92.00
+ctg1685	exonerate:protein2genome:local	exon	10501	10756	.	+	.	insertions 0 ; deletions 0 ; identity 94.19 ; similarity 97.67 ; frameshifts 1
+ctg1685	exonerate:protein2genome:local	exon	10856	10963	.	+	.	insertions 0 ; deletions 1 ; identity 67.57 ; similarity 70.27
+ctg1685	exonerate:protein2genome:local	exon	11119	11881	.	+	.	insertions 0 ; deletions 1 ; identity 90.16 ; similarity 93.31 ; frameshifts 1
+ctg1451	exonerate:protein2genome:local	gene	11339	15796	1627	-	.	gene_id 1 ; sequence AIPGENE23810 ; gene_orientation + ; identity 81.74 ; similarity 86.76
+ctg1451	exonerate:protein2genome:local	exon	15740	15796	.	-	.	insertions 0 ; deletions 0 ; identity 95.00 ; similarity 100.00
+ctg1451	exonerate:protein2genome:local	exon	14643	14751	.	-	.	insertions 0 ; deletions 0 ; identity 88.89 ; similarity 91.67
+ctg1451	exonerate:protein2genome:local	exon	14048	14158	.	-	.	insertions 0 ; deletions 0 ; identity 88.89 ; similarity 91.67
+ctg1451	exonerate:protein2genome:local	exon	13243	13699	.	-	.	insertions 0 ; deletions 1 ; identity 90.00 ; similarity 93.33 ; frameshifts 3
+ctg1451	exonerate:protein2genome:local	exon	12148	12637	.	-	.	insertions 0 ; deletions 2 ; identity 73.17 ; similarity 78.66
+ctg1451	exonerate:protein2genome:local	exon	11339	11441	.	-	.	insertions 0 ; deletions 0 ; identity 61.76 ; similarity 76.47 ; frameshifts 1
+ctg1365	exonerate:protein2genome:local	gene	12385	15240	1250	-	.	gene_id 1 ; sequence AIPGENE12775 ; gene_orientation + ; identity 85.99 ; similarity 89.01
+ctg1365	exonerate:protein2genome:local	exon	14992	15240	.	-	.	insertions 0 ; deletions 3 ; identity 91.57 ; similarity 92.77 ; frameshifts 3
+ctg1365	exonerate:protein2genome:local	exon	14793	14895	.	-	.	insertions 0 ; deletions 2 ; identity 67.65 ; similarity 76.47
+ctg1365	exonerate:protein2genome:local	exon	12385	13133	.	-	.	insertions 0 ; deletions 7 ; identity 86.69 ; similarity 89.52 ; frameshifts 3
+ctg1355	exonerate:protein2genome:local	gene	72369	75566	1300	-	.	gene_id 1 ; sequence AIPGENE23845 ; gene_orientation + ; identity 70.33 ; similarity 80.37
+ctg1355	exonerate:protein2genome:local	exon	75349	75566	.	-	.	insertions 0 ; deletions 3 ; identity 78.87 ; similarity 85.92 ; frameshifts 4
+ctg1355	exonerate:protein2genome:local	exon	74701	74847	.	-	.	insertions 0 ; deletions 1 ; identity 71.43 ; similarity 89.80 ; frameshifts 1
+ctg1355	exonerate:protein2genome:local	exon	72369	73306	.	-	.	insertions 6 ; deletions 4 ; identity 67.96 ; similarity 77.35 ; frameshifts 5
+ctg1010	exonerate:protein2genome:local	gene	36393	38497	1953	-	.	gene_id 1 ; sequence AIPGENE23810 ; gene_orientation + ; identity 90.68 ; similarity 95.23
+ctg1010	exonerate:protein2genome:local	exon	38441	38497	.	-	.	insertions 0 ; deletions 0 ; identity 95.00 ; similarity 100.00
+ctg1010	exonerate:protein2genome:local	exon	38266	38374	.	-	.	insertions 0 ; deletions 0 ; identity 88.89 ; similarity 91.67
+ctg1010	exonerate:protein2genome:local	exon	38041	38151	.	-	.	insertions 0 ; deletions 0 ; identity 88.89 ; similarity 91.67
+ctg1010	exonerate:protein2genome:local	exon	37386	37843	.	-	.	insertions 0 ; deletions 1 ; identity 94.74 ; similarity 98.68 ; frameshifts 3
+ctg1010	exonerate:protein2genome:local	exon	36596	37089	.	-	.	insertions 0 ; deletions 1 ; identity 91.52 ; similarity 95.76 ; frameshifts 2
+ctg1010	exonerate:protein2genome:local	exon	36393	36494	.	-	.	insertions 0 ; deletions 0 ; identity 70.59 ; similarity 82.35
+ctg961	exonerate:protein2genome:local	gene	73885	74058	240	-	.	gene_id 1 ; sequence AIPGENE28886 ; gene_orientation . ; identity 86.21 ; similarity 89.66
+ctg961	exonerate:protein2genome:local	exon	73885	74058	.	-	.	insertions 0 ; deletions 1 ; identity 86.21 ; similarity 89.66
+ctg961	exonerate:protein2genome:local	gene	73885	75668	1907	-	.	gene_id 1 ; sequence AIPGENE23845 ; gene_orientation + ; identity 89.09 ; similarity 94.21
+ctg961	exonerate:protein2genome:local	exon	75443	75668	.	-	.	insertions 0 ; deletions 0 ; identity 89.33 ; similarity 93.33
+ctg961	exonerate:protein2genome:local	exon	74940	75089	.	-	.	insertions 0 ; deletions 0 ; identity 78.00 ; similarity 94.00 ; frameshifts 1
+ctg961	exonerate:protein2genome:local	exon	73885	74866	.	-	.	insertions 0 ; deletions 3 ; identity 90.77 ; similarity 94.46 ; frameshifts 7
+ctg870	exonerate:protein2genome:local	gene	17662	21382	1651	-	.	gene_id 1 ; sequence AIPGENE23845 ; gene_orientation + ; identity 85.27 ; similarity 90.18
+ctg870	exonerate:protein2genome:local	exon	21157	21382	.	-	.	insertions 0 ; deletions 0 ; identity 90.67 ; similarity 94.67
+ctg870	exonerate:protein2genome:local	exon	18862	19009	.	-	.	insertions 0 ; deletions 1 ; identity 83.67 ; similarity 97.96 ; frameshifts 2
+ctg870	exonerate:protein2genome:local	exon	17662	18656	.	-	.	insertions 12 ; deletions 3 ; identity 84.31 ; similarity 88.00 ; frameshifts 8
+ctg2026	exonerate:protein2genome:local	gene	3636	6030	900	-	.	gene_id 1 ; sequence AIPGENE4852 ; gene_orientation + ; identity 73.45 ; similarity 81.38
+ctg2026	exonerate:protein2genome:local	exon	5923	6030	.	-	.	insertions 0 ; deletions 0 ; identity 75.68 ; similarity 83.78
+ctg2026	exonerate:protein2genome:local	exon	5422	5559	.	-	.	insertions 0 ; deletions 1 ; identity 72.34 ; similarity 91.49
+ctg2026	exonerate:protein2genome:local	exon	5215	5340	.	-	.	insertions 0 ; deletions 0 ; identity 60.47 ; similarity 67.44
+ctg2026	exonerate:protein2genome:local	exon	4781	4971	.	-	.	insertions 0 ; deletions 1 ; identity 87.50 ; similarity 89.06 ; frameshifts 2
+ctg2026	exonerate:protein2genome:local	exon	4129	4240	.	-	.	insertions 0 ; deletions 0 ; identity 86.49 ; similarity 94.59
+ctg2026	exonerate:protein2genome:local	exon	3636	3836	.	-	.	insertions 0 ; deletions 0 ; identity 60.61 ; similarity 68.18 ; frameshifts 1
+ctg2082	exonerate:protein2genome:local	gene	9128	9322	283	-	.	gene_id 1 ; sequence AIPGENE4636 ; gene_orientation . ; identity 81.54 ; similarity 90.77
+ctg2082	exonerate:protein2genome:local	exon	9128	9322	.	-	.	insertions 0 ; deletions 0 ; identity 81.54 ; similarity 90.77
+ctg2896	exonerate:protein2genome:local	gene	15452	16183	522	+	.	gene_id 1 ; sequence AIPGENE2854 ; gene_orientation + ; identity 91.96 ; similarity 95.54
+ctg2896	exonerate:protein2genome:local	exon	15452	15653	.	+	.	insertions 0 ; deletions 0 ; identity 97.01 ; similarity 97.01
+ctg2896	exonerate:protein2genome:local	exon	16047	16183	.	+	.	insertions 0 ; deletions 0 ; identity 84.44 ; similarity 93.33
+ctg2082	exonerate:protein2genome:local	gene	9128	9322	283	-	.	gene_id 1 ; sequence AIPGENE19990 ; gene_orientation . ; identity 81.54 ; similarity 90.77
+ctg2082	exonerate:protein2genome:local	exon	9128	9322	.	-	.	insertions 0 ; deletions 0 ; identity 81.54 ; similarity 90.77
+ctg2846	exonerate:protein2genome:local	gene	13710	14957	1416	+	.	gene_id 1 ; sequence AIPGENE27618 ; gene_orientation . ; identity 70.53 ; similarity 83.33
+ctg2846	exonerate:protein2genome:local	exon	13710	14957	.	+	.	insertions 0 ; deletions 3 ; identity 70.53 ; similarity 83.33 ; frameshifts 6
+ctg2896	exonerate:protein2genome:local	gene	15452	17194	544	+	.	gene_id 1 ; sequence AIPGENE2869 ; gene_orientation + ; identity 87.90 ; similarity 91.08
+ctg2896	exonerate:protein2genome:local	exon	15452	15653	.	+	.	insertions 0 ; deletions 0 ; identity 98.51 ; similarity 98.51
+ctg2896	exonerate:protein2genome:local	exon	16047	16188	.	+	.	insertions 0 ; deletions 0 ; identity 80.43 ; similarity 84.78
+ctg2896	exonerate:protein2genome:local	exon	17059	17194	.	+	.	insertions 0 ; deletions 5 ; identity 79.55 ; similarity 86.36 ; frameshifts 3
+ctg2846	exonerate:protein2genome:local	gene	13716	15046	1694	+	.	gene_id 1 ; sequence AIPGENE24026 ; gene_orientation . ; identity 79.59 ; similarity 91.16
+ctg2846	exonerate:protein2genome:local	exon	13716	15046	.	+	.	insertions 0 ; deletions 4 ; identity 79.59 ; similarity 91.16 ; frameshifts 8
+ctg2026	exonerate:protein2genome:local	gene	894	6030	1360	-	.	gene_id 1 ; sequence AIPGENE2900 ; gene_orientation + ; identity 73.36 ; similarity 81.66
+ctg2026	exonerate:protein2genome:local	exon	5923	6030	.	-	.	insertions 0 ; deletions 0 ; identity 75.68 ; similarity 83.78
+ctg2026	exonerate:protein2genome:local	exon	5422	5559	.	-	.	insertions 0 ; deletions 1 ; identity 70.21 ; similarity 89.36
+ctg2026	exonerate:protein2genome:local	exon	5215	5340	.	-	.	insertions 0 ; deletions 0 ; identity 60.47 ; similarity 67.44
+ctg2026	exonerate:protein2genome:local	exon	4781	4971	.	-	.	insertions 0 ; deletions 1 ; identity 85.94 ; similarity 87.50 ; frameshifts 2
+ctg2026	exonerate:protein2genome:local	exon	4129	4240	.	-	.	insertions 0 ; deletions 0 ; identity 86.49 ; similarity 94.59
+ctg2026	exonerate:protein2genome:local	exon	3546	3836	.	-	.	insertions 0 ; deletions 0 ; identity 55.67 ; similarity 63.92 ; frameshifts 1
+ctg2026	exonerate:protein2genome:local	exon	2911	3076	.	-	.	insertions 0 ; deletions 1 ; identity 76.36 ; similarity 87.27 ; frameshifts 4
+ctg2026	exonerate:protein2genome:local	exon	2377	2535	.	-	.	insertions 0 ; deletions 0 ; identity 80.77 ; similarity 90.38 ; frameshifts 1
+ctg2026	exonerate:protein2genome:local	exon	1354	1429	.	-	.	insertions 0 ; deletions 0 ; identity 91.67 ; similarity 91.67 ; frameshifts 1
+ctg2026	exonerate:protein2genome:local	exon	894	918	.	-	.	insertions 0 ; deletions 0 ; identity 87.50 ; similarity 100.00
+ctg4506	exonerate:protein2genome:local	gene	11956	13129	1210	+	.	gene_id 1 ; sequence AIPGENE12599 ; gene_orientation . ; identity 66.84 ; similarity 81.49
+ctg4506	exonerate:protein2genome:local	exon	11956	13129	.	+	.	insertions 0 ; deletions 3 ; identity 66.84 ; similarity 81.49 ; frameshifts 7
+ctg1897	exonerate:protein2genome:local	gene	8691	15291	1003	+	.	gene_id 1 ; sequence AIPGENE23386 ; gene_orientation + ; identity 85.26 ; similarity 88.78
+ctg1897	exonerate:protein2genome:local	exon	8691	8854	.	+	.	insertions 0 ; deletions 1 ; identity 90.91 ; similarity 96.36 ; frameshifts 2
+ctg1897	exonerate:protein2genome:local	exon	9732	9851	.	+	.	insertions 0 ; deletions 1 ; identity 66.67 ; similarity 71.79 ; frameshifts 1
+ctg1897	exonerate:protein2genome:local	exon	11931	12054	.	+	.	insertions 0 ; deletions 1 ; identity 68.29 ; similarity 78.05 ; frameshifts 3
+ctg1897	exonerate:protein2genome:local	exon	12811	13028	.	+	.	insertions 0 ; deletions 1 ; identity 94.52 ; similarity 94.52 ; frameshifts 2
+ctg1897	exonerate:protein2genome:local	exon	13389	13481	.	+	.	insertions 0 ; deletions 0 ; identity 81.25 ; similarity 81.25
+ctg1897	exonerate:protein2genome:local	exon	15063	15291	.	+	.	insertions 0 ; deletions 0 ; identity 92.11 ; similarity 94.74 ; frameshifts 1
+ctg3037	exonerate:protein2genome:local	gene	5310	6860	250	-	.	gene_id 1 ; sequence AIPGENE12122 ; gene_orientation + ; identity 80.00 ; similarity 85.71
+ctg3037	exonerate:protein2genome:local	exon	6803	6860	.	-	.	insertions 0 ; deletions 0 ; identity 80.00 ; similarity 90.00 ; frameshifts 1
+ctg3037	exonerate:protein2genome:local	exon	6609	6662	.	-	.	insertions 0 ; deletions 0 ; identity 78.95 ; similarity 84.21
+ctg3037	exonerate:protein2genome:local	exon	6077	6130	.	-	.	insertions 0 ; deletions 0 ; identity 78.95 ; similarity 84.21
+ctg3037	exonerate:protein2genome:local	exon	5310	5354	.	-	.	insertions 0 ; deletions 0 ; identity 86.67 ; similarity 86.67

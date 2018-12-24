@@ -31,3 +31,8 @@ data/aiptasia_genome.proteins.fa.psd
 data/aiptasia_genome.proteins.fa.psi
 data/aiptasia_genome.proteins.fa.psq
 analyses/sym_contigs.fasta
+analyses/bar01_methylation_freq.tsv
+analyses/bar02_methylation_freq.tsv
+analyses/bar03_methylation_freq.tsv
+analyses/bar04_methylation_freq.tsv
+*.fai
